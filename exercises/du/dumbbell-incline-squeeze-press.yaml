@@ -1,0 +1,15 @@
+id: '5067'
+slug: dumbbell-incline-squeeze-press
+name: Dumbbell Incline Squeeze Press
+human_readable_ids:
+- DumbbellInclineSqueezePress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

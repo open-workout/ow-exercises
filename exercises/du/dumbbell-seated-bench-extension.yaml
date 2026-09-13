@@ -1,0 +1,15 @@
+id: 0389
+slug: dumbbell-seated-bench-extension
+name: Dumbbell Seated Bench Extension
+human_readable_ids:
+- DumbbellSeatedBenchExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '2836'
+slug: cable-stiff-leg-deadlift-from-stepbox
+name: Cable Stiff Leg Deadlift from Stepbox
+human_readable_ids:
+- CableStiffLegDeadliftfromStepbox
+primary_muscles:
+- back
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5309'
+slug: ez-bar-shoulder-press-sit-up
+name: EZ-Bar Shoulder Press Sit-up
+human_readable_ids:
+- EZBarShoulderPressSitup
+primary_muscles:
+- abs
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

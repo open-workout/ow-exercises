@@ -1,0 +1,15 @@
+id: 0092
+slug: barbell-seated-overhead-triceps-extension
+name: Barbell Seated Overhead Triceps Extension
+human_readable_ids:
+- BarbellSeatedOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

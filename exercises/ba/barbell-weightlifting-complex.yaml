@@ -1,0 +1,17 @@
+id: '3316'
+slug: barbell-weightlifting-complex
+name: Barbell Weightlifting Complex
+human_readable_ids:
+- BarbellWeightliftingComplex
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

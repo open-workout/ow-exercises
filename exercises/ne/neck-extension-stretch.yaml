@@ -1,0 +1,14 @@
+id: '1833'
+slug: neck-extension-stretch
+name: Neck Extension Stretch
+human_readable_ids:
+- NeckExtensionStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

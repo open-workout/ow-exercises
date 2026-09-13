@@ -1,0 +1,15 @@
+id: '5637'
+slug: incline-push-up-on-bench
+name: Incline Push-Up (on bench)
+human_readable_ids:
+- InclinePushUp2
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

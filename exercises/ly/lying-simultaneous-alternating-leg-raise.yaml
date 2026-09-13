@@ -1,0 +1,15 @@
+id: '0623'
+slug: lying-simultaneous-alternating-leg-raise
+name: Lying Simultaneous Alternating Leg Raise
+human_readable_ids:
+- LyingSimultaneousAlternatingLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '5146'
+slug: hangback-bar-stretch
+name: Hangback Bar Stretch
+human_readable_ids:
+- HangbackBarStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

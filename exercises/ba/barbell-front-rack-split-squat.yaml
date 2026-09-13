@@ -1,0 +1,15 @@
+id: '4397'
+slug: barbell-front-rack-split-squat
+name: Barbell Front Rack Split Squat
+human_readable_ids:
+- BarbellFrontRackSplitSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

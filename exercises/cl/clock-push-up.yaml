@@ -1,0 +1,15 @@
+id: 0258
+slug: clock-push-up
+name: Clock Push-Up
+human_readable_ids:
+- ClockPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

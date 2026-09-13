@@ -1,0 +1,14 @@
+id: '0616'
+slug: lying-hip-flexor-stretch
+name: Lying Hip Flexor Stretch
+human_readable_ids:
+- LyingHipFlexorStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

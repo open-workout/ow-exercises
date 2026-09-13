@@ -1,0 +1,15 @@
+id: '2163'
+slug: resistance-band-reverse-hyperextension
+name: Resistance Band Reverse Hyperextension
+human_readable_ids:
+- ResistanceBandReverseHyperextension
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

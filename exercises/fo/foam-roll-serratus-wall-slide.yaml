@@ -1,0 +1,14 @@
+id: '5027'
+slug: foam-roll-serratus-wall-slide
+name: Foam Roll Serratus Wall Slide
+human_readable_ids:
+- FoamRollSerratusWallSlide
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

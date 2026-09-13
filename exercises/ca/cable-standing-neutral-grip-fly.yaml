@@ -1,0 +1,15 @@
+id: '7416'
+slug: cable-standing-neutral-grip-fly
+name: Cable Standing Neutral grip Fly
+human_readable_ids:
+- CableStandingNeutralgripFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '7559'
+slug: dumbbell-goblet-wall-sit
+name: Dumbbell Goblet Wall Sit
+human_readable_ids:
+- DumbbellGobletWallSit
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

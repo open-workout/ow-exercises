@@ -1,0 +1,15 @@
+id: '1150'
+slug: suspension-triceps-kickback
+name: Suspension Triceps Kickback
+human_readable_ids:
+- SuspensionTricepsKickback
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

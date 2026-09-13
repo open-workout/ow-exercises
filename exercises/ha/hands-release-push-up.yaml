@@ -1,0 +1,15 @@
+id: '3947'
+slug: hands-release-push-up
+name: Hands Release Push-Up
+human_readable_ids:
+- HandsReleasePushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

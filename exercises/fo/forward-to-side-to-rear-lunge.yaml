@@ -1,0 +1,16 @@
+id: '3961'
+slug: forward-to-side-to-rear-lunge
+name: Forward to Side to Rear Lunge
+human_readable_ids:
+- ForwardtoSidetoRearLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

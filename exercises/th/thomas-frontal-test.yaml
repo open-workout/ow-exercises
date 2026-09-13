@@ -1,0 +1,14 @@
+id: '6795'
+slug: thomas-frontal-test
+name: Thomas Frontal Test
+human_readable_ids:
+- ThomasFrontalTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

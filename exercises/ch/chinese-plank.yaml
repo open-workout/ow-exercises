@@ -1,0 +1,15 @@
+id: '8610'
+slug: chinese-plank
+name: Chinese Plank
+human_readable_ids:
+- ChinesePlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

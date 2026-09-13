@@ -1,0 +1,14 @@
+id: '1271'
+slug: chest-and-front-of-shoulder-stretch
+name: Chest and Front of Shoulder Stretch
+human_readable_ids:
+- ChestandFrontofShoulderStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

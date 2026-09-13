@@ -1,0 +1,16 @@
+id: 0797
+slug: star-jump
+name: Star Jump
+human_readable_ids:
+- StarJump
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

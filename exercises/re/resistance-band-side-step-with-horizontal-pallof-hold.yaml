@@ -1,0 +1,15 @@
+id: '3790'
+slug: resistance-band-side-step-with-horizontal-pallof-hold
+name: Resistance Band Side Step with Horizontal Pallof Hold
+human_readable_ids:
+- ResistanceBandSideStepwithHorizontalPallofHold
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

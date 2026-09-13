@@ -1,0 +1,16 @@
+id: '3385'
+slug: lever-seated-leg-press-version-2
+name: Lever Seated Leg Press (VERSION 2)
+human_readable_ids:
+- LeverSeatedLegPress2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

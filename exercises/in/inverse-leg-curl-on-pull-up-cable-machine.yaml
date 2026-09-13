@@ -1,0 +1,15 @@
+id: '2400'
+slug: inverse-leg-curl-on-pull-up-cable-machine
+name: Inverse Leg Curl (on pull-up cable machine)
+human_readable_ids:
+- InverseLegCurl2
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

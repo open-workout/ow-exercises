@@ -1,0 +1,15 @@
+id: '0541'
+slug: kettlebell-one-arm-row
+name: Kettlebell One Arm Row
+human_readable_ids:
+- KettlebellOneArmRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

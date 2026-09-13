@@ -1,0 +1,15 @@
+id: '0530'
+slug: kettlebell-double-windmill
+name: Kettlebell Double Windmill
+human_readable_ids:
+- KettlebellDoubleWindmill
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4885'
+slug: lying-incline-hip-raise
+name: Lying Incline Hip Raise
+human_readable_ids:
+- LyingInclineHipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

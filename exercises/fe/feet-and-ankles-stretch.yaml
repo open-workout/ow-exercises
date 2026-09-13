@@ -1,0 +1,14 @@
+id: '3247'
+slug: feet-and-ankles-stretch
+name: Feet and Ankles Stretch
+human_readable_ids:
+- FeetandAnklesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

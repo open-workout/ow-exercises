@@ -1,0 +1,15 @@
+id: '10677'
+slug: weighted-backpack-running
+name: Weighted Backpack Running
+human_readable_ids:
+- WeightedBackpackRunning
+primary_muscles:
+- plyometrics
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

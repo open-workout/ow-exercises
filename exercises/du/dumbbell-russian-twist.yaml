@@ -1,0 +1,15 @@
+id: '3449'
+slug: dumbbell-russian-twist
+name: Dumbbell Russian Twist
+human_readable_ids:
+- DumbbellRussianTwist
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

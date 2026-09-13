@@ -1,0 +1,15 @@
+id: '1293'
+slug: dumbbell-press-on-exercise-ball
+name: Dumbbell Press on Exercise Ball
+human_readable_ids:
+- DumbbellPressonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

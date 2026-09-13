@@ -1,0 +1,15 @@
+id: '0352'
+slug: dumbbell-neutral-grip-bench-press
+name: Dumbbell Neutral Grip Bench Press
+human_readable_ids:
+- DumbbellNeutralGripBenchPress
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5156'
+slug: mountain-climber-slide-with-towel
+name: Mountain Climber Slide with Towel
+human_readable_ids:
+- MountainClimberSlidewithTowel
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0044'
+slug: barbell-good-morning
+name: Barbell Good Morning
+human_readable_ids:
+- BarbellGoodMorning
+primary_muscles:
+- hamstrings
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

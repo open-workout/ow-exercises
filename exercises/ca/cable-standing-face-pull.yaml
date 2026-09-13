@@ -1,0 +1,15 @@
+id: '5609'
+slug: cable-standing-face-pull
+name: Cable Standing Face Pull
+human_readable_ids:
+- CableStandingFacePull
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

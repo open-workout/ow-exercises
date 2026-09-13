@@ -1,0 +1,15 @@
+id: '1189'
+slug: weighted-v-crunch-on-bosu-ball
+name: Weighted V-Crunch (on bosu ball)
+human_readable_ids:
+- WeightedVCrunch
+primary_muscles:
+- abs
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6584'
+slug: barbell-feet-flat-bench-press
+name: Barbell Feet Flat Bench Press
+human_readable_ids:
+- BarbellFeetFlatBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

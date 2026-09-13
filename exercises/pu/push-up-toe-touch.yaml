@@ -1,0 +1,15 @@
+id: '3977'
+slug: push-up-toe-touch
+name: Push-up Toe Touch
+human_readable_ids:
+- PushupToeTouch
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

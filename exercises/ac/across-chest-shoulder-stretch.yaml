@@ -1,0 +1,14 @@
+id: '1980'
+slug: across-chest-shoulder-stretch
+name: Across Chest Shoulder Stretch
+human_readable_ids:
+- AcrossChestShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

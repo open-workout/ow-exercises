@@ -1,0 +1,15 @@
+id: '4923'
+slug: ring-reverse-fly
+name: Ring Reverse Fly
+human_readable_ids:
+- RingReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

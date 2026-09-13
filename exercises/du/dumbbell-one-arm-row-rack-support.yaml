@@ -1,0 +1,15 @@
+id: '1236'
+slug: dumbbell-one-arm-row-rack-support
+name: Dumbbell One Arm Row (rack support)
+human_readable_ids:
+- DumbbellOneArmRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

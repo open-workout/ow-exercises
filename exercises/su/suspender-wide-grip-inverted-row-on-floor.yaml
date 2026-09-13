@@ -1,0 +1,15 @@
+id: '4451'
+slug: suspender-wide-grip-inverted-row-on-floor
+name: Suspender Wide Grip Inverted Row on floor
+human_readable_ids:
+- SuspenderWideGripInvertedRowonfloor
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

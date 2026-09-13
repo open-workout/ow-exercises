@@ -1,0 +1,15 @@
+id: '4133'
+slug: kettlebell-suitcase-deadlift
+name: Kettlebell Suitcase Deadlift
+human_readable_ids:
+- KettlebellSuitcaseDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

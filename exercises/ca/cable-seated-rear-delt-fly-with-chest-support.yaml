@@ -1,0 +1,15 @@
+id: '3943'
+slug: cable-seated-rear-delt-fly-with-chest-support
+name: Cable Seated Rear Delt Fly with Chest Support
+human_readable_ids:
+- CableSeatedRearDeltFlywithChestSupport
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

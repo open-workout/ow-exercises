@@ -1,0 +1,15 @@
+id: '8146'
+slug: lying-pelvic-floor-relaxation-and-deep-breathing
+name: Lying Pelvic Floor Relaxation and Deep Breathing
+human_readable_ids:
+- LyingPelvicFloorRelaxationandDeepBreathing
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

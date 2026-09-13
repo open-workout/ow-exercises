@@ -1,0 +1,15 @@
+id: '1046'
+slug: cable-elevated-row
+name: Cable Elevated Row
+human_readable_ids:
+- CableElevatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

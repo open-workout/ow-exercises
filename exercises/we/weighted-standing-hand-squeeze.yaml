@@ -1,0 +1,15 @@
+id: 0854
+slug: weighted-standing-hand-squeeze
+name: Weighted Standing Hand Squeeze
+human_readable_ids:
+- WeightedStandingHandSqueeze
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

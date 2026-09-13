@@ -1,0 +1,16 @@
+id: '2501'
+slug: barbell-step-up-2501
+name: Barbell Step up
+human_readable_ids:
+- BarbellStepup2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1883'
+slug: exercise-ball-lying-abductor-stretch
+name: Exercise Ball Lying Abductor Stretch
+human_readable_ids:
+- ExerciseBallLyingAbductorStretch
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

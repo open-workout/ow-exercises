@@ -1,0 +1,14 @@
+id: '1893'
+slug: squatting-achilles-stretch
+name: Squatting Achilles Stretch
+human_readable_ids:
+- SquattingAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

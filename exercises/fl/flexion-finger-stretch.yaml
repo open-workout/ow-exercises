@@ -1,0 +1,14 @@
+id: '2096'
+slug: flexion-finger-stretch
+name: Flexion Finger Stretch
+human_readable_ids:
+- FlexionFingerStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

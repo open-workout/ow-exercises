@@ -1,0 +1,15 @@
+id: '0306'
+slug: dumbbell-decline-triceps-extension
+name: Dumbbell Decline Triceps Extension
+human_readable_ids:
+- DumbbellDeclineTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

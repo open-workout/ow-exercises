@@ -1,0 +1,15 @@
+id: '0076'
+slug: barbell-rear-delt-row
+name: Barbell Rear Delt Row
+human_readable_ids:
+- BarbellRearDeltRow
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

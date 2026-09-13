@@ -1,0 +1,15 @@
+id: '7329'
+slug: dumbbell-jefferson-curl
+name: Dumbbell Jefferson Curl
+human_readable_ids:
+- DumbbellJeffersonCurl
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

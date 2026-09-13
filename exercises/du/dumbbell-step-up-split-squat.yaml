@@ -1,0 +1,15 @@
+id: '2812'
+slug: dumbbell-step-up-split-squat
+name: Dumbbell Step-up Split Squat
+human_readable_ids:
+- DumbbellStepupSplitSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1151'
+slug: suspension-twist-side
+name: Suspension Twist Side
+human_readable_ids:
+- SuspensionTwistSide
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

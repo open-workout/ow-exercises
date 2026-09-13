@@ -1,0 +1,15 @@
+id: '9513'
+slug: countermovement-jump-arms-pull
+name: Countermovement Jump Arms Pull
+human_readable_ids:
+- CountermovementJumpArmsPull
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

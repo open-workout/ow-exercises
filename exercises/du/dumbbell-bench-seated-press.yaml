@@ -1,0 +1,15 @@
+id: 0290
+slug: dumbbell-bench-seated-press
+name: Dumbbell Bench Seated Press
+human_readable_ids:
+- DumbbellBenchSeatedPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

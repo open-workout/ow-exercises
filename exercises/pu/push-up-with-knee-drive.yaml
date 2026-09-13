@@ -1,0 +1,15 @@
+id: '4860'
+slug: push-up-with-knee-drive
+name: Push-up with Knee Drive
+human_readable_ids:
+- PushupwithKneeDrive
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

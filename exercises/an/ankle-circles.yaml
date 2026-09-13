@@ -1,0 +1,15 @@
+id: '1368'
+slug: ankle-circles
+name: Ankle Circles
+human_readable_ids:
+- AnkleCircles
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

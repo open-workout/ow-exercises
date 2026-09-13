@@ -1,0 +1,15 @@
+id: '4160'
+slug: squat-hold-calf-raise
+name: Squat Hold Calf Raise
+human_readable_ids:
+- SquatHoldCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

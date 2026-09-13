@@ -1,0 +1,15 @@
+id: '5991'
+slug: partner-shuffle
+name: Partner Shuffle
+human_readable_ids:
+- PartnerShuffle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

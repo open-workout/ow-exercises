@@ -1,0 +1,16 @@
+id: '1566'
+slug: kettlebell-one-arm-overhead-squat
+name: Kettlebell One Arm Overhead Squat
+human_readable_ids:
+- KettlebellOneArmOverheadSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

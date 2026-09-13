@@ -1,0 +1,15 @@
+id: '2350'
+slug: push-up-start-position-wrong-right
+name: Push-up - Start position (WRONG-RIGHT)
+human_readable_ids:
+- PushupStartposition
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

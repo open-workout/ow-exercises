@@ -1,0 +1,15 @@
+id: '0052'
+slug: barbell-jm-bench-press
+name: Barbell JM Bench Press
+human_readable_ids:
+- BarbellJMBenchPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

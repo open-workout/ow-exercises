@@ -1,0 +1,15 @@
+id: '6065'
+slug: bottle-weighted-kickback
+name: Bottle Weighted Kickback
+human_readable_ids:
+- BottleWeightedKickback
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

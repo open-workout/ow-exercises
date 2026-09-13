@@ -1,0 +1,15 @@
+id: '0240'
+slug: cable-supine-reverse-fly
+name: Cable Supine Reverse Fly
+human_readable_ids:
+- CableSupineReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

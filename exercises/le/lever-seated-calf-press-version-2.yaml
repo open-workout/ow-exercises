@@ -1,0 +1,15 @@
+id: '7176'
+slug: lever-seated-calf-press-version-2
+name: Lever Seated Calf Press (VERSION 2)
+human_readable_ids:
+- LeverSeatedCalfPress2
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

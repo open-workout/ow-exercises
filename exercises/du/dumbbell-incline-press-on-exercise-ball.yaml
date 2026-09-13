@@ -1,0 +1,15 @@
+id: '1283'
+slug: dumbbell-incline-press-on-exercise-ball
+name: Dumbbell Incline Press on Exercise Ball
+human_readable_ids:
+- DumbbellInclinePressonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

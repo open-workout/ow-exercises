@@ -1,0 +1,16 @@
+id: '3918'
+slug: landmine-single-leg-landmine-rdl
+name: Landmine Single Leg Landmine RDL
+human_readable_ids:
+- LandmineSingleLegLandmineRDL
+primary_muscles:
+- back
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

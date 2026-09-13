@@ -1,0 +1,15 @@
+id: 0806
+slug: suspended-push-up
+name: Suspended Push-Up
+human_readable_ids:
+- SuspendedPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3678'
+slug: high-jump-rope
+name: High Jump Rope
+human_readable_ids:
+- HighJumpRope
+primary_muscles:
+- cardio
+equipment:
+- rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

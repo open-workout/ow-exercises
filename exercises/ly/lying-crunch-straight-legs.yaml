@@ -1,0 +1,15 @@
+id: '6004'
+slug: lying-crunch-straight-legs
+name: Lying Crunch (straight legs)
+human_readable_ids:
+- LyingCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

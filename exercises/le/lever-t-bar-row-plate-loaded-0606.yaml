@@ -1,0 +1,15 @@
+id: '0606'
+slug: lever-t-bar-row-plate-loaded-0606
+name: Lever T bar Row (plate loaded)
+human_readable_ids:
+- LeverTbarRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

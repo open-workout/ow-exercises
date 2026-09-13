@@ -1,0 +1,16 @@
+id: '5680'
+slug: side-mountain-climber
+name: Side Mountain Climber
+human_readable_ids:
+- SideMountainClimber
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

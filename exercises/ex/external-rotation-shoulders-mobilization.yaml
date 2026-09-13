@@ -1,0 +1,14 @@
+id: '11796'
+slug: external-rotation-shoulders-mobilization
+name: External Rotation Shoulders Mobilization
+human_readable_ids:
+- ExternalRotationShouldersMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

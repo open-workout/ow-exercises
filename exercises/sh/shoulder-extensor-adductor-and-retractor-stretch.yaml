@@ -1,0 +1,14 @@
+id: '1978'
+slug: shoulder-extensor-adductor-and-retractor-stretch
+name: Shoulder Extensor Adductor And Retractor Stretch
+human_readable_ids:
+- ShoulderExtensorAdductorAndRetractorStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

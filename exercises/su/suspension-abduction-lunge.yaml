@@ -1,0 +1,16 @@
+id: '1159'
+slug: suspension-abduction-lunge
+name: Suspension Abduction Lunge
+human_readable_ids:
+- SuspensionAbductionLunge
+primary_muscles:
+- adductors
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

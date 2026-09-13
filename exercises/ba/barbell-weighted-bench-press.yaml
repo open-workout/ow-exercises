@@ -1,0 +1,15 @@
+id: '3310'
+slug: barbell-weighted-bench-press
+name: Barbell Weighted Bench Press
+human_readable_ids:
+- BarbellWeightedBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

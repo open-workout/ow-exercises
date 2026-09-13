@@ -1,0 +1,16 @@
+id: '3929'
+slug: standing-side-leg-raise
+name: Standing Side Leg Raise
+human_readable_ids:
+- StandingSideLegRaise
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

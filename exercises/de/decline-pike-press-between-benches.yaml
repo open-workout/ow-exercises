@@ -1,0 +1,15 @@
+id: '3915'
+slug: decline-pike-press-between-benches
+name: Decline Pike Press (between benches)
+human_readable_ids:
+- DeclinePikePress
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

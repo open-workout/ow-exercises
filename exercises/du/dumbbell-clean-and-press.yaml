@@ -1,0 +1,15 @@
+id: '3400'
+slug: dumbbell-clean-and-press
+name: Dumbbell Clean and Press
+human_readable_ids:
+- DumbbellCleanandPress
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

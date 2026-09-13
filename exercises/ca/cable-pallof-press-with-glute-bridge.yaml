@@ -1,0 +1,15 @@
+id: '4197'
+slug: cable-pallof-press-with-glute-bridge
+name: Cable Pallof Press with Glute Bridge
+human_readable_ids:
+- CablePallofPresswithGluteBridge
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

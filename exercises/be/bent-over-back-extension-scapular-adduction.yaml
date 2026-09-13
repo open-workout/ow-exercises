@@ -1,0 +1,15 @@
+id: '8896'
+slug: bent-over-back-extension-scapular-adduction
+name: Bent Over Back Extension Scapular Adduction
+human_readable_ids:
+- BentOverBackExtensionScapularAdduction
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

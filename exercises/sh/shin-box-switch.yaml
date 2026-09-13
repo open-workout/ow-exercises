@@ -1,0 +1,14 @@
+id: '4608'
+slug: shin-box-switch
+name: Shin Box Switch
+human_readable_ids:
+- ShinBoxSwitch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

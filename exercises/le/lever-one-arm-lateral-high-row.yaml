@@ -1,0 +1,15 @@
+id: '1356'
+slug: lever-one-arm-lateral-high-row
+name: Lever One Arm Lateral High Row
+human_readable_ids:
+- LeverOneArmLateralHighRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

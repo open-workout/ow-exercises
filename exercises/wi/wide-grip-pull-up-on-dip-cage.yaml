@@ -1,0 +1,15 @@
+id: '1866'
+slug: wide-grip-pull-up-on-dip-cage
+name: Wide Grip Pull-Up on Dip Cage
+human_readable_ids:
+- WideGripPullUponDipCage
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5036'
+slug: exercise-ball-leg-curl
+name: Exercise Ball Leg Curl
+human_readable_ids:
+- ExerciseBallLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

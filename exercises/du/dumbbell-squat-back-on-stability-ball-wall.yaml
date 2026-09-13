@@ -1,0 +1,16 @@
+id: '0412'
+slug: dumbbell-squat-back-on-stability-ball-wall
+name: Dumbbell Squat (back on stability ball wall)
+human_readable_ids:
+- DumbbellSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

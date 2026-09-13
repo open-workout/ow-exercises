@@ -1,0 +1,15 @@
+id: '7879'
+slug: dumbbell-incline-triceps-kickback
+name: Dumbbell Incline Triceps Kickback
+human_readable_ids:
+- DumbbellInclineTricepsKickback
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

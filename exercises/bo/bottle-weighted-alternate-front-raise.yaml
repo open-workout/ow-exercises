@@ -1,0 +1,15 @@
+id: '6075'
+slug: bottle-weighted-alternate-front-raise
+name: Bottle Weighted Alternate Front Raise
+human_readable_ids:
+- BottleWeightedAlternateFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

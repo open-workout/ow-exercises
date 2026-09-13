@@ -1,0 +1,15 @@
+id: '1468'
+slug: crab-twist-toe-touch
+name: Crab Twist Toe Touch
+human_readable_ids:
+- CrabTwistToeTouch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

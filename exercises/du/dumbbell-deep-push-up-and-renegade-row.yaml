@@ -1,0 +1,15 @@
+id: '4736'
+slug: dumbbell-deep-push-up-and-renegade-row
+name: Dumbbell Deep Push-up and Renegade Row
+human_readable_ids:
+- DumbbellDeepPushupandRenegadeRow
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

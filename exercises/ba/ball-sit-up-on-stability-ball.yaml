@@ -1,0 +1,15 @@
+id: '0021'
+slug: ball-sit-up-on-stability-ball
+name: Ball Sit-up (on stability ball)
+human_readable_ids:
+- BallSitup
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

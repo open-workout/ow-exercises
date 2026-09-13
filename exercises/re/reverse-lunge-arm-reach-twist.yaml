@@ -1,0 +1,15 @@
+id: '11088'
+slug: reverse-lunge-arm-reach-twist
+name: Reverse Lunge Arm Reach Twist
+human_readable_ids:
+- ReverseLungeArmReachTwist
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3906'
+slug: bodyweight-kneeling-push-up-row
+name: Bodyweight Kneeling Push-up Row
+human_readable_ids:
+- BodyweightKneelingPushupRow
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

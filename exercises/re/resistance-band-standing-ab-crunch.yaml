@@ -1,0 +1,15 @@
+id: '5203'
+slug: resistance-band-standing-ab-crunch
+name: Resistance Band Standing Ab Crunch
+human_readable_ids:
+- ResistanceBandStandingAbCrunch
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

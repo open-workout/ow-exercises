@@ -1,0 +1,14 @@
+id: '5480'
+slug: resistance-band-seated-calf-stretch
+name: Resistance Band Seated Calf Stretch
+human_readable_ids:
+- ResistanceBandSeatedCalfStretch
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

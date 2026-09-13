@@ -1,0 +1,15 @@
+id: '4092'
+slug: weighted-seated-triceps-extension
+name: Weighted Seated Triceps Extension
+human_readable_ids:
+- WeightedSeatedTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

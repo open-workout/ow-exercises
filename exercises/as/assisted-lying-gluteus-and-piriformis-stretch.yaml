@@ -1,0 +1,14 @@
+id: '1710'
+slug: assisted-lying-gluteus-and-piriformis-stretch
+name: Assisted Lying Gluteus And Piriformis Stretch
+human_readable_ids:
+- AssistedLyingGluteusAndPiriformisStretch
+primary_muscles:
+- glutes
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

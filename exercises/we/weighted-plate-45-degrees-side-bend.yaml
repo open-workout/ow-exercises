@@ -1,0 +1,15 @@
+id: '10875'
+slug: weighted-plate-45-degrees-side-bend
+name: Weighted Plate 45 degrees Side Bend
+human_readable_ids:
+- WeightedPlate45degreesSideBend
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

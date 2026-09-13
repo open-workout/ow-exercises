@@ -1,0 +1,14 @@
+id: '1787'
+slug: straight-arms-backward-chest-stretch
+name: Straight Arms Backward Chest Stretch
+human_readable_ids:
+- StraightArmsBackwardChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

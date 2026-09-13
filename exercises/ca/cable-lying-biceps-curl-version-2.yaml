@@ -1,0 +1,15 @@
+id: '2396'
+slug: cable-lying-biceps-curl-version-2
+name: Cable Lying Biceps Curl (VERSION 2)
+human_readable_ids:
+- CableLyingBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

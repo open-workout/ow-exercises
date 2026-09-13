@@ -1,0 +1,15 @@
+id: '0672'
+slug: reverse-dip
+name: Reverse Dip
+human_readable_ids:
+- ReverseDip
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

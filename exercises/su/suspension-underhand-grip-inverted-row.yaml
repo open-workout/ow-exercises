@@ -1,0 +1,15 @@
+id: '5006'
+slug: suspension-underhand-grip-inverted-row
+name: Suspension Underhand Grip Inverted Row
+human_readable_ids:
+- SuspensionUnderhandGripInvertedRow
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

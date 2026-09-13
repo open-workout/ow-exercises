@@ -1,0 +1,15 @@
+id: '11569'
+slug: resistance-band-standing-side-leg-raise
+name: Resistance Band Standing Side Leg Raise
+human_readable_ids:
+- ResistanceBandStandingSideLegRaise
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

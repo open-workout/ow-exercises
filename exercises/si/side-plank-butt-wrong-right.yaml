@@ -1,0 +1,15 @@
+id: '2349'
+slug: side-plank-butt-wrong-right
+name: Side Plank - Butt (WRONG-RIGHT)
+human_readable_ids:
+- SidePlankButt
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

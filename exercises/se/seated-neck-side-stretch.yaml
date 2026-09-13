@@ -1,0 +1,14 @@
+id: '5195'
+slug: seated-neck-side-stretch
+name: Seated Neck Side Stretch
+human_readable_ids:
+- SeatedNeckSideStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

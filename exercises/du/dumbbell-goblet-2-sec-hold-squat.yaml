@@ -1,0 +1,16 @@
+id: '4816'
+slug: dumbbell-goblet-2-sec-hold-squat
+name: Dumbbell Goblet 2 sec Hold Squat
+human_readable_ids:
+- DumbbellGoblet2secHoldSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

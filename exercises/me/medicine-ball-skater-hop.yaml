@@ -1,0 +1,15 @@
+id: '10758'
+slug: medicine-ball-skater-hop
+name: Medicine Ball Skater Hop
+human_readable_ids:
+- MedicineBallSkaterHop
+primary_muscles:
+- plyometrics
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

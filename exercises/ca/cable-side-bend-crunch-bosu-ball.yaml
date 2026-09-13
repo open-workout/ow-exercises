@@ -1,0 +1,15 @@
+id: '0221'
+slug: cable-side-bend-crunch-bosu-ball
+name: Cable Side Bend Crunch (bosu ball)
+human_readable_ids:
+- CableSideBendCrunch
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

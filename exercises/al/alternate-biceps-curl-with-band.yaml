@@ -1,0 +1,15 @@
+id: '0005'
+slug: alternate-biceps-curl-with-band
+name: Alternate Biceps Curl (with band)
+human_readable_ids:
+- AlternateBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5304'
+slug: trap-bar-squat
+name: Trap Bar Squat
+human_readable_ids:
+- TrapBarSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

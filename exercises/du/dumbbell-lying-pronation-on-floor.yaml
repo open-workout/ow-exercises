@@ -1,0 +1,15 @@
+id: '2705'
+slug: dumbbell-lying-pronation-on-floor
+name: Dumbbell Lying Pronation on Floor
+human_readable_ids:
+- DumbbellLyingPronationonFloor
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

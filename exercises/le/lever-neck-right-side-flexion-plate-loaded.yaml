@@ -1,0 +1,15 @@
+id: '2284'
+slug: lever-neck-right-side-flexion-plate-loaded
+name: Lever Neck Right Side Flexion (plate loaded)
+human_readable_ids:
+- LeverNeckRightSideFlexion
+primary_muscles:
+- neck
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

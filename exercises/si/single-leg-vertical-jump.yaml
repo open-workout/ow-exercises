@@ -1,0 +1,15 @@
+id: '4254'
+slug: single-leg-vertical-jump
+name: Single Leg Vertical Jump
+human_readable_ids:
+- SingleLegVerticalJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

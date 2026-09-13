@@ -1,0 +1,15 @@
+id: '6810'
+slug: resistance-band-lying-bent-knee-raise
+name: Resistance Band Lying Bent Knee Raise
+human_readable_ids:
+- ResistanceBandLyingBentKneeRaise
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

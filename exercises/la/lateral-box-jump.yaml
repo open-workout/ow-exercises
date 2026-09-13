@@ -1,0 +1,15 @@
+id: '0564'
+slug: lateral-box-jump
+name: Lateral Box Jump
+human_readable_ids:
+- LateralBoxJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

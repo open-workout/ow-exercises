@@ -1,0 +1,15 @@
+id: '11258'
+slug: cable-standing-push-pull-version-3
+name: Cable Standing Push Pull (VERSION 3)
+human_readable_ids:
+- CableStandingPushPull
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

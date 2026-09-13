@@ -1,0 +1,15 @@
+id: '1489'
+slug: sissy-squat
+name: Sissy Squat
+human_readable_ids:
+- SissySquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

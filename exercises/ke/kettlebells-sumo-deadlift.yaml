@@ -1,0 +1,15 @@
+id: '4403'
+slug: kettlebells-sumo-deadlift
+name: Kettlebells Sumo Deadlift
+human_readable_ids:
+- KettlebellsSumoDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

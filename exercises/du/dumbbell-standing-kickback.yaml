@@ -1,0 +1,15 @@
+id: '0420'
+slug: dumbbell-standing-kickback
+name: Dumbbell Standing Kickback
+human_readable_ids:
+- DumbbellStandingKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

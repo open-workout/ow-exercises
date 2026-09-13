@@ -1,0 +1,15 @@
+id: '2274'
+slug: right-uppercut-boxing
+name: Right Uppercut. Boxing
+human_readable_ids:
+- RightUppercutBoxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

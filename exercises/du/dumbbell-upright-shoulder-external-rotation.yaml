@@ -1,0 +1,15 @@
+id: 0864
+slug: dumbbell-upright-shoulder-external-rotation
+name: Dumbbell Upright Shoulder External Rotation
+human_readable_ids:
+- DumbbellUprightShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

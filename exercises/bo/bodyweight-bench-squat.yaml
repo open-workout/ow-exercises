@@ -1,0 +1,15 @@
+id: '6541'
+slug: bodyweight-bench-squat
+name: Bodyweight Bench Squat
+human_readable_ids:
+- BodyweightBenchSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

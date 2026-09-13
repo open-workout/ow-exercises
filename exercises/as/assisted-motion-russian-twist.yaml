@@ -1,0 +1,15 @@
+id: '0014'
+slug: assisted-motion-russian-twist
+name: Assisted Motion Russian Twist
+human_readable_ids:
+- AssistedMotionRussianTwist
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

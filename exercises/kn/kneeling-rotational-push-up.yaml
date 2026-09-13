@@ -1,0 +1,16 @@
+id: '3492'
+slug: kneeling-rotational-push-up
+name: Kneeling Rotational Push-up
+human_readable_ids:
+- KneelingRotationalPushup
+primary_muscles:
+- chest
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

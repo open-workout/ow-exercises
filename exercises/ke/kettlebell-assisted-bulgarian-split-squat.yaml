@@ -1,0 +1,15 @@
+id: '4444'
+slug: kettlebell-assisted-bulgarian-split-squat
+name: Kettlebell Assisted Bulgarian Split Squat
+human_readable_ids:
+- KettlebellAssistedBulgarianSplitSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '1329'
+slug: dumbbell-palm-rotational-bent-over-row
+name: Dumbbell Palm Rotational Bent Over Row
+human_readable_ids:
+- DumbbellPalmRotationalBentOverRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

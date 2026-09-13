@@ -1,0 +1,15 @@
+id: '9490'
+slug: step-up-on-box
+name: Step-up on Box
+human_readable_ids:
+- StepuponBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

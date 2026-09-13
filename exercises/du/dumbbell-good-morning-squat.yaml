@@ -1,0 +1,17 @@
+id: '5313'
+slug: dumbbell-good-morning-squat
+name: Dumbbell Good Morning Squat
+human_readable_ids:
+- DumbbellGoodMorningSquat
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1582'
+slug: reclining-big-toe-pose-with-rope
+name: Reclining Big Toe Pose with Rope
+human_readable_ids:
+- RecliningBigToePosewithRope
+primary_muscles:
+- quads
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

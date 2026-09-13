@@ -1,0 +1,15 @@
+id: '1536'
+slug: barbell-snatch-from-blocks
+name: Barbell Snatch from Blocks
+human_readable_ids:
+- BarbellSnatchfromBlocks
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '3298'
+slug: straddle-planche
+name: Straddle planche
+human_readable_ids:
+- Straddleplanche
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

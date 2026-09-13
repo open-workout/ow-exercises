@@ -1,0 +1,15 @@
+id: '4291'
+slug: dumbbell-single-leg-glute-bridge
+name: Dumbbell Single Leg Glute Bridge
+human_readable_ids:
+- DumbbellSingleLegGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

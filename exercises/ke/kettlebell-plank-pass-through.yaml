@@ -1,0 +1,15 @@
+id: '7229'
+slug: kettlebell-plank-pass-through
+name: Kettlebell Plank Pass Through
+human_readable_ids:
+- KettlebellPlankPassThrough
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

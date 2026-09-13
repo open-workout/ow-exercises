@@ -1,0 +1,15 @@
+id: '2718'
+slug: strongman-front-hold
+name: StrongMan Front Hold
+human_readable_ids:
+- StrongManFrontHold
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

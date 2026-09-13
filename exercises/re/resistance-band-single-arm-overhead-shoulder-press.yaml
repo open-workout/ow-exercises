@@ -1,0 +1,15 @@
+id: '5204'
+slug: resistance-band-single-arm-overhead-shoulder-press
+name: Resistance Band Single Arm Overhead Shoulder Press
+human_readable_ids:
+- ResistanceBandSingleArmOverheadShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1125'
+slug: suspension-one-arm-leg-push-up
+name: Suspension One Arm Leg Push-up
+human_readable_ids:
+- SuspensionOneArmLegPushup
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

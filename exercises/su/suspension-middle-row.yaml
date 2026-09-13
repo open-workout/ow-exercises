@@ -1,0 +1,15 @@
+id: '1120'
+slug: suspension-middle-row
+name: Suspension Middle Row
+human_readable_ids:
+- SuspensionMiddleRow
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3326'
+slug: band-alternate-lat-pulldown-with-twist
+name: Band Alternate Lat Pulldown with Twist
+human_readable_ids:
+- BandAlternateLatPulldownwithTwist
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

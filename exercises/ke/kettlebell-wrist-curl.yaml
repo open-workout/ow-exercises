@@ -1,0 +1,15 @@
+id: '5862'
+slug: kettlebell-wrist-curl
+name: Kettlebell Wrist Curl
+human_readable_ids:
+- KettlebellWristCurl
+primary_muscles:
+- forearms
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

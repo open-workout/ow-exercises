@@ -1,0 +1,15 @@
+id: '2301'
+slug: rear-leg-hook-kick-kickboxing
+name: Rear Leg Hook Kick. Kickboxing
+human_readable_ids:
+- RearLegHookKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

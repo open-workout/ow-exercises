@@ -1,0 +1,15 @@
+id: '0112'
+slug: barbell-standing-twist
+name: Barbell Standing Twist
+human_readable_ids:
+- BarbellStandingTwist
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

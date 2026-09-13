@@ -1,0 +1,14 @@
+id: '2209'
+slug: roll-calves-single-leg
+name: Roll Calves (Single Leg)
+human_readable_ids:
+- RollCalves2
+primary_muscles:
+- calves
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3854'
+slug: front-plank-walkout
+name: Front Plank Walkout
+human_readable_ids:
+- FrontPlankWalkout
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

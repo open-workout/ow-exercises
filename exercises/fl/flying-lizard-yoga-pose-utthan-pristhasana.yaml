@@ -1,0 +1,14 @@
+id: '7624'
+slug: flying-lizard-yoga-pose-utthan-pristhasana
+name: Flying Lizard Yoga Pose Utthan Pristhasana
+human_readable_ids:
+- FlyingLizardYogaPoseUtthanPristhasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

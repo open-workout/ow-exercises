@@ -1,0 +1,15 @@
+id: '9040'
+slug: sprint-against-wall
+name: Sprint against Wall
+human_readable_ids:
+- SprintagainstWall
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

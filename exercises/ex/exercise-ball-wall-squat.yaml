@@ -1,0 +1,16 @@
+id: '1562'
+slug: exercise-ball-wall-squat
+name: Exercise Ball Wall Squat
+human_readable_ids:
+- ExerciseBallWallSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

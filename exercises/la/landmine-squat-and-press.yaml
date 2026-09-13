@@ -1,0 +1,17 @@
+id: '2976'
+slug: landmine-squat-and-press
+name: Landmine Squat and Press
+human_readable_ids:
+- LandmineSquatandPress
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

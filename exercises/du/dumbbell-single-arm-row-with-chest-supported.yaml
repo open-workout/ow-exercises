@@ -1,0 +1,15 @@
+id: '9699'
+slug: dumbbell-single-arm-row-with-chest-supported
+name: Dumbbell Single Arm Row with Chest Supported
+human_readable_ids:
+- DumbbellSingleArmRowwithChestSupported
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

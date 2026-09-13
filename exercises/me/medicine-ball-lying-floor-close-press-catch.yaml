@@ -1,0 +1,15 @@
+id: '10598'
+slug: medicine-ball-lying-floor-close-press-catch
+name: Medicine Ball Lying Floor Close Press Catch
+human_readable_ids:
+- MedicineBallLyingFloorClosePressCatch
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

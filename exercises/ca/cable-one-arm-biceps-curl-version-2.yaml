@@ -1,0 +1,15 @@
+id: '2656'
+slug: cable-one-arm-biceps-curl-version-2
+name: Cable One Arm Biceps Curl (VERSION 2)
+human_readable_ids:
+- CableOneArmBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

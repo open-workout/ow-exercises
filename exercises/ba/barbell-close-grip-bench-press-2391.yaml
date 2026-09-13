@@ -1,0 +1,15 @@
+id: '2391'
+slug: barbell-close-grip-bench-press-2391
+name: Barbell Close Grip Bench Press
+human_readable_ids:
+- BarbellCloseGripBenchPress2
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0105'
+slug: barbell-standing-bradford-press
+name: Barbell Standing Bradford Press
+human_readable_ids:
+- BarbellStandingBradfordPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

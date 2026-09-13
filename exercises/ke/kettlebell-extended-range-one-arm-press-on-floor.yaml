@@ -1,0 +1,15 @@
+id: '0531'
+slug: kettlebell-extended-range-one-arm-press-on-floor
+name: Kettlebell Extended Range One Arm Press on Floor
+human_readable_ids:
+- KettlebellExtendedRangeOneArmPressonFloor
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

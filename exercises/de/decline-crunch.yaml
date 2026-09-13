@@ -1,0 +1,15 @@
+id: '0277'
+slug: decline-crunch
+name: Decline Crunch
+human_readable_ids:
+- DeclineCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

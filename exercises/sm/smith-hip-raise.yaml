@@ -1,0 +1,15 @@
+id: '0756'
+slug: smith-hip-raise
+name: Smith Hip Raise
+human_readable_ids:
+- SmithHipRaise
+primary_muscles:
+- abs
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

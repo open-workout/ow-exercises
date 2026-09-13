@@ -1,0 +1,15 @@
+id: '3352'
+slug: cable-kneeling-pull-through
+name: Cable Kneeling Pull Through
+human_readable_ids:
+- CableKneelingPullThrough
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

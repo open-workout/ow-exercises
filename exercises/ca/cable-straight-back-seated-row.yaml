@@ -1,0 +1,15 @@
+id: 0239
+slug: cable-straight-back-seated-row
+name: Cable Straight Back Seated Row
+human_readable_ids:
+- CableStraightBackSeatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

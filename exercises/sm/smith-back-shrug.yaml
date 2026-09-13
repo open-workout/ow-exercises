@@ -1,0 +1,15 @@
+id: '0746'
+slug: smith-back-shrug
+name: Smith Back Shrug
+human_readable_ids:
+- SmithBackShrug
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

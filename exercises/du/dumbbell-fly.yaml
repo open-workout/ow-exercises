@@ -1,0 +1,15 @@
+id: 0308
+slug: dumbbell-fly
+name: Dumbbell Fly
+human_readable_ids:
+- DumbbellFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0131'
+slug: bent-knee-lying-twist-on-stability-ball
+name: Bent-knee Lying Twist (On Stability Ball)
+human_readable_ids:
+- BentkneeLyingTwist
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

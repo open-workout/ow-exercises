@@ -1,0 +1,15 @@
+id: 0539
+slug: kettlebell-one-arm-military-press-to-the-side
+name: Kettlebell One Arm Military Press To The Side
+human_readable_ids:
+- KettlebellOneArmMilitaryPressToTheSide
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

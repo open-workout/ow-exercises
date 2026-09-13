@@ -1,0 +1,15 @@
+id: 0851
+slug: weighted-sissy-squat
+name: Weighted Sissy Squat
+human_readable_ids:
+- WeightedSissySquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

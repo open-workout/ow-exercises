@@ -1,0 +1,16 @@
+id: '4668'
+slug: bent-knee-back-to-side-kick
+name: Bent Knee Back to Side Kick
+human_readable_ids:
+- BentKneeBacktoSideKick
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

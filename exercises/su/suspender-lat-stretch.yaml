@@ -1,0 +1,14 @@
+id: '7278'
+slug: suspender-lat-stretch
+name: Suspender Lat Stretch
+human_readable_ids:
+- SuspenderLatStretch
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- time
+load:
+  required: false
+  direction: added

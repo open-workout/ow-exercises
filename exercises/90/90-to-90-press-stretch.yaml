@@ -1,0 +1,14 @@
+id: '10565'
+slug: 90-to-90-press-stretch
+name: 90 to 90 Press Stretch
+human_readable_ids:
+- 90to90PressStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

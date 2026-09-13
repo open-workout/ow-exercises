@@ -1,0 +1,15 @@
+id: '2865'
+slug: side-kick
+name: Side Kick
+human_readable_ids:
+- SideKick
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

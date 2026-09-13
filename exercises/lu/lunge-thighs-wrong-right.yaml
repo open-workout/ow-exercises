@@ -1,0 +1,15 @@
+id: '4959'
+slug: lunge-thighs-wrong-right
+name: Lunge - Thighs (WRONG-RIGHT)
+human_readable_ids:
+- LungeThighs
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

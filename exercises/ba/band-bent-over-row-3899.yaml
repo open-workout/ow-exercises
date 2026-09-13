@@ -1,0 +1,15 @@
+id: '3899'
+slug: band-bent-over-row-3899
+name: Band Bent Over row
+human_readable_ids:
+- BandBentOverrow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

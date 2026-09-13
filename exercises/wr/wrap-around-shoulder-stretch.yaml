@@ -1,0 +1,14 @@
+id: '1792'
+slug: wrap-around-shoulder-stretch
+name: Wrap around shoulder stretch
+human_readable_ids:
+- Wraparoundshoulderstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0339
+slug: dumbbell-lying-femoral
+name: Dumbbell Lying Femoral
+human_readable_ids:
+- DumbbellLyingFemoral
+primary_muscles:
+- hamstrings
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4835'
+slug: dumbbell-rotational-grip-bench-press
+name: Dumbbell Rotational Grip Bench Press
+human_readable_ids:
+- DumbbellRotationalGripBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

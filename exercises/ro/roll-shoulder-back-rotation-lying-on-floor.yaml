@@ -1,0 +1,14 @@
+id: '5380'
+slug: roll-shoulder-back-rotation-lying-on-floor
+name: Roll Shoulder Back Rotation Lying on Floor
+human_readable_ids:
+- RollShoulderBackRotationLyingonFloor
+primary_muscles:
+- shoulders
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

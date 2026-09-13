@@ -1,0 +1,15 @@
+id: '3313'
+slug: weighted-straight-bar-dip
+name: Weighted Straight Bar Dip
+human_readable_ids:
+- WeightedStraightBarDip
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2411'
+slug: cable-seated-neck-extension-with-head-harness
+name: Cable Seated Neck Extension (with head harness)
+human_readable_ids:
+- CableSeatedNeckExtension
+primary_muscles:
+- neck
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

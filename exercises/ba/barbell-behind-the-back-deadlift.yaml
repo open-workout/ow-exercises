@@ -1,0 +1,15 @@
+id: '5663'
+slug: barbell-behind-the-back-deadlift
+name: Barbell Behind The Back Deadlift
+human_readable_ids:
+- BarbellBehindTheBackDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

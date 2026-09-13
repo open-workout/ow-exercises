@@ -1,0 +1,14 @@
+id: '1973'
+slug: assisted-sitting-reverse-shoulder-stretch
+name: Assisted Sitting Reverse Shoulder Stretch
+human_readable_ids:
+- AssistedSittingReverseShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,18 @@
+id: '3888'
+slug: dumbbell-one-arm-snatch
+name: Dumbbell One Arm Snatch
+human_readable_ids:
+- DumbbellOneArmSnatch
+primary_muscles:
+- shoulders
+- back
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

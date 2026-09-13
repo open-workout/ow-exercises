@@ -1,0 +1,14 @@
+id: '10003'
+slug: resistance-band-sitting-floor-ankle-dorsi-flexion
+name: Resistance Band Sitting Floor Ankle Dorsi Flexion
+human_readable_ids:
+- ResistanceBandSittingFloorAnkleDorsiFlexion
+primary_muscles:
+- stretching
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

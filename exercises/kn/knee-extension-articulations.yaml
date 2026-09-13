@@ -1,0 +1,14 @@
+id: '2773'
+slug: knee-extension-articulations
+name: Knee - Extension - Articulations
+human_readable_ids:
+- KneeExtensionArticulations
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6559'
+slug: weighted-plate-tibialis-anterior-curl
+name: Weighted Plate Tibialis Anterior Curl
+human_readable_ids:
+- WeightedPlateTibialisAnteriorCurl
+primary_muscles:
+- calves
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1398'
+slug: standing-gastrocnemius-calf-stretch
+name: Standing Gastrocnemius Calf Stretch
+human_readable_ids:
+- StandingGastrocnemiusCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

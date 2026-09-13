@@ -1,0 +1,15 @@
+id: '1635'
+slug: cable-one-arm-reverse-preacher-curl
+name: Cable One Arm Reverse Preacher Curl
+human_readable_ids:
+- CableOneArmReversePreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

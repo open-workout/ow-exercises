@@ -1,0 +1,15 @@
+id: '5033'
+slug: cable-single-arm-triceps-pushdown-rope-attachment
+name: Cable Single Arm Triceps Pushdown (Rope Attachment)
+human_readable_ids:
+- CableSingleArmTricepsPushdown
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

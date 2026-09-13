@@ -1,0 +1,15 @@
+id: '0355'
+slug: dumbbell-one-arm-lateral-raise
+name: Dumbbell One Arm Lateral Raise
+human_readable_ids:
+- DumbbellOneArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4755'
+slug: dumbbell-single-leg-hip-thrust
+name: Dumbbell Single Leg Hip Thrust
+human_readable_ids:
+- DumbbellSingleLegHipThrust
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

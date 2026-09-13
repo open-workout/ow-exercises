@@ -1,0 +1,15 @@
+id: '5990'
+slug: high-hurdle-jump-to-sprint-and-cut
+name: High Hurdle Jump to Sprint and Cut
+human_readable_ids:
+- HighHurdleJumptoSprintandCut
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

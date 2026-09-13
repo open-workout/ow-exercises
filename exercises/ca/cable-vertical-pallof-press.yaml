@@ -1,0 +1,15 @@
+id: '1213'
+slug: cable-vertical-pallof-press
+name: Cable vertical Pallof Press
+human_readable_ids:
+- CableverticalPallofPress
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

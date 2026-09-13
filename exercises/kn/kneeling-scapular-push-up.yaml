@@ -1,0 +1,15 @@
+id: '4117'
+slug: kneeling-scapular-push-up
+name: Kneeling Scapular Push-Up
+human_readable_ids:
+- KneelingScapularPushUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

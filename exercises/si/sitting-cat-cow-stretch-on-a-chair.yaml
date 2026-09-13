@@ -1,0 +1,14 @@
+id: '11095'
+slug: sitting-cat-cow-stretch-on-a-chair
+name: Sitting Cat Cow Stretch on a Chair
+human_readable_ids:
+- SittingCatCowStretchonaChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

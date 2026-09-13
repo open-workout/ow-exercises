@@ -1,0 +1,15 @@
+id: '0663'
+slug: push-up-medicine-ball
+name: Push-Up Medicine Ball
+human_readable_ids:
+- PushUpMedicineBall
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

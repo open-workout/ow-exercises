@@ -1,0 +1,14 @@
+id: '3836'
+slug: handboard-hang-with-135-degree-elbow
+name: Handboard Hang with 135 Degree Elbow
+human_readable_ids:
+- HandboardHangwith135DegreeElbow
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

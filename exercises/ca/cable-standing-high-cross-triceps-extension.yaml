@@ -1,0 +1,15 @@
+id: '3719'
+slug: cable-standing-high-cross-triceps-extension
+name: Cable Standing High Cross Triceps Extension
+human_readable_ids:
+- CableStandingHighCrossTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

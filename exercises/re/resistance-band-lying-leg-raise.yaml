@@ -1,0 +1,15 @@
+id: '2157'
+slug: resistance-band-lying-leg-raise
+name: Resistance Band Lying Leg Raise
+human_readable_ids:
+- ResistanceBandLyingLegRaise
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

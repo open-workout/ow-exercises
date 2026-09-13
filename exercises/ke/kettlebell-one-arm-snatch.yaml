@@ -1,0 +1,15 @@
+id: '0542'
+slug: kettlebell-one-arm-snatch
+name: Kettlebell One Arm Snatch
+human_readable_ids:
+- KettlebellOneArmSnatch
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

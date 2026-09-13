@@ -1,0 +1,15 @@
+id: '1687'
+slug: posterior-step-to-overhead-reach
+name: Posterior Step to Overhead Reach
+human_readable_ids:
+- PosteriorSteptoOverheadReach
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

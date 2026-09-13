@@ -1,0 +1,16 @@
+id: '0043'
+slug: barbell-full-squat
+name: Barbell Full Squat
+human_readable_ids:
+- BarbellFullSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3731'
+slug: barbell-sumo-romanian-deadlift
+name: Barbell Sumo Romanian Deadlift
+human_readable_ids:
+- BarbellSumoRomanianDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

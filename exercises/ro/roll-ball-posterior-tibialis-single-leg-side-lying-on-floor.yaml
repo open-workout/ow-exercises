@@ -1,0 +1,14 @@
+id: '6766'
+slug: roll-ball-posterior-tibialis-single-leg-side-lying-on-floor
+name: Roll Ball Posterior Tibialis (Single Leg) Side Lying on Floor
+human_readable_ids:
+- RollBallPosteriorTibialisSideLyingonFloor
+primary_muscles:
+- calves
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3924'
+slug: floor-fly-with-towels
+name: Floor Fly with Towels
+human_readable_ids:
+- FloorFlywithTowels
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

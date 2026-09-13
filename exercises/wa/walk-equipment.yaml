@@ -1,0 +1,16 @@
+id: 0828
+slug: walk-equipment
+name: Walk (equipment)
+human_readable_ids:
+- Walk
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

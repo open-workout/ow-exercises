@@ -1,0 +1,15 @@
+id: '2707'
+slug: strongman-log-lift
+name: StrongMan Log Lift
+human_readable_ids:
+- StrongManLogLift
+primary_muscles:
+- weightlifting
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

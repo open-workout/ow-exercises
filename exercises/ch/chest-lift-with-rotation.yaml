@@ -1,0 +1,14 @@
+id: '2839'
+slug: chest-lift-with-rotation
+name: Chest Lift with Rotation
+human_readable_ids:
+- ChestLiftwithRotation
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

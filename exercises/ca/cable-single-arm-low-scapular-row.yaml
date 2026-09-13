@@ -1,0 +1,15 @@
+id: '6512'
+slug: cable-single-arm-low-scapular-row
+name: Cable Single Arm Low Scapular Row
+human_readable_ids:
+- CableSingleArmLowScapularRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

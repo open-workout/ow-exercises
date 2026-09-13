@@ -1,0 +1,15 @@
+id: '10710'
+slug: weighted-plate-lying-crunch
+name: Weighted Plate Lying Crunch
+human_readable_ids:
+- WeightedPlateLyingCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

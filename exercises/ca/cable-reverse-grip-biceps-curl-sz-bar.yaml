@@ -1,0 +1,15 @@
+id: '1608'
+slug: cable-reverse-grip-biceps-curl-sz-bar
+name: Cable Reverse Grip Biceps Curl (SZ-bar)
+human_readable_ids:
+- CableReverseGripBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

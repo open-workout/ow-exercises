@@ -1,0 +1,15 @@
+id: '11657'
+slug: weighted-plate-overhead-reverse-lunge
+name: Weighted Plate Overhead Reverse Lunge
+human_readable_ids:
+- WeightedPlateOverheadReverseLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

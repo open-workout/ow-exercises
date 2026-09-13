@@ -1,0 +1,15 @@
+id: '4793'
+slug: single-leg-hip-thrust-jump
+name: Single Leg Hip Thrust Jump
+human_readable_ids:
+- SingleLegHipThrustJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

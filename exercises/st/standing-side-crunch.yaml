@@ -1,0 +1,15 @@
+id: '4366'
+slug: standing-side-crunch
+name: Standing Side Crunch
+human_readable_ids:
+- StandingSideCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

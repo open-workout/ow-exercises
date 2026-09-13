@@ -1,0 +1,15 @@
+id: '3214'
+slug: arms-apart-circular-toe-touch
+name: Arms Apart Circular Toe Touch
+human_readable_ids:
+- ArmsApartCircularToeTouch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

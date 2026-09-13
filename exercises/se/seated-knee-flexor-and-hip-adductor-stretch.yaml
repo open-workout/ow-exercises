@@ -1,0 +1,14 @@
+id: '1914'
+slug: seated-knee-flexor-and-hip-adductor-stretch
+name: Seated Knee Flexor And Hip Adductor Stretch
+human_readable_ids:
+- SeatedKneeFlexorAndHipAdductorStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

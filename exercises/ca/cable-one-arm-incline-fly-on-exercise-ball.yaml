@@ -1,0 +1,15 @@
+id: '1264'
+slug: cable-one-arm-incline-fly-on-exercise-ball
+name: Cable One Arm Incline Fly on Exercise Ball
+human_readable_ids:
+- CableOneArmInclineFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4370'
+slug: smith-seated-calf-raise
+name: Smith Seated Calf Raise
+human_readable_ids:
+- SmithSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

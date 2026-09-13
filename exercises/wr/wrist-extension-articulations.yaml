@@ -1,0 +1,14 @@
+id: '2790'
+slug: wrist-extension-articulations
+name: Wrist - Extension - Articulations
+human_readable_ids:
+- WristExtensionArticulations
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

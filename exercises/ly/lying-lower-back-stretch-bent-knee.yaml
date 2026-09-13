@@ -1,0 +1,14 @@
+id: '3242'
+slug: lying-lower-back-stretch-bent-knee
+name: Lying Lower Back Stretch (bent knee)
+human_readable_ids:
+- LyingLowerBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

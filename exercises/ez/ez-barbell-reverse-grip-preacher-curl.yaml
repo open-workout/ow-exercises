@@ -1,0 +1,15 @@
+id: '0452'
+slug: ez-barbell-reverse-grip-preacher-curl
+name: EZ Barbell Reverse grip Preacher Curl
+human_readable_ids:
+- EZBarbellReversegripPreacherCurl
+primary_muscles:
+- forearms
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

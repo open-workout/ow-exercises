@@ -1,0 +1,15 @@
+id: 0289
+slug: dumbbell-bench-press
+name: Dumbbell Bench Press
+human_readable_ids:
+- DumbbellBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '10932'
+slug: shoulder-stretch-behind-the-back-with-towel
+name: Shoulder Stretch Behind the Back with Towel
+human_readable_ids:
+- ShoulderStretchBehindtheBackwithTowel
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

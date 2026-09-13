@@ -1,0 +1,17 @@
+id: '3462'
+slug: warming-up-in-lunge-two
+name: Warming-up in Lunge (two)
+human_readable_ids:
+- WarmingupinLunge2
+primary_muscles:
+- back
+- glutes
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

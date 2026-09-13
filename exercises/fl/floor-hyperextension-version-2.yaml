@@ -1,0 +1,14 @@
+id: '2844'
+slug: floor-hyperextension-version-2
+name: Floor Hyperextension (VERSION 2)
+human_readable_ids:
+- FloorHyperextension2
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

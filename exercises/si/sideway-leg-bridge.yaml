@@ -1,0 +1,17 @@
+id: '0722'
+slug: sideway-leg-bridge
+name: Sideway Leg Bridge
+human_readable_ids:
+- SidewayLegBridge
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

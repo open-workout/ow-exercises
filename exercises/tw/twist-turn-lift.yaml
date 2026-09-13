@@ -1,0 +1,15 @@
+id: '7585'
+slug: twist-turn-lift
+name: Twist Turn Lift
+human_readable_ids:
+- TwistTurnLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

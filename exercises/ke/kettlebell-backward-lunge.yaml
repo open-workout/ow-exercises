@@ -1,0 +1,16 @@
+id: '3575'
+slug: kettlebell-backward-lunge
+name: Kettlebell Backward Lunge
+human_readable_ids:
+- KettlebellBackwardLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

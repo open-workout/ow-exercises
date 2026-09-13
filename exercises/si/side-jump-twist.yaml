@@ -1,0 +1,15 @@
+id: '5124'
+slug: side-jump-twist
+name: Side Jump Twist
+human_readable_ids:
+- SideJumpTwist
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

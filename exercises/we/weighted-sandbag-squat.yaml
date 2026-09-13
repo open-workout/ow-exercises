@@ -1,0 +1,15 @@
+id: '10384'
+slug: weighted-sandbag-squat
+name: Weighted Sandbag Squat
+human_readable_ids:
+- WeightedSandbagSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

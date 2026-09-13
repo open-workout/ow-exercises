@@ -1,0 +1,15 @@
+id: '1902'
+slug: sitting-wide-leg-adductor-stretch
+name: Sitting Wide Leg Adductor Stretch
+human_readable_ids:
+- SittingWideLegAdductorStretch
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0999
+slug: band-single-leg-calf-raise
+name: Band single leg calf raise
+human_readable_ids:
+- Bandsinglelegcalfraise
+primary_muscles:
+- calves
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

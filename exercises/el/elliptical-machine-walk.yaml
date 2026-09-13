@@ -1,0 +1,16 @@
+id: '2192'
+slug: elliptical-machine-walk
+name: Elliptical Machine Walk
+human_readable_ids:
+- EllipticalMachineWalk
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

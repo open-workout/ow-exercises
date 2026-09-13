@@ -1,0 +1,14 @@
+id: 0949
+slug: downward-facing-dog-adho-mukha-svanasana
+name: Downward Facing Dog Adho Mukha Svanasana
+human_readable_ids:
+- DownwardFacingDogAdhoMukhaSvanasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

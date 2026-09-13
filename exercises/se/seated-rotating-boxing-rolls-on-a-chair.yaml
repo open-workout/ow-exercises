@@ -1,0 +1,15 @@
+id: '8634'
+slug: seated-rotating-boxing-rolls-on-a-chair
+name: Seated Rotating Boxing Rolls on a Chair
+human_readable_ids:
+- SeatedRotatingBoxingRollsonaChair
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

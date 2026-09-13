@@ -1,0 +1,16 @@
+id: '3743'
+slug: bulgarian-split-squat-with-chair
+name: Bulgarian Split Squat with Chair
+human_readable_ids:
+- BulgarianSplitSquatwithChair
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

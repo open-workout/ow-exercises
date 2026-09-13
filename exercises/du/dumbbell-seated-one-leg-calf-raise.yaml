@@ -1,0 +1,15 @@
+id: '0400'
+slug: dumbbell-seated-one-leg-calf-raise
+name: Dumbbell Seated One Leg Calf Raise
+human_readable_ids:
+- DumbbellSeatedOneLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

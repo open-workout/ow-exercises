@@ -1,0 +1,15 @@
+id: 0288
+slug: dumbbell-around-pullover
+name: Dumbbell Around Pullover
+human_readable_ids:
+- DumbbellAroundPullover
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

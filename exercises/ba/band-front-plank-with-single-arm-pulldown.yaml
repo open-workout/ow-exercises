@@ -1,0 +1,16 @@
+id: '3777'
+slug: band-front-plank-with-single-arm-pulldown
+name: Band Front Plank with Single Arm Pulldown
+human_readable_ids:
+- BandFrontPlankwithSingleArmPulldown
+primary_muscles:
+- back
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

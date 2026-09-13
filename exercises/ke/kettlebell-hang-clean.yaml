@@ -1,0 +1,22 @@
+id: '0535'
+slug: kettlebell-hang-clean
+name: Kettlebell Hang Clean
+human_readable_ids:
+- KettlebellHangClean
+primary_muscles:
+- adductors
+- biceps
+- shoulders
+- calves
+- glutes
+- hamstrings
+- chest
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

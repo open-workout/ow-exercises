@@ -1,0 +1,15 @@
+id: '2144'
+slug: cable-seated-chest-press
+name: Cable Seated Chest Press
+human_readable_ids:
+- CableSeatedChestPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

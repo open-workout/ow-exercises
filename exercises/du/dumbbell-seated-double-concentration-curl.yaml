@@ -1,0 +1,15 @@
+id: '6150'
+slug: dumbbell-seated-double-concentration-curl
+name: Dumbbell Seated Double Concentration Curl
+human_readable_ids:
+- DumbbellSeatedDoubleConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

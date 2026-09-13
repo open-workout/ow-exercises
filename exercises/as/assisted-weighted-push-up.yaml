@@ -1,0 +1,15 @@
+id: '1172'
+slug: assisted-weighted-push-up
+name: Assisted Weighted Push-up
+human_readable_ids:
+- AssistedWeightedPushup
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

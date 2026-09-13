@@ -1,0 +1,15 @@
+id: '6757'
+slug: dumbbell-standing-single-arm-biceps-curl
+name: Dumbbell Standing Single Arm Biceps Curl
+human_readable_ids:
+- DumbbellStandingSingleArmBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

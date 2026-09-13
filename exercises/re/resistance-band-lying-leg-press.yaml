@@ -1,0 +1,15 @@
+id: '8142'
+slug: resistance-band-lying-leg-press
+name: Resistance Band Lying Leg Press
+human_readable_ids:
+- ResistanceBandLyingLegPress
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

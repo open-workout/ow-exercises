@@ -1,0 +1,14 @@
+id: '10741'
+slug: resistance-band-standing-single-arm-triceps-stretch
+name: Resistance Band Standing Single Arm Triceps Stretch
+human_readable_ids:
+- ResistanceBandStandingSingleArmTricepsStretch
+primary_muscles:
+- stretching
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

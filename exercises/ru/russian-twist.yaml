@@ -1,0 +1,15 @@
+id: 0687
+slug: russian-twist
+name: Russian Twist
+human_readable_ids:
+- RussianTwist2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

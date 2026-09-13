@@ -1,0 +1,15 @@
+id: '1772'
+slug: elbow-lift-reverse-push-up
+name: Elbow Lift - Reverse Push-Up
+human_readable_ids:
+- ElbowLiftReversePushUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

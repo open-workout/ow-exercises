@@ -1,0 +1,15 @@
+id: '1288'
+slug: dumbbell-one-arm-fly-on-exercise-ball
+name: Dumbbell One Arm Fly on Exercise Ball
+human_readable_ids:
+- DumbbellOneArmFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

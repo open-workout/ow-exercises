@@ -1,0 +1,16 @@
+id: '3732'
+slug: kettlebell-gobelt-curtsey-lunge
+name: Kettlebell Gobelt Curtsey Lunge
+human_readable_ids:
+- KettlebellGobeltCurtseyLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

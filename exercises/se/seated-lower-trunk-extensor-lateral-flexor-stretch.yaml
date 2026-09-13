@@ -1,0 +1,14 @@
+id: '1804'
+slug: seated-lower-trunk-extensor-lateral-flexor-stretch
+name: Seated Lower Trunk Extensor Lateral Flexor Stretch
+human_readable_ids:
+- SeatedLowerTrunkExtensorLateralFlexorStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

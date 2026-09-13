@@ -1,0 +1,15 @@
+id: '2869'
+slug: swan-dive
+name: Swan Dive
+human_readable_ids:
+- SwanDive
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1523'
+slug: barbell-hang-snatch-below-the-knees
+name: Barbell Hang Snatch Below the Knees
+human_readable_ids:
+- BarbellHangSnatchBelowtheKnees
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

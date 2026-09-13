@@ -1,0 +1,15 @@
+id: '2941'
+slug: forearm-wall-slide
+name: Forearm Wall Slide
+human_readable_ids:
+- ForearmWallSlide
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

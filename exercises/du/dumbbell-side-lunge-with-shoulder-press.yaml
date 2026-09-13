@@ -1,0 +1,15 @@
+id: '4753'
+slug: dumbbell-side-lunge-with-shoulder-press
+name: Dumbbell Side Lunge with Shoulder Press
+human_readable_ids:
+- DumbbellSideLungewithShoulderPress
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

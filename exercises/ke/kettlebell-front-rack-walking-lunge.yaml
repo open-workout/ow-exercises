@@ -1,0 +1,15 @@
+id: '4441'
+slug: kettlebell-front-rack-walking-lunge
+name: Kettlebell Front Rack Walking Lunge
+human_readable_ids:
+- KettlebellFrontRackWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

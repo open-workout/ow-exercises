@@ -1,0 +1,15 @@
+id: '1373'
+slug: bodyweight-standing-calf-raise
+name: Bodyweight Standing Calf Raise
+human_readable_ids:
+- BodyweightStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

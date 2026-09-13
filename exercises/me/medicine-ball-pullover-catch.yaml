@@ -1,0 +1,15 @@
+id: '10595'
+slug: medicine-ball-pullover-catch
+name: Medicine Ball Pullover Catch
+human_readable_ids:
+- MedicineBallPulloverCatch
+primary_muscles:
+- back
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

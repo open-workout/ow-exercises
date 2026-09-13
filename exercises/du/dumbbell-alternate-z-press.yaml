@@ -1,0 +1,16 @@
+id: '6891'
+slug: dumbbell-alternate-z-press
+name: Dumbbell Alternate Z-Press
+human_readable_ids:
+- DumbbellAlternateZPress
+primary_muscles:
+- shoulders
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0637'
+slug: olympic-barbell-triceps-extension
+name: Olympic Barbell Triceps Extension
+human_readable_ids:
+- OlympicBarbellTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- olympic-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

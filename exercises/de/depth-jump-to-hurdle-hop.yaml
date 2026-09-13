@@ -1,0 +1,15 @@
+id: '4198'
+slug: depth-jump-to-hurdle-hop
+name: Depth Jump to Hurdle Hop
+human_readable_ids:
+- DepthJumptoHurdleHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3954'
+slug: front-to-side-plank
+name: Front to Side Plank
+human_readable_ids:
+- FronttoSidePlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

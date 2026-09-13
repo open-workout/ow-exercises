@@ -1,0 +1,15 @@
+id: '1631'
+slug: cable-concentration-curl
+name: Cable Concentration Curl
+human_readable_ids:
+- CableConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

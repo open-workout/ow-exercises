@@ -1,0 +1,15 @@
+id: 0834
+slug: weighted-front-raise
+name: Weighted Front Raise
+human_readable_ids:
+- WeightedFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

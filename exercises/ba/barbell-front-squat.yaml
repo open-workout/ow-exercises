@@ -1,0 +1,16 @@
+id: '0042'
+slug: barbell-front-squat
+name: Barbell Front Squat
+human_readable_ids:
+- BarbellFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

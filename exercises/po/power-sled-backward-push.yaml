@@ -1,0 +1,15 @@
+id: '2907'
+slug: power-sled-backward-push
+name: Power Sled Backward Push
+human_readable_ids:
+- PowerSledBackwardPush
+primary_muscles:
+- quads
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

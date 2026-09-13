@@ -1,0 +1,15 @@
+id: '1266'
+slug: cable-one-arm-incline-press-on-exercise-ball
+name: Cable One Arm Incline Press on Exercise Ball
+human_readable_ids:
+- CableOneArmInclinePressonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

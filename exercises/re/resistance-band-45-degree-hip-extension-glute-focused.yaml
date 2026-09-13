@@ -1,0 +1,15 @@
+id: '7999'
+slug: resistance-band-45-degree-hip-extension-glute-focused
+name: Resistance Band 45 Degree Hip Extension Glute Focused
+human_readable_ids:
+- ResistanceBand45DegreeHipExtensionGluteFocused
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

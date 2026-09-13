@@ -1,0 +1,15 @@
+id: '0202'
+slug: cable-rear-delt-row-stirrups
+name: Cable Rear Delt Row (stirrups)
+human_readable_ids:
+- CableRearDeltRow
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '2258'
+slug: walking
+name: Walking
+human_readable_ids:
+- Walking
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

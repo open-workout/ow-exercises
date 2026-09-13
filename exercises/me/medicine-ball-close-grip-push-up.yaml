@@ -1,0 +1,15 @@
+id: '1701'
+slug: medicine-ball-close-grip-push-up
+name: Medicine Ball Close Grip Push Up
+human_readable_ids:
+- MedicineBallCloseGripPushUp
+primary_muscles:
+- triceps
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

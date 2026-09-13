@@ -1,0 +1,15 @@
+id: '4149'
+slug: dumbbell-floor-fly
+name: Dumbbell Floor Fly
+human_readable_ids:
+- DumbbellFloorFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

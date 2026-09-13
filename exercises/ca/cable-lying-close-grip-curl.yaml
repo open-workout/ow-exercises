@@ -1,0 +1,15 @@
+id: 0181
+slug: cable-lying-close-grip-curl
+name: Cable Lying Close-grip Curl
+human_readable_ids:
+- CableLyingClosegripCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

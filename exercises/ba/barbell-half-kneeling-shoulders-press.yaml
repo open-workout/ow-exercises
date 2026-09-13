@@ -1,0 +1,15 @@
+id: '9694'
+slug: barbell-half-kneeling-shoulders-press
+name: Barbell Half Kneeling Shoulders Press
+human_readable_ids:
+- BarbellHalfKneelingShouldersPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1389'
+slug: posterior-tibialis-stretch
+name: Posterior Tibialis Stretch
+human_readable_ids:
+- PosteriorTibialisStretch
+primary_muscles:
+- calves
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

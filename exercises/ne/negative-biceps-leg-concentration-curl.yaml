@@ -1,0 +1,15 @@
+id: '8084'
+slug: negative-biceps-leg-concentration-curl
+name: Negative Biceps Leg Concentration Curl
+human_readable_ids:
+- NegativeBicepsLegConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

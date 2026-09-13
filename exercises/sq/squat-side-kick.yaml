@@ -1,0 +1,16 @@
+id: '1400'
+slug: squat-side-kick
+name: Squat side kick
+human_readable_ids:
+- Squatsidekick
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

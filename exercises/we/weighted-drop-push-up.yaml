@@ -1,0 +1,15 @@
+id: '1310'
+slug: weighted-drop-push-up
+name: Weighted Drop Push Up
+human_readable_ids:
+- WeightedDropPushUp
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '4440'
+slug: kettlebell-step-up-version-2
+name: Kettlebell Step-Up (VERSION 2)
+human_readable_ids:
+- KettlebellStepUp2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

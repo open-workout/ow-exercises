@@ -1,0 +1,15 @@
+id: '0415'
+slug: dumbbell-standing-alternate-raise
+name: Dumbbell Standing Alternate Raise
+human_readable_ids:
+- DumbbellStandingAlternateRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

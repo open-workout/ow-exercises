@@ -1,0 +1,14 @@
+id: '2786'
+slug: spine-lumbar-flexion-articulations
+name: Spine (Lumbar) - Flexion - Articulations
+human_readable_ids:
+- SpineFlexionArticulations
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

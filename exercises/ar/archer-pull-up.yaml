@@ -1,0 +1,15 @@
+id: '3293'
+slug: archer-pull-up
+name: Archer Pull up
+human_readable_ids:
+- ArcherPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

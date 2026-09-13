@@ -1,0 +1,14 @@
+id: '6770'
+slug: kneeling-sartorius-stretch
+name: Kneeling Sartorius Stretch
+human_readable_ids:
+- KneelingSartoriusStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

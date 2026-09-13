@@ -1,0 +1,15 @@
+id: '8653'
+slug: seated-open-up-and-under-swing-on-a-chair
+name: Seated Open-up and Under Swing on a Chair
+human_readable_ids:
+- SeatedOpenupandUnderSwingonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

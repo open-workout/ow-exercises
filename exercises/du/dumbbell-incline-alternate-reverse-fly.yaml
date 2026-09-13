@@ -1,0 +1,15 @@
+id: '3694'
+slug: dumbbell-incline-alternate-reverse-fly
+name: Dumbbell Incline Alternate Reverse Fly
+human_readable_ids:
+- DumbbellInclineAlternateReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

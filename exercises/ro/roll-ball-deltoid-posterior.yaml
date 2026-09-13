@@ -1,0 +1,14 @@
+id: '4611'
+slug: roll-ball-deltoid-posterior
+name: Roll Ball Deltoid Posterior
+human_readable_ids:
+- RollBallDeltoidPosterior
+primary_muscles:
+- shoulders
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

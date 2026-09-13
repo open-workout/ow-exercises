@@ -1,0 +1,14 @@
+id: '4633'
+slug: worlds-greatest-stretch
+name: Worlds Greatest Stretch
+human_readable_ids:
+- WorldsGreatestStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

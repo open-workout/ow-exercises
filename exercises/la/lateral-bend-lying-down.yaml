@@ -1,0 +1,15 @@
+id: '2121'
+slug: lateral-bend-lying-down
+name: Lateral Bend Lying Down
+human_readable_ids:
+- LateralBendLyingDown
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0443'
+slug: elbow-to-knee
+name: Elbow-To-Knee
+human_readable_ids:
+- ElbowToKnee
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

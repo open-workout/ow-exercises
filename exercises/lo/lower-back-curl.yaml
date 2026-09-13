@@ -1,0 +1,15 @@
+id: '1352'
+slug: lower-back-curl
+name: Lower Back Curl
+human_readable_ids:
+- LowerBackCurl
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

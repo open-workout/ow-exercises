@@ -1,0 +1,15 @@
+id: '2723'
+slug: strongman-wheelbarrow
+name: StrongMan Wheelbarrow
+human_readable_ids:
+- StrongManWheelbarrow
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

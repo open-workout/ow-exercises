@@ -1,0 +1,15 @@
+id: 0487
+slug: hip-raise-crunch
+name: Hip Raise Crunch
+human_readable_ids:
+- HipRaiseCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

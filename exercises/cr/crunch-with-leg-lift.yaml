@@ -1,0 +1,15 @@
+id: '4095'
+slug: crunch-with-leg-lift
+name: Crunch with Leg Lift
+human_readable_ids:
+- CrunchwithLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

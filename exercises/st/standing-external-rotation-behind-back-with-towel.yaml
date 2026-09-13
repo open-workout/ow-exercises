@@ -1,0 +1,15 @@
+id: '10931'
+slug: standing-external-rotation-behind-back-with-towel
+name: Standing External Rotation Behind Back with Towel
+human_readable_ids:
+- StandingExternalRotationBehindBackwithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

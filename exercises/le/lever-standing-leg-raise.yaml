@@ -1,0 +1,16 @@
+id: '1036'
+slug: lever-standing-leg-raise
+name: Lever Standing Leg Raise
+human_readable_ids:
+- LeverStandingLegRaise
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

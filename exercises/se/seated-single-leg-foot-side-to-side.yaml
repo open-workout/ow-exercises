@@ -1,0 +1,15 @@
+id: '10910'
+slug: seated-single-leg-foot-side-to-side
+name: Seated Single Leg Foot Side to Side
+human_readable_ids:
+- SeatedSingleLegFootSidetoSide
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

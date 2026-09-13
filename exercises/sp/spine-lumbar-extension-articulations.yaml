@@ -1,0 +1,14 @@
+id: '2785'
+slug: spine-lumbar-extension-articulations
+name: Spine (Lumbar) - Extension - Articulations
+human_readable_ids:
+- SpineExtensionArticulations
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

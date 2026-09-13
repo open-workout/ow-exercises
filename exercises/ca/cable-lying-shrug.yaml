@@ -1,0 +1,15 @@
+id: '4226'
+slug: cable-lying-shrug
+name: Cable Lying Shrug
+human_readable_ids:
+- CableLyingShrug
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

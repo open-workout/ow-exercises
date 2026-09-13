@@ -1,0 +1,15 @@
+id: '9867'
+slug: cable-45-degrees-reverse-grip-reverse-fly
+name: Cable 45 degrees Reverse Grip Reverse Fly
+human_readable_ids:
+- Cable45degreesReverseGripReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

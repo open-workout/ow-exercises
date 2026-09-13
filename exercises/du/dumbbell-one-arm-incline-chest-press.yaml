@@ -1,0 +1,15 @@
+id: '1289'
+slug: dumbbell-one-arm-incline-chest-press
+name: Dumbbell One Arm Incline Chest Press
+human_readable_ids:
+- DumbbellOneArmInclineChestPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

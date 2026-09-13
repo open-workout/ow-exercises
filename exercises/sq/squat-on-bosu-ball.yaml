@@ -1,0 +1,16 @@
+id: '1705'
+slug: squat-on-bosu-ball
+name: Squat On Bosu Ball
+human_readable_ids:
+- SquatOnBosuBall
+primary_muscles:
+- glutes
+- quads
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2659'
+slug: lever-incline-chest-press-plate-loaded
+name: Lever Incline Chest Press (plate loaded)
+human_readable_ids:
+- LeverInclineChestPress3
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

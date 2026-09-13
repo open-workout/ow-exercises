@@ -1,0 +1,15 @@
+id: '6074'
+slug: bottle-weighted-lateral-raise
+name: Bottle Weighted Lateral Raise
+human_readable_ids:
+- BottleWeightedLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

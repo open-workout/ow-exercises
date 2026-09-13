@@ -1,0 +1,14 @@
+id: '5981'
+slug: sun-salutation-b
+name: Sun Salutation B
+human_readable_ids:
+- SunSalutationB
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

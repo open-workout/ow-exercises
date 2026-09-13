@@ -1,0 +1,15 @@
+id: '0714'
+slug: side-plank-version-2
+name: Side Plank (version 2)
+human_readable_ids:
+- SidePlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

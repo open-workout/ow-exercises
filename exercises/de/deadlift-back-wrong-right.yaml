@@ -1,0 +1,15 @@
+id: '2354'
+slug: deadlift-back-wrong-right
+name: Deadlift - Back (WRONG-RIGHT)
+human_readable_ids:
+- DeadliftBack
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

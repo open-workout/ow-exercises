@@ -1,0 +1,15 @@
+id: '7746'
+slug: nordic-hamstring-curl
+name: Nordic Hamstring Curl
+human_readable_ids:
+- NordicHamstringCurl
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

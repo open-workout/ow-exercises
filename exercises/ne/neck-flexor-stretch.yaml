@@ -1,0 +1,14 @@
+id: '1839'
+slug: neck-flexor-stretch
+name: Neck Flexor Stretch
+human_readable_ids:
+- NeckFlexorStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

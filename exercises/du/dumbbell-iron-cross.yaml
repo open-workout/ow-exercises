@@ -1,0 +1,15 @@
+id: '0332'
+slug: dumbbell-iron-cross
+name: Dumbbell Iron Cross
+human_readable_ids:
+- DumbbellIronCross
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

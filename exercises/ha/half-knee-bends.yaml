@@ -1,0 +1,16 @@
+id: '3221'
+slug: half-knee-bends
+name: Half Knee Bends
+human_readable_ids:
+- HalfKneeBends
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

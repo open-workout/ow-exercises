@@ -1,0 +1,15 @@
+id: 0681
+slug: rotate-push-up-on-knees
+name: Rotate Push-up (on knees)
+human_readable_ids:
+- RotatePushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

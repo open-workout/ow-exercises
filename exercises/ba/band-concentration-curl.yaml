@@ -1,0 +1,15 @@
+id: 0976
+slug: band-concentration-curl
+name: Band concentration curl
+human_readable_ids:
+- Bandconcentrationcurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

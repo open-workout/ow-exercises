@@ -1,0 +1,15 @@
+id: '2671'
+slug: smith-narrow-row
+name: Smith Narrow Row
+human_readable_ids:
+- SmithNarrowRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

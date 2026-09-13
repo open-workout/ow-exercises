@@ -1,0 +1,15 @@
+id: '5169'
+slug: standing-hip-adduction-version-2
+name: Standing Hip Adduction (VERSION 2)
+human_readable_ids:
+- StandingHipAdduction
+primary_muscles:
+- adductors
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

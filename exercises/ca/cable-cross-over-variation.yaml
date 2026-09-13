@@ -1,0 +1,15 @@
+id: '0155'
+slug: cable-cross-over-variation
+name: Cable Cross-over Variation
+human_readable_ids:
+- CableCrossoverVariation
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

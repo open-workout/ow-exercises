@@ -1,0 +1,15 @@
+id: '4008'
+slug: straight-leg-sit-up
+name: Straight Leg Sit-up
+human_readable_ids:
+- StraightLegSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

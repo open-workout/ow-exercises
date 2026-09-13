@@ -1,0 +1,17 @@
+id: '3772'
+slug: band-high-knee-lunge-with-single-arm-row
+name: Band High Knee Lunge with Single Arm Row
+human_readable_ids:
+- BandHighKneeLungewithSingleArmRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

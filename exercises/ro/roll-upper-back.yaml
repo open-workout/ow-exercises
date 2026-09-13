@@ -1,0 +1,14 @@
+id: '3566'
+slug: roll-upper-back
+name: Roll Upper Back
+human_readable_ids:
+- RollUpperBack
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

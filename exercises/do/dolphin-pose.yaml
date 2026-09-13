@@ -1,0 +1,14 @@
+id: '6288'
+slug: dolphin-pose
+name: Dolphin Pose
+human_readable_ids:
+- DolphinPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

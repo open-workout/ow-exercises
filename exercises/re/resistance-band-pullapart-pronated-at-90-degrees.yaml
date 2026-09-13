@@ -1,0 +1,15 @@
+id: '4412'
+slug: resistance-band-pullapart-pronated-at-90-degrees
+name: Resistance Band Pullapart (Pronated at 90 Degrees)
+human_readable_ids:
+- ResistanceBandPullapart2
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

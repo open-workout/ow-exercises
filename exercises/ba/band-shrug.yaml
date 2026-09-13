@@ -1,0 +1,15 @@
+id: '1018'
+slug: band-shrug
+name: Band shrug
+human_readable_ids:
+- Bandshrug
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

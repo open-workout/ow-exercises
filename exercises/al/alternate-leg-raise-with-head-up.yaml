@@ -1,0 +1,15 @@
+id: '4001'
+slug: alternate-leg-raise-with-head-up
+name: Alternate Leg Raise with Head-up
+human_readable_ids:
+- AlternateLegRaisewithHeadup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

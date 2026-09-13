@@ -1,0 +1,15 @@
+id: '6098'
+slug: swim-leg-circle
+name: Swim Leg Circle
+human_readable_ids:
+- SwimLegCircle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

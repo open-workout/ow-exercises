@@ -1,0 +1,15 @@
+id: '2341'
+slug: chest-bench-press-arms-wrong-right
+name: Chest Bench Press - Arms (WRONG-RIGHT)
+human_readable_ids:
+- ChestBenchPressArms
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

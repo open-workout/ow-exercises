@@ -1,0 +1,16 @@
+id: '4362'
+slug: barbell-squat-2-sec-hold
+name: Barbell Squat 2 sec Hold
+human_readable_ids:
+- BarbellSquat2secHold
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0378
+slug: dumbbell-rear-fly
+name: Dumbbell Rear Fly
+human_readable_ids:
+- DumbbellRearFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

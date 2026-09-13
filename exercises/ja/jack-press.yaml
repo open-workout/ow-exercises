@@ -1,0 +1,16 @@
+id: '0504'
+slug: jack-press
+name: Jack Press
+human_readable_ids:
+- JackPress
+primary_muscles:
+- cardio
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

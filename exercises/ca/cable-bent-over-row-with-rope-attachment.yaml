@@ -1,0 +1,15 @@
+id: '4368'
+slug: cable-bent-over-row-with-rope-attachment
+name: Cable Bent-Over Row with Rope Attachment
+human_readable_ids:
+- CableBentOverRowwithRopeAttachment
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '11286'
+slug: kettlebell-half-kneeling-side-lunge
+name: Kettlebell Half Kneeling Side Lunge
+human_readable_ids:
+- KettlebellHalfKneelingSideLunge
+primary_muscles:
+- stretching
+equipment:
+- kettlebell
+modalities:
+- time
+load:
+  required: true
+  direction: added

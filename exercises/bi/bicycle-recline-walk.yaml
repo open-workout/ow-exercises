@@ -1,0 +1,16 @@
+id: '2193'
+slug: bicycle-recline-walk
+name: Bicycle Recline Walk
+human_readable_ids:
+- BicycleReclineWalk
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

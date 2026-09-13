@@ -1,0 +1,15 @@
+id: '4376'
+slug: handstand-walk
+name: Handstand Walk
+human_readable_ids:
+- HandstandWalk
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

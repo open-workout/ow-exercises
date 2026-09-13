@@ -1,0 +1,14 @@
+id: '1362'
+slug: sphinx
+name: Sphinx
+human_readable_ids:
+- Sphinx
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

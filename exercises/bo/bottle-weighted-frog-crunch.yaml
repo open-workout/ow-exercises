@@ -1,0 +1,15 @@
+id: '6053'
+slug: bottle-weighted-frog-crunch
+name: Bottle Weighted Frog Crunch
+human_readable_ids:
+- BottleWeightedFrogCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

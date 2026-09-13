@@ -1,0 +1,14 @@
+id: '1894'
+slug: standing-wide-knees-adductor-stretch
+name: Standing Wide Knees Adductor Stretch
+human_readable_ids:
+- StandingWideKneesAdductorStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

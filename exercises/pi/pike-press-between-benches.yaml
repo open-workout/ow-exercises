@@ -1,0 +1,15 @@
+id: '3904'
+slug: pike-press-between-benches
+name: Pike Press (between benches)
+human_readable_ids:
+- PikePress
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

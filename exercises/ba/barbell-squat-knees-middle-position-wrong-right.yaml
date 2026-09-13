@@ -1,0 +1,16 @@
+id: '2360'
+slug: barbell-squat-knees-middle-position-wrong-right
+name: Barbell Squat - Knees - Middle position (WRONG-RIGHT)
+human_readable_ids:
+- BarbellSquatKneesMiddleposition
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

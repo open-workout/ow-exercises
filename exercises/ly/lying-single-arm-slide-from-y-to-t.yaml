@@ -1,0 +1,14 @@
+id: '10742'
+slug: lying-single-arm-slide-from-y-to-t
+name: Lying Single Arm Slide from Y to T
+human_readable_ids:
+- LyingSingleArmSlidefromYtoT
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

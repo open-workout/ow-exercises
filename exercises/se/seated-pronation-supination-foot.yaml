@@ -1,0 +1,15 @@
+id: '10564'
+slug: seated-pronation-supination-foot
+name: Seated Pronation Supination Foot
+human_readable_ids:
+- SeatedPronationSupinationFoot
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

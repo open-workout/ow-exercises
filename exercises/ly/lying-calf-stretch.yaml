@@ -1,0 +1,14 @@
+id: '4929'
+slug: lying-calf-stretch
+name: Lying Calf Stretch
+human_readable_ids:
+- LyingCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

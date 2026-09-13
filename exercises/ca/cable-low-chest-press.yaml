@@ -1,0 +1,15 @@
+id: '5814'
+slug: cable-low-chest-press
+name: Cable Low Chest Press
+human_readable_ids:
+- CableLowChestPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

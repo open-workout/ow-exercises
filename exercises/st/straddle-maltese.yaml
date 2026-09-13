@@ -1,0 +1,14 @@
+id: '3314'
+slug: straddle-maltese
+name: Straddle Maltese
+human_readable_ids:
+- StraddleMaltese
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

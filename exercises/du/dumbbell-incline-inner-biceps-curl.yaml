@@ -1,0 +1,15 @@
+id: '0322'
+slug: dumbbell-incline-inner-biceps-curl
+name: Dumbbell Incline Inner Biceps Curl
+human_readable_ids:
+- DumbbellInclineInnerBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

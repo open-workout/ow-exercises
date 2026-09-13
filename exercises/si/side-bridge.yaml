@@ -1,0 +1,15 @@
+id: '0706'
+slug: side-bridge
+name: Side Bridge
+human_readable_ids:
+- SideBridge4
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

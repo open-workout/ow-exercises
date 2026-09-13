@@ -1,0 +1,18 @@
+id: '3376'
+slug: battling-ropes-jumping-jack
+name: Battling Ropes Jumping Jack
+human_readable_ids:
+- BattlingRopesJumpingJack
+primary_muscles:
+- back
+- glutes
+- shoulders
+- quads
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

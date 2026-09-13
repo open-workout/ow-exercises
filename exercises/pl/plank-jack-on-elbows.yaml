@@ -1,0 +1,15 @@
+id: '5157'
+slug: plank-jack-on-elbows
+name: Plank Jack on Elbows
+human_readable_ids:
+- PlankJackonElbows
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

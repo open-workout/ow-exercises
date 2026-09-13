@@ -1,0 +1,15 @@
+id: '10388'
+slug: weighted-sandbag-military-press
+name: Weighted Sandbag Military Press
+human_readable_ids:
+- WeightedSandbagMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

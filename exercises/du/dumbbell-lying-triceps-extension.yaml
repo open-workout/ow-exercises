@@ -1,0 +1,15 @@
+id: '0351'
+slug: dumbbell-lying-triceps-extension
+name: Dumbbell Lying Triceps Extension
+human_readable_ids:
+- DumbbellLyingTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

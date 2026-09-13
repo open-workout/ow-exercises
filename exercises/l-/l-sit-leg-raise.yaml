@@ -1,0 +1,15 @@
+id: '10951'
+slug: l-sit-leg-raise
+name: L Sit Leg Raise
+human_readable_ids:
+- LSitLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1623'
+slug: dumbbell-palms-in-incline-bench-press
+name: Dumbbell Palms In Incline Bench Press
+human_readable_ids:
+- DumbbellPalmsInInclineBenchPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

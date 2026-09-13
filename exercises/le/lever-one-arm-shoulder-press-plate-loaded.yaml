@@ -1,0 +1,15 @@
+id: 0590
+slug: lever-one-arm-shoulder-press-plate-loaded
+name: Lever One Arm Shoulder Press (plate loaded)
+human_readable_ids:
+- LeverOneArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4834'
+slug: dumbbell-alternate-chest-press-on-stability-ball
+name: Dumbbell Alternate Chest Press on Stability Ball
+human_readable_ids:
+- DumbbellAlternateChestPressonStabilityBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

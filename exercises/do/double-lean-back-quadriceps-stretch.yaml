@@ -1,0 +1,14 @@
+id: '1956'
+slug: double-lean-back-quadriceps-stretch
+name: Double Lean Back Quadriceps Stretch
+human_readable_ids:
+- DoubleLeanBackQuadricepsStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

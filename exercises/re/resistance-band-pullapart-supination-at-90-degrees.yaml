@@ -1,0 +1,15 @@
+id: '2930'
+slug: resistance-band-pullapart-supination-at-90-degrees
+name: Resistance Band Pullapart (Supination at 90 Degrees)
+human_readable_ids:
+- ResistanceBandPullapart
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

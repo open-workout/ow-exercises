@@ -1,0 +1,15 @@
+id: '5884'
+slug: dumbbell-curl-press-extension
+name: Dumbbell Curl Press Extension
+human_readable_ids:
+- DumbbellCurlPressExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1301'
+slug: machine-inner-chest-press
+name: Machine Inner Chest Press
+human_readable_ids:
+- MachineInnerChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

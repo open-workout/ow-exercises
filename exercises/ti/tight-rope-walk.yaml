@@ -1,0 +1,15 @@
+id: '5977'
+slug: tight-rope-walk
+name: Tight Rope Walk
+human_readable_ids:
+- TightRopeWalk
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6599'
+slug: bear-crawl-low-hip
+name: Bear Crawl (low hip)
+human_readable_ids:
+- BearCrawl2
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

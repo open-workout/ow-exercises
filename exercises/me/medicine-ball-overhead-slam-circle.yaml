@@ -1,0 +1,15 @@
+id: '10118'
+slug: medicine-ball-overhead-slam-circle
+name: Medicine Ball Overhead Slam Circle
+human_readable_ids:
+- MedicineBallOverheadSlamCircle
+primary_muscles:
+- plyometrics
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

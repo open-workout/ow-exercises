@@ -1,0 +1,15 @@
+id: '7341'
+slug: hopping-pendulum
+name: Hopping Pendulum
+human_readable_ids:
+- HoppingPendulum
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

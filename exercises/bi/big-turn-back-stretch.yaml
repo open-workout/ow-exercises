@@ -1,0 +1,14 @@
+id: '6540'
+slug: big-turn-back-stretch
+name: Big Turn Back Stretch
+human_readable_ids:
+- BigTurnBackStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

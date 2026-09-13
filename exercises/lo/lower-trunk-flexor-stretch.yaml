@@ -1,0 +1,14 @@
+id: '2105'
+slug: lower-trunk-flexor-stretch
+name: Lower Trunk Flexor Stretch
+human_readable_ids:
+- LowerTrunkFlexorStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

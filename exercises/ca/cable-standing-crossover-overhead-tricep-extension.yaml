@@ -1,0 +1,15 @@
+id: '5528'
+slug: cable-standing-crossover-overhead-tricep-extension
+name: Cable Standing Crossover Overhead Tricep Extension
+human_readable_ids:
+- CableStandingCrossoverOverheadTricepExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

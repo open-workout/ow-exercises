@@ -1,0 +1,18 @@
+id: '4629'
+slug: dumbbell-renegade-row-to-squat
+name: Dumbbell Renegade Row to Squat
+human_readable_ids:
+- DumbbellRenegadeRowtoSquat
+primary_muscles:
+- back
+- glutes
+- quads
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

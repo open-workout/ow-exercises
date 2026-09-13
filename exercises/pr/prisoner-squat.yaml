@@ -1,0 +1,15 @@
+id: '1580'
+slug: prisoner-squat
+name: Prisoner Squat
+human_readable_ids:
+- PrisonerSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

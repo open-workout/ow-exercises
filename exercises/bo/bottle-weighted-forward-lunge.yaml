@@ -1,0 +1,15 @@
+id: '6047'
+slug: bottle-weighted-forward-lunge
+name: Bottle Weighted Forward Lunge
+human_readable_ids:
+- BottleWeightedForwardLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

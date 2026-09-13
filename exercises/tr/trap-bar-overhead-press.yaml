@@ -1,0 +1,15 @@
+id: '7287'
+slug: trap-bar-overhead-press
+name: Trap Bar Overhead Press
+human_readable_ids:
+- TrapBarOverheadPress
+primary_muscles:
+- shoulders
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

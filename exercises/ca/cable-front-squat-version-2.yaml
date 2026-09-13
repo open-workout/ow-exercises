@@ -1,0 +1,16 @@
+id: '3354'
+slug: cable-front-squat-version-2
+name: Cable Front Squat (VERSION 2)
+human_readable_ids:
+- CableFrontSquat2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '2204'
+slug: roll-rectus-femoris
+name: Roll Rectus Femoris
+human_readable_ids:
+- RollRectusFemoris
+primary_muscles:
+- quads
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

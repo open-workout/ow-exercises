@@ -1,0 +1,15 @@
+id: '1641'
+slug: cable-seated-curl
+name: Cable Seated Curl
+human_readable_ids:
+- CableSeatedCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

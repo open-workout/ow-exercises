@@ -1,0 +1,15 @@
+id: '4415'
+slug: band-resisted-chin-up
+name: Band Resisted Chin-Up
+human_readable_ids:
+- BandResistedChinUp
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

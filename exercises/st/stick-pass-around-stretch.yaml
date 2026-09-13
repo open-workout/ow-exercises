@@ -1,0 +1,14 @@
+id: '5404'
+slug: stick-pass-around-stretch
+name: Stick Pass Around Stretch
+human_readable_ids:
+- StickPassAroundStretch
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

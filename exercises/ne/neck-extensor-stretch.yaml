@@ -1,0 +1,14 @@
+id: '1837'
+slug: neck-extensor-stretch
+name: Neck Extensor Stretch
+human_readable_ids:
+- NeckExtensorStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

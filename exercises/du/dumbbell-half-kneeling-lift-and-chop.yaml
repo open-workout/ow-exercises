@@ -1,0 +1,15 @@
+id: '4572'
+slug: dumbbell-half-kneeling-lift-and-chop
+name: Dumbbell Half Kneeling Lift and Chop
+human_readable_ids:
+- DumbbellHalfKneelingLiftandChop
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1784'
+slug: assisted-pulling-backs-chest-stretch
+name: Assisted Pulling Backs Chest Stretch
+human_readable_ids:
+- AssistedPullingBacksChestStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '1007'
+slug: band-standing-twisting-crunch
+name: Band standing twisting crunch
+human_readable_ids:
+- Bandstandingtwistingcrunch
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9653'
+slug: standing-torso-twist-arms-swing
+name: Standing Torso Twist Arms Swing
+human_readable_ids:
+- StandingTorsoTwistArmsSwing
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

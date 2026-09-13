@@ -1,0 +1,15 @@
+id: '4340'
+slug: barbell-wide-pullover
+name: Barbell Wide Pullover
+human_readable_ids:
+- BarbellWidePullover
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

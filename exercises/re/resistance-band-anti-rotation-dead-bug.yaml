@@ -1,0 +1,15 @@
+id: '3866'
+slug: resistance-band-anti-rotation-dead-bug
+name: Resistance Band Anti Rotation Dead Bug
+human_readable_ids:
+- ResistanceBandAntiRotationDeadBug
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

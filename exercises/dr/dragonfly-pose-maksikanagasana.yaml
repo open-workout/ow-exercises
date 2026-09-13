@@ -1,0 +1,14 @@
+id: '6299'
+slug: dragonfly-pose-maksikanagasana
+name: Dragonfly Pose Maksikanagasana
+human_readable_ids:
+- DragonflyPoseMaksikanagasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

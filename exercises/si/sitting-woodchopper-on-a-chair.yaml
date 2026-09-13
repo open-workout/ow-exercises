@@ -1,0 +1,15 @@
+id: '8199'
+slug: sitting-woodchopper-on-a-chair
+name: Sitting Woodchopper on a Chair
+human_readable_ids:
+- SittingWoodchopperonaChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3860'
+slug: weighted-plate-bent-over-row
+name: Weighted Plate Bent Over Row
+human_readable_ids:
+- WeightedPlateBentOverRow
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

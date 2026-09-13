@@ -1,0 +1,15 @@
+id: '10182'
+slug: burpee-over-the-dumbbell
+name: Burpee Over the Dumbbell
+human_readable_ids:
+- BurpeeOvertheDumbbell
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

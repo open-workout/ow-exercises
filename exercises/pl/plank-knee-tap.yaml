@@ -1,0 +1,15 @@
+id: '9999'
+slug: plank-knee-tap
+name: Plank Knee Tap
+human_readable_ids:
+- PlankKneeTap
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

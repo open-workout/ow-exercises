@@ -1,0 +1,16 @@
+id: '2197'
+slug: run-on-treadmill
+name: Run on Treadmill
+human_readable_ids:
+- RunonTreadmill
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

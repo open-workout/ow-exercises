@@ -1,0 +1,16 @@
+id: '3670'
+slug: weighted-decline-sit-up
+name: Weighted Decline Sit-up
+human_readable_ids:
+- WeightedDeclineSitup
+primary_muscles:
+- shoulders
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

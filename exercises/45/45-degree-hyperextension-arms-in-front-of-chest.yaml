@@ -1,0 +1,15 @@
+id: 0877
+slug: 45-degree-hyperextension-arms-in-front-of-chest
+name: 45 degree hyperextension (arms in front of chest)
+human_readable_ids:
+- 45degreehyperextension
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

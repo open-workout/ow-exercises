@@ -1,0 +1,15 @@
+id: '7554'
+slug: parallel-bars-bent-knee-inverted-row
+name: Parallel Bars Bent Knee Inverted Row
+human_readable_ids:
+- ParallelBarsBentKneeInvertedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

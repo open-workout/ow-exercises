@@ -1,0 +1,15 @@
+id: '1737'
+slug: dumbbell-seated-bent-over-triceps-extension
+name: Dumbbell Seated Bent Over Triceps Extension
+human_readable_ids:
+- DumbbellSeatedBentOverTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

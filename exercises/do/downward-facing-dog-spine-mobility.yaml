@@ -1,0 +1,17 @@
+id: '3528'
+slug: downward-facing-dog-spine-mobility
+name: Downward Facing Dog Spine Mobility
+human_readable_ids:
+- DownwardFacingDogSpineMobility
+primary_muscles:
+- back
+- glutes
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

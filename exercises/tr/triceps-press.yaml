@@ -1,0 +1,15 @@
+id: 0816
+slug: triceps-press
+name: Triceps Press
+human_readable_ids:
+- TricepsPress
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

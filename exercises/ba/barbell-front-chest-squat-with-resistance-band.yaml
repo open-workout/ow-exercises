@@ -1,0 +1,15 @@
+id: '3871'
+slug: barbell-front-chest-squat-with-resistance-band
+name: Barbell Front Chest Squat with Resistance Band
+human_readable_ids:
+- BarbellFrontChestSquatwithResistanceBand
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

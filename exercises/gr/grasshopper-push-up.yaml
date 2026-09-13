@@ -1,0 +1,15 @@
+id: 0468
+slug: grasshopper-push-up
+name: Grasshopper Push-up
+human_readable_ids:
+- GrasshopperPushup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

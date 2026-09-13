@@ -1,0 +1,15 @@
+id: '4383'
+slug: medicine-ball-step-behind-rotational-throw
+name: Medicine Ball Step Behind Rotational Throw
+human_readable_ids:
+- MedicineBallStepBehindRotationalThrow
+primary_muscles:
+- plyometrics
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

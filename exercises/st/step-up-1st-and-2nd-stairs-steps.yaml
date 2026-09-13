@@ -1,0 +1,15 @@
+id: '11450'
+slug: step-up-1st-and-2nd-stairs-steps
+name: Step-up (1st and 2nd stairs steps)
+human_readable_ids:
+- Stepup2
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

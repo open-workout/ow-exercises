@@ -1,0 +1,15 @@
+id: '3962'
+slug: seated-flutter-kick
+name: Seated Flutter Kick
+human_readable_ids:
+- SeatedFlutterKick
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

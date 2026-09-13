@@ -1,0 +1,15 @@
+id: 0830
+slug: weighted-bench-dip
+name: Weighted Bench Dip
+human_readable_ids:
+- WeightedBenchDip
+primary_muscles:
+- triceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

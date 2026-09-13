@@ -1,0 +1,15 @@
+id: '0230'
+slug: cable-standing-lift
+name: Cable Standing Lift
+human_readable_ids:
+- CableStandingLift
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

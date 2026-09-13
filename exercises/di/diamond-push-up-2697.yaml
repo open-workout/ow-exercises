@@ -1,0 +1,15 @@
+id: '2697'
+slug: diamond-push-up-2697
+name: Diamond Push up
+human_readable_ids:
+- DiamondPushup3
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

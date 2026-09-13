@@ -1,0 +1,15 @@
+id: '3679'
+slug: sit-up-with-arms-on-chest
+name: Sit-up with Arms on Chest
+human_readable_ids:
+- SitupwithArmsonChest
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1363'
+slug: spine-stretch
+name: Spine Stretch
+human_readable_ids:
+- SpineStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

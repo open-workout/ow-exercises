@@ -1,0 +1,15 @@
+id: '4093'
+slug: wheel-rollout-with-wall-support
+name: Wheel Rollout with Wall Support
+human_readable_ids:
+- WheelRolloutwithWallSupport
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

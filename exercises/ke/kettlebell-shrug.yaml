@@ -1,0 +1,15 @@
+id: '6194'
+slug: kettlebell-shrug
+name: Kettlebell Shrug
+human_readable_ids:
+- KettlebellShrug
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3701'
+slug: high-knee-sprints
+name: High Knee Sprints
+human_readable_ids:
+- HighKneeSprints
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

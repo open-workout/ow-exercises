@@ -1,0 +1,15 @@
+id: '10948'
+slug: scapular-pull-up-swing
+name: Scapular Pull-up Swing
+human_readable_ids:
+- ScapularPullupSwing
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

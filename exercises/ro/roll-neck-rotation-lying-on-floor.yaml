@@ -1,0 +1,14 @@
+id: '5371'
+slug: roll-neck-rotation-lying-on-floor
+name: Roll Neck Rotation Lying on Floor
+human_readable_ids:
+- RollNeckRotationLyingonFloor
+primary_muscles:
+- neck
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

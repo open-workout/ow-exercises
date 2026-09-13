@@ -1,0 +1,15 @@
+id: '4628'
+slug: dumbbell-seated-tuck-twisting-crunch-on-floor
+name: Dumbbell Seated Tuck Twisting Crunch on Floor
+human_readable_ids:
+- DumbbellSeatedTuckTwistingCrunchonFloor
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

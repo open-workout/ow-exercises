@@ -1,0 +1,16 @@
+id: '4754'
+slug: dumbbell-side-squat
+name: Dumbbell Side Squat
+human_readable_ids:
+- DumbbellSideSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

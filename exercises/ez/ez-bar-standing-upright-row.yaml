@@ -1,0 +1,15 @@
+id: '7114'
+slug: ez-bar-standing-upright-row
+name: EZ-Bar Standing Upright Row
+human_readable_ids:
+- EZBarStandingUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

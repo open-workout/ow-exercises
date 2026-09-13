@@ -1,0 +1,15 @@
+id: '11017'
+slug: dumbbell-kneeling-single-arm-shoulder-press
+name: Dumbbell Kneeling Single Arm Shoulder Press
+human_readable_ids:
+- DumbbellKneelingSingleArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

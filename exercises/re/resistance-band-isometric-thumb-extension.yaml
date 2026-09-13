@@ -1,0 +1,15 @@
+id: '9996'
+slug: resistance-band-isometric-thumb-extension
+name: Resistance Band Isometric Thumb Extension
+human_readable_ids:
+- ResistanceBandIsometricThumbExtension
+primary_muscles:
+- hands
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

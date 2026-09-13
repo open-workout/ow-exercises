@@ -1,0 +1,14 @@
+id: '1821'
+slug: elbow-extension-and-supination-pronation-forearm-stretch
+name: Elbow Extension And Supination - Pronation Forearm Stretch
+human_readable_ids:
+- ElbowExtensionAndSupinationPronationForearmStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,18 @@
+id: '3373'
+slug: battling-ropes-inside-circle
+name: Battling Ropes Inside Circle
+human_readable_ids:
+- BattlingRopesInsideCircle
+primary_muscles:
+- back
+- chest
+- shoulders
+- quads
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

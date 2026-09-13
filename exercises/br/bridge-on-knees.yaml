@@ -1,0 +1,15 @@
+id: '0142'
+slug: bridge-on-knees
+name: Bridge (on knees)
+human_readable_ids:
+- Bridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

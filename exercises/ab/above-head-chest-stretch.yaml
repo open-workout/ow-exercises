@@ -1,0 +1,14 @@
+id: '1777'
+slug: above-head-chest-stretch
+name: Above Head Chest Stretch
+human_readable_ids:
+- AboveHeadChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

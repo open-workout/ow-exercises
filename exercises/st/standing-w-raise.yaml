@@ -1,0 +1,14 @@
+id: '3405'
+slug: standing-w-raise
+name: Standing W-raise
+human_readable_ids:
+- StandingWraise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

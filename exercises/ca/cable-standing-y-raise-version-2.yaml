@@ -1,0 +1,15 @@
+id: '8899'
+slug: cable-standing-y-raise-version-2
+name: Cable Standing Y raise (VERSION 2)
+human_readable_ids:
+- CableStandingYraise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

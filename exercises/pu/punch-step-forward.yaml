@@ -1,0 +1,15 @@
+id: '6027'
+slug: punch-step-forward
+name: Punch Step Forward
+human_readable_ids:
+- PunchStepForward
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

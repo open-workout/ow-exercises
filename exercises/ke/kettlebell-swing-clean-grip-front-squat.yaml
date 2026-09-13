@@ -1,0 +1,15 @@
+id: '7563'
+slug: kettlebell-swing-clean-grip-front-squat
+name: Kettlebell Swing Clean grip Front Squat
+human_readable_ids:
+- KettlebellSwingCleangripFrontSquat
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

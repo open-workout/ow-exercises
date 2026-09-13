@@ -1,0 +1,15 @@
+id: '1717'
+slug: cable-squat-row-with-rope-attachment
+name: Cable Squat Row (with rope attachment)
+human_readable_ids:
+- CableSquatRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

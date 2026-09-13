@@ -1,0 +1,15 @@
+id: '3110'
+slug: smith-hip-thrust
+name: Smith Hip Thrust
+human_readable_ids:
+- SmithHipThrust
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

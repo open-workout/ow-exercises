@@ -1,0 +1,15 @@
+id: '2854'
+slug: lying-single-leg-circle
+name: Lying Single Leg Circle
+human_readable_ids:
+- LyingSingleLegCircle
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

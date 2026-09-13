@@ -1,0 +1,15 @@
+id: '10560'
+slug: barbell-bench-press-catch
+name: Barbell Bench Press Catch
+human_readable_ids:
+- BarbellBenchPressCatch
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

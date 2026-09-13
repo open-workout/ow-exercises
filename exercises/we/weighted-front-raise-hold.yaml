@@ -1,0 +1,15 @@
+id: '7588'
+slug: weighted-front-raise-hold
+name: Weighted Front Raise Hold
+human_readable_ids:
+- WeightedFrontRaiseHold
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

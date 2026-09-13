@@ -1,0 +1,15 @@
+id: '9980'
+slug: stick-assisted-standing-shoulder-flexion
+name: Stick Assisted Standing Shoulder Flexion
+human_readable_ids:
+- StickAssistedStandingShoulderFlexion
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

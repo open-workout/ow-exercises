@@ -1,0 +1,15 @@
+id: '1386'
+slug: one-leg-donkey-calf-raise
+name: One Leg Donkey Calf Raise
+human_readable_ids:
+- OneLegDonkeyCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

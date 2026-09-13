@@ -1,0 +1,15 @@
+id: 0598
+slug: lever-seated-hip-adduction
+name: Lever Seated Hip Adduction
+human_readable_ids:
+- LeverSeatedHipAdduction
+primary_muscles:
+- adductors
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

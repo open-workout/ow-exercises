@@ -1,0 +1,15 @@
+id: 0989
+slug: band-one-arm-twisting-chest-press
+name: Band one arm twisting chest press
+human_readable_ids:
+- Bandonearmtwistingchestpress
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

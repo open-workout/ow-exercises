@@ -1,0 +1,15 @@
+id: '7129'
+slug: bodyweight-lying-alternate-legs-curl
+name: Bodyweight Lying Alternate Legs Curl
+human_readable_ids:
+- BodyweightLyingAlternateLegsCurl
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

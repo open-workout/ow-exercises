@@ -1,0 +1,15 @@
+id: '11781'
+slug: jump-stepbox
+name: Jump StepBox
+human_readable_ids:
+- JumpStepBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

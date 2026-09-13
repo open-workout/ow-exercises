@@ -1,0 +1,14 @@
+id: '4404'
+slug: swaying-palm-tree-yoga-pose
+name: Swaying Palm Tree Yoga Pose
+human_readable_ids:
+- SwayingPalmTreeYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

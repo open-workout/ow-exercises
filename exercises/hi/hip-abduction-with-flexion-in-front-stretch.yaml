@@ -1,0 +1,14 @@
+id: '1903'
+slug: hip-abduction-with-flexion-in-front-stretch
+name: Hip Abduction With Flexion In Front Stretch
+human_readable_ids:
+- HipAbductionWithFlexionInFrontStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

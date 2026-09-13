@@ -1,0 +1,15 @@
+id: '0331'
+slug: dumbbell-incline-twisted-flyes
+name: Dumbbell Incline Twisted Flyes
+human_readable_ids:
+- DumbbellInclineTwistedFlyes
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

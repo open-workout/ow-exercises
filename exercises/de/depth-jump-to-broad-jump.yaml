@@ -1,0 +1,15 @@
+id: '4843'
+slug: depth-jump-to-broad-jump
+name: Depth Jump to Broad Jump
+human_readable_ids:
+- DepthJumptoBroadJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

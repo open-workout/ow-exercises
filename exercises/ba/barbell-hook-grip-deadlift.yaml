@@ -1,0 +1,15 @@
+id: '7237'
+slug: barbell-hook-grip-deadlift
+name: Barbell Hook grip Deadlift
+human_readable_ids:
+- BarbellHookgripDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

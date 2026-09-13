@@ -1,0 +1,15 @@
+id: '0330'
+slug: dumbbell-incline-triceps-extension
+name: Dumbbell Incline Triceps Extension
+human_readable_ids:
+- DumbbellInclineTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

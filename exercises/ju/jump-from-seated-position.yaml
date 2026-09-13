@@ -1,0 +1,15 @@
+id: '10053'
+slug: jump-from-seated-position
+name: Jump from Seated Position
+human_readable_ids:
+- JumpfromSeatedPosition
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

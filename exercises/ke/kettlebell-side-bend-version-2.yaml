@@ -1,0 +1,15 @@
+id: '4396'
+slug: kettlebell-side-bend-version-2
+name: Kettlebell Side Bend (VERSION 2)
+human_readable_ids:
+- KettlebellSideBend
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

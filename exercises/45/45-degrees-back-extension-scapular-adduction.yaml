@@ -1,0 +1,15 @@
+id: '8895'
+slug: 45-degrees-back-extension-scapular-adduction
+name: 45 degrees Back Extension Scapular Adduction
+human_readable_ids:
+- 45degreesBackExtensionScapularAdduction
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

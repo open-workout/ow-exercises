@@ -1,0 +1,15 @@
+id: '2986'
+slug: weighted-hammer-grip-pull-up-on-dip-cage
+name: Weighted Hammer Grip Pull-up on Dip Cage
+human_readable_ids:
+- WeightedHammerGripPulluponDipCage
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

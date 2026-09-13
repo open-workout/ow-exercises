@@ -1,0 +1,14 @@
+id: '5373'
+slug: roll-forearms-standing-against-wall
+name: Roll Forearms Standing Against Wall
+human_readable_ids:
+- RollForearmsStandingAgainstWall
+primary_muscles:
+- forearms
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

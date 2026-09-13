@@ -1,0 +1,15 @@
+id: '0451'
+slug: ez-barbell-reverse-grip-curl
+name: EZ Barbell Reverse Grip Curl
+human_readable_ids:
+- EZBarbellReverseGripCurl
+primary_muscles:
+- forearms
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

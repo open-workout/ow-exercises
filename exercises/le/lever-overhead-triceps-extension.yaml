@@ -1,0 +1,15 @@
+id: '7864'
+slug: lever-overhead-triceps-extension
+name: Lever Overhead Triceps Extension
+human_readable_ids:
+- LeverOverheadTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

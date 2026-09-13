@@ -1,0 +1,15 @@
+id: '9676'
+slug: lever-lying-knee-flexion
+name: Lever Lying Knee Flexion
+human_readable_ids:
+- LeverLyingKneeFlexion
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

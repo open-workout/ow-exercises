@@ -1,0 +1,15 @@
+id: '3916'
+slug: handstand-shoulder-press-with-wall-between-benches
+name: Handstand Shoulder Press with Wall (between benches)
+human_readable_ids:
+- HandstandShoulderPresswithWall
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

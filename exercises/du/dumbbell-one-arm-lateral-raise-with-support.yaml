@@ -1,0 +1,15 @@
+id: '0356'
+slug: dumbbell-one-arm-lateral-raise-with-support
+name: Dumbbell One Arm Lateral Raise with support
+human_readable_ids:
+- DumbbellOneArmLateralRaisewithsupport
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

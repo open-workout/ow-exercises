@@ -1,0 +1,19 @@
+id: '1943'
+slug: pigeon-hip-stretch
+name: Pigeon Hip Stretch
+human_readable_ids:
+- PigeonHipStretch
+primary_muscles:
+- adductors
+- back
+- glutes
+- hamstrings
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

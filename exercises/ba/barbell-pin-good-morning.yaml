@@ -1,0 +1,15 @@
+id: '4851'
+slug: barbell-pin-good-morning
+name: Barbell Pin Good Morning
+human_readable_ids:
+- BarbellPinGoodMorning
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

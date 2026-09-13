@@ -1,0 +1,15 @@
+id: 0818
+slug: twin-handle-parallel-grip-lat-pulldown
+name: Twin handle parallel grip lat pulldown
+human_readable_ids:
+- Twinhandleparallelgriplatpulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

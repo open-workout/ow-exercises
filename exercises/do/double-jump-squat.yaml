@@ -1,0 +1,15 @@
+id: '3704'
+slug: double-jump-squat
+name: Double Jump Squat
+human_readable_ids:
+- DoubleJumpSquat
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

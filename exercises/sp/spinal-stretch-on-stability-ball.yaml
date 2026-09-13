@@ -1,0 +1,14 @@
+id: 0779
+slug: spinal-stretch-on-stability-ball
+name: Spinal Stretch (on stability ball)
+human_readable_ids:
+- SpinalStretch
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

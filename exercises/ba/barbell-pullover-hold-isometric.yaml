@@ -1,0 +1,14 @@
+id: '1448'
+slug: barbell-pullover-hold-isometric
+name: Barbell Pullover Hold Isometric
+human_readable_ids:
+- BarbellPulloverHoldIsometric
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

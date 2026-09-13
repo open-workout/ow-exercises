@@ -1,0 +1,14 @@
+id: '2782'
+slug: shoulder-transverse-adduction-articulations
+name: Shoulder - Transverse Adduction - Articulations
+human_readable_ids:
+- ShoulderTransverseAdductionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

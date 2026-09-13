@@ -1,0 +1,15 @@
+id: '4696'
+slug: bar-band-down-to-up-twist
+name: Bar Band Down to Up Twist
+human_readable_ids:
+- BarBandDowntoUpTwist
+primary_muscles:
+- abs
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

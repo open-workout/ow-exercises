@@ -1,0 +1,14 @@
+id: '10656'
+slug: pilates-machine-lying-knee-extension-on-heels
+name: Pilates Machine Lying Knee Extension on Heels
+human_readable_ids:
+- PilatesMachineLyingKneeExtensiononHeels
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

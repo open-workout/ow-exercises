@@ -1,0 +1,16 @@
+id: '4606'
+slug: pvc-overhead-squat
+name: PVC Overhead Squat
+human_readable_ids:
+- PVCOverheadSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

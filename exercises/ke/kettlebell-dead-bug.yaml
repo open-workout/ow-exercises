@@ -1,0 +1,15 @@
+id: '4047'
+slug: kettlebell-dead-bug
+name: Kettlebell Dead Bug
+human_readable_ids:
+- KettlebellDeadBug
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

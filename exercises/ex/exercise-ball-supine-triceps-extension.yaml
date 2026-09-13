@@ -1,0 +1,15 @@
+id: '1746'
+slug: exercise-ball-supine-triceps-extension
+name: Exercise Ball Supine Triceps Extension
+human_readable_ids:
+- ExerciseBallSupineTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

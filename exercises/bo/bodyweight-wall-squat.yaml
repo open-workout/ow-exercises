@@ -1,0 +1,16 @@
+id: '1546'
+slug: bodyweight-wall-squat
+name: Bodyweight Wall Squat
+human_readable_ids:
+- BodyweightWallSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3783'
+slug: dumbbell-archer
+name: Dumbbell Archer
+human_readable_ids:
+- DumbbellArcher
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8083'
+slug: cable-straight-leg-diagonal-kickback
+name: Cable Straight Leg Diagonal Kickback
+human_readable_ids:
+- CableStraightLegDiagonalKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

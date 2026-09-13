@@ -1,0 +1,15 @@
+id: '2523'
+slug: decline-twisting-sit-up
+name: Decline Twisting Sit up
+human_readable_ids:
+- DeclineTwistingSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

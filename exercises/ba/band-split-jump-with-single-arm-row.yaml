@@ -1,0 +1,17 @@
+id: '3781'
+slug: band-split-jump-with-single-arm-row
+name: Band Split Jump with Single Arm Row
+human_readable_ids:
+- BandSplitJumpwithSingleArmRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

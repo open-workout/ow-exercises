@@ -1,0 +1,14 @@
+id: '1577'
+slug: lying-hip-flexor
+name: Lying Hip Flexor
+human_readable_ids:
+- LyingHipFlexor
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4042'
+slug: cable-seated-cross-arm-twist
+name: Cable Seated Cross Arm Twist
+human_readable_ids:
+- CableSeatedCrossArmTwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

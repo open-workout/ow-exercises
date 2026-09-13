@@ -1,0 +1,15 @@
+id: '7412'
+slug: reverse-lunge-high-knee-forward-lunge
+name: Reverse Lunge High Knee Forward Lunge
+human_readable_ids:
+- ReverseLungeHighKneeForwardLunge
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

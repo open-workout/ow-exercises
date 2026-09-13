@@ -1,0 +1,15 @@
+id: '2273'
+slug: right-cross-boxing
+name: Right Cross. Boxing
+human_readable_ids:
+- RightCrossBoxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7154'
+slug: side-shuffle-high-knee
+name: Side Shuffle High Knee
+human_readable_ids:
+- SideShuffleHighKnee
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

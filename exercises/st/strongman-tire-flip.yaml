@@ -1,0 +1,15 @@
+id: '2730'
+slug: strongman-tire-flip
+name: StrongMan Tire Flip
+human_readable_ids:
+- StrongManTireFlip
+primary_muscles:
+- weightlifting
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3344'
+slug: lever-crossovers
+name: Lever Crossovers
+human_readable_ids:
+- LeverCrossovers
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

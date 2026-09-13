@@ -1,0 +1,14 @@
+id: '1962'
+slug: seated-toe-extensor-stretch
+name: Seated Toe Extensor Stretch
+human_readable_ids:
+- SeatedToeExtensorStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

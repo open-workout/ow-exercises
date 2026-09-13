@@ -1,0 +1,15 @@
+id: 0983
+slug: band-kneeling-one-arm-pulldown
+name: Band kneeling one arm pulldown
+human_readable_ids:
+- Bandkneelingonearmpulldown
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

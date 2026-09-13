@@ -1,0 +1,15 @@
+id: '5076'
+slug: dumbbell-overhead-lunge
+name: Dumbbell Overhead Lunge
+human_readable_ids:
+- DumbbellOverheadLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

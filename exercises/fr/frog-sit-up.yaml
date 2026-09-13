@@ -1,0 +1,15 @@
+id: '3889'
+slug: frog-sit-up
+name: Frog Sit-up
+human_readable_ids:
+- FrogSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

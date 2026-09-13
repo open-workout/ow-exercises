@@ -1,0 +1,14 @@
+id: '10557'
+slug: seated-side-to-side-neck-bend-on-chair
+name: Seated Side to Side Neck Bend on Chair
+human_readable_ids:
+- SeatedSidetoSideNeckBendonChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

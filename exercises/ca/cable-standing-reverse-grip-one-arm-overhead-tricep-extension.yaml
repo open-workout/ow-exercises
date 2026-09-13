@@ -1,0 +1,15 @@
+id: '1727'
+slug: cable-standing-reverse-grip-one-arm-overhead-tricep-extension
+name: Cable Standing Reverse Grip One Arm Overhead Tricep Extension
+human_readable_ids:
+- CableStandingReverseGripOneArmOverheadTricepExtension
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

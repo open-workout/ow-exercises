@@ -1,0 +1,15 @@
+id: '11278'
+slug: cable-standing-side-bend-version-3
+name: Cable Standing Side Bend (VERSION 3)
+human_readable_ids:
+- CableStandingSideBend
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

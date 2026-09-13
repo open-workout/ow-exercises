@@ -1,0 +1,16 @@
+id: '4825'
+slug: superman-chest-stretch
+name: Superman Chest Stretch
+human_readable_ids:
+- SupermanChestStretch
+primary_muscles:
+- shoulders
+- back
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

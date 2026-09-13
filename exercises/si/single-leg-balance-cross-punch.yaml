@@ -1,0 +1,15 @@
+id: '5975'
+slug: single-leg-balance-cross-punch
+name: Single Leg Balance Cross Punch
+human_readable_ids:
+- SingleLegBalanceCrossPunch
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5069'
+slug: kettlebell-lunge-with-twist
+name: Kettlebell Lunge with Twist
+human_readable_ids:
+- KettlebellLungewithTwist
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1844'
+slug: extension-and-inclination-neck-stretch
+name: Extension And Inclination Neck Stretch
+human_readable_ids:
+- ExtensionAndInclinationNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

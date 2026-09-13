@@ -1,0 +1,15 @@
+id: '1401'
+slug: muscle-up-on-vertical-bar
+name: Muscle-up (on vertical bar)
+human_readable_ids:
+- Muscleup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

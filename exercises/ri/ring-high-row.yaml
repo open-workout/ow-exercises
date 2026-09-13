@@ -1,0 +1,15 @@
+id: '4921'
+slug: ring-high-row
+name: Ring High Row
+human_readable_ids:
+- RingHighRow
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

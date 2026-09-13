@@ -1,0 +1,15 @@
+id: '11763'
+slug: cable-seated-incline-curl
+name: Cable Seated Incline Curl
+human_readable_ids:
+- CableSeatedInclineCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

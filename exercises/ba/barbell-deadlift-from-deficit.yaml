@@ -1,0 +1,15 @@
+id: '5702'
+slug: barbell-deadlift-from-deficit
+name: Barbell Deadlift from Deficit
+human_readable_ids:
+- BarbellDeadliftfromDeficit
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '9516'
+slug: barbell-elevated-heel-clean-grip-squat
+name: Barbell Elevated Heel Clean Grip Squat
+human_readable_ids:
+- BarbellElevatedHeelCleanGripSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

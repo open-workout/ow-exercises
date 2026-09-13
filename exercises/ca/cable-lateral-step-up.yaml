@@ -1,0 +1,15 @@
+id: '10119'
+slug: cable-lateral-step-up
+name: Cable Lateral Step-up
+human_readable_ids:
+- CableLateralStepup
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

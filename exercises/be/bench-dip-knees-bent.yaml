@@ -1,0 +1,15 @@
+id: 0129
+slug: bench-dip-knees-bent
+name: Bench Dip (knees bent)
+human_readable_ids:
+- BenchDip
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4426'
+slug: dumbbell-lying-wide-grip-row-on-rack
+name: Dumbbell Lying Wide-Grip Row on Rack
+human_readable_ids:
+- DumbbellLyingWideGripRowonRack
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

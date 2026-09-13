@@ -1,0 +1,15 @@
+id: '4820'
+slug: ring-reverse-ab-rollout
+name: Ring Reverse Ab Rollout
+human_readable_ids:
+- RingReverseAbRollout
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

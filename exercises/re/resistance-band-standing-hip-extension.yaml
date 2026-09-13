@@ -1,0 +1,15 @@
+id: '11570'
+slug: resistance-band-standing-hip-extension
+name: Resistance Band Standing Hip Extension
+human_readable_ids:
+- ResistanceBandStandingHipExtension
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

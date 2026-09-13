@@ -1,0 +1,14 @@
+id: '2764'
+slug: elbow-flexion-articulations
+name: Elbow - Flexion - Articulations
+human_readable_ids:
+- ElbowFlexionArticulations
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

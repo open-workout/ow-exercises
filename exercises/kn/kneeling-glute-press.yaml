@@ -1,0 +1,15 @@
+id: '6747'
+slug: kneeling-glute-press
+name: Kneeling Glute Press
+human_readable_ids:
+- KneelingGlutePress
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

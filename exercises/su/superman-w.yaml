@@ -1,0 +1,15 @@
+id: '5049'
+slug: superman-w
+name: Superman W
+human_readable_ids:
+- SupermanW
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

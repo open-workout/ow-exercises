@@ -1,0 +1,16 @@
+id: '0752'
+slug: smith-deadlift
+name: Smith Deadlift
+human_readable_ids:
+- SmithDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

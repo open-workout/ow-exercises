@@ -1,0 +1,15 @@
+id: '3320'
+slug: dumbbell-hammer-grip-incline-bench-two-arm-row
+name: Dumbbell Hammer Grip Incline Bench Two Arm Row
+human_readable_ids:
+- DumbbellHammerGripInclineBenchTwoArmRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

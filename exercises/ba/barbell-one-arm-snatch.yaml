@@ -1,0 +1,15 @@
+id: '0067'
+slug: barbell-one-arm-snatch
+name: Barbell One Arm Snatch
+human_readable_ids:
+- BarbellOneArmSnatch
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '11648'
+slug: floor-w-raise
+name: Floor W Raise
+human_readable_ids:
+- FloorWRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

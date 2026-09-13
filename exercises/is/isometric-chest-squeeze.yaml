@@ -1,0 +1,15 @@
+id: '1297'
+slug: isometric-chest-squeeze
+name: Isometric Chest Squeeze
+human_readable_ids:
+- IsometricChestSqueeze
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

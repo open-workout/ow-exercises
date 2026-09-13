@@ -1,0 +1,14 @@
+id: '2099'
+slug: recumbent-hip-external-rotator-and-hip-extensor-stretch-crossed-leg
+name: Recumbent Hip External Rotator And Hip Extensor Stretch (Crossed Leg)
+human_readable_ids:
+- RecumbentHipExternalRotatorAndHipExtensorStretch2
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

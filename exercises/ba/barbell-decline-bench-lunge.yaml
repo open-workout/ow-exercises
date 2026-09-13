@@ -1,0 +1,15 @@
+id: '1518'
+slug: barbell-decline-bench-lunge
+name: Barbell Decline Bench Lunge
+human_readable_ids:
+- BarbellDeclineBenchLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

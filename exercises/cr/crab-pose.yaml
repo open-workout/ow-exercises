@@ -1,0 +1,14 @@
+id: '5054'
+slug: crab-pose
+name: Crab Pose
+human_readable_ids:
+- CrabPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

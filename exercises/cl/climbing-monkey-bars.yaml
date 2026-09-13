@@ -1,0 +1,15 @@
+id: '4216'
+slug: climbing-monkey-bars
+name: Climbing Monkey Bars
+human_readable_ids:
+- ClimbingMonkeyBars
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0608
+slug: lever-twist
+name: Lever Twist
+human_readable_ids:
+- LeverTwist
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

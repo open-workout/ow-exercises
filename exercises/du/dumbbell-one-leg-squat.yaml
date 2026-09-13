@@ -1,0 +1,15 @@
+id: 0882
+slug: dumbbell-one-leg-squat
+name: Dumbbell one leg squat
+human_readable_ids:
+- Dumbbellonelegsquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4918'
+slug: alternate-high-hop
+name: Alternate High Hop
+human_readable_ids:
+- AlternateHighHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

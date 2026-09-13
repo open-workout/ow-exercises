@@ -1,0 +1,15 @@
+id: '4201'
+slug: barbell-bench-press-against-chains
+name: Barbell Bench Press against Chains
+human_readable_ids:
+- BarbellBenchPressagainstChains
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

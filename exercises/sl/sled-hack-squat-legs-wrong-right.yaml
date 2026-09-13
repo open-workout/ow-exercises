@@ -1,0 +1,15 @@
+id: '2345'
+slug: sled-hack-squat-legs-wrong-right
+name: Sled Hack Squat - Legs (WRONG-RIGHT)
+human_readable_ids:
+- SledHackSquatLegs
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

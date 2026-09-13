@@ -1,0 +1,15 @@
+id: '9409'
+slug: standing-bent-knee-calf-raise-with-a-chair-support
+name: Standing Bent Knee Calf Raise with a Chair Support
+human_readable_ids:
+- StandingBentKneeCalfRaisewithaChairSupport
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

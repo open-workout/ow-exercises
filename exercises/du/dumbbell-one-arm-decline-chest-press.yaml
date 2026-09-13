@@ -1,0 +1,15 @@
+id: '1287'
+slug: dumbbell-one-arm-decline-chest-press
+name: Dumbbell One Arm Decline Chest Press
+human_readable_ids:
+- DumbbellOneArmDeclineChestPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

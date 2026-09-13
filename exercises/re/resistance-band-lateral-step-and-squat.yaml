@@ -1,0 +1,15 @@
+id: '7206'
+slug: resistance-band-lateral-step-and-squat
+name: Resistance Band Lateral Step and Squat
+human_readable_ids:
+- ResistanceBandLateralStepandSquat
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

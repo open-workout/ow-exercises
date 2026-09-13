@@ -1,0 +1,15 @@
+id: '4777'
+slug: reverse-back-extension-on-floor
+name: Reverse Back Extension on Floor
+human_readable_ids:
+- ReverseBackExtensiononFloor
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

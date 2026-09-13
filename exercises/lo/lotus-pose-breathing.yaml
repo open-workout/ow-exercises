@@ -1,0 +1,14 @@
+id: '5885'
+slug: lotus-pose-breathing
+name: Lotus Pose Breathing
+human_readable_ids:
+- LotusPoseBreathing
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

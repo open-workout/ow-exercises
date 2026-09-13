@@ -1,0 +1,15 @@
+id: '6270'
+slug: barbell-larsen-press
+name: Barbell Larsen Press
+human_readable_ids:
+- BarbellLarsenPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

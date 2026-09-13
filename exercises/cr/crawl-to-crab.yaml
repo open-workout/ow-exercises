@@ -1,0 +1,15 @@
+id: '3950'
+slug: crawl-to-crab
+name: Crawl to Crab
+human_readable_ids:
+- CrawltoCrab
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

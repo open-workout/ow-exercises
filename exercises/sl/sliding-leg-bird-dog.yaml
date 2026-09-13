@@ -1,0 +1,15 @@
+id: '4416'
+slug: sliding-leg-bird-dog
+name: Sliding Leg Bird Dog
+human_readable_ids:
+- SlidingLegBirdDog
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

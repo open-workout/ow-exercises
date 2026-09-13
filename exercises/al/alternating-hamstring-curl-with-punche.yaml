@@ -1,0 +1,15 @@
+id: '4437'
+slug: alternating-hamstring-curl-with-punche
+name: Alternating Hamstring Curl with Punche
+human_readable_ids:
+- AlternatingHamstringCurlwithPunche
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

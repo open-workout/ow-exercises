@@ -1,0 +1,15 @@
+id: 0971
+slug: band-assisted-wheel-rollout
+name: Band Assisted Wheel Rollout
+human_readable_ids:
+- BandAssistedWheelRollout
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

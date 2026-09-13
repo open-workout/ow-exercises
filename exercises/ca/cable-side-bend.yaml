@@ -1,0 +1,15 @@
+id: '0222'
+slug: cable-side-bend
+name: Cable Side Bend
+human_readable_ids:
+- CableSideBend
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

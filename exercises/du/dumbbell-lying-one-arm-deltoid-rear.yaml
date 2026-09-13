@@ -1,0 +1,15 @@
+id: '0341'
+slug: dumbbell-lying-one-arm-deltoid-rear
+name: Dumbbell Lying One Arm Deltoid Rear
+human_readable_ids:
+- DumbbellLyingOneArmDeltoidRear
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

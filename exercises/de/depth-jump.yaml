@@ -1,0 +1,15 @@
+id: '4844'
+slug: depth-jump
+name: Depth Jump
+human_readable_ids:
+- DepthJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

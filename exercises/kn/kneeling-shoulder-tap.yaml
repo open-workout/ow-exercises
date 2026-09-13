@@ -1,0 +1,15 @@
+id: '4506'
+slug: kneeling-shoulder-tap
+name: Kneeling Shoulder Tap
+human_readable_ids:
+- KneelingShoulderTap
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

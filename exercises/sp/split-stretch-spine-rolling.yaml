@@ -1,0 +1,14 @@
+id: '11089'
+slug: split-stretch-spine-rolling
+name: Split Stretch Spine Rolling
+human_readable_ids:
+- SplitStretchSpineRolling
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2760'
+slug: resistance-band-hip-thrust
+name: Resistance Band Hip Thrust
+human_readable_ids:
+- ResistanceBandHipThrust
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

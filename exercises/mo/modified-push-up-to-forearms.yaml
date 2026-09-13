@@ -1,0 +1,15 @@
+id: '1421'
+slug: modified-push-up-to-forearms
+name: Modified Push Up to Forearms
+human_readable_ids:
+- ModifiedPushUptoForearms
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

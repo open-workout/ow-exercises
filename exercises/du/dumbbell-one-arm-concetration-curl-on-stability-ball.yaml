@@ -1,0 +1,15 @@
+id: '0353'
+slug: dumbbell-one-arm-concetration-curl-on-stability-ball
+name: Dumbbell One Arm Concetration Curl (on stability ball)
+human_readable_ids:
+- DumbbellOneArmConcetrationCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

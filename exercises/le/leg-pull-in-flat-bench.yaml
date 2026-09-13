@@ -1,0 +1,15 @@
+id: '0570'
+slug: leg-pull-in-flat-bench
+name: Leg Pull In Flat Bench
+human_readable_ids:
+- LegPullInFlatBench
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

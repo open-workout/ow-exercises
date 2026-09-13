@@ -1,0 +1,15 @@
+id: '4215'
+slug: lever-one-arm-low-row-plate-loaded
+name: Lever One Arm Low Row (plate loaded)
+human_readable_ids:
+- LeverOneArmLowRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

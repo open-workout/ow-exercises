@@ -1,0 +1,15 @@
+id: '5873'
+slug: ez-barbell-lying-triceps-extension-5873
+name: EZ Barbell Lying Triceps Extension
+human_readable_ids:
+- EZBarbellLyingTricepsExtension2
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

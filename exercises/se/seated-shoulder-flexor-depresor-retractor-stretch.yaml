@@ -1,0 +1,14 @@
+id: '1975'
+slug: seated-shoulder-flexor-depresor-retractor-stretch
+name: Seated Shoulder Flexor Depresor Retractor Stretch
+human_readable_ids:
+- SeatedShoulderFlexorDepresorRetractorStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

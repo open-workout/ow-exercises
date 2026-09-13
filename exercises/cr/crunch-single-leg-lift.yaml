@@ -1,0 +1,15 @@
+id: '4331'
+slug: crunch-single-leg-lift
+name: Crunch Single Leg Lift
+human_readable_ids:
+- CrunchSingleLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

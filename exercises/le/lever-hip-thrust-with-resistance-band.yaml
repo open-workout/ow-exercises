@@ -1,0 +1,16 @@
+id: '2147'
+slug: lever-hip-thrust-with-resistance-band
+name: Lever Hip Thrust With Resistance Band
+human_readable_ids:
+- LeverHipThrustWithResistanceBand
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

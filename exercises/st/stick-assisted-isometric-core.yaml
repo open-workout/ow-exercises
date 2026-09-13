@@ -1,0 +1,14 @@
+id: '5399'
+slug: stick-assisted-isometric-core
+name: Stick Assisted Isometric Core
+human_readable_ids:
+- StickAssistedIsometricCore
+primary_muscles:
+- abs
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

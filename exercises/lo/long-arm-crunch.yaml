@@ -1,0 +1,15 @@
+id: '4009'
+slug: long-arm-crunch
+name: Long Arm Crunch
+human_readable_ids:
+- LongArmCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

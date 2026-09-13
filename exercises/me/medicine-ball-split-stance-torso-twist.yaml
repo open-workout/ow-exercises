@@ -1,0 +1,15 @@
+id: '10552'
+slug: medicine-ball-split-stance-torso-twist
+name: Medicine Ball Split Stance Torso Twist
+human_readable_ids:
+- MedicineBallSplitStanceTorsoTwist
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

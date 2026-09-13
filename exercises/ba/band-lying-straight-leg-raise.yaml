@@ -1,0 +1,15 @@
+id: '1002'
+slug: band-lying-straight-leg-raise
+name: Band Lying Straight Leg Raise
+human_readable_ids:
+- BandLyingStraightLegRaise
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

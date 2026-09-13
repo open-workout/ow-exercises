@@ -1,0 +1,15 @@
+id: '1519'
+slug: smith-good-morning-off-pins
+name: Smith Good Morning Off Pins
+human_readable_ids:
+- SmithGoodMorningOffPins
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

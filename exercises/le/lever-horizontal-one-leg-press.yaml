@@ -1,0 +1,15 @@
+id: 0883
+slug: lever-horizontal-one-leg-press
+name: Lever Horizontal One leg Press
+human_readable_ids:
+- LeverHorizontalOnelegPress
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

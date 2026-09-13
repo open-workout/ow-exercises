@@ -1,0 +1,15 @@
+id: '3329'
+slug: roman-chair-sit-up
+name: Roman Chair Sit-Up
+human_readable_ids:
+- RomanChairSitUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

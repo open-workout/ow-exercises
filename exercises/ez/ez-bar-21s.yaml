@@ -1,0 +1,15 @@
+id: '5450'
+slug: ez-bar-21s
+name: EZ-bar 21s
+human_readable_ids:
+- EZbar21s
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

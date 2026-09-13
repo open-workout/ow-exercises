@@ -1,0 +1,15 @@
+id: '3578'
+slug: kettlebell-slingshot
+name: Kettlebell Slingshot
+human_readable_ids:
+- KettlebellSlingshot
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

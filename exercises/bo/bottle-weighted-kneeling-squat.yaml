@@ -1,0 +1,15 @@
+id: '6051'
+slug: bottle-weighted-kneeling-squat
+name: Bottle Weighted Kneeling Squat
+human_readable_ids:
+- BottleWeightedKneelingSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

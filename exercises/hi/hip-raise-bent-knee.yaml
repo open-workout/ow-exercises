@@ -1,0 +1,15 @@
+id: 0484
+slug: hip-raise-bent-knee
+name: Hip Raise (bent knee)
+human_readable_ids:
+- HipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '2999'
+slug: resistance-band-standing-back-achilles-stretch
+name: Resistance Band Standing Back Achilles Stretch
+human_readable_ids:
+- ResistanceBandStandingBackAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

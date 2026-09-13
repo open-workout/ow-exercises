@@ -1,0 +1,15 @@
+id: '2325'
+slug: dumbbell-pronated-to-neutral-grip-row
+name: Dumbbell Pronated to Neutral Grip Row
+human_readable_ids:
+- DumbbellPronatedtoNeutralGripRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6262'
+slug: barbell-standing-wrist-curl
+name: Barbell Standing Wrist Curl
+human_readable_ids:
+- BarbellStandingWristCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

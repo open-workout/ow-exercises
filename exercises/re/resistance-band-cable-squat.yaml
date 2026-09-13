@@ -1,0 +1,15 @@
+id: '3857'
+slug: resistance-band-cable-squat
+name: Resistance Band Cable Squat
+human_readable_ids:
+- ResistanceBandCableSquat
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

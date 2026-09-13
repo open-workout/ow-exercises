@@ -1,0 +1,16 @@
+id: '3759'
+slug: lever-seated-good-morning
+name: Lever Seated Good Morning
+human_readable_ids:
+- LeverSeatedGoodMorning
+primary_muscles:
+- back
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

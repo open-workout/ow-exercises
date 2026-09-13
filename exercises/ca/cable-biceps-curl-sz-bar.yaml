@@ -1,0 +1,15 @@
+id: '1607'
+slug: cable-biceps-curl-sz-bar
+name: Cable Biceps Curl (SZ-bar)
+human_readable_ids:
+- CableBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

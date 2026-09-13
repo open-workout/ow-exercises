@@ -1,0 +1,14 @@
+id: '6791'
+slug: shoulder-internal-rotation-test
+name: Shoulder Internal Rotation Test
+human_readable_ids:
+- ShoulderInternalRotationTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0314'
+slug: dumbbell-incline-bench-press
+name: Dumbbell Incline Bench Press
+human_readable_ids:
+- DumbbellInclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

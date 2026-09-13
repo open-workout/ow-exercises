@@ -1,0 +1,14 @@
+id: 0940
+slug: quadriceps-stretch
+name: Quadriceps stretch
+human_readable_ids:
+- Quadricepsstretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

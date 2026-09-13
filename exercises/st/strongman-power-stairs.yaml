@@ -1,0 +1,16 @@
+id: '2725'
+slug: strongman-power-stairs
+name: StrongMan Power Stairs
+human_readable_ids:
+- StrongManPowerStairs
+primary_muscles:
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1102'
+slug: suspension-straight-hip-leg-curl
+name: Suspension Straight Hip Leg Curl
+human_readable_ids:
+- SuspensionStraightHipLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

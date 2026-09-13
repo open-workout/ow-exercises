@@ -1,0 +1,15 @@
+id: '6606'
+slug: smith-curtsey-lunge
+name: Smith Curtsey Lunge
+human_readable_ids:
+- SmithCurtseyLunge
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

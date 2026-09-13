@@ -1,0 +1,15 @@
+id: '3905'
+slug: arm-circles
+name: Arm Circles
+human_readable_ids:
+- ArmCircles
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2939'
+slug: kettlebell-around-head-rotation
+name: Kettlebell Around Head Rotation
+human_readable_ids:
+- KettlebellAroundHeadRotation
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

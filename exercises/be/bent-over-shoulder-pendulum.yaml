@@ -1,0 +1,15 @@
+id: '6438'
+slug: bent-over-shoulder-pendulum
+name: Bent Over Shoulder Pendulum
+human_readable_ids:
+- BentOverShoulderPendulum
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

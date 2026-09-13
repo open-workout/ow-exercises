@@ -1,0 +1,15 @@
+id: '5670'
+slug: barbell-zercher-deadlift
+name: Barbell Zercher Deadlift
+human_readable_ids:
+- BarbellZercherDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0605'
+slug: lever-standing-calf-raise
+name: Lever Standing Calf Raise
+human_readable_ids:
+- LeverStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

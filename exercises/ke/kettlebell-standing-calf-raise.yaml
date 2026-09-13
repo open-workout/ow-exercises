@@ -1,0 +1,15 @@
+id: '5854'
+slug: kettlebell-standing-calf-raise
+name: Kettlebell Standing Calf Raise
+human_readable_ids:
+- KettlebellStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

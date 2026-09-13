@@ -1,0 +1,14 @@
+id: '1388'
+slug: peroneals-stretch
+name: Peroneals Stretch
+human_readable_ids:
+- PeronealsStretch
+primary_muscles:
+- calves
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

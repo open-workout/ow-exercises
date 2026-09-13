@@ -1,0 +1,15 @@
+id: '1736'
+slug: dumbbell-one-arm-french-press-on-exercise-ball
+name: Dumbbell One Arm French Press on Exercise Ball
+human_readable_ids:
+- DumbbellOneArmFrenchPressonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

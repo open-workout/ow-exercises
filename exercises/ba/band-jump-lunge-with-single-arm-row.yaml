@@ -1,0 +1,17 @@
+id: '3782'
+slug: band-jump-lunge-with-single-arm-row
+name: Band Jump Lunge with Single Arm Row
+human_readable_ids:
+- BandJumpLungewithSingleArmRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

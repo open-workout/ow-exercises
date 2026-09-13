@@ -1,0 +1,15 @@
+id: '1614'
+slug: lever-preacher-curl-version-2
+name: Lever Preacher Curl (version 2)
+human_readable_ids:
+- LeverPreacherCurl2
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

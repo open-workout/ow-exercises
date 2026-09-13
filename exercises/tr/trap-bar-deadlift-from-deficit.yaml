@@ -1,0 +1,15 @@
+id: '4105'
+slug: trap-bar-deadlift-from-deficit
+name: Trap Bar Deadlift from Deficit
+human_readable_ids:
+- TrapBarDeadliftfromDeficit
+primary_muscles:
+- glutes
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

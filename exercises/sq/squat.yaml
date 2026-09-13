@@ -1,0 +1,16 @@
+id: 0787
+slug: squat
+name: Squat
+human_readable_ids:
+- Squat3
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

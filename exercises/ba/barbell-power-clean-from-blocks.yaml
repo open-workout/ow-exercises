@@ -1,0 +1,15 @@
+id: '1528'
+slug: barbell-power-clean-from-blocks
+name: Barbell Power Clean from Blocks
+human_readable_ids:
+- BarbellPowerCleanfromBlocks
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

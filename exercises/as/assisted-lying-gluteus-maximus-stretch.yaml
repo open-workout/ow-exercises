@@ -1,0 +1,14 @@
+id: '1709'
+slug: assisted-lying-gluteus-maximus-stretch
+name: Assisted Lying Gluteus Maximus Stretch
+human_readable_ids:
+- AssistedLyingGluteusMaximusStretch
+primary_muscles:
+- glutes
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

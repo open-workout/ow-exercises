@@ -1,0 +1,15 @@
+id: '4788'
+slug: side-split-squat
+name: Side Split Squat
+human_readable_ids:
+- SideSplitSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

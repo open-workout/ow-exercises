@@ -1,0 +1,15 @@
+id: '1415'
+slug: dumbbell-one-arm-seated-neutral-wrist-curl
+name: Dumbbell One Arm Seated Neutral Wrist Curl
+human_readable_ids:
+- DumbbellOneArmSeatedNeutralWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

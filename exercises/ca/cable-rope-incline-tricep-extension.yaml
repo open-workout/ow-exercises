@@ -1,0 +1,15 @@
+id: '1725'
+slug: cable-rope-incline-tricep-extension
+name: Cable Rope Incline Tricep Extension
+human_readable_ids:
+- CableRopeInclineTricepExtension
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

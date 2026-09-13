@@ -1,0 +1,16 @@
+id: '0733'
+slug: single-leg-step-up-0733
+name: Single Leg Step-up
+human_readable_ids:
+- SingleLegStepup
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

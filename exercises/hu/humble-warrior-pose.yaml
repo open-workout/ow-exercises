@@ -1,0 +1,14 @@
+id: '6341'
+slug: humble-warrior-pose
+name: Humble Warrior Pose
+human_readable_ids:
+- HumbleWarriorPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

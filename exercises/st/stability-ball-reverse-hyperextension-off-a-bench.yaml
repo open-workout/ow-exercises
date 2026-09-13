@@ -1,0 +1,16 @@
+id: '3178'
+slug: stability-ball-reverse-hyperextension-off-a-bench
+name: Stability Ball Reverse Hyperextension (off a bench)
+human_readable_ids:
+- StabilityBallReverseHyperextension
+primary_muscles:
+- back
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

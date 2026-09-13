@@ -1,0 +1,15 @@
+id: '1513'
+slug: band-good-morning
+name: Band Good Morning
+human_readable_ids:
+- BandGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

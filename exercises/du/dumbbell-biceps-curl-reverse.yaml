@@ -1,0 +1,15 @@
+id: '1654'
+slug: dumbbell-biceps-curl-reverse
+name: Dumbbell Biceps Curl Reverse
+human_readable_ids:
+- DumbbellBicepsCurlReverse
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

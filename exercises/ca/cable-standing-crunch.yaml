@@ -1,0 +1,15 @@
+id: '0226'
+slug: cable-standing-crunch
+name: Cable Standing Crunch
+human_readable_ids:
+- CableStandingCrunch
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

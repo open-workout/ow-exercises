@@ -1,0 +1,15 @@
+id: '4862'
+slug: barbell-standing-snatch-grip-shrug
+name: Barbell Standing Snatch Grip Shrug
+human_readable_ids:
+- BarbellStandingSnatchGripShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

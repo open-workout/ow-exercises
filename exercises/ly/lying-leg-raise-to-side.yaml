@@ -1,0 +1,15 @@
+id: '3268'
+slug: lying-leg-raise-to-side
+name: Lying Leg Raise to Side
+human_readable_ids:
+- LyingLegRaisetoSide
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

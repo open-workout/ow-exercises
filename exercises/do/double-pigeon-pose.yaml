@@ -1,0 +1,14 @@
+id: '5890'
+slug: double-pigeon-pose
+name: Double Pigeon Pose
+human_readable_ids:
+- DoublePigeonPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

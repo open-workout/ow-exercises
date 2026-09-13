@@ -1,0 +1,15 @@
+id: '10674'
+slug: kettlebell-back-squat
+name: Kettlebell Back Squat
+human_readable_ids:
+- KettlebellBackSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

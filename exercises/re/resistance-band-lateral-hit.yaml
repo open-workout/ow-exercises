@@ -1,0 +1,15 @@
+id: '10594'
+slug: resistance-band-lateral-hit
+name: Resistance Band Lateral Hit
+human_readable_ids:
+- ResistanceBandLateralHit
+primary_muscles:
+- chest
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

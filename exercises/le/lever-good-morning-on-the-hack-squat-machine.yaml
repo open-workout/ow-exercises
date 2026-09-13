@@ -1,0 +1,15 @@
+id: '6733'
+slug: lever-good-morning-on-the-hack-squat-machine
+name: Lever Good Morning on the Hack Squat Machine
+human_readable_ids:
+- LeverGoodMorningontheHackSquatMachine
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

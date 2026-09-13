@@ -1,0 +1,15 @@
+id: '6139'
+slug: squat-mobility-twist
+name: Squat Mobility Twist
+human_readable_ids:
+- SquatMobilityTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

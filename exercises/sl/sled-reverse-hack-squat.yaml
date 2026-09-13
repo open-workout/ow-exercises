@@ -1,0 +1,16 @@
+id: '1583'
+slug: sled-reverse-hack-squat
+name: Sled Reverse Hack Squat
+human_readable_ids:
+- SledReverseHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

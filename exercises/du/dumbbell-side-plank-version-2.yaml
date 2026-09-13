@@ -1,0 +1,15 @@
+id: '10041'
+slug: dumbbell-side-plank-version-2
+name: Dumbbell Side Plank (VERSION 2)
+human_readable_ids:
+- DumbbellSidePlank
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

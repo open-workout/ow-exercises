@@ -1,0 +1,15 @@
+id: '3288'
+slug: korean-dips
+name: Korean dips
+human_readable_ids:
+- Koreandips
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4256'
+slug: stepdown-squat
+name: Stepdown Squat
+human_readable_ids:
+- StepdownSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

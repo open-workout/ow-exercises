@@ -1,0 +1,15 @@
+id: '1565'
+slug: kettlebell-dead-clean
+name: Kettlebell Dead Clean
+human_readable_ids:
+- KettlebellDeadClean
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

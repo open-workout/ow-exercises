@@ -1,0 +1,15 @@
+id: '3546'
+slug: dumbbell-seated-alternate-shoulder
+name: Dumbbell Seated Alternate Shoulder
+human_readable_ids:
+- DumbbellSeatedAlternateShoulder
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

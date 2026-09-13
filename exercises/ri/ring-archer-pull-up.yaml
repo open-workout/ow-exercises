@@ -1,0 +1,15 @@
+id: '7512'
+slug: ring-archer-pull-up
+name: Ring Archer Pull-up
+human_readable_ids:
+- RingArcherPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

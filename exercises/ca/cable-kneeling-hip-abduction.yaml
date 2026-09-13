@@ -1,0 +1,15 @@
+id: '6739'
+slug: cable-kneeling-hip-abduction
+name: Cable Kneeling Hip Abduction
+human_readable_ids:
+- CableKneelingHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

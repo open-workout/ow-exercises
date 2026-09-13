@@ -1,0 +1,15 @@
+id: '3864'
+slug: kettlebell-burpee
+name: Kettlebell Burpee
+human_readable_ids:
+- KettlebellBurpee
+primary_muscles:
+- plyometrics
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

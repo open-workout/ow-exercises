@@ -1,0 +1,15 @@
+id: '5072'
+slug: kettlebell-sit-up-press
+name: Kettlebell Sit-up Press
+human_readable_ids:
+- KettlebellSitupPress
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

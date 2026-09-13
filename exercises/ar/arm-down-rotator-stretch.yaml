@@ -1,0 +1,14 @@
+id: '1987'
+slug: arm-down-rotator-stretch
+name: Arm Down Rotator Stretch
+human_readable_ids:
+- ArmDownRotatorStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

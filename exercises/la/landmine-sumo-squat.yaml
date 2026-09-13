@@ -1,0 +1,16 @@
+id: '4090'
+slug: landmine-sumo-squat
+name: Landmine Sumo Squat
+human_readable_ids:
+- LandmineSumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10046'
+slug: snow-angel-face-to-sky
+name: Snow Angel Face to Sky
+human_readable_ids:
+- SnowAngelFacetoSky
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

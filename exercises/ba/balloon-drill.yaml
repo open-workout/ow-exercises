@@ -1,0 +1,15 @@
+id: '5985'
+slug: balloon-drill
+name: Balloon Drill
+human_readable_ids:
+- BalloonDrill
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9603'
+slug: bodyweight-poliquin-step
+name: Bodyweight Poliquin Step
+human_readable_ids:
+- BodyweightPoliquinStep
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

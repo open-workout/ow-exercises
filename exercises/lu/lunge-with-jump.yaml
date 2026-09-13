@@ -1,0 +1,16 @@
+id: '3582'
+slug: lunge-with-jump
+name: Lunge with Jump
+human_readable_ids:
+- LungewithJump
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

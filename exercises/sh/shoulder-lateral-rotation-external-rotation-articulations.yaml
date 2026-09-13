@@ -1,0 +1,14 @@
+id: '2779'
+slug: shoulder-lateral-rotation-external-rotation-articulations
+name: Shoulder - Lateral Rotation (External Rotation) - Articulations
+human_readable_ids:
+- ShoulderLateralRotationArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1148'
+slug: suspension-supine-plank
+name: Suspension Supine Plank
+human_readable_ids:
+- SuspensionSupinePlank
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

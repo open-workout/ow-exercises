@@ -1,0 +1,16 @@
+id: '0770'
+slug: smith-squat
+name: Smith Squat
+human_readable_ids:
+- SmithSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

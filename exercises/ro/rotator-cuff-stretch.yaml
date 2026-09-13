@@ -1,0 +1,14 @@
+id: '1984'
+slug: rotator-cuff-stretch
+name: Rotator Cuff Stretch
+human_readable_ids:
+- RotatorCuffStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

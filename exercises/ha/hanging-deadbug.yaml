@@ -1,0 +1,15 @@
+id: '4373'
+slug: hanging-deadbug
+name: Hanging Deadbug
+human_readable_ids:
+- HangingDeadbug
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

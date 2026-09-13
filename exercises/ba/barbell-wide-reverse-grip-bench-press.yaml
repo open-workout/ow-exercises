@@ -1,0 +1,15 @@
+id: '1258'
+slug: barbell-wide-reverse-grip-bench-press
+name: Barbell Wide Reverse Grip Bench Press
+human_readable_ids:
+- BarbellWideReverseGripBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1834'
+slug: neck-protraction-stretch
+name: Neck Protraction Stretch
+human_readable_ids:
+- NeckProtractionStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

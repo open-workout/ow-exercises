@@ -1,0 +1,15 @@
+id: '4374'
+slug: cable-standing-alternate-low-fly
+name: Cable Standing Alternate Low Fly
+human_readable_ids:
+- CableStandingAlternateLowFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

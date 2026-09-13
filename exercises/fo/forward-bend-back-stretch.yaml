@@ -1,0 +1,14 @@
+id: '6764'
+slug: forward-bend-back-stretch
+name: Forward Bend Back Stretch
+human_readable_ids:
+- ForwardBendBackStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

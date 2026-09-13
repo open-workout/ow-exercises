@@ -1,0 +1,15 @@
+id: '11271'
+slug: cable-standing-torso-twist-version-3
+name: Cable Standing Torso Twist (VERSION 3)
+human_readable_ids:
+- CableStandingTorsoTwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

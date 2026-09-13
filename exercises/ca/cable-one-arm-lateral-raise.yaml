@@ -1,0 +1,15 @@
+id: 0192
+slug: cable-one-arm-lateral-raise
+name: Cable One Arm Lateral Raise
+human_readable_ids:
+- CableOneArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

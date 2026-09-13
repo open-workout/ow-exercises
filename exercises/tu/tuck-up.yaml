@@ -1,0 +1,15 @@
+id: '3969'
+slug: tuck-up
+name: Tuck Up
+human_readable_ids:
+- TuckUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

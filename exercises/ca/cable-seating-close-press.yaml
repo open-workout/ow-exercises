@@ -1,0 +1,15 @@
+id: '3364'
+slug: cable-seating-close-press
+name: Cable Seating Close Press
+human_readable_ids:
+- CableSeatingClosePress
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

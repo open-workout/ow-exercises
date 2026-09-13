@@ -1,0 +1,15 @@
+id: 0080
+slug: barbell-reverse-curl
+name: Barbell Reverse Curl
+human_readable_ids:
+- BarbellReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

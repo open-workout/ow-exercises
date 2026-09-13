@@ -1,0 +1,14 @@
+id: 0719
+slug: side-stretch-crunch
+name: Side Stretch Crunch
+human_readable_ids:
+- SideStretchCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

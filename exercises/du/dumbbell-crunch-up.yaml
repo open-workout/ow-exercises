@@ -1,0 +1,15 @@
+id: '4624'
+slug: dumbbell-crunch-up
+name: Dumbbell Crunch Up
+human_readable_ids:
+- DumbbellCrunchUp
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '2290'
+slug: dumbbell-bulgarian-split-squat
+name: Dumbbell Bulgarian Split Squat
+human_readable_ids:
+- DumbbellBulgarianSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

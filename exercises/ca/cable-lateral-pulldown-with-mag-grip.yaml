@@ -1,0 +1,15 @@
+id: '6392'
+slug: cable-lateral-pulldown-with-mag-grip
+name: Cable Lateral Pulldown with Mag Grip
+human_readable_ids:
+- CableLateralPulldownwithMagGrip
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

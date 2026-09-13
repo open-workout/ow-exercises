@@ -1,0 +1,16 @@
+id: '3496'
+slug: lying-straight-leg-marches
+name: Lying Straight Leg Marches
+human_readable_ids:
+- LyingStraightLegMarches
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

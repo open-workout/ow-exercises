@@ -1,0 +1,15 @@
+id: '3745'
+slug: overhead-triceps-extension-with-bed-sheet
+name: Overhead Triceps Extension with Bed Sheet
+human_readable_ids:
+- OverheadTricepsExtensionwithBedSheet
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4876'
+slug: prayer-push
+name: Prayer Push
+human_readable_ids:
+- PrayerPush
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

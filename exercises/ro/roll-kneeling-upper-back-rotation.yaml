@@ -1,0 +1,14 @@
+id: '5388'
+slug: roll-kneeling-upper-back-rotation
+name: Roll Kneeling Upper Back Rotation
+human_readable_ids:
+- RollKneelingUpperBackRotation
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1107'
+slug: suspension-y-lateral-raise
+name: Suspension Y Lateral Raise
+human_readable_ids:
+- SuspensionYLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

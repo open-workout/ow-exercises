@@ -1,0 +1,15 @@
+id: '4445'
+slug: resistance-band-seated-face-pull
+name: Resistance Band Seated Face Pull
+human_readable_ids:
+- ResistanceBandSeatedFacePull
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

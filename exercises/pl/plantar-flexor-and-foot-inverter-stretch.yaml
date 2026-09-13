@@ -1,0 +1,14 @@
+id: '1927'
+slug: plantar-flexor-and-foot-inverter-stretch
+name: Plantar Flexor And Foot Inverter Stretch
+human_readable_ids:
+- PlantarFlexorAndFootInverterStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

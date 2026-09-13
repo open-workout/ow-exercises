@@ -1,0 +1,15 @@
+id: '2462'
+slug: chest-dip-on-straight-bar
+name: Chest Dip on Straight Bar
+human_readable_ids:
+- ChestDiponStraightBar
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

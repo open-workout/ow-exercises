@@ -1,0 +1,15 @@
+id: '2330'
+slug: cable-lat-pulldown-full-range-of-motion
+name: Cable Lat Pulldown Full Range Of Motion
+human_readable_ids:
+- CableLatPulldownFullRangeOfMotion
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

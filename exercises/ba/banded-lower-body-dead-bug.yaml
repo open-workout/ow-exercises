@@ -1,0 +1,15 @@
+id: '4839'
+slug: banded-lower-body-dead-bug
+name: Banded Lower Body Dead Bug
+human_readable_ids:
+- BandedLowerBodyDeadBug
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

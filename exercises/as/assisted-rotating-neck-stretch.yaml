@@ -1,0 +1,14 @@
+id: '1843'
+slug: assisted-rotating-neck-stretch
+name: Assisted Rotating Neck Stretch
+human_readable_ids:
+- AssistedRotatingNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

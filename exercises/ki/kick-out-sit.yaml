@@ -1,0 +1,16 @@
+id: '0555'
+slug: kick-out-sit
+name: Kick out Sit
+human_readable_ids:
+- KickoutSit
+primary_muscles:
+- hamstrings
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

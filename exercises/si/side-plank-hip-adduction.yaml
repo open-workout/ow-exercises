@@ -1,0 +1,17 @@
+id: '1775'
+slug: side-plank-hip-adduction
+name: Side Plank Hip Adduction
+human_readable_ids:
+- SidePlankHipAdduction
+primary_muscles:
+- adductors
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

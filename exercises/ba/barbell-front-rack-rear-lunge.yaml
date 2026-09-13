@@ -1,0 +1,15 @@
+id: '4390'
+slug: barbell-front-rack-rear-lunge
+name: Barbell Front Rack Rear Lunge
+human_readable_ids:
+- BarbellFrontRackRearLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

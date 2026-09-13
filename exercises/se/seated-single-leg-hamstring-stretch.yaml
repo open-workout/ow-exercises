@@ -1,0 +1,14 @@
+id: 0692
+slug: seated-single-leg-hamstring-stretch
+name: Seated Single Leg Hamstring Stretch
+human_readable_ids:
+- SeatedSingleLegHamstringStretch
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

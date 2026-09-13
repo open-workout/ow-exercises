@@ -1,0 +1,15 @@
+id: '3828'
+slug: bent-over-row-with-towel
+name: Bent-Over Row with Towel
+human_readable_ids:
+- BentOverRowwithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1452'
+slug: lever-seated-crunch
+name: Lever Seated Crunch
+human_readable_ids:
+- LeverSeatedCrunch2
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6327'
+slug: bodyweight-low-split-squat
+name: Bodyweight Low Split Squat
+human_readable_ids:
+- BodyweightLowSplitSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

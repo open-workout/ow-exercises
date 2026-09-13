@@ -1,0 +1,15 @@
+id: '11800'
+slug: dumbbell-lying-single-straight-arm-press-on-floor
+name: Dumbbell Lying Single Straight Arm Press on Floor
+human_readable_ids:
+- DumbbellLyingSingleStraightArmPressonFloor
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

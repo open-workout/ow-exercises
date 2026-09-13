@@ -1,0 +1,15 @@
+id: '3831'
+slug: lying-single-legs-reverse-biceps-curl-with-towel
+name: Lying Single Legs Reverse Biceps Curl with Towel
+human_readable_ids:
+- LyingSingleLegsReverseBicepsCurlwithTowel
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

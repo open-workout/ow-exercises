@@ -1,0 +1,15 @@
+id: '0552'
+slug: kettlebell-two-arm-clean
+name: Kettlebell Two Arm Clean
+human_readable_ids:
+- KettlebellTwoArmClean
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

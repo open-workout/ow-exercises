@@ -1,0 +1,15 @@
+id: '11567'
+slug: lever-lying-leg-curl-to-reverse-hyperextension
+name: Lever Lying Leg Curl to Reverse Hyperextension
+human_readable_ids:
+- LeverLyingLegCurltoReverseHyperextension
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

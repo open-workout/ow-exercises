@@ -1,0 +1,15 @@
+id: '1030'
+slug: lever-pec-deck-fly
+name: Lever Pec Deck Fly
+human_readable_ids:
+- LeverPecDeckFly
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

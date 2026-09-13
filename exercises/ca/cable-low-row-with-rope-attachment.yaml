@@ -1,0 +1,15 @@
+id: '4391'
+slug: cable-low-row-with-rope-attachment
+name: Cable Low Row with Rope Attachment
+human_readable_ids:
+- CableLowRowwithRopeAttachment
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8221'
+slug: dumbbell-lateral-raise-plank
+name: Dumbbell Lateral Raise Plank
+human_readable_ids:
+- DumbbellLateralRaisePlank
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

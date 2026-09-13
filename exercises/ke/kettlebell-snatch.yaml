@@ -1,0 +1,15 @@
+id: '4532'
+slug: kettlebell-snatch
+name: Kettlebell Snatch
+human_readable_ids:
+- KettlebellSnatch
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

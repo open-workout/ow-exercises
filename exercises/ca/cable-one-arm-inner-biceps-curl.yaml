@@ -1,0 +1,15 @@
+id: '1203'
+slug: cable-one-arm-inner-biceps-curl
+name: Cable one arm inner biceps curl
+human_readable_ids:
+- Cableonearminnerbicepscurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

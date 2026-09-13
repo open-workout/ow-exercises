@@ -1,0 +1,15 @@
+id: 0698
+slug: shoulder-press-with-band
+name: Shoulder Press (with band)
+human_readable_ids:
+- ShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

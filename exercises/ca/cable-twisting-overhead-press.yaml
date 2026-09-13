@@ -1,0 +1,15 @@
+id: '1209'
+slug: cable-twisting-overhead-press
+name: Cable twisting overhead press
+human_readable_ids:
+- Cabletwistingoverheadpress
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

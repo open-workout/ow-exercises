@@ -1,0 +1,15 @@
+id: '1659'
+slug: dumbbell-hammer-curl-on-exercise-ball
+name: Dumbbell Hammer Curl on Exercise Ball
+human_readable_ids:
+- DumbbellHammerCurlonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

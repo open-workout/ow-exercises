@@ -1,0 +1,15 @@
+id: 0609
+slug: london-bridge
+name: London Bridge
+human_readable_ids:
+- LondonBridge
+primary_muscles:
+- back
+equipment:
+- rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

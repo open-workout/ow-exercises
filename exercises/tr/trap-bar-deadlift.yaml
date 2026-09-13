@@ -1,0 +1,16 @@
+id: 0811
+slug: trap-bar-deadlift
+name: Trap Bar Deadlift
+human_readable_ids:
+- TrapBarDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '4601'
+slug: open-book-stretch
+name: Open Book Stretch
+human_readable_ids:
+- OpenBookStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

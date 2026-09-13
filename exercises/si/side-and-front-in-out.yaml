@@ -1,0 +1,15 @@
+id: '6803'
+slug: side-and-front-in-out
+name: Side and Front In Out
+human_readable_ids:
+- SideandFrontInOut
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

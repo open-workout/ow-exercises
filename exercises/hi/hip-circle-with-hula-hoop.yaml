@@ -1,0 +1,15 @@
+id: '5526'
+slug: hip-circle-with-hula-hoop
+name: Hip Circle with Hula Hoop
+human_readable_ids:
+- HipCirclewithHulaHoop
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

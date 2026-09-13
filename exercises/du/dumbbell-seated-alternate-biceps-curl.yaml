@@ -1,0 +1,15 @@
+id: '3761'
+slug: dumbbell-seated-alternate-biceps-curl
+name: Dumbbell Seated Alternate Biceps Curl
+human_readable_ids:
+- DumbbellSeatedAlternateBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

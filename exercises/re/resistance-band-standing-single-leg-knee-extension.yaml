@@ -1,0 +1,14 @@
+id: '10536'
+slug: resistance-band-standing-single-leg-knee-extension
+name: Resistance Band Standing Single Leg Knee Extension
+human_readable_ids:
+- ResistanceBandStandingSingleLegKneeExtension
+primary_muscles:
+- stretching
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

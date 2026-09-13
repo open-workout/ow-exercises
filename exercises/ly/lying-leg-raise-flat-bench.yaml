@@ -1,0 +1,15 @@
+id: '0620'
+slug: lying-leg-raise-flat-bench
+name: Lying Leg Raise Flat Bench
+human_readable_ids:
+- LyingLegRaiseFlatBench
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: 0946
+slug: crane-pose-bakasana
+name: Crane Pose Bakasana
+human_readable_ids:
+- CranePoseBakasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5068'
+slug: weighted-incline-svend-press
+name: Weighted Incline Svend Press
+human_readable_ids:
+- WeightedInclineSvendPress
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

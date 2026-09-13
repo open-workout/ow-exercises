@@ -1,0 +1,15 @@
+id: 0691
+slug: seated-side-crunch-wall
+name: Seated Side Crunch (Wall)
+human_readable_ids:
+- SeatedSideCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

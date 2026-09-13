@@ -1,0 +1,15 @@
+id: '10014'
+slug: ball-assisted-lying-supine-hip-adduction
+name: Ball Assisted Lying Supine Hip Adduction
+human_readable_ids:
+- BallAssistedLyingSupineHipAdduction
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

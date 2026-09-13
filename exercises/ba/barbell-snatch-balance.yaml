@@ -1,0 +1,15 @@
+id: '1534'
+slug: barbell-snatch-balance
+name: Barbell Snatch Balance
+human_readable_ids:
+- BarbellSnatchBalance
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5349'
+slug: lever-abduction-leg-raise
+name: Lever Abduction Leg Raise
+human_readable_ids:
+- LeverAbductionLegRaise
+primary_muscles:
+- glutes
+- abs
+equipment:
+- leverage-machine
+modalities:
+- time
+load:
+  required: true
+  direction: added

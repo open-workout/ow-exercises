@@ -1,0 +1,15 @@
+id: '4919'
+slug: kneeling-assisted-sliding-chin-up
+name: Kneeling Assisted Sliding Chin-up
+human_readable_ids:
+- KneelingAssistedSlidingChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

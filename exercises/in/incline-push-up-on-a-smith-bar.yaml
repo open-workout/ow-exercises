@@ -1,0 +1,15 @@
+id: '6550'
+slug: incline-push-up-on-a-smith-bar
+name: Incline Push-up on a Smith Bar
+human_readable_ids:
+- InclinePushuponaSmithBar
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

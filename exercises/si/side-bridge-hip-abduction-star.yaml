@@ -1,0 +1,16 @@
+id: '0703'
+slug: side-bridge-hip-abduction-star
+name: Side Bridge Hip Abduction (star)
+human_readable_ids:
+- SideBridgeHipAbduction
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

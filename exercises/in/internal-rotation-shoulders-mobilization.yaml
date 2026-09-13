@@ -1,0 +1,14 @@
+id: '11785'
+slug: internal-rotation-shoulders-mobilization
+name: Internal Rotation Shoulders Mobilization
+human_readable_ids:
+- InternalRotationShouldersMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

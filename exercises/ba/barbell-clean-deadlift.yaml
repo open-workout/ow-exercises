@@ -1,0 +1,15 @@
+id: '1515'
+slug: barbell-clean-deadlift
+name: Barbell Clean Deadlift
+human_readable_ids:
+- BarbellCleanDeadlift
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

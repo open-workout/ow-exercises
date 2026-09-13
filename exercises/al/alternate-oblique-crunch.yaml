@@ -1,0 +1,15 @@
+id: '4354'
+slug: alternate-oblique-crunch
+name: Alternate Oblique Crunch
+human_readable_ids:
+- AlternateObliqueCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

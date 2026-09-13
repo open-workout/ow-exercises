@@ -1,0 +1,15 @@
+id: '2740'
+slug: wide-push-up-wall
+name: Wide Push-up (wall)
+human_readable_ids:
+- WidePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9874'
+slug: cable-lying-single-arm-cross-lateral-raise
+name: Cable Lying Single Arm Cross Lateral Raise
+human_readable_ids:
+- CableLyingSingleArmCrossLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

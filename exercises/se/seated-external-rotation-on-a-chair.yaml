@@ -1,0 +1,15 @@
+id: '8617'
+slug: seated-external-rotation-on-a-chair
+name: Seated External Rotation on a Chair
+human_readable_ids:
+- SeatedExternalRotationonaChair
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

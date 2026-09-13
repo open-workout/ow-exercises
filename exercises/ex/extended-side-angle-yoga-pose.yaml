@@ -1,0 +1,14 @@
+id: '5220'
+slug: extended-side-angle-yoga-pose
+name: Extended Side Angle Yoga Pose
+human_readable_ids:
+- ExtendedSideAngleYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

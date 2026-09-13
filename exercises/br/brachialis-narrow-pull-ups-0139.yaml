@@ -1,0 +1,15 @@
+id: 0139
+slug: brachialis-narrow-pull-ups-0139
+name: Brachialis Narrow Pull-ups
+human_readable_ids:
+- BrachialisNarrowPullups
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

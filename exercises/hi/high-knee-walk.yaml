@@ -1,0 +1,15 @@
+id: '10759'
+slug: high-knee-walk
+name: High Knee Walk
+human_readable_ids:
+- HighKneeWalk
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4846'
+slug: kettlebell-lying-on-floor-single-arm-bottoms-up-chest-press
+name: Kettlebell Lying on Floor Single Arm Bottoms-up Chest Press
+human_readable_ids:
+- KettlebellLyingonFloorSingleArmBottomsupChestPress
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

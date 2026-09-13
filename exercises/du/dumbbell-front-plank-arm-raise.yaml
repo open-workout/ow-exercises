@@ -1,0 +1,15 @@
+id: '4622'
+slug: dumbbell-front-plank-arm-raise
+name: Dumbbell Front Plank Arm Raise
+human_readable_ids:
+- DumbbellFrontPlankArmRaise
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

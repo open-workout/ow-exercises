@@ -1,0 +1,17 @@
+id: '3565'
+slug: bridge-pose-yoga-stretch
+name: Bridge Pose Yoga Stretch
+human_readable_ids:
+- BridgePoseYogaStretch
+primary_muscles:
+- glutes
+- quads
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

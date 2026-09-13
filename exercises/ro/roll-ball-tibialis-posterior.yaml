@@ -1,0 +1,14 @@
+id: '4467'
+slug: roll-ball-tibialis-posterior
+name: Roll Ball Tibialis Posterior
+human_readable_ids:
+- RollBallTibialisPosterior
+primary_muscles:
+- calves
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

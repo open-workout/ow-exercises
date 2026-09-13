@@ -1,0 +1,15 @@
+id: '2289'
+slug: lever-calf-press-plate-loaded
+name: Lever Calf Press (plate loaded)
+human_readable_ids:
+- LeverCalfPress
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

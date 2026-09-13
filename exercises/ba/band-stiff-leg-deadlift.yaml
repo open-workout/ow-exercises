@@ -1,0 +1,15 @@
+id: '1009'
+slug: band-stiff-leg-deadlift
+name: Band stiff leg deadlift
+human_readable_ids:
+- Bandstifflegdeadlift
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

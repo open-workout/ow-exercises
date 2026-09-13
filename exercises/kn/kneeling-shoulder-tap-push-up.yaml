@@ -1,0 +1,15 @@
+id: '4658'
+slug: kneeling-shoulder-tap-push-up
+name: Kneeling Shoulder Tap Push-up
+human_readable_ids:
+- KneelingShoulderTapPushup
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

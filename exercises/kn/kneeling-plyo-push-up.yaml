@@ -1,0 +1,15 @@
+id: '10882'
+slug: kneeling-plyo-push-up
+name: Kneeling Plyo Push-up
+human_readable_ids:
+- KneelingPlyoPushup
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

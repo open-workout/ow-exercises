@@ -1,0 +1,14 @@
+id: '3130'
+slug: scapula-elevation-depression
+name: Scapula Elevation Depression
+human_readable_ids:
+- ScapulaElevationDepression
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0934
+slug: band-upright-row
+name: Band upright row
+human_readable_ids:
+- Banduprightrow
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

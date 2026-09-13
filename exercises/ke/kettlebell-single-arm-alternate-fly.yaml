@@ -1,0 +1,15 @@
+id: '11284'
+slug: kettlebell-single-arm-alternate-fly
+name: Kettlebell Single Arm Alternate Fly
+human_readable_ids:
+- KettlebellSingleArmAlternateFly
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

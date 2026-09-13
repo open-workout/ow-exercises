@@ -1,0 +1,15 @@
+id: '1345'
+slug: kettlebell-two-arm-row
+name: Kettlebell Two Arm Row
+human_readable_ids:
+- KettlebellTwoArmRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

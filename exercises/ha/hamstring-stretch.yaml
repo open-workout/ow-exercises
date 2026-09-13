@@ -1,0 +1,14 @@
+id: '1511'
+slug: hamstring-stretch
+name: Hamstring Stretch
+human_readable_ids:
+- HamstringStretch
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9310'
+slug: standing-isometric-hold-calf-raise
+name: Standing Isometric Hold Calf Raise
+human_readable_ids:
+- StandingIsometricHoldCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

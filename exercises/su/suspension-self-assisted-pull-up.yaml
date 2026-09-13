@@ -1,0 +1,15 @@
+id: '1094'
+slug: suspension-self-assisted-pull-up
+name: Suspension Self assisted Pull-up
+human_readable_ids:
+- SuspensionSelfassistedPullup
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

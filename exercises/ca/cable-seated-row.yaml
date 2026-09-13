@@ -1,0 +1,15 @@
+id: 0861
+slug: cable-seated-row
+name: Cable seated row
+human_readable_ids:
+- Cableseatedrow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

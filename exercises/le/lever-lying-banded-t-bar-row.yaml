@@ -1,0 +1,15 @@
+id: '4062'
+slug: lever-lying-banded-t-bar-row
+name: Lever Lying Banded T-bar Row
+human_readable_ids:
+- LeverLyingBandedTbarRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

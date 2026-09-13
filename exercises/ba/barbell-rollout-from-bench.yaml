@@ -1,0 +1,15 @@
+id: 0083
+slug: barbell-rollout-from-bench
+name: Barbell Rollout from Bench
+human_readable_ids:
+- BarbellRolloutfromBench
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

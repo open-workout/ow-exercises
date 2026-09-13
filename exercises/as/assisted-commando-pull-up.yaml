@@ -1,0 +1,16 @@
+id: '4717'
+slug: assisted-commando-pull-up
+name: Assisted Commando Pull-up
+human_readable_ids:
+- AssistedCommandoPullup
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

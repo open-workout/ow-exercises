@@ -1,0 +1,14 @@
+id: '5147'
+slug: resistance-band-assisted-front-rack-stretch
+name: Resistance Band Assisted Front Rack Stretch
+human_readable_ids:
+- ResistanceBandAssistedFrontRackStretch
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

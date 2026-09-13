@@ -1,0 +1,15 @@
+id: '6068'
+slug: bottle-weighted-alternate-biceps-curl
+name: Bottle Weighted Alternate Biceps Curl
+human_readable_ids:
+- BottleWeightedAlternateBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

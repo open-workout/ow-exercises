@@ -1,0 +1,15 @@
+id: '6986'
+slug: downward-dog-push-up-against-wall
+name: Downward Dog Push-up against Wall
+human_readable_ids:
+- DownwardDogPushupagainstWall
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

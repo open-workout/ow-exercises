@@ -1,0 +1,16 @@
+id: '5402'
+slug: stick-lunge-with-overhead-raise-stretch
+name: Stick Lunge with Overhead Raise Stretch
+human_readable_ids:
+- StickLungewithOverheadRaiseStretch
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0296
+slug: dumbbell-close-grip-press-0296
+name: Dumbbell Close-grip Press
+human_readable_ids:
+- DumbbellClosegripPress
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

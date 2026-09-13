@@ -1,0 +1,15 @@
+id: 0568
+slug: leg-bench-side-bridge
+name: Leg Bench Side Bridge
+human_readable_ids:
+- LegBenchSideBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

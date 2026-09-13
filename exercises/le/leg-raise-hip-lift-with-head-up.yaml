@@ -1,0 +1,15 @@
+id: '1855'
+slug: leg-raise-hip-lift-with-head-up
+name: Leg Raise Hip Lift with Head up
+human_readable_ids:
+- LegRaiseHipLiftwithHeadup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

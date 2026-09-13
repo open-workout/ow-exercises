@@ -1,0 +1,15 @@
+id: '10200'
+slug: dumbbell-kneeling-around-head-rotation
+name: Dumbbell Kneeling Around Head Rotation
+human_readable_ids:
+- DumbbellKneelingAroundHeadRotation
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0700'
+slug: side-bend-on-stability-ball
+name: Side Bend (on stability ball)
+human_readable_ids:
+- SideBend
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

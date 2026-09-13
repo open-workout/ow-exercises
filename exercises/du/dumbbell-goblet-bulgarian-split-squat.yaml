@@ -1,0 +1,15 @@
+id: '7549'
+slug: dumbbell-goblet-bulgarian-split-squat
+name: Dumbbell Goblet Bulgarian Split Squat
+human_readable_ids:
+- DumbbellGobletBulgarianSplitSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

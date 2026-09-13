@@ -1,0 +1,15 @@
+id: '1316'
+slug: barbell-bent-arm-pullover
+name: Barbell Bent Arm Pullover
+human_readable_ids:
+- BarbellBentArmPullover
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

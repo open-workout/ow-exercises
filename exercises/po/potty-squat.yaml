@@ -1,0 +1,15 @@
+id: '3118'
+slug: potty-squat
+name: Potty Squat
+human_readable_ids:
+- PottySquat
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1077'
+slug: suspension-hip-abduction
+name: Suspension Hip Abduction
+human_readable_ids:
+- SuspensionHipAbduction
+primary_muscles:
+- glutes
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

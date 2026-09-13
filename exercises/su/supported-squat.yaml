@@ -1,0 +1,15 @@
+id: '4797'
+slug: supported-squat
+name: Supported Squat
+human_readable_ids:
+- SupportedSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

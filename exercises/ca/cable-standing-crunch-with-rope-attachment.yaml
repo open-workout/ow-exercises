@@ -1,0 +1,15 @@
+id: 0874
+slug: cable-standing-crunch-with-rope-attachment
+name: Cable Standing Crunch (with rope attachment)
+human_readable_ids:
+- CableStandingCrunch2
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

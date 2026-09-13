@@ -1,0 +1,15 @@
+id: '10987'
+slug: dumbbell-jump-box
+name: Dumbbell Jump Box
+human_readable_ids:
+- DumbbellJumpBox
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5867'
+slug: kettlebell-bent-over-alternate-twist-row
+name: Kettlebell Bent over Alternate Twist Row
+human_readable_ids:
+- KettlebellBentoverAlternateTwistRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

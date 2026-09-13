@@ -1,0 +1,15 @@
+id: '0727'
+slug: single-leg-calf-raise-on-a-dumbbell
+name: Single Leg Calf Raise (on a dumbbell)
+human_readable_ids:
+- SingleLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

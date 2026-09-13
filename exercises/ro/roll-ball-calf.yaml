@@ -1,0 +1,14 @@
+id: '4465'
+slug: roll-ball-calf
+name: Roll Ball Calf
+human_readable_ids:
+- RollBallCalf
+primary_muscles:
+- calves
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

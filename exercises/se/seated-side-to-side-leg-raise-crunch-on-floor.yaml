@@ -1,0 +1,15 @@
+id: '3978'
+slug: seated-side-to-side-leg-raise-crunch-on-floor
+name: Seated Side-to-Side Leg Raise Crunch on Floor
+human_readable_ids:
+- SeatedSidetoSideLegRaiseCrunchonFloor
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

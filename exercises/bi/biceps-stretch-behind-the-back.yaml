@@ -1,0 +1,14 @@
+id: '1480'
+slug: biceps-stretch-behind-the-back
+name: Biceps Stretch Behind The Back
+human_readable_ids:
+- BicepsStretchBehindTheBack
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1604'
+slug: world-greatest-stretch
+name: World Greatest Stretch
+human_readable_ids:
+- WorldGreatestStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

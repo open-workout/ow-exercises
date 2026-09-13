@@ -1,0 +1,15 @@
+id: '4224'
+slug: cable-lying-pallof-press
+name: Cable Lying Pallof Press
+human_readable_ids:
+- CableLyingPallofPress
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

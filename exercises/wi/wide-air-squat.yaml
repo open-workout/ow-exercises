@@ -1,0 +1,15 @@
+id: '4805'
+slug: wide-air-squat
+name: Wide Air Squat
+human_readable_ids:
+- WideAirSquat
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

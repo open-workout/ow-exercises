@@ -1,0 +1,15 @@
+id: 0438
+slug: dumbbell-w-press-0438
+name: Dumbbell W-press
+human_readable_ids:
+- DumbbellWpress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

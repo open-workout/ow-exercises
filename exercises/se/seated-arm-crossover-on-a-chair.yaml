@@ -1,0 +1,15 @@
+id: '8619'
+slug: seated-arm-crossover-on-a-chair
+name: Seated Arm Crossover on a Chair
+human_readable_ids:
+- SeatedArmCrossoveronaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

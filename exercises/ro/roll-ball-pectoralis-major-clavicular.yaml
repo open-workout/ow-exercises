@@ -1,0 +1,14 @@
+id: '4484'
+slug: roll-ball-pectoralis-major-clavicular
+name: Roll Ball Pectoralis Major - Clavicular
+human_readable_ids:
+- RollBallPectoralisMajorClavicular
+primary_muscles:
+- chest
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

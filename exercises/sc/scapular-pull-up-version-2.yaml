@@ -1,0 +1,15 @@
+id: '11015'
+slug: scapular-pull-up-version-2
+name: Scapular Pull-up (VERSION 2)
+human_readable_ids:
+- ScapularPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2151'
+slug: resistance-band-external-rotation
+name: Resistance Band External Rotation
+human_readable_ids:
+- ResistanceBandExternalRotation
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

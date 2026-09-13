@@ -1,0 +1,14 @@
+id: '1831'
+slug: rotating-neck-stretch
+name: Rotating Neck Stretch
+human_readable_ids:
+- RotatingNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4947'
+slug: seated-sky-look
+name: Seated Sky Look
+human_readable_ids:
+- SeatedSkyLook
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '10556'
+slug: seated-side-to-side-neck-twist-on-chair
+name: Seated Side to Side Neck Twist on Chair
+human_readable_ids:
+- SeatedSidetoSideNeckTwistonChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

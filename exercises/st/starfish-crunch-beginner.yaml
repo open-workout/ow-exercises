@@ -1,0 +1,15 @@
+id: '2888'
+slug: starfish-crunch-beginner
+name: Starfish Crunch (beginner)
+human_readable_ids:
+- StarfishCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

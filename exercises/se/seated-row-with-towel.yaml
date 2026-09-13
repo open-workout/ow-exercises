@@ -1,0 +1,15 @@
+id: '3848'
+slug: seated-row-with-towel
+name: Seated Row with Towel
+human_readable_ids:
+- SeatedRowwithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

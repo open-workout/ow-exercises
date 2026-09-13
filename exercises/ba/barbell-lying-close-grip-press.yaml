@@ -1,0 +1,15 @@
+id: '0055'
+slug: barbell-lying-close-grip-press
+name: Barbell Lying Close-grip Press
+human_readable_ids:
+- BarbellLyingClosegripPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

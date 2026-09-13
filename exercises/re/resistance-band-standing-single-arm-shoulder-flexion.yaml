@@ -1,0 +1,15 @@
+id: '6439'
+slug: resistance-band-standing-single-arm-shoulder-flexion
+name: Resistance Band Standing Single Arm Shoulder Flexion
+human_readable_ids:
+- ResistanceBandStandingSingleArmShoulderFlexion
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

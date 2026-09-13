@@ -1,0 +1,15 @@
+id: '4607'
+slug: pvc-pass-through
+name: PVC Pass Through
+human_readable_ids:
+- PVCPassThrough
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

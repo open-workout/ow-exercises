@@ -1,0 +1,16 @@
+id: '0413'
+slug: dumbbell-squat
+name: Dumbbell Squat
+human_readable_ids:
+- DumbbellSquat2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

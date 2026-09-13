@@ -1,0 +1,15 @@
+id: '1376'
+slug: cable-standing-one-leg-calf-raise
+name: Cable Standing One Leg Calf Raise
+human_readable_ids:
+- CableStandingOneLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

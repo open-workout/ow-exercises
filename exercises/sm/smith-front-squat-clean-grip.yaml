@@ -1,0 +1,16 @@
+id: '1433'
+slug: smith-front-squat-clean-grip
+name: Smith Front Squat (Clean Grip)
+human_readable_ids:
+- SmithFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0677'
+slug: ring-dips
+name: Ring Dips
+human_readable_ids:
+- RingDips
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

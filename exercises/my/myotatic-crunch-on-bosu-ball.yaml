@@ -1,0 +1,15 @@
+id: '5228'
+slug: myotatic-crunch-on-bosu-ball
+name: Myotatic Crunch on Bosu Ball
+human_readable_ids:
+- MyotaticCrunchonBosuBall
+primary_muscles:
+- abs
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

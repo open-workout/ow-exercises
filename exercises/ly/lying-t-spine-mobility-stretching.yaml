@@ -1,0 +1,14 @@
+id: '3539'
+slug: lying-t-spine-mobility-stretching
+name: Lying T-Spine Mobility Stretching
+human_readable_ids:
+- LyingTSpineMobilityStretching
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

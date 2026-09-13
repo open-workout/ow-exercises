@@ -1,0 +1,15 @@
+id: '5966'
+slug: jump-twist
+name: Jump Twist
+human_readable_ids:
+- JumpTwist
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

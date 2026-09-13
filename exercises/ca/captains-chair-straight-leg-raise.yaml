@@ -1,0 +1,15 @@
+id: '2963'
+slug: captains-chair-straight-leg-raise
+name: Captains Chair Straight Leg Raise
+human_readable_ids:
+- CaptainsChairStraightLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

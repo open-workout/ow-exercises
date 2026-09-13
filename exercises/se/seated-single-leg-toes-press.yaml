@@ -1,0 +1,15 @@
+id: '10920'
+slug: seated-single-leg-toes-press
+name: Seated Single Leg Toes Press
+human_readable_ids:
+- SeatedSingleLegToesPress
+primary_muscles:
+- feet
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

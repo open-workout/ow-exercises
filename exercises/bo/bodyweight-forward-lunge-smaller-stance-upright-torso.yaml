@@ -1,0 +1,15 @@
+id: '4950'
+slug: bodyweight-forward-lunge-smaller-stance-upright-torso
+name: Bodyweight Forward Lunge (Smaller Stance Upright Torso)
+human_readable_ids:
+- BodyweightForwardLunge2
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9933'
+slug: dumbbell-seated-alternating-lateral-raise
+name: Dumbbell Seated Alternating Lateral Raise
+human_readable_ids:
+- DumbbellSeatedAlternatingLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

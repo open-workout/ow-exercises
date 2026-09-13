@@ -1,0 +1,15 @@
+id: '5064'
+slug: dumbbell-kneeling-hold-to-stand-clean-grip
+name: Dumbbell Kneeling Hold to Stand Clean grip
+human_readable_ids:
+- DumbbellKneelingHoldtoStandCleangrip
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

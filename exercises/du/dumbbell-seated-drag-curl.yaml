@@ -1,0 +1,15 @@
+id: '6149'
+slug: dumbbell-seated-drag-curl
+name: Dumbbell Seated Drag Curl
+human_readable_ids:
+- DumbbellSeatedDragCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

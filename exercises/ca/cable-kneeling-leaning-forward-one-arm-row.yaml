@@ -1,0 +1,15 @@
+id: '5518'
+slug: cable-kneeling-leaning-forward-one-arm-row
+name: Cable Kneeling Leaning Forward One Arm Row
+human_readable_ids:
+- CableKneelingLeaningForwardOneArmRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

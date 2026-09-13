@@ -1,0 +1,15 @@
+id: '2964'
+slug: barbell-glute-bridge-hands-on-bar
+name: Barbell Glute Bridge (hands on bar)
+human_readable_ids:
+- BarbellGluteBridge2
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

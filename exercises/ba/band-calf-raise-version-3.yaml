@@ -1,0 +1,15 @@
+id: '1505'
+slug: band-calf-raise-version-3
+name: Band Calf Raise (Version 3)
+human_readable_ids:
+- BandCalfRaise
+primary_muscles:
+- calves
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

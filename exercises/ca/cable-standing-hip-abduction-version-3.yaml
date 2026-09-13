@@ -1,0 +1,15 @@
+id: '11266'
+slug: cable-standing-hip-abduction-version-3
+name: Cable Standing Hip Abduction (VERSION 3)
+human_readable_ids:
+- CableStandingHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

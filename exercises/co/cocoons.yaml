@@ -1,0 +1,15 @@
+id: '0260'
+slug: cocoons
+name: Cocoons
+human_readable_ids:
+- Cocoons
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

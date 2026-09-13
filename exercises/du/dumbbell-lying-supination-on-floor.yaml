@@ -1,0 +1,15 @@
+id: '2706'
+slug: dumbbell-lying-supination-on-floor
+name: Dumbbell Lying Supination on Floor
+human_readable_ids:
+- DumbbellLyingSupinationonFloor
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

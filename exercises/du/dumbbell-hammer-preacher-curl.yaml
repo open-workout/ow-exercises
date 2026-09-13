@@ -1,0 +1,15 @@
+id: '4337'
+slug: dumbbell-hammer-preacher-curl
+name: Dumbbell Hammer Preacher Curl
+human_readable_ids:
+- DumbbellHammerPreacherCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

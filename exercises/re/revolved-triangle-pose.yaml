@@ -1,0 +1,14 @@
+id: '5901'
+slug: revolved-triangle-pose
+name: Revolved Triangle Pose
+human_readable_ids:
+- RevolvedTrianglePose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

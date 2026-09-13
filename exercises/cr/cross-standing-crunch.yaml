@@ -1,0 +1,15 @@
+id: '5846'
+slug: cross-standing-crunch
+name: Cross Standing Crunch
+human_readable_ids:
+- CrossStandingCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

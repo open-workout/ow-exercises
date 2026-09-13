@@ -1,0 +1,14 @@
+id: '10194'
+slug: butterfly-back-roll
+name: Butterfly Back Roll
+human_readable_ids:
+- ButterflyBackRoll
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

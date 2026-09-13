@@ -1,0 +1,15 @@
+id: '0765'
+slug: smith-seated-shoulder-press
+name: Smith Seated Shoulder Press
+human_readable_ids:
+- SmithSeatedShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

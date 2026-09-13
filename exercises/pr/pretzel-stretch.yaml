@@ -1,0 +1,14 @@
+id: 0649
+slug: pretzel-stretch
+name: Pretzel Stretch
+human_readable_ids:
+- PretzelStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

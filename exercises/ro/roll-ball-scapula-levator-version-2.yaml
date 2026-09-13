@@ -1,0 +1,14 @@
+id: '4488'
+slug: roll-ball-scapula-levator-version-2
+name: Roll Ball Scapula Levator (VERSION 2)
+human_readable_ids:
+- RollBallScapulaLevator2
+primary_muscles:
+- back
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

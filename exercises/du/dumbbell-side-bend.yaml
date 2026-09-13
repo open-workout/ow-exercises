@@ -1,0 +1,15 @@
+id: '0407'
+slug: dumbbell-side-bend
+name: Dumbbell Side Bend
+human_readable_ids:
+- DumbbellSideBend
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

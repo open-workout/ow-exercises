@@ -1,0 +1,16 @@
+id: '3561'
+slug: glute-bridge-march
+name: Glute Bridge March
+human_readable_ids:
+- GluteBridgeMarch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

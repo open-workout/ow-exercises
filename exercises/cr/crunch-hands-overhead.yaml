@@ -1,0 +1,15 @@
+id: '0267'
+slug: crunch-hands-overhead
+name: Crunch (hands overhead)
+human_readable_ids:
+- Crunch2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

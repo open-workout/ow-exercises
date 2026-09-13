@@ -1,0 +1,16 @@
+id: '0726'
+slug: single-leg-bridge
+name: Single Leg Bridge
+human_readable_ids:
+- SingleLegBridge
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

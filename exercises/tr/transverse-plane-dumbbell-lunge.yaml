@@ -1,0 +1,15 @@
+id: '1696'
+slug: transverse-plane-dumbbell-lunge
+name: Transverse Plane Dumbbell Lunge
+human_readable_ids:
+- TransversePlaneDumbbellLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5224'
+slug: barbell-wide-shrug
+name: Barbell Wide Shrug
+human_readable_ids:
+- BarbellWideShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

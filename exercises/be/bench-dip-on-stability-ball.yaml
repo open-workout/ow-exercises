@@ -1,0 +1,15 @@
+id: '5513'
+slug: bench-dip-on-stability-ball
+name: Bench Dip on Stability Ball
+human_readable_ids:
+- BenchDiponStabilityBall
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

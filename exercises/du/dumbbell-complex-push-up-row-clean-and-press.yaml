@@ -1,0 +1,15 @@
+id: '3886'
+slug: dumbbell-complex-push-up-row-clean-and-press
+name: Dumbbell Complex Push-Up Row Clean and Press
+human_readable_ids:
+- DumbbellComplexPushUpRowCleanandPress
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

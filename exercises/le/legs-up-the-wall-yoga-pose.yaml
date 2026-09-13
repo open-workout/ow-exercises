@@ -1,0 +1,14 @@
+id: '4381'
+slug: legs-up-the-wall-yoga-pose
+name: Legs-Up The Wall Yoga Pose
+human_readable_ids:
+- LegsUpTheWallYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

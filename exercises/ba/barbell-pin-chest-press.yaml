@@ -1,0 +1,15 @@
+id: '5660'
+slug: barbell-pin-chest-press
+name: Barbell Pin Chest Press
+human_readable_ids:
+- BarbellPinChestPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

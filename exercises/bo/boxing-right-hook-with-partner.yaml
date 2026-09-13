@@ -1,0 +1,15 @@
+id: '4592'
+slug: boxing-right-hook-with-partner
+name: Boxing Right Hook (with partner)
+human_readable_ids:
+- BoxingRightHook2
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

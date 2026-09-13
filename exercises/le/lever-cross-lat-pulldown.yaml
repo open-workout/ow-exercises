@@ -1,0 +1,15 @@
+id: '6881'
+slug: lever-cross-lat-pulldown
+name: Lever Cross Lat Pulldown
+human_readable_ids:
+- LeverCrossLatPulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3708'
+slug: cardio-lunge
+name: Cardio Lunge
+human_readable_ids:
+- CardioLunge
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

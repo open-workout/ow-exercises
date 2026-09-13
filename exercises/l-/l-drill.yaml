@@ -1,0 +1,15 @@
+id: '5971'
+slug: l-drill
+name: L Drill
+human_readable_ids:
+- LDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

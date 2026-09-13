@@ -1,0 +1,15 @@
+id: '2420'
+slug: resistance-band-air-bike
+name: Resistance Band Air Bike
+human_readable_ids:
+- ResistanceBandAirBike
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

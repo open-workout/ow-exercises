@@ -1,0 +1,14 @@
+id: '1559'
+slug: exercise-ball-hip-flexor-stretch
+name: Exercise Ball Hip Flexor Stretch
+human_readable_ids:
+- ExerciseBallHipFlexorStretch
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

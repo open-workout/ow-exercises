@@ -1,0 +1,15 @@
+id: '0730'
+slug: single-leg-platform-slide
+name: Single Leg Platform Slide
+human_readable_ids:
+- SingleLegPlatformSlide
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

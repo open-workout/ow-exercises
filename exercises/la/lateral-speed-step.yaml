@@ -1,0 +1,15 @@
+id: '0565'
+slug: lateral-speed-step
+name: Lateral Speed Step
+human_readable_ids:
+- LateralSpeedStep
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

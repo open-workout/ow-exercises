@@ -1,0 +1,14 @@
+id: '1377'
+slug: calf-stretch-with-hands-against-wall
+name: Calf Stretch With Hands Against Wall
+human_readable_ids:
+- CalfStretchWithHandsAgainstWall
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

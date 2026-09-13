@@ -1,0 +1,15 @@
+id: '4748'
+slug: dumbbell-overhead-sit-up
+name: Dumbbell Overhead Sit-up
+human_readable_ids:
+- DumbbellOverheadSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

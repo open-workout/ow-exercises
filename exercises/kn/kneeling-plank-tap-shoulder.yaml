@@ -1,0 +1,15 @@
+id: '3239'
+slug: kneeling-plank-tap-shoulder
+name: Kneeling Plank Tap Shoulder
+human_readable_ids:
+- KneelingPlankTapShoulder
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

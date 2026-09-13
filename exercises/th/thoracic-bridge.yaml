@@ -1,0 +1,14 @@
+id: '4553'
+slug: thoracic-bridge
+name: Thoracic Bridge
+human_readable_ids:
+- ThoracicBridge
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

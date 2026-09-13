@@ -1,0 +1,15 @@
+id: '6513'
+slug: lever-bent-over-row-with-chest-support
+name: Lever Bent Over Row (with chest support)
+human_readable_ids:
+- LeverBentOverRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

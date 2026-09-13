@@ -1,0 +1,14 @@
+id: 0959
+slug: standing-forward-bend-uttanasana
+name: Standing Forward Bend Uttanasana
+human_readable_ids:
+- StandingForwardBendUttanasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

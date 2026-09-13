@@ -1,0 +1,15 @@
+id: '11051'
+slug: cable-standing-high-cross-neutral-grip-triceps-extension
+name: Cable Standing High Cross Neutral grip Triceps Extension
+human_readable_ids:
+- CableStandingHighCrossNeutralgripTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

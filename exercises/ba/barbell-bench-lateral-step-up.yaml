@@ -1,0 +1,15 @@
+id: '6797'
+slug: barbell-bench-lateral-step-up
+name: Barbell Bench Lateral Step-up
+human_readable_ids:
+- BarbellBenchLateralStepup
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

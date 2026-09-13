@@ -1,0 +1,15 @@
+id: '1083'
+slug: suspension-leg-curl
+name: Suspension Leg Curl
+human_readable_ids:
+- SuspensionLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

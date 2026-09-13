@@ -1,0 +1,15 @@
+id: '9679'
+slug: hopping-high-knee-tap
+name: Hopping High Knee Tap
+human_readable_ids:
+- HoppingHighKneeTap
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

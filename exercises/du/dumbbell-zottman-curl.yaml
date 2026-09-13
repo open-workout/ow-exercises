@@ -1,0 +1,15 @@
+id: 0439
+slug: dumbbell-zottman-curl
+name: Dumbbell Zottman Curl
+human_readable_ids:
+- DumbbellZottmanCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

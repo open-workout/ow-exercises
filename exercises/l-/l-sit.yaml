@@ -1,0 +1,15 @@
+id: '1402'
+slug: l-sit
+name: L-sit
+human_readable_ids:
+- Lsit
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3812'
+slug: elevanted-push-up
+name: Elevanted Push-Up
+human_readable_ids:
+- ElevantedPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

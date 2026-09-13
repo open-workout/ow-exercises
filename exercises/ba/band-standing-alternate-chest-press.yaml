@@ -1,0 +1,15 @@
+id: '4079'
+slug: band-standing-alternate-chest-press
+name: Band Standing Alternate Chest Press
+human_readable_ids:
+- BandStandingAlternateChestPress
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

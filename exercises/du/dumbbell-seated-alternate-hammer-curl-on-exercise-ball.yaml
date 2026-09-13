@@ -1,0 +1,15 @@
+id: '1676'
+slug: dumbbell-seated-alternate-hammer-curl-on-exercise-ball
+name: Dumbbell Seated Alternate Hammer Curl on Exercise Ball
+human_readable_ids:
+- DumbbellSeatedAlternateHammerCurlonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

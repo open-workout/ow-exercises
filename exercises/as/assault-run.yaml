@@ -1,0 +1,16 @@
+id: '4229'
+slug: assault-run
+name: Assault Run
+human_readable_ids:
+- AssaultRun
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

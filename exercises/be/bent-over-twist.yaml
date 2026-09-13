@@ -1,0 +1,14 @@
+id: '3391'
+slug: bent-over-twist
+name: Bent Over Twist
+human_readable_ids:
+- BentOverTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

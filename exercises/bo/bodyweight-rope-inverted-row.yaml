@@ -1,0 +1,15 @@
+id: '11715'
+slug: bodyweight-rope-inverted-row
+name: Bodyweight Rope Inverted Row
+human_readable_ids:
+- BodyweightRopeInvertedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

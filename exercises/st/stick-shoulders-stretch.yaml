@@ -1,0 +1,14 @@
+id: '5401'
+slug: stick-shoulders-stretch
+name: Stick Shoulders Stretch
+human_readable_ids:
+- StickShouldersStretch
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

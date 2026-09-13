@@ -1,0 +1,15 @@
+id: '5623'
+slug: biceps-curl-front-step
+name: Biceps Curl Front Step
+human_readable_ids:
+- BicepsCurlFrontStep
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0490
+slug: incline-close-grip-push-up-0490
+name: Incline Close-Grip Push-Up
+human_readable_ids:
+- InclineCloseGripPushUp
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

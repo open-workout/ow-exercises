@@ -1,0 +1,15 @@
+id: 0068
+slug: barbell-one-leg-squat
+name: Barbell One Leg Squat
+human_readable_ids:
+- BarbellOneLegSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

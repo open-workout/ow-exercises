@@ -1,0 +1,15 @@
+id: '1568'
+slug: kettlebell-one-arm-swing
+name: Kettlebell One Arm Swing
+human_readable_ids:
+- KettlebellOneArmSwing
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

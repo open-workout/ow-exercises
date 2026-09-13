@@ -1,0 +1,15 @@
+id: '4432'
+slug: weighted-lying-neck-head-twist
+name: Weighted Lying Neck Head Twist
+human_readable_ids:
+- WeightedLyingNeckHeadTwist
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

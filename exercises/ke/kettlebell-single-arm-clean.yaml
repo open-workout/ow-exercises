@@ -1,0 +1,15 @@
+id: '4530'
+slug: kettlebell-single-arm-clean
+name: Kettlebell Single Arm Clean
+human_readable_ids:
+- KettlebellSingleArmClean
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '6901'
+slug: cow-yoga-pose-bitilasana
+name: Cow Yoga Pose Bitilasana
+human_readable_ids:
+- CowYogaPoseBitilasana
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

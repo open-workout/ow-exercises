@@ -1,0 +1,14 @@
+id: '3835'
+slug: handboard-hang-with-90-degree-elbow
+name: Handboard Hang with 90 Degree Elbow
+human_readable_ids:
+- HandboardHangwith90DegreeElbow
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3671'
+slug: ski-step
+name: Ski Step
+human_readable_ids:
+- SkiStep
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1758'
+slug: assisted-sit-up
+name: Assisted Sit-Up
+human_readable_ids:
+- AssistedSitUp
+primary_muscles:
+- abs
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

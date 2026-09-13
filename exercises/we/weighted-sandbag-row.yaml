@@ -1,0 +1,15 @@
+id: '10389'
+slug: weighted-sandbag-row
+name: Weighted Sandbag Row
+human_readable_ids:
+- WeightedSandbagRow
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

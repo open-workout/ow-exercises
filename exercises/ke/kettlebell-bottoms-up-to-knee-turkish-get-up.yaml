@@ -1,0 +1,15 @@
+id: '4230'
+slug: kettlebell-bottoms-up-to-knee-turkish-get-up
+name: Kettlebell Bottoms Up to Knee Turkish Get-Up
+human_readable_ids:
+- KettlebellBottomsUptoKneeTurkishGetUp
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

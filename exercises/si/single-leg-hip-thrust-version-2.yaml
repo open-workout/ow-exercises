@@ -1,0 +1,15 @@
+id: '4792'
+slug: single-leg-hip-thrust-version-2
+name: Single Leg Hip Thrust (VERSION 2)
+human_readable_ids:
+- SingleLegHipThrust
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

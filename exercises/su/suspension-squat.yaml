@@ -1,0 +1,15 @@
+id: '1143'
+slug: suspension-squat
+name: Suspension Squat
+human_readable_ids:
+- SuspensionSquat2
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

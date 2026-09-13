@@ -1,0 +1,14 @@
+id: '10847'
+slug: pilates-machine-lying-frog-and-leg-circle
+name: Pilates Machine Lying Frog and Leg Circle
+human_readable_ids:
+- PilatesMachineLyingFrogandLegCircle
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

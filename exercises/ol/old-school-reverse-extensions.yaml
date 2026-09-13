@@ -1,0 +1,16 @@
+id: '5241'
+slug: old-school-reverse-extensions
+name: Old School Reverse Extensions
+human_readable_ids:
+- OldSchoolReverseExtensions
+primary_muscles:
+- back
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4716'
+slug: assisted-chin-up-low-bar-position
+name: Assisted Chin-up (low bar position)
+human_readable_ids:
+- AssistedChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

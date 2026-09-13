@@ -1,0 +1,15 @@
+id: '6959'
+slug: resistance-band-assisted-push-up
+name: Resistance Band Assisted Push-up
+human_readable_ids:
+- ResistanceBandAssistedPushup
+primary_muscles:
+- chest
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '2351'
+slug: push-up-end-position-wrong-right
+name: Push-up - End position (WRONG-RIGHT)
+human_readable_ids:
+- PushupEndposition
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

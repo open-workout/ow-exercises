@@ -1,0 +1,16 @@
+id: '0533'
+slug: kettlebell-front-squat
+name: Kettlebell Front Squat
+human_readable_ids:
+- KettlebellFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

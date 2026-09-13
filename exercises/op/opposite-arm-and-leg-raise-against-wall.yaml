@@ -1,0 +1,15 @@
+id: '7216'
+slug: opposite-arm-and-leg-raise-against-wall
+name: Opposite Arm and Leg Raise against Wall
+human_readable_ids:
+- OppositeArmandLegRaiseagainstWall
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

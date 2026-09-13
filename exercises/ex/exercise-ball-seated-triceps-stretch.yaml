@@ -1,0 +1,14 @@
+id: '1745'
+slug: exercise-ball-seated-triceps-stretch
+name: Exercise Ball Seated Triceps Stretch
+human_readable_ids:
+- ExerciseBallSeatedTricepsStretch
+primary_muscles:
+- biceps
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

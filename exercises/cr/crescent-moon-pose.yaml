@@ -1,0 +1,14 @@
+id: 0947
+slug: crescent-moon-pose
+name: Crescent Moon Pose
+human_readable_ids:
+- CrescentMoonPose
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2291'
+slug: cable-wide-grip-lat-pulldown
+name: Cable Wide-Grip Lat Pulldown
+human_readable_ids:
+- CableWideGripLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

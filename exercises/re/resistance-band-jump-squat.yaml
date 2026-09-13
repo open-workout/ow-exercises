@@ -1,0 +1,15 @@
+id: '3878'
+slug: resistance-band-jump-squat
+name: Resistance Band Jump Squat
+human_readable_ids:
+- ResistanceBandJumpSquat
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

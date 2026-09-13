@@ -1,0 +1,15 @@
+id: '1097'
+slug: suspension-side-bend
+name: Suspension Side Bend
+human_readable_ids:
+- SuspensionSideBend
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

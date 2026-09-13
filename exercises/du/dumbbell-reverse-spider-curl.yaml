@@ -1,0 +1,15 @@
+id: '1675'
+slug: dumbbell-reverse-spider-curl
+name: Dumbbell Reverse Spider Curl
+human_readable_ids:
+- DumbbellReverseSpiderCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

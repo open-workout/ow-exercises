@@ -1,0 +1,14 @@
+id: '1924'
+slug: standing-toe-up-calf-stretch
+name: Standing Toe Up Calf Stretch
+human_readable_ids:
+- StandingToeUpCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

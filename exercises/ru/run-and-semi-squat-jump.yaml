@@ -1,0 +1,16 @@
+id: '3272'
+slug: run-and-semi-squat-jump
+name: Run and Semi Squat Jump
+human_readable_ids:
+- RunandSemiSquatJump
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

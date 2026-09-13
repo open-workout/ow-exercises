@@ -1,0 +1,14 @@
+id: '3315'
+slug: full-maltese
+name: Full Maltese
+human_readable_ids:
+- FullMaltese
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

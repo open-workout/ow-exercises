@@ -1,0 +1,17 @@
+id: '4563'
+slug: dumbbell-squat-hold-calf-raise
+name: Dumbbell Squat Hold Calf Raise
+human_readable_ids:
+- DumbbellSquatHoldCalfRaise
+primary_muscles:
+- calves
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

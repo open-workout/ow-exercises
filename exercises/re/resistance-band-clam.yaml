@@ -1,0 +1,15 @@
+id: '2150'
+slug: resistance-band-clam
+name: Resistance Band Clam
+human_readable_ids:
+- ResistanceBandClam
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

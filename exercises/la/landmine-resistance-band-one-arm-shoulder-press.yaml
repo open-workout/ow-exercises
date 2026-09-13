@@ -1,0 +1,15 @@
+id: '4202'
+slug: landmine-resistance-band-one-arm-shoulder-press
+name: Landmine Resistance Band One Arm Shoulder Press
+human_readable_ids:
+- LandmineResistanceBandOneArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

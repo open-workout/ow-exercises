@@ -1,0 +1,17 @@
+id: '4542'
+slug: kettlebell-clean-and-jerk
+name: Kettlebell Clean and Jerk
+human_readable_ids:
+- KettlebellCleanandJerk
+primary_muscles:
+- glutes
+- shoulders
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

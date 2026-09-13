@@ -1,0 +1,15 @@
+id: '4613'
+slug: bodyweight-standing-military-press-wall-supported
+name: Bodyweight Standing Military Press Wall Supported
+human_readable_ids:
+- BodyweightStandingMilitaryPressWallSupported
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

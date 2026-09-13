@@ -1,0 +1,15 @@
+id: '5469'
+slug: dumbbell-21s
+name: Dumbbell 21s
+human_readable_ids:
+- Dumbbell21s
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

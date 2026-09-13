@@ -1,0 +1,16 @@
+id: '2875'
+slug: side-kick-kneeling
+name: Side Kick Kneeling
+human_readable_ids:
+- SideKickKneeling
+primary_muscles:
+- glutes
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

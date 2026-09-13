@@ -1,0 +1,15 @@
+id: '0335'
+slug: dumbbell-lateral-to-front-raise
+name: Dumbbell Lateral to Front Raise
+human_readable_ids:
+- DumbbellLateraltoFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

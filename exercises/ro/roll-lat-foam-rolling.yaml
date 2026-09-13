@@ -1,0 +1,14 @@
+id: '2949'
+slug: roll-lat-foam-rolling
+name: Roll Lat Foam Rolling
+human_readable_ids:
+- RollLatFoamRolling
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

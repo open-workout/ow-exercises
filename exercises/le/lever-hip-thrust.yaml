@@ -1,0 +1,15 @@
+id: '2146'
+slug: lever-hip-thrust
+name: Lever Hip Thrust
+human_readable_ids:
+- LeverHipThrust
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

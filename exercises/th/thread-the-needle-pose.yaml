@@ -1,0 +1,14 @@
+id: '5904'
+slug: thread-the-needle-pose
+name: Thread the Needle Pose
+human_readable_ids:
+- ThreadtheNeedlePose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

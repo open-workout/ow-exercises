@@ -1,0 +1,15 @@
+id: '1431'
+slug: assisted-standing-chin-up
+name: Assisted Standing Chin-Up
+human_readable_ids:
+- AssistedStandingChinUp
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

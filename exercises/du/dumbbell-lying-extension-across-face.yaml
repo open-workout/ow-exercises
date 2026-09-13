@@ -1,0 +1,15 @@
+id: '0337'
+slug: dumbbell-lying-extension-across-face
+name: Dumbbell Lying Extension (across face)
+human_readable_ids:
+- DumbbellLyingExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

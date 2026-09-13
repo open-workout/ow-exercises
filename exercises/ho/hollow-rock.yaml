@@ -1,0 +1,15 @@
+id: '5649'
+slug: hollow-rock
+name: Hollow Rock
+human_readable_ids:
+- HollowRock
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0026'
+slug: barbell-bench-squat
+name: Barbell Bench Squat
+human_readable_ids:
+- BarbellBenchSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

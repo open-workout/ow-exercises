@@ -1,0 +1,15 @@
+id: '3917'
+slug: barbell-reverse-grip-floor-press
+name: Barbell Reverse-Grip Floor Press
+human_readable_ids:
+- BarbellReverseGripFloorPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

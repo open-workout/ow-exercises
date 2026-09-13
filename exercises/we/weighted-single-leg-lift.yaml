@@ -1,0 +1,16 @@
+id: '3587'
+slug: weighted-single-leg-lift
+name: Weighted Single Leg Lift
+human_readable_ids:
+- WeightedSingleLegLift
+primary_muscles:
+- abs
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2429'
+slug: frog-crunch
+name: Frog Crunch
+human_readable_ids:
+- FrogCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

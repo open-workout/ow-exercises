@@ -1,0 +1,16 @@
+id: '3466'
+slug: warming-up-in-lunge-six
+name: Warming-up in Lunge (six)
+human_readable_ids:
+- WarmingupinLunge6
+primary_muscles:
+- glutes
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

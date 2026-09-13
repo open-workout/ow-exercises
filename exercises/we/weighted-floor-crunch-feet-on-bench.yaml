@@ -1,0 +1,15 @@
+id: '3282'
+slug: weighted-floor-crunch-feet-on-bench
+name: Weighted Floor Crunch Feet on Bench
+human_readable_ids:
+- WeightedFloorCrunchFeetonBench
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

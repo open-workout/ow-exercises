@@ -1,0 +1,14 @@
+id: '2787'
+slug: spine-lumbar-lateral-flexion-articulations
+name: Spine (Lumbar) - Lateral Flexion - Articulations
+human_readable_ids:
+- SpineLateralFlexionArticulations
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

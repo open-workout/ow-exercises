@@ -1,0 +1,15 @@
+id: '4003'
+slug: v-up-with-clap
+name: V-up with Clap
+human_readable_ids:
+- VupwithClap
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4190'
+slug: ez-bar-up-down-twist
+name: EZ-Bar Up-Down Twist
+human_readable_ids:
+- EZBarUpDownTwist
+primary_muscles:
+- abs
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

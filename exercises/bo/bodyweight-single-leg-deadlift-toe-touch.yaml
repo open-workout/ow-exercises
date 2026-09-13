@@ -1,0 +1,15 @@
+id: '10916'
+slug: bodyweight-single-leg-deadlift-toe-touch
+name: Bodyweight Single Leg Deadlift Toe Touch
+human_readable_ids:
+- BodyweightSingleLegDeadliftToeTouch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

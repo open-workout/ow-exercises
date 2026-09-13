@@ -1,0 +1,14 @@
+id: '8971'
+slug: side-lunge-stretch-version-2
+name: Side Lunge Stretch (VERSION 2)
+human_readable_ids:
+- SideLungeStretch2
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

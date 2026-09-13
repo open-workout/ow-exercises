@@ -1,0 +1,15 @@
+id: '7995'
+slug: dumbbell-bent-over-y-raise
+name: Dumbbell Bent over Y Raise
+human_readable_ids:
+- DumbbellBentoverYRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

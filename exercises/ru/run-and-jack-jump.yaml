@@ -1,0 +1,16 @@
+id: '3270'
+slug: run-and-jack-jump
+name: Run and Jack Jump
+human_readable_ids:
+- RunandJackJump
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

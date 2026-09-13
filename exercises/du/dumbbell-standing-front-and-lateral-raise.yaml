@@ -1,0 +1,15 @@
+id: '7449'
+slug: dumbbell-standing-front-and-lateral-raise
+name: Dumbbell Standing Front and Lateral Raise
+human_readable_ids:
+- DumbbellStandingFrontandLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

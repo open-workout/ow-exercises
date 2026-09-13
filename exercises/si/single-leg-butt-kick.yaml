@@ -1,0 +1,15 @@
+id: '1589'
+slug: single-leg-butt-kick
+name: Single Leg Butt Kick
+human_readable_ids:
+- SingleLegButtKick
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1527'
+slug: barbell-olympic-squat
+name: Barbell Olympic Squat
+human_readable_ids:
+- BarbellOlympicSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4082'
+slug: band-overhead-side-bend
+name: Band Overhead Side Bend
+human_readable_ids:
+- BandOverheadSideBend
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

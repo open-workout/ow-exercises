@@ -1,0 +1,15 @@
+id: '9863'
+slug: cable-side-lying-floor-single-leg-kickback
+name: Cable Side Lying Floor Single Leg Kickback
+human_readable_ids:
+- CableSideLyingFloorSingleLegKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

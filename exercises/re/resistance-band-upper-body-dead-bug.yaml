@@ -1,0 +1,15 @@
+id: '3512'
+slug: resistance-band-upper-body-dead-bug
+name: Resistance Band Upper Body Dead Bug
+human_readable_ids:
+- ResistanceBandUpperBodyDeadBug
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4728'
+slug: dumbbell-bench-dip
+name: Dumbbell Bench Dip
+human_readable_ids:
+- DumbbellBenchDip
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

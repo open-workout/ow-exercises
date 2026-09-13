@@ -1,0 +1,14 @@
+id: '7895'
+slug: kneeling-rotation-torso-rear-fly-to-thread-through
+name: Kneeling Rotation Torso Rear Fly to Thread Through
+human_readable_ids:
+- KneelingRotationTorsoRearFlytoThreadThrough
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

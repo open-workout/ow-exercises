@@ -1,0 +1,15 @@
+id: '1074'
+slug: suspension-fly
+name: Suspension Fly
+human_readable_ids:
+- SuspensionFly
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

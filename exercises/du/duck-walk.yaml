@@ -1,0 +1,16 @@
+id: '3867'
+slug: duck-walk
+name: Duck Walk
+human_readable_ids:
+- DuckWalk
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

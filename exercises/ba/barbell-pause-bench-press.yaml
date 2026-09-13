@@ -1,0 +1,15 @@
+id: '5013'
+slug: barbell-pause-bench-press
+name: Barbell Pause Bench Press
+human_readable_ids:
+- BarbellPauseBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10196'
+slug: dumbbell-shoulders-complex
+name: Dumbbell Shoulders Complex
+human_readable_ids:
+- DumbbellShouldersComplex
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

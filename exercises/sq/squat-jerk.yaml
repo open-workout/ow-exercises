@@ -1,0 +1,15 @@
+id: 0786
+slug: squat-jerk
+name: Squat Jerk
+human_readable_ids:
+- SquatJerk
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

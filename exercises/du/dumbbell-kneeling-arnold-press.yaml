@@ -1,0 +1,15 @@
+id: '4745'
+slug: dumbbell-kneeling-arnold-press
+name: Dumbbell Kneeling Arnold Press
+human_readable_ids:
+- DumbbellKneelingArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

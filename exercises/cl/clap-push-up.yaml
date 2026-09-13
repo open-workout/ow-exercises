@@ -1,0 +1,15 @@
+id: '1273'
+slug: clap-push-up
+name: Clap Push Up
+human_readable_ids:
+- ClapPushUp
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

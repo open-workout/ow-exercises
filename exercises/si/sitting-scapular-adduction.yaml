@@ -1,0 +1,14 @@
+id: '6614'
+slug: sitting-scapular-adduction
+name: Sitting Scapular Adduction
+human_readable_ids:
+- SittingScapularAdduction
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

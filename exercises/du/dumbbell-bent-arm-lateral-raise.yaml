@@ -1,0 +1,15 @@
+id: '4659'
+slug: dumbbell-bent-arm-lateral-raise
+name: Dumbbell Bent Arm Lateral Raise
+human_readable_ids:
+- DumbbellBentArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

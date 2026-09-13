@@ -1,0 +1,15 @@
+id: '2297'
+slug: stability-ball-crunch-full-range-hands-behind-head
+name: Stability Ball Crunch (Full range hands behind head)
+human_readable_ids:
+- StabilityBallCrunch
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

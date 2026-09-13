@@ -1,0 +1,15 @@
+id: '3654'
+slug: barbell-lying-row-on-rack
+name: Barbell Lying Row on Rack
+human_readable_ids:
+- BarbellLyingRowonRack
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

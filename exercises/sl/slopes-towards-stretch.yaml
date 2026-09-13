@@ -1,0 +1,14 @@
+id: '0745'
+slug: slopes-towards-stretch
+name: Slopes Towards Stretch
+human_readable_ids:
+- SlopesTowardsStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

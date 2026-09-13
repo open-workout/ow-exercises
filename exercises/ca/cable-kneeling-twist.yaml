@@ -1,0 +1,15 @@
+id: '6760'
+slug: cable-kneeling-twist
+name: Cable Kneeling Twist
+human_readable_ids:
+- CableKneelingTwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

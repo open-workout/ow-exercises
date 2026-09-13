@@ -1,0 +1,15 @@
+id: '0764'
+slug: smith-reverse-grip-press
+name: Smith Reverse-grip Press
+human_readable_ids:
+- SmithReversegripPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4409'
+slug: barbell-front-rack-walking-lunge
+name: Barbell Front Rack Walking Lunge
+human_readable_ids:
+- BarbellFrontRackWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

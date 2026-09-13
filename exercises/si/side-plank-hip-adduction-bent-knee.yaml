@@ -1,0 +1,16 @@
+id: '3460'
+slug: side-plank-hip-adduction-bent-knee
+name: Side Plank Hip Adduction (bent knee)
+human_readable_ids:
+- SidePlankHipAdduction2
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

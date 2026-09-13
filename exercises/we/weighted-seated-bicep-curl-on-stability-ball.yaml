@@ -1,0 +1,15 @@
+id: 0847
+slug: weighted-seated-bicep-curl-on-stability-ball
+name: Weighted Seated Bicep Curl (on stability ball)
+human_readable_ids:
+- WeightedSeatedBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

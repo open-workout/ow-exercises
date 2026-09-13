@@ -1,0 +1,14 @@
+id: '1484'
+slug: locust-yoga-pose-iron-man-pose
+name: Locust Yoga Pose (Iron Man Pose)
+human_readable_ids:
+- LocustYogaPose
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

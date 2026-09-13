@@ -1,0 +1,15 @@
+id: '1579'
+slug: sled-one-leg-hack-squat
+name: Sled One Leg Hack Squat
+human_readable_ids:
+- SledOneLegHackSquat
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

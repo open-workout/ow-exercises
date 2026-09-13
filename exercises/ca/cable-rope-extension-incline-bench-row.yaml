@@ -1,0 +1,15 @@
+id: '1322'
+slug: cable-rope-extension-incline-bench-row
+name: Cable Rope Extension Incline Bench Row
+human_readable_ids:
+- CableRopeExtensionInclineBenchRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

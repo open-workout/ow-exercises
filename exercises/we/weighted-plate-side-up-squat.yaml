@@ -1,0 +1,15 @@
+id: '10097'
+slug: weighted-plate-side-up-squat
+name: Weighted Plate Side-up Squat
+human_readable_ids:
+- WeightedPlateSideupSquat
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

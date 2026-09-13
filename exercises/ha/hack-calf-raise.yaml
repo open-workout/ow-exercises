@@ -1,0 +1,15 @@
+id: '1383'
+slug: hack-calf-raise
+name: Hack Calf Raise
+human_readable_ids:
+- HackCalfRaise
+primary_muscles:
+- calves
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

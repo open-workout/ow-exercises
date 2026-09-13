@@ -1,0 +1,16 @@
+id: '2758'
+slug: cable-stand-up
+name: Cable Stand-up
+human_readable_ids:
+- CableStandup
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

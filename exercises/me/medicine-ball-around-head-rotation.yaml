@@ -1,0 +1,15 @@
+id: '4375'
+slug: medicine-ball-around-head-rotation
+name: Medicine Ball Around Head Rotation
+human_readable_ids:
+- MedicineBallAroundHeadRotation
+primary_muscles:
+- shoulders
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

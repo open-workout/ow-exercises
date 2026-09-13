@@ -1,0 +1,15 @@
+id: 0548
+slug: kettlebell-sumo-high-pull
+name: Kettlebell Sumo High Pull
+human_readable_ids:
+- KettlebellSumoHighPull
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

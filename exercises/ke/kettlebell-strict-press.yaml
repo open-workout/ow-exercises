@@ -1,0 +1,15 @@
+id: '3572'
+slug: kettlebell-strict-press
+name: Kettlebell Strict Press
+human_readable_ids:
+- KettlebellStrictPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

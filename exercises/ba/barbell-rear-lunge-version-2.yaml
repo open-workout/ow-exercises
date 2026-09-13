@@ -1,0 +1,16 @@
+id: '0077'
+slug: barbell-rear-lunge-version-2
+name: Barbell Rear Lunge (version 2)
+human_readable_ids:
+- BarbellRearLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

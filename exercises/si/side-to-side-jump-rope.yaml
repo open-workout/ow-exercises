@@ -1,0 +1,16 @@
+id: '3675'
+slug: side-to-side-jump-rope
+name: Side-to-Side Jump Rope
+human_readable_ids:
+- SidetoSideJumpRope
+primary_muscles:
+- cardio
+equipment:
+- rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

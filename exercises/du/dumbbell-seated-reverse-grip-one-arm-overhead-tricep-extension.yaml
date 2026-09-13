@@ -1,0 +1,15 @@
+id: '1738'
+slug: dumbbell-seated-reverse-grip-one-arm-overhead-tricep-extension
+name: Dumbbell Seated Reverse Grip One Arm Overhead Tricep Extension
+human_readable_ids:
+- DumbbellSeatedReverseGripOneArmOverheadTricepExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

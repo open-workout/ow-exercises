@@ -1,0 +1,15 @@
+id: '4677'
+slug: bar-band-kneeling-single-leg-kick
+name: Bar Band Kneeling Single Leg Kick
+human_readable_ids:
+- BarBandKneelingSingleLegKick
+primary_muscles:
+- glutes
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '2724'
+slug: strongman-atlas-stones
+name: StrongMan Atlas Stones
+human_readable_ids:
+- StrongManAtlasStones
+primary_muscles:
+- back
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

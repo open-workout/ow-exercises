@@ -1,0 +1,16 @@
+id: '3465'
+slug: warming-up-in-lunge-five
+name: Warming-up in Lunge (five)
+human_readable_ids:
+- WarmingupinLunge5
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

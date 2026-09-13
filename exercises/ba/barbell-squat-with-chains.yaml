@@ -1,0 +1,15 @@
+id: '4064'
+slug: barbell-squat-with-chains
+name: Barbell Squat with Chains
+human_readable_ids:
+- BarbellSquatwithChains
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

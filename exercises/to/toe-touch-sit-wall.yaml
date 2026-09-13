@@ -1,0 +1,16 @@
+id: 0810
+slug: toe-touch-sit-wall
+name: Toe Touch Sit (wall)
+human_readable_ids:
+- ToeTouchSit
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1887'
+slug: standing-heel-back-achilles-stretch
+name: Standing Heel Back Achilles Stretch
+human_readable_ids:
+- StandingHeelBackAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

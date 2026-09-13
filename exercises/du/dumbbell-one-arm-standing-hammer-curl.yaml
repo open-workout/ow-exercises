@@ -1,0 +1,15 @@
+id: '1671'
+slug: dumbbell-one-arm-standing-hammer-curl
+name: Dumbbell One Arm Standing Hammer Curl
+human_readable_ids:
+- DumbbellOneArmStandingHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

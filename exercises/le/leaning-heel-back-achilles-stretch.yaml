@@ -1,0 +1,14 @@
+id: '2104'
+slug: leaning-heel-back-achilles-stretch
+name: Leaning Heel Back Achilles Stretch
+human_readable_ids:
+- LeaningHeelBackAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

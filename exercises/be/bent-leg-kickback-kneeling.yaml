@@ -1,0 +1,15 @@
+id: '1474'
+slug: bent-leg-kickback-kneeling
+name: Bent Leg Kickback (kneeling)
+human_readable_ids:
+- BentLegKickback
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

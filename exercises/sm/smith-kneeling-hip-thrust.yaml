@@ -1,0 +1,15 @@
+id: '3874'
+slug: smith-kneeling-hip-thrust
+name: Smith Kneeling Hip Thrust
+human_readable_ids:
+- SmithKneelingHipThrust
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

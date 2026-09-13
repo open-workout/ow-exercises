@@ -1,0 +1,15 @@
+id: '3877'
+slug: medicine-ball-squat-jump
+name: Medicine Ball Squat Jump
+human_readable_ids:
+- MedicineBallSquatJump
+primary_muscles:
+- quads
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

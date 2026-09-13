@@ -1,0 +1,14 @@
+id: '5913'
+slug: reverse-warrior-pose
+name: Reverse Warrior Pose
+human_readable_ids:
+- ReverseWarriorPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

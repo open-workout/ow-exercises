@@ -1,0 +1,15 @@
+id: '3688'
+slug: dumbbell-seated-reverse-grip-biceps-curl
+name: Dumbbell Seated Reverse Grip Biceps Curl
+human_readable_ids:
+- DumbbellSeatedReverseGripBicepsCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

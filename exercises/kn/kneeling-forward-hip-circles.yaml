@@ -1,0 +1,15 @@
+id: '5057'
+slug: kneeling-forward-hip-circles
+name: Kneeling Forward Hip Circles
+human_readable_ids:
+- KneelingForwardHipCircles
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

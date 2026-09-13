@@ -1,0 +1,15 @@
+id: '6213'
+slug: lying-scissors-cross
+name: Lying Scissors Cross
+human_readable_ids:
+- LyingScissorsCross
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

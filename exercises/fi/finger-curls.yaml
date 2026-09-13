@@ -1,0 +1,15 @@
+id: '0455'
+slug: finger-curls
+name: Finger Curls
+human_readable_ids:
+- FingerCurls
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

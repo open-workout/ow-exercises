@@ -1,0 +1,15 @@
+id: '9865'
+slug: lever-belt-deadlift-v-bar
+name: Lever Belt Deadlift (V bar)
+human_readable_ids:
+- LeverBeltDeadlift
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0248
+slug: cambered-bar-lying-row
+name: Cambered Bar Lying Row
+human_readable_ids:
+- CamberedBarLyingRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

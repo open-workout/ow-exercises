@@ -1,0 +1,17 @@
+id: '3774'
+slug: band-squat-with-horizontal-pallof-hold
+name: Band Squat with Horizontal Pallof Hold
+human_readable_ids:
+- BandSquatwithHorizontalPallofHold
+primary_muscles:
+- glutes
+- quads
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

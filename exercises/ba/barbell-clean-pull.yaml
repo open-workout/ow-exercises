@@ -1,0 +1,15 @@
+id: '1517'
+slug: barbell-clean-pull
+name: Barbell Clean Pull
+human_readable_ids:
+- BarbellCleanPull
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

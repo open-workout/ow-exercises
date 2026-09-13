@@ -1,0 +1,15 @@
+id: 0528
+slug: kettlebell-double-push-press
+name: Kettlebell Double Push Press
+human_readable_ids:
+- KettlebellDoublePushPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

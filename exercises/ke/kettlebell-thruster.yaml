@@ -1,0 +1,15 @@
+id: '0550'
+slug: kettlebell-thruster
+name: Kettlebell Thruster
+human_readable_ids:
+- KettlebellThruster
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

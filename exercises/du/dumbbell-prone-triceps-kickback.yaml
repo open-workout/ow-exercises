@@ -1,0 +1,15 @@
+id: '4961'
+slug: dumbbell-prone-triceps-kickback
+name: Dumbbell Prone Triceps Kickback
+human_readable_ids:
+- DumbbellProneTricepsKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

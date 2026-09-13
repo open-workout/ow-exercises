@@ -1,0 +1,15 @@
+id: '3984'
+slug: push-up-pike-toe-touch
+name: Push-up Pike Toe Touch
+human_readable_ids:
+- PushupPikeToeTouch
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

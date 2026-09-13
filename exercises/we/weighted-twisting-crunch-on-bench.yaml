@@ -1,0 +1,15 @@
+id: '1188'
+slug: weighted-twisting-crunch-on-bench
+name: Weighted Twisting Crunch (on bench)
+human_readable_ids:
+- WeightedTwistingCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

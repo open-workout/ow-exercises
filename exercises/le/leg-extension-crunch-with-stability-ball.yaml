@@ -1,0 +1,16 @@
+id: '3606'
+slug: leg-extension-crunch-with-stability-ball
+name: Leg Extension Crunch (with Stability Ball)
+human_readable_ids:
+- LegExtensionCrunch
+primary_muscles:
+- quads
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

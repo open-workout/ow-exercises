@@ -1,0 +1,15 @@
+id: 0927
+slug: band-standing-straight-leg-raise
+name: Band standing straight leg raise
+human_readable_ids:
+- Bandstandingstraightlegraise
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2271'
+slug: left-hook-boxing
+name: Left hook. Boxing
+human_readable_ids:
+- LefthookBoxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

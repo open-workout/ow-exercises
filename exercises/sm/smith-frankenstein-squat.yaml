@@ -1,0 +1,15 @@
+id: '1594'
+slug: smith-frankenstein-squat
+name: Smith Frankenstein Squat
+human_readable_ids:
+- SmithFrankensteinSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

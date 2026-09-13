@@ -1,0 +1,15 @@
+id: '1863'
+slug: lever-cable-rear-pulldown
+name: Lever Cable Rear Pulldown
+human_readable_ids:
+- LeverCableRearPulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5051'
+slug: glute-ham-twist
+name: Glute Ham Twist
+human_readable_ids:
+- GluteHamTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

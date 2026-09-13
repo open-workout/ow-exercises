@@ -1,0 +1,15 @@
+id: '0471'
+slug: handstand-push-up
+name: Handstand Push-Up
+human_readable_ids:
+- HandstandPushUp
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

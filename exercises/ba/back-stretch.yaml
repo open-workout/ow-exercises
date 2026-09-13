@@ -1,0 +1,14 @@
+id: '1404'
+slug: back-stretch
+name: Back Stretch
+human_readable_ids:
+- BackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

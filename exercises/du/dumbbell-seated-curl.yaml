@@ -1,0 +1,15 @@
+id: 0391
+slug: dumbbell-seated-curl
+name: Dumbbell Seated Curl
+human_readable_ids:
+- DumbbellSeatedCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

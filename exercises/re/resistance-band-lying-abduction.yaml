@@ -1,0 +1,15 @@
+id: '2421'
+slug: resistance-band-lying-abduction
+name: Resistance Band Lying Abduction
+human_readable_ids:
+- ResistanceBandLyingAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

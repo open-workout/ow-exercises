@@ -1,0 +1,15 @@
+id: '8197'
+slug: sitting-swimmer-on-a-chair
+name: Sitting Swimmer on a Chair
+human_readable_ids:
+- SittingSwimmeronaChair
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

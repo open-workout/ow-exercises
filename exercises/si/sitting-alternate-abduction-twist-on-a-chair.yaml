@@ -1,0 +1,15 @@
+id: '8202'
+slug: sitting-alternate-abduction-twist-on-a-chair
+name: Sitting Alternate Abduction Twist on a Chair
+human_readable_ids:
+- SittingAlternateAbductionTwistonaChair
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

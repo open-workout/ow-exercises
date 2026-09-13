@@ -1,0 +1,16 @@
+id: '3475'
+slug: lying-leg-tuck-hip-back-stretch
+name: Lying Leg Tuck Hip Back Stretch
+human_readable_ids:
+- LyingLegTuckHipBackStretch
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

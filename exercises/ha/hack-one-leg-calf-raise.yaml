@@ -1,0 +1,15 @@
+id: '1384'
+slug: hack-one-leg-calf-raise
+name: Hack One Leg Calf Raise
+human_readable_ids:
+- HackOneLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

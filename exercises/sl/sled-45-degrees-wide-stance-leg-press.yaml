@@ -1,0 +1,16 @@
+id: '3617'
+slug: sled-45-degrees-wide-stance-leg-press
+name: Sled 45 degrees Wide Stance Leg Press
+human_readable_ids:
+- Sled45degreesWideStanceLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

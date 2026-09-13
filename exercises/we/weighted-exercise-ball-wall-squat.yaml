@@ -1,0 +1,15 @@
+id: '1603'
+slug: weighted-exercise-ball-wall-squat
+name: Weighted Exercise Ball Wall Squat
+human_readable_ids:
+- WeightedExerciseBallWallSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

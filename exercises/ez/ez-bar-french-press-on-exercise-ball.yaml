@@ -1,0 +1,15 @@
+id: '1747'
+slug: ez-bar-french-press-on-exercise-ball
+name: EZ Bar French Press on Exercise Ball
+human_readable_ids:
+- EZBarFrenchPressonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '9317'
+slug: seated-isometric-hold-pull-up
+name: Seated Isometric Hold Pull up
+human_readable_ids:
+- SeatedIsometricHoldPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

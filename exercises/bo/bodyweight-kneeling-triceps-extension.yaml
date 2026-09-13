@@ -1,0 +1,15 @@
+id: '1771'
+slug: bodyweight-kneeling-triceps-extension
+name: Bodyweight Kneeling Triceps Extension
+human_readable_ids:
+- BodyweightKneelingTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

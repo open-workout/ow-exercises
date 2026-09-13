@@ -1,0 +1,15 @@
+id: '4115'
+slug: cable-overhead-tricep-extension-straight-bar
+name: Cable Overhead Tricep Extension StraighT-bar
+human_readable_ids:
+- CableOverheadTricepExtensionStraighTbar
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

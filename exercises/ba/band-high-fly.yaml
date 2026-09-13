@@ -1,0 +1,15 @@
+id: 0898
+slug: band-high-fly
+name: Band high fly
+human_readable_ids:
+- Bandhighfly
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

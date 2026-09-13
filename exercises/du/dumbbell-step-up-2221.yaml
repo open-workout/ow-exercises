@@ -1,0 +1,16 @@
+id: '2221'
+slug: dumbbell-step-up-2221
+name: Dumbbell Step Up
+human_readable_ids:
+- DumbbellStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

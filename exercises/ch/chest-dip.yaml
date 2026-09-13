@@ -1,0 +1,15 @@
+id: '0251'
+slug: chest-dip
+name: Chest Dip
+human_readable_ids:
+- ChestDip
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

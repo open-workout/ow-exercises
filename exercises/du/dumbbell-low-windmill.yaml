@@ -1,0 +1,15 @@
+id: '4746'
+slug: dumbbell-low-windmill
+name: Dumbbell Low Windmill
+human_readable_ids:
+- DumbbellLowWindmill
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

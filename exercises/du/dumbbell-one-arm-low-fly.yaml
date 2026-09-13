@@ -1,0 +1,15 @@
+id: '4150'
+slug: dumbbell-one-arm-low-fly
+name: Dumbbell One Arm Low Fly
+human_readable_ids:
+- DumbbellOneArmLowFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

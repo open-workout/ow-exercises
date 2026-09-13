@@ -1,0 +1,14 @@
+id: '8369'
+slug: seated-over-head-straight-arm-stretch
+name: Seated Over Head Straight Arm Stretch
+human_readable_ids:
+- SeatedOverHeadStraightArmStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

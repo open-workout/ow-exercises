@@ -1,0 +1,14 @@
+id: '1057'
+slug: seated-groin-stretch
+name: Seated Groin Stretch
+human_readable_ids:
+- SeatedGroinStretch
+primary_muscles:
+- adductors
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

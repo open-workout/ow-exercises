@@ -1,0 +1,14 @@
+id: '1576'
+slug: leg-up-hamstring-stretch
+name: Leg Up Hamstring Stretch
+human_readable_ids:
+- LegUpHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

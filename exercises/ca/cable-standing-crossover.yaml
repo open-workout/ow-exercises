@@ -1,0 +1,15 @@
+id: '8141'
+slug: cable-standing-crossover
+name: Cable Standing Crossover
+human_readable_ids:
+- CableStandingCrossover
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4986'
+slug: dumbbell-step-up-version-2
+name: Dumbbell Step-up (VERSION 2)
+human_readable_ids:
+- DumbbellStepup2
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

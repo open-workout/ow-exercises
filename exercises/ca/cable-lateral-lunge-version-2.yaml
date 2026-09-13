@@ -1,0 +1,16 @@
+id: '3355'
+slug: cable-lateral-lunge-version-2
+name: Cable Lateral Lunge (VERSION 2)
+human_readable_ids:
+- CableLateralLunge2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

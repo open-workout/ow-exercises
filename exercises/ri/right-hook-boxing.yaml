@@ -1,0 +1,15 @@
+id: '3171'
+slug: right-hook-boxing
+name: Right Hook. Boxing
+human_readable_ids:
+- RightHookBoxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

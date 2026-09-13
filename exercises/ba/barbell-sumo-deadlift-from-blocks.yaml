@@ -1,0 +1,15 @@
+id: '4107'
+slug: barbell-sumo-deadlift-from-blocks
+name: Barbell Sumo Deadlift from Blocks
+human_readable_ids:
+- BarbellSumoDeadliftfromBlocks
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1044'
+slug: plate-pinch
+name: Plate Pinch
+human_readable_ids:
+- PlatePinch
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

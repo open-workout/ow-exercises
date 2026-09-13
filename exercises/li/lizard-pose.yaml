@@ -1,0 +1,14 @@
+id: '5892'
+slug: lizard-pose
+name: Lizard Pose
+human_readable_ids:
+- LizardPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

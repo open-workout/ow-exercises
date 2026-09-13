@@ -1,0 +1,17 @@
+id: '3368'
+slug: dumbbell-swing
+name: Dumbbell Swing
+human_readable_ids:
+- DumbbellSwing
+primary_muscles:
+- shoulders
+- glutes
+- hamstrings
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

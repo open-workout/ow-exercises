@@ -1,0 +1,15 @@
+id: '7455'
+slug: single-leg-lateral-hop
+name: Single Leg Lateral Hop
+human_readable_ids:
+- SingleLegLateralHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

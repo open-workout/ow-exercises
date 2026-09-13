@@ -1,0 +1,16 @@
+id: '0144'
+slug: bridge-hip-abduction
+name: Bridge Hip Abduction
+human_readable_ids:
+- BridgeHipAbduction
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

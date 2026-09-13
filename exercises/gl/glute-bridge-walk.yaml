@@ -1,0 +1,15 @@
+id: '6570'
+slug: glute-bridge-walk
+name: Glute Bridge Walk
+human_readable_ids:
+- GluteBridgeWalk
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

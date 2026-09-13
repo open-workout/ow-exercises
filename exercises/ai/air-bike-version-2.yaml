@@ -1,0 +1,15 @@
+id: '2395'
+slug: air-bike-version-2
+name: Air Bike (VERSION 2)
+human_readable_ids:
+- AirBike
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

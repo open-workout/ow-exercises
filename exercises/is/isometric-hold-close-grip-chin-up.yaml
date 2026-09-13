@@ -1,0 +1,15 @@
+id: '9320'
+slug: isometric-hold-close-grip-chin-up
+name: Isometric Hold Close Grip Chin-up
+human_readable_ids:
+- IsometricHoldCloseGripChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

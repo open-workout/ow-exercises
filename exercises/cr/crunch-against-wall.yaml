@@ -1,0 +1,15 @@
+id: '7414'
+slug: crunch-against-wall
+name: Crunch against Wall
+human_readable_ids:
+- CrunchagainstWall
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0200'
+slug: cable-pushdown-with-rope-attachment
+name: Cable Pushdown (with rope attachment)
+human_readable_ids:
+- CablePushdown2
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

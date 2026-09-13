@@ -1,0 +1,15 @@
+id: '2309'
+slug: heel-push-kick-kickboxing
+name: Heel Push Kick. Kickboxing
+human_readable_ids:
+- HeelPushKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

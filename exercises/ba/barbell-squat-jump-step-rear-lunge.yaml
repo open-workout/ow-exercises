@@ -1,0 +1,15 @@
+id: '2797'
+slug: barbell-squat-jump-step-rear-lunge
+name: Barbell Squat Jump Step Rear Lunge
+human_readable_ids:
+- BarbellSquatJumpStepRearLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

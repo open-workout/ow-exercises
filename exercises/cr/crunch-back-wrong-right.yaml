@@ -1,0 +1,15 @@
+id: '2344'
+slug: crunch-back-wrong-right
+name: Crunch - Back (WRONG-RIGHT)
+human_readable_ids:
+- CrunchBack
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

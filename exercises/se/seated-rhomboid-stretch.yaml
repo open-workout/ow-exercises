@@ -1,0 +1,14 @@
+id: '6774'
+slug: seated-rhomboid-stretch
+name: Seated Rhomboid Stretch
+human_readable_ids:
+- SeatedRhomboidStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

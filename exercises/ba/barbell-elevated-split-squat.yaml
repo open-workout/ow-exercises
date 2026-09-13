@@ -1,0 +1,15 @@
+id: '5331'
+slug: barbell-elevated-split-squat
+name: Barbell Elevated Split Squat
+human_readable_ids:
+- BarbellElevatedSplitSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

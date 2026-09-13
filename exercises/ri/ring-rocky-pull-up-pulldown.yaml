@@ -1,0 +1,15 @@
+id: '10662'
+slug: ring-rocky-pull-up-pulldown
+name: Ring Rocky Pull-up Pulldown
+human_readable_ids:
+- RingRockyPullupPulldown
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

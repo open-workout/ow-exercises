@@ -1,0 +1,18 @@
+id: '2524'
+slug: power-sled-push
+name: Power Sled Push
+human_readable_ids:
+- PowerSledPush
+primary_muscles:
+- adductors
+- calves
+- hamstrings
+- quads
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

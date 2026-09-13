@@ -1,0 +1,15 @@
+id: '4318'
+slug: dumbbell-pullover-on-floor
+name: Dumbbell Pullover on floor
+human_readable_ids:
+- DumbbellPulloveronfloor
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

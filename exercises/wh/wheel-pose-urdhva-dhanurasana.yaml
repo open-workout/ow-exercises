@@ -1,0 +1,14 @@
+id: '6297'
+slug: wheel-pose-urdhva-dhanurasana
+name: Wheel Pose Urdhva Dhanurasana
+human_readable_ids:
+- WheelPoseUrdhvaDhanurasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

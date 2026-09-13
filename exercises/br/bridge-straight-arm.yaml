@@ -1,0 +1,15 @@
+id: '0143'
+slug: bridge-straight-arm
+name: Bridge (straight arm)
+human_readable_ids:
+- Bridge2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

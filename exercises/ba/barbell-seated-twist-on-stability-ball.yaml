@@ -1,0 +1,15 @@
+id: 0093
+slug: barbell-seated-twist-on-stability-ball
+name: Barbell Seated Twist (on stability ball)
+human_readable_ids:
+- BarbellSeatedTwist
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

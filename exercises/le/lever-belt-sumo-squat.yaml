@@ -1,0 +1,15 @@
+id: '9493'
+slug: lever-belt-sumo-squat
+name: Lever Belt Sumo Squat
+human_readable_ids:
+- LeverBeltSumoSquat
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

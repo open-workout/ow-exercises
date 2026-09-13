@@ -1,0 +1,15 @@
+id: '8703'
+slug: battling-rope-pull
+name: Battling Rope Pull
+human_readable_ids:
+- BattlingRopePull
+primary_muscles:
+- plyometrics
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '5167'
+slug: single-leg-glute-bridge-with-external-rotation
+name: Single Leg Glute Bridge with External Rotation
+human_readable_ids:
+- SingleLegGluteBridgewithExternalRotation
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

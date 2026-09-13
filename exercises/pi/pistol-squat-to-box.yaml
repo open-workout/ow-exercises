@@ -1,0 +1,15 @@
+id: '2984'
+slug: pistol-squat-to-box
+name: Pistol Squat to Box
+human_readable_ids:
+- PistolSquattoBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0853
+slug: weighted-standing-curl
+name: Weighted Standing Curl
+human_readable_ids:
+- WeightedStandingCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

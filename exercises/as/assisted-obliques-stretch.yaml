@@ -1,0 +1,16 @@
+id: '2123'
+slug: assisted-obliques-stretch
+name: Assisted Obliques Stretch
+human_readable_ids:
+- AssistedObliquesStretch
+primary_muscles:
+- back
+- abs
+equipment:
+- assisted
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: 0808
+slug: suspended-row
+name: Suspended Row
+human_readable_ids:
+- SuspendedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

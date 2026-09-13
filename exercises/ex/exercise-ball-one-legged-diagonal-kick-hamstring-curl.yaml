@@ -1,0 +1,15 @@
+id: '1417'
+slug: exercise-ball-one-legged-diagonal-kick-hamstring-curl
+name: Exercise Ball One Legged Diagonal Kick Hamstring Curl
+human_readable_ids:
+- ExerciseBallOneLeggedDiagonalKickHamstringCurl
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

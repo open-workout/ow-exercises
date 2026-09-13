@@ -1,0 +1,14 @@
+id: '5889'
+slug: corpse-pose
+name: Corpse Pose
+human_readable_ids:
+- CorpsePose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

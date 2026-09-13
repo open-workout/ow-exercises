@@ -1,0 +1,16 @@
+id: '3656'
+slug: short-stride-run
+name: Short Stride Run
+human_readable_ids:
+- ShortStrideRun
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

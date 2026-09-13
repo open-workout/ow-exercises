@@ -1,0 +1,15 @@
+id: '6146'
+slug: dumbbell-bent-over-row-against-wall
+name: Dumbbell Bent Over Row against Wall
+human_readable_ids:
+- DumbbellBentOverRowagainstWall
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

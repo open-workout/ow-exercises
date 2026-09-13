@@ -1,0 +1,15 @@
+id: '2890'
+slug: front-plank-to-push-up
+name: Front Plank to Push up
+human_readable_ids:
+- FrontPlanktoPushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

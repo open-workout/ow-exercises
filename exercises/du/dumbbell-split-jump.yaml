@@ -1,0 +1,15 @@
+id: '1554'
+slug: dumbbell-split-jump
+name: Dumbbell Split Jump
+human_readable_ids:
+- DumbbellSplitJump
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '11654'
+slug: seated-knee-down
+name: Seated Knee Down
+human_readable_ids:
+- SeatedKneeDown
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

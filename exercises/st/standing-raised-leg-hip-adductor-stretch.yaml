@@ -1,0 +1,14 @@
+id: '1896'
+slug: standing-raised-leg-hip-adductor-stretch
+name: Standing Raised Leg Hip Adductor Stretch
+human_readable_ids:
+- StandingRaisedLegHipAdductorStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

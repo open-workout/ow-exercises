@@ -1,0 +1,15 @@
+id: '11647'
+slug: single-leg-pogo-jump
+name: Single Leg Pogo Jump
+human_readable_ids:
+- SingleLegPogoJump
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

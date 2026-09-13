@@ -1,0 +1,15 @@
+id: '1237'
+slug: lever-row-plate-loaded
+name: Lever Row (plate loaded)
+human_readable_ids:
+- LeverRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

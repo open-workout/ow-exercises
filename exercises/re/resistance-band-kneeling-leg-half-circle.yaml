@@ -1,0 +1,15 @@
+id: '7209'
+slug: resistance-band-kneeling-leg-half-circle
+name: Resistance Band Kneeling Leg Half Circle
+human_readable_ids:
+- ResistanceBandKneelingLegHalfCircle
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

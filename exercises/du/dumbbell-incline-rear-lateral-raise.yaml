@@ -1,0 +1,15 @@
+id: '0326'
+slug: dumbbell-incline-rear-lateral-raise
+name: Dumbbell Incline Rear Lateral Raise
+human_readable_ids:
+- DumbbellInclineRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4332'
+slug: crunch-hold
+name: Crunch Hold
+human_readable_ids:
+- CrunchHold
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

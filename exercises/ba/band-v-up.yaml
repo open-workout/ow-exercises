@@ -1,0 +1,15 @@
+id: '1014'
+slug: band-v-up
+name: Band v-up
+human_readable_ids:
+- Bandvup
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0724'
+slug: sideways-lifts-vertical-turn-straight-legs
+name: Sideways Lifts Vertical Turn (straight legs)
+human_readable_ids:
+- SidewaysLiftsVerticalTurn
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

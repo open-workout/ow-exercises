@@ -1,0 +1,14 @@
+id: '3416'
+slug: standing-shoulder-circling
+name: Standing Shoulder Circling
+human_readable_ids:
+- StandingShoulderCircling
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

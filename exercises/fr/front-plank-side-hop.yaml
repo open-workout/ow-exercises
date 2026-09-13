@@ -1,0 +1,15 @@
+id: '3750'
+slug: front-plank-side-hop
+name: Front Plank Side Hop
+human_readable_ids:
+- FrontPlankSideHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

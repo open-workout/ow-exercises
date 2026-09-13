@@ -1,0 +1,15 @@
+id: '3377'
+slug: battling-ropes-russian-twist
+name: Battling Ropes Russian Twist
+human_readable_ids:
+- BattlingRopesRussianTwist
+primary_muscles:
+- abs
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

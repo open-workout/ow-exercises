@@ -1,0 +1,15 @@
+id: '7238'
+slug: barbell-snatch-grip-deadlift
+name: Barbell Snatch grip Deadlift
+human_readable_ids:
+- BarbellSnatchgripDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

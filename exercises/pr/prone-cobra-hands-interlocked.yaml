@@ -1,0 +1,15 @@
+id: '3210'
+slug: prone-cobra-hands-interlocked
+name: Prone Cobra Hands Interlocked
+human_readable_ids:
+- ProneCobraHandsInterlocked
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

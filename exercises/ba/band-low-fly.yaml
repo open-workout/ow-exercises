@@ -1,0 +1,15 @@
+id: 0908
+slug: band-low-fly
+name: Band low fly
+human_readable_ids:
+- Bandlowfly
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

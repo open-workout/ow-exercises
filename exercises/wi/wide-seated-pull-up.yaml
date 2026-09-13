@@ -1,0 +1,15 @@
+id: '4806'
+slug: wide-seated-pull-up
+name: Wide Seated Pull-up
+human_readable_ids:
+- WideSeatedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

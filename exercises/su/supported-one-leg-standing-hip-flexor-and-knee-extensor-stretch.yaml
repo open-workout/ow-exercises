@@ -1,0 +1,14 @@
+id: '1953'
+slug: supported-one-leg-standing-hip-flexor-and-knee-extensor-stretch
+name: Supported One Leg Standing Hip Flexor And Knee Extensor Stretch
+human_readable_ids:
+- SupportedOneLegStandingHipFlexorAndKneeExtensorStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

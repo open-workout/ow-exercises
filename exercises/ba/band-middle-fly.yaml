@@ -1,0 +1,15 @@
+id: 0913
+slug: band-middle-fly
+name: Band middle fly
+human_readable_ids:
+- Bandmiddlefly
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

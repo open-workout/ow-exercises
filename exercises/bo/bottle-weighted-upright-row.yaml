@@ -1,0 +1,15 @@
+id: '6071'
+slug: bottle-weighted-upright-row
+name: Bottle Weighted Upright Row
+human_readable_ids:
+- BottleWeightedUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0500'
+slug: isometric-wipers
+name: Isometric Wipers
+human_readable_ids:
+- IsometricWipers
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

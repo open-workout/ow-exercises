@@ -1,0 +1,15 @@
+id: '1126'
+slug: suspension-one-leg-chest-press
+name: Suspension One Leg Chest Press
+human_readable_ids:
+- SuspensionOneLegChestPress
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

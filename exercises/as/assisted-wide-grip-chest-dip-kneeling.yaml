@@ -1,0 +1,15 @@
+id: '2364'
+slug: assisted-wide-grip-chest-dip-kneeling
+name: Assisted Wide-Grip Chest Dip (kneeling)
+human_readable_ids:
+- AssistedWideGripChestDip
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

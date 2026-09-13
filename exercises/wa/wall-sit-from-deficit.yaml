@@ -1,0 +1,15 @@
+id: '7558'
+slug: wall-sit-from-deficit
+name: Wall sit from Deficit
+human_readable_ids:
+- WallsitfromDeficit
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

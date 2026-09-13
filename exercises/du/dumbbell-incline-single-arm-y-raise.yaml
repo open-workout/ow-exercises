@@ -1,0 +1,15 @@
+id: '7231'
+slug: dumbbell-incline-single-arm-y-raise
+name: Dumbbell Incline Single Arm Y Raise
+human_readable_ids:
+- DumbbellInclineSingleArmYRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

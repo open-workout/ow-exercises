@@ -1,0 +1,19 @@
+id: '2525'
+slug: vibrate-plate-standing
+name: Vibrate Plate Standing
+human_readable_ids:
+- VibratePlateStanding
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- abs
+- quads
+equipment:
+- vibrate-plate
+modalities:
+- time
+load:
+  required: false
+  direction: added

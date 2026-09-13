@@ -1,0 +1,15 @@
+id: '5698'
+slug: dumbbell-walking-calf-raise
+name: Dumbbell Walking Calf Raise
+human_readable_ids:
+- DumbbellWalkingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

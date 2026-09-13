@@ -1,0 +1,15 @@
+id: '1085'
+slug: suspension-pike
+name: Suspension Pike
+human_readable_ids:
+- SuspensionPike
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

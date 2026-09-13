@@ -1,0 +1,15 @@
+id: 0394
+slug: dumbbell-seated-kickback
+name: Dumbbell Seated Kickback
+human_readable_ids:
+- DumbbellSeatedKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10751'
+slug: calf-jump
+name: Calf Jump
+human_readable_ids:
+- CalfJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

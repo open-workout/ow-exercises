@@ -1,0 +1,14 @@
+id: '1990'
+slug: external-shoulder-rotation-stretch
+name: External Shoulder Rotation Stretch
+human_readable_ids:
+- ExternalShoulderRotationStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

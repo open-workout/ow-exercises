@@ -1,0 +1,16 @@
+id: '2881'
+slug: push-up-from-standing-position
+name: Push Up (from standing position)
+human_readable_ids:
+- PushUp2
+primary_muscles:
+- chest
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

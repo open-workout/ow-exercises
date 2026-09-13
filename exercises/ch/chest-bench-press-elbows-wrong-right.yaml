@@ -1,0 +1,15 @@
+id: '2342'
+slug: chest-bench-press-elbows-wrong-right
+name: Chest Bench Press - Elbows (WRONG-RIGHT)
+human_readable_ids:
+- ChestBenchPressElbows
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

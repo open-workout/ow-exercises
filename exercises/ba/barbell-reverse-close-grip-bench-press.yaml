@@ -1,0 +1,15 @@
+id: '2187'
+slug: barbell-reverse-close-grip-bench-press
+name: Barbell Reverse Close-grip Bench Press
+human_readable_ids:
+- BarbellReverseClosegripBenchPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0831
+slug: weighted-crunch-bent-knee
+name: Weighted Crunch (bent knee)
+human_readable_ids:
+- WeightedCrunch
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

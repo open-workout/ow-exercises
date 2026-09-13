@@ -1,0 +1,16 @@
+id: '3440'
+slug: split-jump-to-box
+name: Split Jump to Box
+human_readable_ids:
+- SplitJumptoBox
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

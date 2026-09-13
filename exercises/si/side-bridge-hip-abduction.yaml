@@ -1,0 +1,16 @@
+id: '0704'
+slug: side-bridge-hip-abduction
+name: Side Bridge Hip Abduction
+human_readable_ids:
+- SideBridgeHipAbduction2
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

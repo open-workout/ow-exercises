@@ -1,0 +1,17 @@
+id: '2722'
+slug: strongman-hood-stones
+name: StrongMan Hood Stones
+human_readable_ids:
+- StrongManHoodStones
+primary_muscles:
+- back
+- quads
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

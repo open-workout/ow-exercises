@@ -1,0 +1,15 @@
+id: '7850'
+slug: reverse-air-cycling
+name: Reverse Air Cycling
+human_readable_ids:
+- ReverseAirCycling
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

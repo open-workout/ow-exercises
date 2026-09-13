@@ -1,0 +1,15 @@
+id: 0259
+slug: close-grip-push-up
+name: Close-grip Push-up
+human_readable_ids:
+- ClosegripPushup
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1981'
+slug: bent-arm-shoulder-stretch
+name: Bent Arm Shoulder Stretch
+human_readable_ids:
+- BentArmShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

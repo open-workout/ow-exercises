@@ -1,0 +1,15 @@
+id: '4694'
+slug: bar-band-overhead-triceps-extension
+name: Bar Band Overhead Triceps Extension
+human_readable_ids:
+- BarBandOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

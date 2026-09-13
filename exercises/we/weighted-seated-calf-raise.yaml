@@ -1,0 +1,15 @@
+id: '4155'
+slug: weighted-seated-calf-raise
+name: Weighted Seated Calf Raise
+human_readable_ids:
+- WeightedSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

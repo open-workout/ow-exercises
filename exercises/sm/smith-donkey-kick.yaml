@@ -1,0 +1,15 @@
+id: '6038'
+slug: smith-donkey-kick
+name: Smith Donkey Kick
+human_readable_ids:
+- SmithDonkeyKick
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

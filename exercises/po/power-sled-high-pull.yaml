@@ -1,0 +1,15 @@
+id: '2909'
+slug: power-sled-high-pull
+name: Power Sled High Pull
+human_readable_ids:
+- PowerSledHighPull
+primary_muscles:
+- shoulders
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2716'
+slug: strongman-circle-of-conan
+name: StrongMan Circle of Conan
+human_readable_ids:
+- StrongManCircleofConan
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

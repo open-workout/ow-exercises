@@ -1,0 +1,16 @@
+id: '0740'
+slug: sled-45-leg-wide-press
+name: Sled 45┬░ Leg Wide Press
+human_readable_ids:
+- Sled45LegWidePress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

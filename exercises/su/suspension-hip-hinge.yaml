@@ -1,0 +1,15 @@
+id: '1157'
+slug: suspension-hip-hinge
+name: Suspension Hip Hinge
+human_readable_ids:
+- SuspensionHipHinge
+primary_muscles:
+- glutes
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1770'
+slug: biceps-leg-concentration-curl
+name: Biceps Leg Concentration Curl
+human_readable_ids:
+- BicepsLegConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

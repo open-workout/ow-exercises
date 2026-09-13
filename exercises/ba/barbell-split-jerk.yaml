@@ -1,0 +1,15 @@
+id: '1538'
+slug: barbell-split-jerk
+name: Barbell Split Jerk
+human_readable_ids:
+- BarbellSplitJerk
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

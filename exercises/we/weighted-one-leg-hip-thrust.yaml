@@ -1,0 +1,15 @@
+id: '1062'
+slug: weighted-one-leg-hip-thrust
+name: Weighted one leg hip thrust
+human_readable_ids:
+- Weightedoneleghipthrust
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

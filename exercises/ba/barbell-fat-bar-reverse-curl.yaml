@@ -1,0 +1,15 @@
+id: '10110'
+slug: barbell-fat-bar-reverse-curl
+name: Barbell Fat Bar Reverse Curl
+human_readable_ids:
+- BarbellFatBarReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

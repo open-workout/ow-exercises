@@ -1,0 +1,15 @@
+id: '10865'
+slug: dumbbell-single-leg-romanian-deadlift-on-bench
+name: Dumbbell Single Leg Romanian Deadlift on Bench
+human_readable_ids:
+- DumbbellSingleLegRomanianDeadliftonBench
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

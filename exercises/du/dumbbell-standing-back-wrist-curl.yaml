@@ -1,0 +1,15 @@
+id: '6366'
+slug: dumbbell-standing-back-wrist-curl
+name: Dumbbell Standing Back Wrist Curl
+human_readable_ids:
+- DumbbellStandingBackWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

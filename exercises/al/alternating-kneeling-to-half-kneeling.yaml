@@ -1,0 +1,15 @@
+id: '10058'
+slug: alternating-kneeling-to-half-kneeling
+name: Alternating Kneeling to Half Kneeling
+human_readable_ids:
+- AlternatingKneelingtoHalfKneeling
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

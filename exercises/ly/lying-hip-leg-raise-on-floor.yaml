@@ -1,0 +1,15 @@
+id: '0617'
+slug: lying-hip-leg-raise-on-floor
+name: Lying Hip Leg Raise (on floor)
+human_readable_ids:
+- LyingHipLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

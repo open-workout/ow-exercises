@@ -1,0 +1,15 @@
+id: '6041'
+slug: bottle-weighted-romanian-deadlift
+name: Bottle Weighted Romanian Deadlift
+human_readable_ids:
+- BottleWeightedRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

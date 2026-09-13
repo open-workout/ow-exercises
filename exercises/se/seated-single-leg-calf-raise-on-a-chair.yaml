@@ -1,0 +1,15 @@
+id: '11650'
+slug: seated-single-leg-calf-raise-on-a-chair
+name: Seated Single Leg Calf Raise on a Chair
+human_readable_ids:
+- SeatedSingleLegCalfRaiseonaChair
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

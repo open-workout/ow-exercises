@@ -1,0 +1,15 @@
+id: '0545'
+slug: kettlebell-plyo-push-up
+name: Kettlebell Plyo Push-up
+human_readable_ids:
+- KettlebellPlyoPushup
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

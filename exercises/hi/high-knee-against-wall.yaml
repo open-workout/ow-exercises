@@ -1,0 +1,16 @@
+id: '3636'
+slug: high-knee-against-wall
+name: High Knee against wall
+human_readable_ids:
+- HighKneeagainstwall
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

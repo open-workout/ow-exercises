@@ -1,0 +1,15 @@
+id: '6066'
+slug: bottle-weighted-two-arms-kickback
+name: Bottle Weighted Two Arms Kickback
+human_readable_ids:
+- BottleWeightedTwoArmsKickback
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

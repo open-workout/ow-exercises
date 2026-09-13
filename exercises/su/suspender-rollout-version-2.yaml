@@ -1,0 +1,15 @@
+id: '4799'
+slug: suspender-rollout-version-2
+name: Suspender Rollout (VERSION 2)
+human_readable_ids:
+- SuspenderRollout
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

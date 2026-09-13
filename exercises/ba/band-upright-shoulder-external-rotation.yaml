@@ -1,0 +1,15 @@
+id: 0935
+slug: band-upright-shoulder-external-rotation
+name: Band Upright Shoulder External Rotation
+human_readable_ids:
+- BandUprightShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

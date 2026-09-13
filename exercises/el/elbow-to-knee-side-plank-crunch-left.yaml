@@ -1,0 +1,15 @@
+id: '6210'
+slug: elbow-to-knee-side-plank-crunch-left
+name: Elbow to Knee Side Plank Crunch (left)
+human_readable_ids:
+- ElbowtoKneeSidePlankCrunch2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

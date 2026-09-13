@@ -1,0 +1,15 @@
+id: '5837'
+slug: resistance-band-pull-through
+name: Resistance Band Pull Through
+human_readable_ids:
+- ResistanceBandPullThrough
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

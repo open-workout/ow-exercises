@@ -1,0 +1,14 @@
+id: '7622'
+slug: lying-single-leg-hamstring-stretch-against-wall
+name: Lying Single Leg Hamstring Stretch against Wall
+human_readable_ids:
+- LyingSingleLegHamstringStretchagainstWall
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

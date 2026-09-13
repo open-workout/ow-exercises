@@ -1,0 +1,14 @@
+id: '1911'
+slug: raised-leg-knee-flexor-stretch
+name: Raised Leg Knee Flexor Stretch
+human_readable_ids:
+- RaisedLegKneeFlexorStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

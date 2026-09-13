@@ -1,0 +1,15 @@
+id: '0156'
+slug: cable-curl
+name: Cable Curl
+human_readable_ids:
+- CableCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

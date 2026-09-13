@@ -1,0 +1,15 @@
+id: '9930'
+slug: barbell-california-press
+name: Barbell California Press
+human_readable_ids:
+- BarbellCaliforniaPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1405'
+slug: back-pec-stretch
+name: Back Pec Stretch
+human_readable_ids:
+- BackPecStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

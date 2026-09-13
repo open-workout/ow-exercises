@@ -1,0 +1,15 @@
+id: '0130'
+slug: bench-hip-extension
+name: Bench Hip Extension
+human_readable_ids:
+- BenchHipExtension
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

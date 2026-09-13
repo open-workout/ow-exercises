@@ -1,0 +1,15 @@
+id: 0087
+slug: barbell-seated-bradford-rocky-press
+name: Barbell Seated Bradford Rocky Press
+human_readable_ids:
+- BarbellSeatedBradfordRockyPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

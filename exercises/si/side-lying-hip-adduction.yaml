@@ -1,0 +1,15 @@
+id: '3667'
+slug: side-lying-hip-adduction
+name: Side Lying Hip Adduction
+human_readable_ids:
+- SideLyingHipAdduction
+primary_muscles:
+- adductors
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

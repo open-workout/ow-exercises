@@ -1,0 +1,15 @@
+id: '7551'
+slug: bodyweight-heel-elevated-bulgarian-split-squat
+name: Bodyweight Heel Elevated Bulgarian Split Squat
+human_readable_ids:
+- BodyweightHeelElevatedBulgarianSplitSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

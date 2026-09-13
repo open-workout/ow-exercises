@@ -1,0 +1,15 @@
+id: '3890'
+slug: hanging-knees-to-elbows
+name: Hanging Knees to Elbows
+human_readable_ids:
+- HangingKneestoElbows
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3600'
+slug: chin-ups-narrow-parallel-grip-3600
+name: Chin ups (narrow parallel grip)
+human_readable_ids:
+- Chinups2
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

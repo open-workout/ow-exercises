@@ -1,0 +1,15 @@
+id: '10199'
+slug: dumbbell-cross-romanian-deadlift
+name: Dumbbell Cross Romanian Deadlift
+human_readable_ids:
+- DumbbellCrossRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8662'
+slug: cable-incline-close-grip-shoulder-press-with-v-bar
+name: Cable Incline Close Grip Shoulder Press with V Bar
+human_readable_ids:
+- CableInclineCloseGripShoulderPresswithVBar
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

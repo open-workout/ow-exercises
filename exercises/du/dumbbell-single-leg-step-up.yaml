@@ -1,0 +1,16 @@
+id: '2925'
+slug: dumbbell-single-leg-step-up
+name: Dumbbell Single Leg Step Up
+human_readable_ids:
+- DumbbellSingleLegStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

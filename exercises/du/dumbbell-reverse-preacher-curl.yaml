@@ -1,0 +1,15 @@
+id: 0384
+slug: dumbbell-reverse-preacher-curl
+name: Dumbbell Reverse Preacher Curl
+human_readable_ids:
+- DumbbellReversePreacherCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

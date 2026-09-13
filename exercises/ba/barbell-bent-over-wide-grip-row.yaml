@@ -1,0 +1,15 @@
+id: '3721'
+slug: barbell-bent-over-wide-grip-row
+name: Barbell Bent Over Wide Grip Row
+human_readable_ids:
+- BarbellBentOverWideGripRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '2767'
+slug: hip-abduction-articulations
+name: Hip - Abduction - Articulations
+human_readable_ids:
+- HipAbductionArticulations
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

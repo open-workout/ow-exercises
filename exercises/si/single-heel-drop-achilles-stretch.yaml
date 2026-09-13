@@ -1,0 +1,14 @@
+id: '1886'
+slug: single-heel-drop-achilles-stretch
+name: Single Heel Drop Achilles Stretch
+human_readable_ids:
+- SingleHeelDropAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

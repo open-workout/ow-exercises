@@ -1,0 +1,15 @@
+id: '0161'
+slug: cable-forward-raise
+name: Cable Forward Raise
+human_readable_ids:
+- CableForwardRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

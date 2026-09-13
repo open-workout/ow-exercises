@@ -1,0 +1,14 @@
+id: '1971'
+slug: reverse-shoulder-stretch
+name: Reverse Shoulder Stretch
+human_readable_ids:
+- ReverseShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

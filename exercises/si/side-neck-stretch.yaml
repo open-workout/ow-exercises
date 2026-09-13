@@ -1,0 +1,14 @@
+id: '0713'
+slug: side-neck-stretch
+name: Side Neck Stretch
+human_readable_ids:
+- SideNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

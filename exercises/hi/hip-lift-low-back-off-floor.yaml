@@ -1,0 +1,15 @@
+id: '1853'
+slug: hip-lift-low-back-off-floor
+name: Hip Lift - Low Back Off Floor
+human_readable_ids:
+- HipLiftLowBackOffFloor
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

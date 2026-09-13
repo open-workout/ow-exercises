@@ -1,0 +1,15 @@
+id: '3283'
+slug: weighted-floor-twisting-crunch-feet-on-bench
+name: Weighted Floor Twisting Crunch Feet on Bench
+human_readable_ids:
+- WeightedFloorTwistingCrunchFeetonBench
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

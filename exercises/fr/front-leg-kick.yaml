@@ -1,0 +1,15 @@
+id: '6013'
+slug: front-leg-kick
+name: Front Leg Kick
+human_readable_ids:
+- FrontLegKick
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

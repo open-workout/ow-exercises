@@ -1,0 +1,15 @@
+id: '1130'
+slug: suspension-reverse-fly-wake-up
+name: Suspension Reverse Fly Wake-up
+human_readable_ids:
+- SuspensionReverseFlyWakeup
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10870'
+slug: resistance-band-glute-bridge-walk
+name: Resistance Band Glute Bridge Walk
+human_readable_ids:
+- ResistanceBandGluteBridgeWalk
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

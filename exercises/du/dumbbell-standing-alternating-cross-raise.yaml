@@ -1,0 +1,15 @@
+id: '10040'
+slug: dumbbell-standing-alternating-cross-raise
+name: Dumbbell Standing Alternating Cross Raise
+human_readable_ids:
+- DumbbellStandingAlternatingCrossRaise
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

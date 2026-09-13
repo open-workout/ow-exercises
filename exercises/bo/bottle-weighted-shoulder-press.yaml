@@ -1,0 +1,15 @@
+id: '6076'
+slug: bottle-weighted-shoulder-press
+name: Bottle Weighted Shoulder Press
+human_readable_ids:
+- BottleWeightedShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

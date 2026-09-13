@@ -1,0 +1,14 @@
+id: '6843'
+slug: back-stretch-on-tube
+name: Back Stretch on Tube
+human_readable_ids:
+- BackStretchonTube
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

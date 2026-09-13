@@ -1,0 +1,15 @@
+id: '5855'
+slug: kettlebell-clean-and-press
+name: Kettlebell Clean and Press
+human_readable_ids:
+- KettlebellCleanandPress
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

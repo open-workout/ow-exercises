@@ -1,0 +1,15 @@
+id: '1174'
+slug: diamond-push-up-on-knees
+name: Diamond Push-up (on knees)
+human_readable_ids:
+- DiamondPushup2
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

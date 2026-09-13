@@ -1,0 +1,15 @@
+id: '4060'
+slug: bird-dog-push-up
+name: Bird Dog Push-Up
+human_readable_ids:
+- BirdDogPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

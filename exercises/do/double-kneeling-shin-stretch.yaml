@@ -1,0 +1,14 @@
+id: '1960'
+slug: double-kneeling-shin-stretch
+name: Double Kneeling Shin Stretch
+human_readable_ids:
+- DoubleKneelingShinStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

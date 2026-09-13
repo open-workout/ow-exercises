@@ -1,0 +1,15 @@
+id: '0474'
+slug: hanging-straight-leg-hip-raise
+name: Hanging Straight Leg Hip Raise
+human_readable_ids:
+- HangingStraightLegHipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

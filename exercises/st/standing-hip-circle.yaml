@@ -1,0 +1,17 @@
+id: '3411'
+slug: standing-hip-circle
+name: Standing Hip Circle
+human_readable_ids:
+- StandingHipCircle
+primary_muscles:
+- back
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

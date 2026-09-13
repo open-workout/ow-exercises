@@ -1,0 +1,15 @@
+id: '0450'
+slug: ez-barbell-jm-bench-press
+name: EZ Barbell JM Bench Press
+human_readable_ids:
+- EZBarbellJMBenchPress
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '5516'
+slug: lever-reverse-vertical-hack-squat
+name: Lever Reverse Vertical Hack Squat
+human_readable_ids:
+- LeverReverseVerticalHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

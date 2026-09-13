@@ -1,0 +1,14 @@
+id: '2567'
+slug: seated-piriformis-stretch
+name: Seated Piriformis Stretch
+human_readable_ids:
+- SeatedPiriformisStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

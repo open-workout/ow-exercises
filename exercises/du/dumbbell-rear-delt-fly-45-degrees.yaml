@@ -1,0 +1,15 @@
+id: '5303'
+slug: dumbbell-rear-delt-fly-45-degrees
+name: Dumbbell Rear Delt Fly (45 degrees)
+human_readable_ids:
+- DumbbellRearDeltFly2
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

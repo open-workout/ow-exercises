@@ -1,0 +1,15 @@
+id: '1047'
+slug: cable-close-grip-front-lat-pulldown
+name: Cable Close-Grip Front Lat Pulldown
+human_readable_ids:
+- CableCloseGripFrontLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

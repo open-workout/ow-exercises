@@ -1,0 +1,15 @@
+id: '1552'
+slug: dumbbell-jumping-squat
+name: Dumbbell Jumping Squat
+human_readable_ids:
+- DumbbellJumpingSquat
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

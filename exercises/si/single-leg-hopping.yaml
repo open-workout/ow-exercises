@@ -1,0 +1,15 @@
+id: '5482'
+slug: single-leg-hopping
+name: Single Leg Hopping
+human_readable_ids:
+- SingleLegHopping
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6547'
+slug: hanging-hollow-hold
+name: Hanging Hollow Hold
+human_readable_ids:
+- HangingHollowHold
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

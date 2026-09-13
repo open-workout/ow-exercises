@@ -1,0 +1,15 @@
+id: '6364'
+slug: ez-bar-seated-wrist-reverse-curl
+name: EZ Bar Seated Wrist Reverse Curl
+human_readable_ids:
+- EZBarSeatedWristReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

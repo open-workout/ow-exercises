@@ -1,0 +1,14 @@
+id: '3245'
+slug: feet-and-ankles-side-to-side-stretch
+name: Feet and Ankles Side to Side Stretch
+human_readable_ids:
+- FeetandAnklesSidetoSideStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

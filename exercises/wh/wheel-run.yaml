@@ -1,0 +1,16 @@
+id: '3637'
+slug: wheel-run
+name: Wheel Run
+human_readable_ids:
+- WheelRun
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

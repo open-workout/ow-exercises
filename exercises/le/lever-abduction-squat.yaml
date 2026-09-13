@@ -1,0 +1,15 @@
+id: '2746'
+slug: lever-abduction-squat
+name: Lever Abduction Squat
+human_readable_ids:
+- LeverAbductionSquat
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

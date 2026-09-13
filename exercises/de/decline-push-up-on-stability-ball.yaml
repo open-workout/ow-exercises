@@ -1,0 +1,15 @@
+id: 0278
+slug: decline-push-up-on-stability-ball
+name: Decline Push-up (on stability ball)
+human_readable_ids:
+- DeclinePushup
+primary_muscles:
+- chest
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

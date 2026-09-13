@@ -1,0 +1,15 @@
+id: '0517'
+slug: kettlebell-advanced-windmill
+name: Kettlebell Advanced Windmill
+human_readable_ids:
+- KettlebellAdvancedWindmill
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

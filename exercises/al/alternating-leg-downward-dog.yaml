@@ -1,0 +1,14 @@
+id: '4926'
+slug: alternating-leg-downward-dog
+name: Alternating Leg Downward Dog
+human_readable_ids:
+- AlternatingLegDownwardDog
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

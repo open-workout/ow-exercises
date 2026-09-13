@@ -1,0 +1,15 @@
+id: '1876'
+slug: lever-lateral-raise-plate-loaded
+name: Lever Lateral Raise (plate loaded)
+human_readable_ids:
+- LeverLateralRaise2
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

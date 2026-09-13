@@ -1,0 +1,15 @@
+id: '1360'
+slug: smith-one-arm-row
+name: Smith One Arm Row
+human_readable_ids:
+- SmithOneArmRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4760'
+slug: elevated-standing-calf-raise
+name: Elevated Standing Calf Raise
+human_readable_ids:
+- ElevatedStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

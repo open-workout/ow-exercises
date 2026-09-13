@@ -1,0 +1,15 @@
+id: '4593'
+slug: boxing-right-uppercut-with-partner
+name: Boxing Right Uppercut (with partner)
+human_readable_ids:
+- BoxingRightUppercut
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

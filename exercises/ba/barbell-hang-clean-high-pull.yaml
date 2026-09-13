@@ -1,0 +1,15 @@
+id: '10107'
+slug: barbell-hang-clean-high-pull
+name: Barbell Hang Clean High Pull
+human_readable_ids:
+- BarbellHangCleanHighPull
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

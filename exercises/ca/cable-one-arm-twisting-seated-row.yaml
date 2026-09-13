@@ -1,0 +1,15 @@
+id: '1205'
+slug: cable-one-arm-twisting-seated-row
+name: Cable one arm twisting seated row
+human_readable_ids:
+- Cableonearmtwistingseatedrow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

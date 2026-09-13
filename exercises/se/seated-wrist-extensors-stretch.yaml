@@ -1,0 +1,14 @@
+id: '8245'
+slug: seated-wrist-extensors-stretch
+name: Seated Wrist Extensors Stretch
+human_readable_ids:
+- SeatedWristExtensorsStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

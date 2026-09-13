@@ -1,0 +1,14 @@
+id: '1816'
+slug: extension-of-arms-in-vertical-stretch
+name: Extension Of Arms In Vertical Stretch
+human_readable_ids:
+- ExtensionOfArmsInVerticalStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

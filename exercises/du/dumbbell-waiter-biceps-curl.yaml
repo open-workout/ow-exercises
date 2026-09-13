@@ -1,0 +1,15 @@
+id: '5201'
+slug: dumbbell-waiter-biceps-curl
+name: Dumbbell Waiter Biceps Curl
+human_readable_ids:
+- DumbbellWaiterBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

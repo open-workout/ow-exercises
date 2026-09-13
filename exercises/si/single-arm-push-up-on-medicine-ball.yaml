@@ -1,0 +1,15 @@
+id: '4121'
+slug: single-arm-push-up-on-medicine-ball
+name: Single Arm Push-Up on Medicine Ball
+human_readable_ids:
+- SingleArmPushUponMedicineBall
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

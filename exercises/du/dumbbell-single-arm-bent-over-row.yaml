@@ -1,0 +1,15 @@
+id: '4837'
+slug: dumbbell-single-arm-bent-over-row
+name: Dumbbell Single Arm Bent Over Row
+human_readable_ids:
+- DumbbellSingleArmBentOverRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

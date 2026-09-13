@@ -1,0 +1,15 @@
+id: '5017'
+slug: pause-squat
+name: Pause Squat
+human_readable_ids:
+- PauseSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

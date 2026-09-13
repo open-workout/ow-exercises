@@ -1,0 +1,15 @@
+id: '4994'
+slug: lying-leg-cross
+name: Lying Leg Cross
+human_readable_ids:
+- LyingLegCross
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

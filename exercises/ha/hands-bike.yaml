@@ -1,0 +1,16 @@
+id: '2139'
+slug: hands-bike
+name: Hands bike
+human_readable_ids:
+- Handsbike
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

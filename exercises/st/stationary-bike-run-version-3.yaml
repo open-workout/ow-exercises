@@ -1,0 +1,15 @@
+id: '2138'
+slug: stationary-bike-run-version-3
+name: Stationary Bike Run (version 3)
+human_readable_ids:
+- StationaryBikeRun
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

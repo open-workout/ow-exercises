@@ -1,0 +1,15 @@
+id: '1680'
+slug: dumbbell-standing-one-arm-curl-over-incline-bench-1680
+name: Dumbbell Standing One Arm Curl Over Incline Bench
+human_readable_ids:
+- DumbbellStandingOneArmCurlOverInclineBench
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

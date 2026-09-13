@@ -1,0 +1,14 @@
+id: '1510'
+slug: crossover-reverse-lunge
+name: Crossover Reverse Lunge
+human_readable_ids:
+- CrossoverReverseLunge
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

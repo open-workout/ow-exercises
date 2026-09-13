@@ -1,0 +1,15 @@
+id: '2715'
+slug: strongman-timber-carry
+name: StrongMan Timber Carry
+human_readable_ids:
+- StrongManTimberCarry
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

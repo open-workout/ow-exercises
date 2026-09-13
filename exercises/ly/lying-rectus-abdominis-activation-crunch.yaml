@@ -1,0 +1,15 @@
+id: '6752'
+slug: lying-rectus-abdominis-activation-crunch
+name: Lying Rectus Abdominis Activation Crunch
+human_readable_ids:
+- LyingRectusAbdominisActivationCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

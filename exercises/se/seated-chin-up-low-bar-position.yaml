@@ -1,0 +1,15 @@
+id: '4780'
+slug: seated-chin-up-low-bar-position
+name: Seated Chin-up (low bar position)
+human_readable_ids:
+- SeatedChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

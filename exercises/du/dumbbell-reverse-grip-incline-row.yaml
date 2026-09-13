@@ -1,0 +1,15 @@
+id: '2511'
+slug: dumbbell-reverse-grip-incline-row
+name: Dumbbell Reverse Grip Incline Row
+human_readable_ids:
+- DumbbellReverseGripInclineRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

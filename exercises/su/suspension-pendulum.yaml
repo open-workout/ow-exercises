@@ -1,0 +1,15 @@
+id: '1156'
+slug: suspension-pendulum
+name: Suspension Pendulum
+human_readable_ids:
+- SuspensionPendulum
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

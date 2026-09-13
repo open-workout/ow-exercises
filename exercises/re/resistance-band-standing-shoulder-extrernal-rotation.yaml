@@ -1,0 +1,15 @@
+id: '8361'
+slug: resistance-band-standing-shoulder-extrernal-rotation
+name: Resistance Band Standing Shoulder Extrernal Rotation
+human_readable_ids:
+- ResistanceBandStandingShoulderExtrernalRotation
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

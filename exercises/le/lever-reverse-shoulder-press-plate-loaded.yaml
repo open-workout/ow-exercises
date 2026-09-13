@@ -1,0 +1,15 @@
+id: '4174'
+slug: lever-reverse-shoulder-press-plate-loaded
+name: Lever Reverse Shoulder Press (plate loaded)
+human_readable_ids:
+- LeverReverseShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

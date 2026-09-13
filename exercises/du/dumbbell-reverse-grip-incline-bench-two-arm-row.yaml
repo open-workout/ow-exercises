@@ -1,0 +1,15 @@
+id: '1331'
+slug: dumbbell-reverse-grip-incline-bench-two-arm-row
+name: Dumbbell Reverse Grip Incline Bench Two Arm Row
+human_readable_ids:
+- DumbbellReverseGripInclineBenchTwoArmRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

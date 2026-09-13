@@ -1,0 +1,15 @@
+id: '6600'
+slug: bodyweight-supported-squat
+name: Bodyweight Supported Squat
+human_readable_ids:
+- BodyweightSupportedSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

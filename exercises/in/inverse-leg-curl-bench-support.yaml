@@ -1,0 +1,15 @@
+id: 0496
+slug: inverse-leg-curl-bench-support
+name: Inverse Leg Curl (bench support)
+human_readable_ids:
+- InverseLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

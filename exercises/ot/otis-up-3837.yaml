@@ -1,0 +1,16 @@
+id: '3837'
+slug: otis-up-3837
+name: Otis-Up
+human_readable_ids:
+- OtisUp2
+primary_muscles:
+- shoulders
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '6295'
+slug: sage-marichi-i-pose-marichyasana
+name: Sage Marichi I Pose Marichyasana
+human_readable_ids:
+- SageMarichiIPoseMarichyasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

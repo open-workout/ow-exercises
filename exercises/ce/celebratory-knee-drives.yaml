@@ -1,0 +1,15 @@
+id: '5956'
+slug: celebratory-knee-drives
+name: Celebratory Knee Drives
+human_readable_ids:
+- CelebratoryKneeDrives
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

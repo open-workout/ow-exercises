@@ -1,0 +1,15 @@
+id: '6544'
+slug: cable-goblet-squat
+name: Cable Goblet Squat
+human_readable_ids:
+- CableGobletSquat
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

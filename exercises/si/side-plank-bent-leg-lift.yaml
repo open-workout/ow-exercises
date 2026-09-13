@@ -1,0 +1,15 @@
+id: '6466'
+slug: side-plank-bent-leg-lift
+name: Side Plank Bent Leg Lift
+human_readable_ids:
+- SidePlankBentLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0084
+slug: barbell-rollout
+name: Barbell Rollout
+human_readable_ids:
+- BarbellRollout
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

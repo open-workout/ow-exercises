@@ -1,0 +1,15 @@
+id: '2417'
+slug: resistance-band-duck-walk
+name: Resistance Band Duck Walk
+human_readable_ids:
+- ResistanceBandDuckWalk
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

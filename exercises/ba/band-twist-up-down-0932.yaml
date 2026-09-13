@@ -1,0 +1,15 @@
+id: 0932
+slug: band-twist-up-down-0932
+name: Band twist (up-down)
+human_readable_ids:
+- Bandtwist2
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

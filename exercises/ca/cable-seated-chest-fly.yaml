@@ -1,0 +1,15 @@
+id: '3869'
+slug: cable-seated-chest-fly
+name: Cable Seated Chest Fly
+human_readable_ids:
+- CableSeatedChestFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

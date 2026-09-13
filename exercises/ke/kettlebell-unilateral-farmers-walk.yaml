@@ -1,0 +1,15 @@
+id: '4529'
+slug: kettlebell-unilateral-farmers-walk
+name: Kettlebell Unilateral Farmers Walk
+human_readable_ids:
+- KettlebellUnilateralFarmersWalk
+primary_muscles:
+- plyometrics
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

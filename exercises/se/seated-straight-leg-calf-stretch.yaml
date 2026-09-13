@@ -1,0 +1,14 @@
+id: 0693
+slug: seated-straight-leg-calf-stretch
+name: Seated Straight Leg Calf Stretch
+human_readable_ids:
+- SeatedStraightLegCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1185'
+slug: 45-degree-bycicle-twisting-crunch
+name: 45 degree Bycicle Twisting Crunch
+human_readable_ids:
+- 45degreeBycicleTwistingCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

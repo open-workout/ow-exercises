@@ -1,0 +1,14 @@
+id: '1961'
+slug: squatting-toe-stretch
+name: Squatting Toe Stretch
+human_readable_ids:
+- SquattingToeStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

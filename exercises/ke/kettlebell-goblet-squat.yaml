@@ -1,0 +1,16 @@
+id: '0534'
+slug: kettlebell-goblet-squat
+name: Kettlebell Goblet Squat
+human_readable_ids:
+- KettlebellGobletSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

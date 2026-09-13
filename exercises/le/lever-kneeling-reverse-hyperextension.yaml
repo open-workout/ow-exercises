@@ -1,0 +1,15 @@
+id: '2748'
+slug: lever-kneeling-reverse-hyperextension
+name: Lever Kneeling Reverse Hyperextension
+human_readable_ids:
+- LeverKneelingReverseHyperextension
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

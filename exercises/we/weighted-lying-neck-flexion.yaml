@@ -1,0 +1,15 @@
+id: '1043'
+slug: weighted-lying-neck-flexion
+name: Weighted Lying Neck Flexion
+human_readable_ids:
+- WeightedLyingNeckFlexion
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

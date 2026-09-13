@@ -1,0 +1,14 @@
+id: '5891'
+slug: high-lunge
+name: High Lunge
+human_readable_ids:
+- HighLunge
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

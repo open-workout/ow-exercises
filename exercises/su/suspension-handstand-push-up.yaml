@@ -1,0 +1,15 @@
+id: '1115'
+slug: suspension-handstand-push-up
+name: Suspension Handstand Push-up
+human_readable_ids:
+- SuspensionHandstandPushup
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

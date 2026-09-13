@@ -1,0 +1,15 @@
+id: '4527'
+slug: kettlebell-single-arm-swing
+name: Kettlebell Single Arm Swing
+human_readable_ids:
+- KettlebellSingleArmSwing
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

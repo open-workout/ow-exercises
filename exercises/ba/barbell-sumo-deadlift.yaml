@@ -1,0 +1,16 @@
+id: '0117'
+slug: barbell-sumo-deadlift
+name: Barbell Sumo Deadlift
+human_readable_ids:
+- BarbellSumoDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

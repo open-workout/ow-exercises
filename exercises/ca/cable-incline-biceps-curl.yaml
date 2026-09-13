@@ -1,0 +1,15 @@
+id: '5703'
+slug: cable-incline-biceps-curl
+name: Cable Incline Biceps Curl
+human_readable_ids:
+- CableInclineBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

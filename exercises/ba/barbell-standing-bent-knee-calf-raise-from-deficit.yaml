@@ -1,0 +1,15 @@
+id: '9410'
+slug: barbell-standing-bent-knee-calf-raise-from-deficit
+name: Barbell Standing Bent Knee Calf Raise from Deficit
+human_readable_ids:
+- BarbellStandingBentKneeCalfRaisefromDeficit
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

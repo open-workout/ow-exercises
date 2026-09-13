@@ -1,0 +1,15 @@
+id: '2829'
+slug: power-sled-rear-lunge
+name: Power Sled Rear Lunge
+human_readable_ids:
+- PowerSledRearLunge
+primary_muscles:
+- quads
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

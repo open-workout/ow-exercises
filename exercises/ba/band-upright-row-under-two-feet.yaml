@@ -1,0 +1,15 @@
+id: '1500'
+slug: band-upright-row-under-two-feet
+name: Band Upright Row (Under two feet)
+human_readable_ids:
+- BandUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

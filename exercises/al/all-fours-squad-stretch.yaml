@@ -1,0 +1,14 @@
+id: '1512'
+slug: all-fours-squad-stretch
+name: All Fours Squad Stretch
+human_readable_ids:
+- AllFoursSquadStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

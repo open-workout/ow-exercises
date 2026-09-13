@@ -1,0 +1,15 @@
+id: '10184'
+slug: resistance-band-alternating-split-stance-pallof-press
+name: Resistance Band Alternating Split Stance Pallof Press
+human_readable_ids:
+- ResistanceBandAlternatingSplitStancePallofPress
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

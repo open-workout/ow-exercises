@@ -1,0 +1,16 @@
+id: '2990'
+slug: barbell-walk-calves-activation
+name: Barbell Walk Calves Activation
+human_readable_ids:
+- BarbellWalkCalvesActivation
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

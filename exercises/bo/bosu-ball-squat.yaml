@@ -1,0 +1,15 @@
+id: '10868'
+slug: bosu-ball-squat
+name: Bosu Ball Squat
+human_readable_ids:
+- BosuBallSquat
+primary_muscles:
+- quads
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

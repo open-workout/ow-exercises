@@ -1,0 +1,14 @@
+id: '6878'
+slug: sitting-yoga-pose-siddhasana
+name: Sitting Yoga Pose Siddhasana
+human_readable_ids:
+- SittingYogaPoseSiddhasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1588'
+slug: side-to-side-box-shuffle
+name: Side to Side Box Shuffle
+human_readable_ids:
+- SidetoSideBoxShuffle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

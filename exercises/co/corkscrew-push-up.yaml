@@ -1,0 +1,15 @@
+id: '0261'
+slug: corkscrew-push-up
+name: Corkscrew Push-up
+human_readable_ids:
+- CorkscrewPushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

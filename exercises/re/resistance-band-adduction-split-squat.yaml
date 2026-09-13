@@ -1,0 +1,15 @@
+id: '4109'
+slug: resistance-band-adduction-split-squat
+name: Resistance Band Adduction Split Squat
+human_readable_ids:
+- ResistanceBandAdductionSplitSquat
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

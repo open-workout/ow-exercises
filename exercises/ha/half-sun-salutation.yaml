@@ -1,0 +1,14 @@
+id: '5982'
+slug: half-sun-salutation
+name: Half Sun Salutation
+human_readable_ids:
+- HalfSunSalutation
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

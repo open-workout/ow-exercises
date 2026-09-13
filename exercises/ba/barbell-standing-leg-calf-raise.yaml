@@ -1,0 +1,15 @@
+id: 0108
+slug: barbell-standing-leg-calf-raise
+name: Barbell Standing Leg Calf Raise
+human_readable_ids:
+- BarbellStandingLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

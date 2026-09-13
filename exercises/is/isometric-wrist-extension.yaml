@@ -1,0 +1,15 @@
+id: '9995'
+slug: isometric-wrist-extension
+name: Isometric Wrist Extension
+human_readable_ids:
+- IsometricWristExtension
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '8203'
+slug: sitting-russian-twist-on-a-chair
+name: Sitting Russian Twist on a Chair
+human_readable_ids:
+- SittingRussianTwistonaChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

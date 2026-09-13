@@ -1,0 +1,15 @@
+id: '9700'
+slug: bodyweight-walking-low-lunge
+name: Bodyweight Walking Low Lunge
+human_readable_ids:
+- BodyweightWalkingLowLunge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

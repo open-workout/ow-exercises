@@ -1,0 +1,15 @@
+id: '2712'
+slug: strongman-sandbag-walk
+name: StrongMan Sandbag Walk
+human_readable_ids:
+- StrongManSandbagWalk
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

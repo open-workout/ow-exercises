@@ -1,0 +1,15 @@
+id: '4234'
+slug: weighted-seated-one-arm-reverse-wrist-curl
+name: Weighted Seated One Arm Reverse Wrist Curl
+human_readable_ids:
+- WeightedSeatedOneArmReverseWristCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

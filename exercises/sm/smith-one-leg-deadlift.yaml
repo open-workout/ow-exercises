@@ -1,0 +1,15 @@
+id: 0886
+slug: smith-one-leg-deadlift
+name: Smith One Leg Deadlift
+human_readable_ids:
+- SmithOneLegDeadlift
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

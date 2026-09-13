@@ -1,0 +1,16 @@
+id: '4790'
+slug: single-leg-bench-squat
+name: Single Leg Bench Squat
+human_readable_ids:
+- SingleLegBenchSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

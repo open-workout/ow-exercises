@@ -1,0 +1,15 @@
+id: '1282'
+slug: dumbbell-incline-one-arm-press-on-exercise-ball
+name: Dumbbell Incline One Arm Press on Exercise Ball
+human_readable_ids:
+- DumbbellInclineOneArmPressonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '1702'
+slug: single-leg-foot-touch
+name: Single Leg Foot Touch
+human_readable_ids:
+- SingleLegFootTouch
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

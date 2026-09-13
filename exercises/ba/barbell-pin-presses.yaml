@@ -1,0 +1,15 @@
+id: '1751'
+slug: barbell-pin-presses
+name: Barbell Pin Presses
+human_readable_ids:
+- BarbellPinPresses
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

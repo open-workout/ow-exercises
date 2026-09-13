@@ -1,0 +1,14 @@
+id: '0721'
+slug: side-wrist-pull-stretch
+name: Side Wrist Pull Stretch
+human_readable_ids:
+- SideWristPullStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

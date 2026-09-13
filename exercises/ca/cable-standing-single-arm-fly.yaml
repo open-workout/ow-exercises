@@ -1,0 +1,15 @@
+id: '6219'
+slug: cable-standing-single-arm-fly
+name: Cable Standing Single Arm Fly
+human_readable_ids:
+- CableStandingSingleArmFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

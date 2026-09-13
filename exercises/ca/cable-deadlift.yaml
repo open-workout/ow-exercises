@@ -1,0 +1,16 @@
+id: '0157'
+slug: cable-deadlift
+name: Cable Deadlift
+human_readable_ids:
+- CableDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2953'
+slug: cable-standing-reverse-grip-curl-straight-bar
+name: Cable Standing Reverse Grip Curl (Straight bar)
+human_readable_ids:
+- CableStandingReverseGripCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

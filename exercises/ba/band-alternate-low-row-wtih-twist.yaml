@@ -1,0 +1,15 @@
+id: '3325'
+slug: band-alternate-low-row-wtih-twist
+name: Band Alternate Low Row wtih Twist
+human_readable_ids:
+- BandAlternateLowRowwtihTwist
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

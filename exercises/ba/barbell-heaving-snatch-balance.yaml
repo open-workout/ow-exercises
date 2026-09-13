@@ -1,0 +1,15 @@
+id: '1524'
+slug: barbell-heaving-snatch-balance
+name: Barbell Heaving Snatch Balance
+human_readable_ids:
+- BarbellHeavingSnatchBalance
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '7204'
+slug: resistance-band-standing-balance-glute-kickback-version-2
+name: Resistance Band Standing Balance Glute Kickback (VERSION 2)
+human_readable_ids:
+- ResistanceBandStandingBalanceGluteKickback2
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

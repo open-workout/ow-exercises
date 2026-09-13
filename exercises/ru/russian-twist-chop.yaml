@@ -1,0 +1,15 @@
+id: '5938'
+slug: russian-twist-chop
+name: Russian Twist Chop
+human_readable_ids:
+- RussianTwistChop
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

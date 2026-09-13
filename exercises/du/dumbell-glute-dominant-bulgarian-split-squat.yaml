@@ -1,0 +1,15 @@
+id: '7590'
+slug: dumbell-glute-dominant-bulgarian-split-squat
+name: Dumbell Glute Dominant Bulgarian Split Squat
+human_readable_ids:
+- DumbellGluteDominantBulgarianSplitSquat
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

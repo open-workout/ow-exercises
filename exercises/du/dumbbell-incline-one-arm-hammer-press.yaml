@@ -1,0 +1,15 @@
+id: '1619'
+slug: dumbbell-incline-one-arm-hammer-press
+name: Dumbbell Incline One Arm Hammer Press
+human_readable_ids:
+- DumbbellInclineOneArmHammerPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '10852'
+slug: pilates-machine-russian-split
+name: Pilates Machine Russian Split
+human_readable_ids:
+- PilatesMachineRussianSplit
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

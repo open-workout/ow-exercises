@@ -1,0 +1,15 @@
+id: '1042'
+slug: weighted-lying-neck-extension
+name: Weighted Lying Neck Extension
+human_readable_ids:
+- WeightedLyingNeckExtension
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

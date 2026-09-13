@@ -1,0 +1,16 @@
+id: '3551'
+slug: side-shuttle
+name: Side Shuttle
+human_readable_ids:
+- SideShuttle
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

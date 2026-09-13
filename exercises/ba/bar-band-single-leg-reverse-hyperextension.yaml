@@ -1,0 +1,16 @@
+id: '4701'
+slug: bar-band-single-leg-reverse-hyperextension
+name: Bar Band Single Leg Reverse Hyperextension
+human_readable_ids:
+- BarBandSingleLegReverseHyperextension
+primary_muscles:
+- back
+- glutes
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

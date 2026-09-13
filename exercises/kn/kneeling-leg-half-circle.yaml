@@ -1,0 +1,17 @@
+id: '4693'
+slug: kneeling-leg-half-circle
+name: Kneeling Leg Half Circle
+human_readable_ids:
+- KneelingLegHalfCircle
+primary_muscles:
+- adductors
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

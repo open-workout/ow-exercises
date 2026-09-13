@@ -1,0 +1,15 @@
+id: '0505'
+slug: jack-split-crunches
+name: Jack Split Crunches
+human_readable_ids:
+- JackSplitCrunches
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

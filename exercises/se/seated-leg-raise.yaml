@@ -1,0 +1,15 @@
+id: 0689
+slug: seated-leg-raise
+name: Seated Leg Raise
+human_readable_ids:
+- SeatedLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

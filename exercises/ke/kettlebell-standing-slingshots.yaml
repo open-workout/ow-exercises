@@ -1,0 +1,15 @@
+id: '4534'
+slug: kettlebell-standing-slingshots
+name: Kettlebell Standing Slingshots
+human_readable_ids:
+- KettlebellStandingSlingshots
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

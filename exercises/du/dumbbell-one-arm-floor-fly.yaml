@@ -1,0 +1,15 @@
+id: '3334'
+slug: dumbbell-one-arm-floor-fly
+name: Dumbbell One Arm Floor Fly
+human_readable_ids:
+- DumbbellOneArmFloorFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

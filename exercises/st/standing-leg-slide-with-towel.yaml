@@ -1,0 +1,15 @@
+id: '4380'
+slug: standing-leg-slide-with-towel
+name: Standing Leg Slide with Towel
+human_readable_ids:
+- StandingLegSlidewithTowel
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

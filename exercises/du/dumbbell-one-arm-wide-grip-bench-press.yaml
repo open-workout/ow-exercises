@@ -1,0 +1,15 @@
+id: '3333'
+slug: dumbbell-one-arm-wide-grip-bench-press
+name: Dumbbell One Arm Wide-Grip Bench Press
+human_readable_ids:
+- DumbbellOneArmWideGripBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

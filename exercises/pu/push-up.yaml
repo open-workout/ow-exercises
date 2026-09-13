@@ -1,0 +1,15 @@
+id: '0662'
+slug: push-up
+name: Push-up
+human_readable_ids:
+- Pushup7
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

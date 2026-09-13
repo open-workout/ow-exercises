@@ -1,0 +1,16 @@
+id: '3499'
+slug: self-assisted-inverted-pullover
+name: Self Assisted Inverted Pullover
+human_readable_ids:
+- SelfAssistedInvertedPullover
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

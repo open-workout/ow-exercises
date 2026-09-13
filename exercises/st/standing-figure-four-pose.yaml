@@ -1,0 +1,14 @@
+id: '5902'
+slug: standing-figure-four-pose
+name: Standing Figure Four Pose
+human_readable_ids:
+- StandingFigureFourPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

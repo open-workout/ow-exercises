@@ -1,0 +1,15 @@
+id: '4818'
+slug: ring-elevated-row
+name: Ring Elevated Row
+human_readable_ids:
+- RingElevatedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

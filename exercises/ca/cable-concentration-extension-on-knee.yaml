@@ -1,0 +1,15 @@
+id: '0152'
+slug: cable-concentration-extension-on-knee
+name: Cable Concentration Extension (on knee)
+human_readable_ids:
+- CableConcentrationExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

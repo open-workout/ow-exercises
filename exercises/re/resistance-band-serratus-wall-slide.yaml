@@ -1,0 +1,15 @@
+id: '5024'
+slug: resistance-band-serratus-wall-slide
+name: Resistance Band Serratus Wall Slide
+human_readable_ids:
+- ResistanceBandSerratusWallSlide
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

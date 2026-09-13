@@ -1,0 +1,15 @@
+id: '3920'
+slug: cable-triceps-pushdown-on-floor
+name: Cable Triceps Pushdown on Floor
+human_readable_ids:
+- CableTricepsPushdownonFloor
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

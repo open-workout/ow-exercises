@@ -1,0 +1,14 @@
+id: '5059'
+slug: heel-press
+name: Heel Press
+human_readable_ids:
+- HeelPress
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '10848'
+slug: pilates-machine-lying-running
+name: Pilates Machine Lying Running
+human_readable_ids:
+- PilatesMachineLyingRunning
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

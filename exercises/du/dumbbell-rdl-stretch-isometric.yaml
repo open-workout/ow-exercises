@@ -1,0 +1,17 @@
+id: '1445'
+slug: dumbbell-rdl-stretch-isometric
+name: Dumbbell RDL Stretch Isometric
+human_readable_ids:
+- DumbbellRDLStretchIsometric
+primary_muscles:
+- adductors
+- calves
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

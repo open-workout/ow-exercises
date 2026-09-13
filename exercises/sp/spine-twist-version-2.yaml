@@ -1,0 +1,14 @@
+id: '2868'
+slug: spine-twist-version-2
+name: Spine Twist (VERSION 2)
+human_readable_ids:
+- SpineTwist2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

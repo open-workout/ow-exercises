@@ -1,0 +1,15 @@
+id: '0753'
+slug: smith-decline-bench-press
+name: Smith Decline Bench Press
+human_readable_ids:
+- SmithDeclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4695'
+slug: bar-band-standing-single-arm-upright-row
+name: Bar Band Standing Single Arm Upright Row
+human_readable_ids:
+- BarBandStandingSingleArmUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

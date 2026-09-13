@@ -1,0 +1,15 @@
+id: '6208'
+slug: side-plank-with-raised-leg-version-2-left
+name: Side Plank with Raised Leg (VERSION 2) (left)
+human_readable_ids:
+- SidePlankwithRaisedLeg2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

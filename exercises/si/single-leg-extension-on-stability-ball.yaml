@@ -1,0 +1,15 @@
+id: 0728
+slug: single-leg-extension-on-stability-ball
+name: Single Leg Extension (on stability ball)
+human_readable_ids:
+- SingleLegExtension
+primary_muscles:
+- hamstrings
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

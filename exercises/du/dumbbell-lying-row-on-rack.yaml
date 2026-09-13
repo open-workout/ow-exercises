@@ -1,0 +1,15 @@
+id: '5697'
+slug: dumbbell-lying-row-on-rack
+name: Dumbbell Lying Row on Rack
+human_readable_ids:
+- DumbbellLyingRowonRack
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

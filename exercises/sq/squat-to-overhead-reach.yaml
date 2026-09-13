@@ -1,0 +1,15 @@
+id: '1685'
+slug: squat-to-overhead-reach
+name: Squat to Overhead Reach
+human_readable_ids:
+- SquattoOverheadReach
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

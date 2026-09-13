@@ -1,0 +1,15 @@
+id: '4130'
+slug: ez-bar-california-skullcrusher
+name: EZ Bar California Skullcrusher
+human_readable_ids:
+- EZBarCaliforniaSkullcrusher
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

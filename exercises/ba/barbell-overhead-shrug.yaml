@@ -1,0 +1,15 @@
+id: '2928'
+slug: barbell-overhead-shrug
+name: Barbell Overhead Shrug
+human_readable_ids:
+- BarbellOverheadShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

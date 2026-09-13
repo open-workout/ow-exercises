@@ -1,0 +1,15 @@
+id: 0348
+slug: dumbbell-lying-rear-lateral-raise
+name: Dumbbell Lying Rear Lateral Raise
+human_readable_ids:
+- DumbbellLyingRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

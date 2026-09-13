@@ -1,0 +1,15 @@
+id: '11253'
+slug: cable-kneeling-pulldown-version-3
+name: Cable Kneeling Pulldown (VERSION 3)
+human_readable_ids:
+- CableKneelingPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1688'
+slug: lunge-with-twist
+name: Lunge with Twist
+human_readable_ids:
+- LungewithTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

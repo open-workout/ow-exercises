@@ -1,0 +1,15 @@
+id: '7415'
+slug: planche-dip-on-parallel-bars
+name: Planche Dip on Parallel Bars
+human_readable_ids:
+- PlancheDiponParallelBars
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

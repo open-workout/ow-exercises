@@ -1,0 +1,15 @@
+id: '1721'
+slug: barbell-reverse-grip-skullcrusher
+name: Barbell Reverse Grip Skullcrusher
+human_readable_ids:
+- BarbellReverseGripSkullcrusher
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

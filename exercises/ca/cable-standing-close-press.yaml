@@ -1,0 +1,15 @@
+id: '3363'
+slug: cable-standing-close-press
+name: Cable Standing Close Press
+human_readable_ids:
+- CableStandingClosePress
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

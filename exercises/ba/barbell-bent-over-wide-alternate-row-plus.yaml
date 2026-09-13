@@ -1,0 +1,15 @@
+id: '3991'
+slug: barbell-bent-over-wide-alternate-row-plus
+name: Barbell Bent Over Wide Alternate Row Plus
+human_readable_ids:
+- BarbellBentOverWideAlternateRowPlus
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

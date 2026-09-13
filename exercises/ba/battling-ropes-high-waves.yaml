@@ -1,0 +1,17 @@
+id: '3379'
+slug: battling-ropes-high-waves
+name: Battling Ropes High Waves
+human_readable_ids:
+- BattlingRopesHighWaves
+primary_muscles:
+- back
+- chest
+- shoulders
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

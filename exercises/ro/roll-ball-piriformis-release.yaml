@@ -1,0 +1,14 @@
+id: '3568'
+slug: roll-ball-piriformis-release
+name: Roll Ball Piriformis Release
+human_readable_ids:
+- RollBallPiriformisRelease
+primary_muscles:
+- glutes
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1836'
+slug: forward-flexion-neck-stretch
+name: Forward Flexion Neck Stretch
+human_readable_ids:
+- ForwardFlexionNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

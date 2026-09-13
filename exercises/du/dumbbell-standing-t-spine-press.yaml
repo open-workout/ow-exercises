@@ -1,0 +1,15 @@
+id: '6964'
+slug: dumbbell-standing-t-spine-press
+name: Dumbbell Standing T-spine Press
+human_readable_ids:
+- DumbbellStandingTspinePress
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

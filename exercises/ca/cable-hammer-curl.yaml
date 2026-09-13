@@ -1,0 +1,15 @@
+id: '0166'
+slug: cable-hammer-curl
+name: Cable Hammer Curl
+human_readable_ids:
+- CableHammerCurl2
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

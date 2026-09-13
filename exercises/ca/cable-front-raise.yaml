@@ -1,0 +1,15 @@
+id: '0162'
+slug: cable-front-raise
+name: Cable Front Raise
+human_readable_ids:
+- CableFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

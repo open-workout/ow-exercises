@@ -1,0 +1,16 @@
+id: '0567'
+slug: lateral-twist-box-jump
+name: Lateral Twist box Jump
+human_readable_ids:
+- LateralTwistboxJump
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

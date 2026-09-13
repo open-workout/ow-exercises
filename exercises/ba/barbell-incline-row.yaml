@@ -1,0 +1,15 @@
+id: 0049
+slug: barbell-incline-row
+name: Barbell Incline Row
+human_readable_ids:
+- BarbellInclineRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

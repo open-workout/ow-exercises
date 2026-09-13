@@ -1,0 +1,16 @@
+id: '3361'
+slug: skater-hops
+name: Skater Hops
+human_readable_ids:
+- SkaterHops
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

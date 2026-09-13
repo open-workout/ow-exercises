@@ -1,0 +1,16 @@
+id: '2955'
+slug: dumbbell-goblet-split-squat-front-foot-elevanted
+name: Dumbbell Goblet Split Squat Front Foot Elevanted
+human_readable_ids:
+- DumbbellGobletSplitSquatFrontFootElevanted
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

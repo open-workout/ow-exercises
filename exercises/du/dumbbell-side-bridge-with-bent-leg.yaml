@@ -1,0 +1,15 @@
+id: '4457'
+slug: dumbbell-side-bridge-with-bent-leg
+name: Dumbbell Side Bridge with Bent Leg
+human_readable_ids:
+- DumbbellSideBridgewithBentLeg
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

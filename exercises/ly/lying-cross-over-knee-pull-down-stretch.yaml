@@ -1,0 +1,15 @@
+id: '1936'
+slug: lying-cross-over-knee-pull-down-stretch
+name: Lying Cross Over Knee Pull Down Stretch
+human_readable_ids:
+- LyingCrossOverKneePullDownStretch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

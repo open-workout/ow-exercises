@@ -1,0 +1,15 @@
+id: 0795
+slug: standing-single-leg-curl
+name: Standing Single Leg Curl
+human_readable_ids:
+- StandingSingleLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

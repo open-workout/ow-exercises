@@ -1,0 +1,15 @@
+id: '7499'
+slug: double-plank-jack-to-4-mountain-climber
+name: Double Plank Jack to 4 Mountain Climber
+human_readable_ids:
+- DoublePlankJackto4MountainClimber
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

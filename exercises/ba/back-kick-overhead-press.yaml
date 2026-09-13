@@ -1,0 +1,15 @@
+id: '6096'
+slug: back-kick-overhead-press
+name: Back Kick Overhead Press
+human_readable_ids:
+- BackKickOverheadPress
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0833
+slug: weighted-donkey-calf-raise
+name: Weighted Donkey Calf Raise
+human_readable_ids:
+- WeightedDonkeyCalfRaise
+primary_muscles:
+- calves
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4900'
+slug: elevated-seated-calf-raise
+name: Elevated Seated Calf Raise
+human_readable_ids:
+- ElevatedSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '2838'
+slug: bicycle
+name: Bicycle
+human_readable_ids:
+- Bicycle
+primary_muscles:
+- hamstrings
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

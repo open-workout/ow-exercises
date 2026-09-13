@@ -1,0 +1,15 @@
+id: '3216'
+slug: chest-tap-push-up
+name: Chest Tap Push-up
+human_readable_ids:
+- ChestTapPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

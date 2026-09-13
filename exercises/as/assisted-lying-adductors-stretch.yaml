@@ -1,0 +1,14 @@
+id: '1907'
+slug: assisted-lying-adductors-stretch
+name: Assisted Lying Adductors Stretch
+human_readable_ids:
+- AssistedLyingAdductorsStretch
+primary_muscles:
+- glutes
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

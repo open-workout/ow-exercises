@@ -1,0 +1,16 @@
+id: '2259'
+slug: walking-on-treadmill
+name: Walking on Treadmill
+human_readable_ids:
+- WalkingonTreadmill
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

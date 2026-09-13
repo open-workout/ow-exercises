@@ -1,0 +1,15 @@
+id: '1001'
+slug: band-single-leg-split-squat
+name: Band single leg split squat
+human_readable_ids:
+- Bandsinglelegsplitsquat
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

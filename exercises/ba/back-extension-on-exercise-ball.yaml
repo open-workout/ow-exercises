@@ -1,0 +1,15 @@
+id: '1314'
+slug: back-extension-on-exercise-ball
+name: Back Extension on Exercise Ball
+human_readable_ids:
+- BackExtensiononExerciseBall
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

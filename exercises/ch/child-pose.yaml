@@ -1,0 +1,14 @@
+id: 0945
+slug: child-pose
+name: Child Pose
+human_readable_ids:
+- ChildPose
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

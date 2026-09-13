@@ -1,0 +1,15 @@
+id: '1698'
+slug: forward-hops
+name: Forward Hops
+human_readable_ids:
+- ForwardHops
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

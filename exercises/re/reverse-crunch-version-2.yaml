@@ -1,0 +1,15 @@
+id: '4019'
+slug: reverse-crunch-version-2
+name: Reverse Crunch (VERSION 2)
+human_readable_ids:
+- ReverseCrunch2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

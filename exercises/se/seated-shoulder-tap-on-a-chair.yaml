@@ -1,0 +1,15 @@
+id: '8652'
+slug: seated-shoulder-tap-on-a-chair
+name: Seated Shoulder Tap on a Chair
+human_readable_ids:
+- SeatedShoulderTaponaChair
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

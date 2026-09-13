@@ -1,0 +1,14 @@
+id: '2108'
+slug: standing-lean-back-stomach-stretch
+name: Standing Lean Back Stomach Stretch
+human_readable_ids:
+- StandingLeanBackStomachStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

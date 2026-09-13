@@ -1,0 +1,15 @@
+id: '0712'
+slug: side-lying-feet-raise
+name: Side Lying Feet Raise
+human_readable_ids:
+- SideLyingFeetRaise
+primary_muscles:
+- adductors
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

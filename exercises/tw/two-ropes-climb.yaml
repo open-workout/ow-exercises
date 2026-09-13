@@ -1,0 +1,15 @@
+id: '10439'
+slug: two-ropes-climb
+name: Two Ropes Climb
+human_readable_ids:
+- TwoRopesClimb
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

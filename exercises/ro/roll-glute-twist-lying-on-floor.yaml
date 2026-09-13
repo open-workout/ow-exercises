@@ -1,0 +1,14 @@
+id: '5391'
+slug: roll-glute-twist-lying-on-floor
+name: Roll Glute Twist Lying on Floor
+human_readable_ids:
+- RollGluteTwistLyingonFloor
+primary_muscles:
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

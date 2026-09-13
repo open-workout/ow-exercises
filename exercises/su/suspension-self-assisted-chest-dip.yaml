@@ -1,0 +1,15 @@
+id: '1093'
+slug: suspension-self-assisted-chest-dip
+name: Suspension Self assisted Chest Dip
+human_readable_ids:
+- SuspensionSelfassistedChestDip
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

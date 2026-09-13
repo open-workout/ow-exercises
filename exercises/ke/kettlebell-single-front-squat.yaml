@@ -1,0 +1,15 @@
+id: '4123'
+slug: kettlebell-single-front-squat
+name: Kettlebell Single Front Squat
+human_readable_ids:
+- KettlebellSingleFrontSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

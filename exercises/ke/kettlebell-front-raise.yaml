@@ -1,0 +1,15 @@
+id: '5859'
+slug: kettlebell-front-raise
+name: Kettlebell Front Raise
+human_readable_ids:
+- KettlebellFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

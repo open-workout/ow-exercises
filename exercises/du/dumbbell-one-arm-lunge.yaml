@@ -1,0 +1,16 @@
+id: '3339'
+slug: dumbbell-one-arm-lunge
+name: Dumbbell One Arm Lunge
+human_readable_ids:
+- DumbbellOneArmLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

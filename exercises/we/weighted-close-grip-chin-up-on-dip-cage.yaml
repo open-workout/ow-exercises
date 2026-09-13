@@ -1,0 +1,15 @@
+id: '2987'
+slug: weighted-close-grip-chin-up-on-dip-cage
+name: Weighted Close Grip Chin-up on Dip Cage
+human_readable_ids:
+- WeightedCloseGripChinuponDipCage
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

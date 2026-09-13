@@ -1,0 +1,14 @@
+id: '1822'
+slug: wrist-ulnar-deviator-and-extensor-stretch
+name: Wrist Ulnar Deviator And Extensor Stretch
+human_readable_ids:
+- WristUlnarDeviatorAndExtensorStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '5496'
+slug: kettlebell-elevanted-goblet-squat
+name: Kettlebell Elevanted Goblet Squat
+human_readable_ids:
+- KettlebellElevantedGobletSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

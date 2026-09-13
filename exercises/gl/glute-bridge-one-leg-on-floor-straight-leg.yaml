@@ -1,0 +1,15 @@
+id: '2474'
+slug: glute-bridge-one-leg-on-floor-straight-leg
+name: Glute Bridge One Leg on Floor (straight leg)
+human_readable_ids:
+- GluteBridgeOneLegonFloor
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

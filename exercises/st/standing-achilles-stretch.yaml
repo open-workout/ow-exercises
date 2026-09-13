@@ -1,0 +1,14 @@
+id: '1888'
+slug: standing-achilles-stretch
+name: Standing Achilles Stretch
+human_readable_ids:
+- StandingAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

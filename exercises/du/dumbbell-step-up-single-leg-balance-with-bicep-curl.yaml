@@ -1,0 +1,15 @@
+id: '1684'
+slug: dumbbell-step-up-single-leg-balance-with-bicep-curl
+name: Dumbbell Step Up Single Leg Balance with Bicep Curl
+human_readable_ids:
+- DumbbellStepUpSingleLegBalancewithBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

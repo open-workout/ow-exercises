@@ -1,0 +1,15 @@
+id: '4852'
+slug: dumbbell-alternate-lateral-raise
+name: Dumbbell Alternate Lateral Raise
+human_readable_ids:
+- DumbbellAlternateLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

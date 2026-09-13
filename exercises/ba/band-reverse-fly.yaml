@@ -1,0 +1,15 @@
+id: 0993
+slug: band-reverse-fly
+name: Band reverse fly
+human_readable_ids:
+- Bandreversefly
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

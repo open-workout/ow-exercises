@@ -1,0 +1,16 @@
+id: '2164'
+slug: resistance-band-side-plank
+name: Resistance Band Side Plank
+human_readable_ids:
+- ResistanceBandSidePlank
+primary_muscles:
+- glutes
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

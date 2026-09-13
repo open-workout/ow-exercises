@@ -1,0 +1,15 @@
+id: '4180'
+slug: cable-seated-pullover
+name: Cable Seated Pullover
+human_readable_ids:
+- CableSeatedPullover
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

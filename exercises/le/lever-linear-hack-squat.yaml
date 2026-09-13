@@ -1,0 +1,15 @@
+id: '6523'
+slug: lever-linear-hack-squat
+name: Lever Linear Hack Squat
+human_readable_ids:
+- LeverLinearHackSquat
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

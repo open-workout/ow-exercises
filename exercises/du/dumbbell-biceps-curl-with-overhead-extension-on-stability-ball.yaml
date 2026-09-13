@@ -1,0 +1,15 @@
+id: '5239'
+slug: dumbbell-biceps-curl-with-overhead-extension-on-stability-ball
+name: Dumbbell Biceps Curl with Overhead Extension on Stability Ball
+human_readable_ids:
+- DumbbellBicepsCurlwithOverheadExtensiononStabilityBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '7548'
+slug: kettlebell-swing-to-goblet-squat
+name: Kettlebell Swing to Goblet Squat
+human_readable_ids:
+- KettlebellSwingtoGobletSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

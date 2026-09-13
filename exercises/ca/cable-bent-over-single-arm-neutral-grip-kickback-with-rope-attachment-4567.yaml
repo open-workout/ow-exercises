@@ -1,0 +1,15 @@
+id: '4567'
+slug: cable-bent-over-single-arm-neutral-grip-kickback-with-rope-attachment-4567
+name: Cable Bent-Over Single Arm Neutral Grip Kickback with Rope Attachment
+human_readable_ids:
+- CableBentOverSingleArmNeutralGripKickbackwithRopeAttachment
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

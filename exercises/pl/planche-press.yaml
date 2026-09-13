@@ -1,0 +1,14 @@
+id: '10664'
+slug: planche-press
+name: Planche Press
+human_readable_ids:
+- PlanchePress
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

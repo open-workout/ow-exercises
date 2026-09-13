@@ -1,0 +1,14 @@
+id: '4402'
+slug: straight-angle-yoga-pose
+name: Straight Angle Yoga Pose
+human_readable_ids:
+- StraightAngleYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

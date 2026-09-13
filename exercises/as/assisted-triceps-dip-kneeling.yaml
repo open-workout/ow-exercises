@@ -1,0 +1,15 @@
+id: 0019
+slug: assisted-triceps-dip-kneeling
+name: Assisted Triceps Dip (kneeling)
+human_readable_ids:
+- AssistedTricepsDip
+primary_muscles:
+- triceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

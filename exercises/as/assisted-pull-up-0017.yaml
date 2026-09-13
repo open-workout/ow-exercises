@@ -1,0 +1,15 @@
+id: '0017'
+slug: assisted-pull-up-0017
+name: Assisted Pull-up
+human_readable_ids:
+- AssistedPullup
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

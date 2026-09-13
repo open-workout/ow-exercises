@@ -1,0 +1,15 @@
+id: '0350'
+slug: dumbbell-lying-supine-curl
+name: Dumbbell Lying Supine Curl
+human_readable_ids:
+- DumbbellLyingSupineCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

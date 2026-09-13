@@ -1,0 +1,14 @@
+id: '1800'
+slug: cable-suspension-back-stretch
+name: Cable Suspension Back Stretch
+human_readable_ids:
+- CableSuspensionBackStretch
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- time
+load:
+  required: true
+  direction: added

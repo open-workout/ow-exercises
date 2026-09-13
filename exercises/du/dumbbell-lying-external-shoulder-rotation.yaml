@@ -1,0 +1,15 @@
+id: 0863
+slug: dumbbell-lying-external-shoulder-rotation
+name: Dumbbell lying external shoulder rotation
+human_readable_ids:
+- Dumbbelllyingexternalshoulderrotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

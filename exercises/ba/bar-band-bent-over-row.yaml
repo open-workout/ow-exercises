@@ -1,0 +1,15 @@
+id: '4698'
+slug: bar-band-bent-over-row
+name: Bar Band Bent Over Row
+human_readable_ids:
+- BarBandBentOverRow
+primary_muscles:
+- back
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

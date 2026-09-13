@@ -1,0 +1,15 @@
+id: '11877'
+slug: hanging-l-sit
+name: Hanging L Sit
+human_readable_ids:
+- HangingLSit
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

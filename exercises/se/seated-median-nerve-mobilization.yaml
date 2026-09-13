@@ -1,0 +1,14 @@
+id: '11787'
+slug: seated-median-nerve-mobilization
+name: Seated Median Nerve Mobilization
+human_readable_ids:
+- SeatedMedianNerveMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

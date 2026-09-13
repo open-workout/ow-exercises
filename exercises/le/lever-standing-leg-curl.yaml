@@ -1,0 +1,15 @@
+id: '4347'
+slug: lever-standing-leg-curl
+name: Lever Standing Leg Curl
+human_readable_ids:
+- LeverStandingLegCurl
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

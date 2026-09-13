@@ -1,0 +1,17 @@
+id: '3773'
+slug: band-single-stiff-leg-deadlift-with-single-arm-row
+name: Band Single Stiff Leg Deadlift with Single Arm Row
+human_readable_ids:
+- BandSingleStiffLegDeadliftwithSingleArmRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

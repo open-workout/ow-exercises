@@ -1,0 +1,15 @@
+id: '5976'
+slug: t-drill
+name: T Drill
+human_readable_ids:
+- TDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

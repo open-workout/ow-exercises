@@ -1,0 +1,15 @@
+id: '0405'
+slug: dumbbell-seated-shoulder-press
+name: Dumbbell Seated Shoulder Press
+human_readable_ids:
+- DumbbellSeatedShoulderPress2
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

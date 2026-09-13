@@ -1,0 +1,15 @@
+id: '5106'
+slug: alternate-toe-tap-leg-lift
+name: Alternate Toe Tap Leg Lift
+human_readable_ids:
+- AlternateToeTapLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

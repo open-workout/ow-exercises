@@ -1,0 +1,14 @@
+id: '6772'
+slug: standing-peroneus-muscles-stretch
+name: Standing Peroneus Muscles Stretch
+human_readable_ids:
+- StandingPeroneusMusclesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

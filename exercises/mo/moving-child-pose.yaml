@@ -1,0 +1,14 @@
+id: '8130'
+slug: moving-child-pose
+name: Moving Child Pose
+human_readable_ids:
+- MovingChildPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3793'
+slug: resistance-band-split-jump-with-single-arm-row
+name: Resistance Band Split Jump with Single Arm Row
+human_readable_ids:
+- ResistanceBandSplitJumpwithSingleArmRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

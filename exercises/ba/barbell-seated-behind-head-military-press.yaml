@@ -1,0 +1,15 @@
+id: 0086
+slug: barbell-seated-behind-head-military-press
+name: Barbell Seated Behind Head Military Press
+human_readable_ids:
+- BarbellSeatedBehindHeadMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

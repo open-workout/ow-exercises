@@ -1,0 +1,14 @@
+id: '1493'
+slug: wheel-pose-yoga-pose
+name: Wheel Pose Yoga Pose
+human_readable_ids:
+- WheelPoseYogaPose
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

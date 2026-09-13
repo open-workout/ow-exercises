@@ -1,0 +1,15 @@
+id: '1526'
+slug: barbell-muscle-snatch
+name: Barbell Muscle Snatch
+human_readable_ids:
+- BarbellMuscleSnatch
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

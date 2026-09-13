@@ -1,0 +1,15 @@
+id: '7213'
+slug: side-lying-internal-rotation
+name: Side Lying Internal Rotation
+human_readable_ids:
+- SideLyingInternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

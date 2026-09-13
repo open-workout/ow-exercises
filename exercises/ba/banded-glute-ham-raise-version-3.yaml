@@ -1,0 +1,15 @@
+id: '4905'
+slug: banded-glute-ham-raise-version-3
+name: Banded Glute Ham Raise (VERSION 3)
+human_readable_ids:
+- BandedGluteHamRaise2
+primary_muscles:
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '5216'
+slug: sprint
+name: Sprint
+human_readable_ids:
+- Sprint
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

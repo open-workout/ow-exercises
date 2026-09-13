@@ -1,0 +1,15 @@
+id: '1084'
+slug: suspension-mountain-climber
+name: Suspension Mountain Climber
+human_readable_ids:
+- SuspensionMountainClimber
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

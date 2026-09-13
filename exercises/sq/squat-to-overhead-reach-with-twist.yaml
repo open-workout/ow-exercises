@@ -1,0 +1,15 @@
+id: '1686'
+slug: squat-to-overhead-reach-with-twist
+name: Squat to Overhead Reach with Twist
+human_readable_ids:
+- SquattoOverheadReachwithTwist
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

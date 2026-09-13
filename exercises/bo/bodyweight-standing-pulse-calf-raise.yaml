@@ -1,0 +1,15 @@
+id: '3534'
+slug: bodyweight-standing-pulse-calf-raise
+name: Bodyweight Standing Pulse Calf Raise
+human_readable_ids:
+- BodyweightStandingPulseCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

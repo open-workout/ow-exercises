@@ -1,0 +1,15 @@
+id: '4447'
+slug: resistance-band-elevated-glute-bridge
+name: Resistance Band Elevated Glute Bridge
+human_readable_ids:
+- ResistanceBandElevatedGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

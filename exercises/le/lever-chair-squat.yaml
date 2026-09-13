@@ -1,0 +1,16 @@
+id: '1038'
+slug: lever-chair-squat
+name: Lever Chair Squat
+human_readable_ids:
+- LeverChairSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

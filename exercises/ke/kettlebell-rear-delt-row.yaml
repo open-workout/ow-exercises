@@ -1,0 +1,15 @@
+id: '4536'
+slug: kettlebell-rear-delt-row
+name: Kettlebell Rear Delt Row
+human_readable_ids:
+- KettlebellRearDeltRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

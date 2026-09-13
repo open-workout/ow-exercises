@@ -1,0 +1,14 @@
+id: '2784'
+slug: shoulder-transverse-flexion-articulations
+name: Shoulder - Transverse Flexion - Articulations
+human_readable_ids:
+- ShoulderTransverseFlexionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

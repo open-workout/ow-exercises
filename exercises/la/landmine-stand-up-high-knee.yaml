@@ -1,0 +1,16 @@
+id: '3529'
+slug: landmine-stand-up-high-knee
+name: Landmine Stand Up High Knee
+human_readable_ids:
+- LandmineStandUpHighKnee
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

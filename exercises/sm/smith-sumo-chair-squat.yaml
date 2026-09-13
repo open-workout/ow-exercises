@@ -1,0 +1,15 @@
+id: '6796'
+slug: smith-sumo-chair-squat
+name: Smith Sumo Chair Squat
+human_readable_ids:
+- SmithSumoChairSquat
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

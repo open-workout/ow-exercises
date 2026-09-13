@@ -1,0 +1,15 @@
+id: '4453'
+slug: band-one-arm-standing-wide-grip-low-row
+name: Band One Arm Standing Wide Grip Low Row
+human_readable_ids:
+- BandOneArmStandingWideGripLowRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

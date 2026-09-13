@@ -1,0 +1,15 @@
+id: '4588'
+slug: hook-kick-kickboxing-with-boxing-bag
+name: Hook Kick Kickboxing (with boxing bag)
+human_readable_ids:
+- HookKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

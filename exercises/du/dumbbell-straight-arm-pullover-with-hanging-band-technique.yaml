@@ -1,0 +1,15 @@
+id: '3188'
+slug: dumbbell-straight-arm-pullover-with-hanging-band-technique
+name: Dumbbell Straight Arm Pullover (with hanging band technique)
+human_readable_ids:
+- DumbbellStraightArmPullover3
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

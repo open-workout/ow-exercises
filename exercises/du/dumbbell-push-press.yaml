@@ -1,0 +1,15 @@
+id: '1700'
+slug: dumbbell-push-press
+name: Dumbbell Push Press
+human_readable_ids:
+- DumbbellPushPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3797'
+slug: resistance-band-split-squat-with-horizontal-pallof-hold
+name: Resistance Band Split Squat with Horizontal Pallof Hold
+human_readable_ids:
+- ResistanceBandSplitSquatwithHorizontalPallofHold
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

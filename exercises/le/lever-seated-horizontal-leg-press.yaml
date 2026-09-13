@@ -1,0 +1,16 @@
+id: '3768'
+slug: lever-seated-horizontal-leg-press
+name: Lever Seated Horizontal Leg Press
+human_readable_ids:
+- LeverSeatedHorizontalLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

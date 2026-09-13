@@ -1,0 +1,16 @@
+id: '2464'
+slug: cable-thibaudeau-kayak-row
+name: Cable Thibaudeau Kayak Row
+human_readable_ids:
+- CableThibaudeauKayakRow
+primary_muscles:
+- back
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

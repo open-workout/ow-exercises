@@ -1,0 +1,15 @@
+id: '5515'
+slug: decline-sit-up-version-3
+name: Decline Sit-Up (VERSION 3)
+human_readable_ids:
+- DeclineSitUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

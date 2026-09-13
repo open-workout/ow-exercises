@@ -1,0 +1,15 @@
+id: '6958'
+slug: lateral-hurdle-jump
+name: Lateral Hurdle Jump
+human_readable_ids:
+- LateralHurdleJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

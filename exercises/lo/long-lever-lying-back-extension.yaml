@@ -1,0 +1,15 @@
+id: '4924'
+slug: long-lever-lying-back-extension
+name: Long Lever Lying Back Extension
+human_readable_ids:
+- LongLeverLyingBackExtension
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

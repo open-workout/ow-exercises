@@ -1,0 +1,15 @@
+id: '11880'
+slug: lever-t-bar-close-grip-row-plate-loaded
+name: Lever T bar Close grip Row (plate loaded)
+human_readable_ids:
+- LeverTbarClosegripRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

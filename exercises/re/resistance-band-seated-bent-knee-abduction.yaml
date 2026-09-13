@@ -1,0 +1,15 @@
+id: '7200'
+slug: resistance-band-seated-bent-knee-abduction
+name: Resistance Band Seated Bent Knee Abduction
+human_readable_ids:
+- ResistanceBandSeatedBentKneeAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

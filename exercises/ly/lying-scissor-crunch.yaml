@@ -1,0 +1,15 @@
+id: '0621'
+slug: lying-scissor-crunch
+name: Lying Scissor Crunch
+human_readable_ids:
+- LyingScissorCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

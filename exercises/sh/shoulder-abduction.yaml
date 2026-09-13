@@ -1,0 +1,15 @@
+id: '8839'
+slug: shoulder-abduction
+name: Shoulder Abduction
+human_readable_ids:
+- ShoulderAbduction
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

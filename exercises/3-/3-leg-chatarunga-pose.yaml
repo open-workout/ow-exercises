@@ -1,0 +1,14 @@
+id: '5915'
+slug: 3-leg-chatarunga-pose
+name: 3 Leg Chatarunga Pose
+human_readable_ids:
+- 3LegChatarungaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

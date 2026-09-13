@@ -1,0 +1,14 @@
+id: '1982'
+slug: rotation-shoulder-stretch
+name: Rotation Shoulder Stretch
+human_readable_ids:
+- RotationShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

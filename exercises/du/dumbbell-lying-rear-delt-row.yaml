@@ -1,0 +1,15 @@
+id: '1328'
+slug: dumbbell-lying-rear-delt-row
+name: Dumbbell Lying Rear Delt Row
+human_readable_ids:
+- DumbbellLyingRearDeltRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

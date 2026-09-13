@@ -1,0 +1,14 @@
+id: '1930'
+slug: crouching-heel-back-calf-stretch
+name: Crouching Heel Back Calf Stretch
+human_readable_ids:
+- CrouchingHeelBackCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10549'
+slug: elevated-single-leg-bridge
+name: Elevated Single Leg Bridge
+human_readable_ids:
+- ElevatedSingleLegBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

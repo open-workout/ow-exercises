@@ -1,0 +1,15 @@
+id: 0789
+slug: standing-hamstring-stretch
+name: Standing Hamstring Stretch
+human_readable_ids:
+- StandingHamstringStretch
+primary_muscles:
+- back
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

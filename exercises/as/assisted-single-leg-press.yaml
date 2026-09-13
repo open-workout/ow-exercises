@@ -1,0 +1,15 @@
+id: '1027'
+slug: assisted-single-leg-press
+name: Assisted Single Leg Press
+human_readable_ids:
+- AssistedSingleLegPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

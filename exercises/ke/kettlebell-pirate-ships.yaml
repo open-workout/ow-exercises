@@ -1,0 +1,15 @@
+id: '0543'
+slug: kettlebell-pirate-ships
+name: Kettlebell Pirate Ships
+human_readable_ids:
+- KettlebellPirateShips
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

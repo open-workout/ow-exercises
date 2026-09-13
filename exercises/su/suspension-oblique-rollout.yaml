@@ -1,0 +1,15 @@
+id: '1122'
+slug: suspension-oblique-rollout
+name: Suspension Oblique Rollout
+human_readable_ids:
+- SuspensionObliqueRollout
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

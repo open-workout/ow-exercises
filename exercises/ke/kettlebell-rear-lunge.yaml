@@ -1,0 +1,15 @@
+id: '5070'
+slug: kettlebell-rear-lunge
+name: Kettlebell Rear Lunge
+human_readable_ids:
+- KettlebellRearLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

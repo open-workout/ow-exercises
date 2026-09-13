@@ -1,0 +1,16 @@
+id: '0264'
+slug: cross-jacks
+name: Cross Jacks
+human_readable_ids:
+- CrossJacks
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

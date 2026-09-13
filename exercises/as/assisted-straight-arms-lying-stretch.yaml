@@ -1,0 +1,14 @@
+id: '1789'
+slug: assisted-straight-arms-lying-stretch
+name: Assisted Straight Arms Lying Stretch
+human_readable_ids:
+- AssistedStraightArmsLyingStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '10869'
+slug: bosu-ball-single-leg-squat
+name: Bosu Ball Single Leg Squat
+human_readable_ids:
+- BosuBallSingleLegSquat
+primary_muscles:
+- quads
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

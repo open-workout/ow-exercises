@@ -1,0 +1,14 @@
+id: '10989'
+slug: tuck-planche-on-parallette
+name: Tuck Planche on Parallette
+human_readable_ids:
+- TuckPlancheonParallette
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

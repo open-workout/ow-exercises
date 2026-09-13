@@ -1,0 +1,15 @@
+id: '2738'
+slug: dumbbell-lying-triceps-extension-on-floor
+name: Dumbbell Lying Triceps Extension on Floor
+human_readable_ids:
+- DumbbellLyingTricepsExtensiononFloor
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

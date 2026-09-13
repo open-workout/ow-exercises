@@ -1,0 +1,19 @@
+id: '2527'
+slug: vibrate-plate-lunge
+name: Vibrate Plate Lunge
+human_readable_ids:
+- VibratePlateLunge
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- abs
+- quads
+equipment:
+- vibrate-plate
+modalities:
+- time
+load:
+  required: false
+  direction: added

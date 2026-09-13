@@ -1,0 +1,15 @@
+id: '10819'
+slug: split-stance-single-leg-calf-raise
+name: Split Stance Single Leg Calf Raise
+human_readable_ids:
+- SplitStanceSingleLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

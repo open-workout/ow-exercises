@@ -1,0 +1,14 @@
+id: '2113'
+slug: standing-lower-trunk-lateral-flexor-stretch
+name: Standing Lower Trunk Lateral Flexor Stretch
+human_readable_ids:
+- StandingLowerTrunkLateralFlexorStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

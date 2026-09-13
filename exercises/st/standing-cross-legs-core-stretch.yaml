@@ -1,0 +1,14 @@
+id: '9942'
+slug: standing-cross-legs-core-stretch
+name: Standing Cross Legs Core Stretch
+human_readable_ids:
+- StandingCrossLegsCoreStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

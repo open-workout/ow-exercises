@@ -1,0 +1,15 @@
+id: '0423'
+slug: dumbbell-standing-one-arm-extension
+name: Dumbbell Standing One Arm Extension
+human_readable_ids:
+- DumbbellStandingOneArmExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

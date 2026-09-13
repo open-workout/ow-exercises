@@ -1,0 +1,14 @@
+id: '4558'
+slug: child-to-cobra-pose
+name: Child to Cobra Pose
+human_readable_ids:
+- ChildtoCobraPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

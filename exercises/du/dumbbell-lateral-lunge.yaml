@@ -1,0 +1,15 @@
+id: '4853'
+slug: dumbbell-lateral-lunge
+name: Dumbbell Lateral Lunge
+human_readable_ids:
+- DumbbellLateralLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

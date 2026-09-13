@@ -1,0 +1,16 @@
+id: '2728'
+slug: strongman-front-chest-squat
+name: StrongMan Front Chest Squat
+human_readable_ids:
+- StrongManFrontChestSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

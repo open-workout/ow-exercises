@@ -1,0 +1,15 @@
+id: '6551'
+slug: bodyweight-reverse-lunge-with-overhead-reach
+name: Bodyweight Reverse Lunge with Overhead Reach
+human_readable_ids:
+- BodyweightReverseLungewithOverheadReach
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6982'
+slug: wrist-full-push-up
+name: Wrist Full Push-up
+human_readable_ids:
+- WristFullPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

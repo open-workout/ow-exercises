@@ -1,0 +1,15 @@
+id: '11790'
+slug: balance-3-point-toe-tap
+name: Balance 3 Point Toe Tap
+human_readable_ids:
+- Balance3PointToeTap
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

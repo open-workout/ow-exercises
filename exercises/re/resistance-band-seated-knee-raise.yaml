@@ -1,0 +1,15 @@
+id: '10753'
+slug: resistance-band-seated-knee-raise
+name: Resistance Band Seated Knee Raise
+human_readable_ids:
+- ResistanceBandSeatedKneeRaise
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4978'
+slug: ring-kneeling-ab-rollout
+name: Ring Kneeling Ab RollOut
+human_readable_ids:
+- RingKneelingAbRollOut
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

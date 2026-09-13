@@ -1,0 +1,16 @@
+id: '3532'
+slug: boxer-shuffle
+name: Boxer Shuffle
+human_readable_ids:
+- BoxerShuffle
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1390'
+slug: seated-calf-stretch
+name: Seated Calf Stretch
+human_readable_ids:
+- SeatedCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

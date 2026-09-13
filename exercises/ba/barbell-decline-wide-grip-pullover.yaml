@@ -1,0 +1,15 @@
+id: '0037'
+slug: barbell-decline-wide-grip-pullover
+name: Barbell Decline wide-grip pullover
+human_readable_ids:
+- BarbellDeclinewidegrippullover
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

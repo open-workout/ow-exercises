@@ -1,0 +1,16 @@
+id: '3710'
+slug: dumbbell-split-squat-front-foot-elevanted-with-bosu-ball
+name: Dumbbell Split Squat Front Foot Elevanted with Bosu Ball
+human_readable_ids:
+- DumbbellSplitSquatFrontFootElevantedwithBosuBall
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

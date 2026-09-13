@@ -1,0 +1,14 @@
+id: '1892'
+slug: kneeling-heel-down-achilles-stretch
+name: Kneeling Heel Down Achilles Stretch
+human_readable_ids:
+- KneelingHeelDownAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

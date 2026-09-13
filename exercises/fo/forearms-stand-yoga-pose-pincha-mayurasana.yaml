@@ -1,0 +1,14 @@
+id: '6880'
+slug: forearms-stand-yoga-pose-pincha-mayurasana
+name: Forearms Stand Yoga Pose Pincha Mayurasana
+human_readable_ids:
+- ForearmsStandYogaPosePinchaMayurasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

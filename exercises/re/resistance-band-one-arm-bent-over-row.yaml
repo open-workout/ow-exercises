@@ -1,0 +1,15 @@
+id: '4569'
+slug: resistance-band-one-arm-bent-over-row
+name: Resistance Band One Arm Bent Over Row
+human_readable_ids:
+- ResistanceBandOneArmBentOverRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

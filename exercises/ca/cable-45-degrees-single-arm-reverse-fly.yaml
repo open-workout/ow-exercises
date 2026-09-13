@@ -1,0 +1,15 @@
+id: '9868'
+slug: cable-45-degrees-single-arm-reverse-fly
+name: Cable 45 degrees Single Arm Reverse Fly
+human_readable_ids:
+- Cable45degreesSingleArmReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

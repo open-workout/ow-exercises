@@ -1,0 +1,15 @@
+id: '1214'
+slug: dumbbell-incline-reverse-grip-30-degrees-bench-press
+name: Dumbbell Incline reverse-grip 30 degrees bench press
+human_readable_ids:
+- DumbbellInclinereversegrip30degreesbenchpress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

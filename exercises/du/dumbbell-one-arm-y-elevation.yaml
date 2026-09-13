@@ -1,0 +1,15 @@
+id: '5002'
+slug: dumbbell-one-arm-y-elevation
+name: Dumbbell One Arm Y Elevation
+human_readable_ids:
+- DumbbellOneArmYElevation
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

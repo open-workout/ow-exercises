@@ -1,0 +1,15 @@
+id: '7342'
+slug: wide-plank-side-tap
+name: Wide Plank Side Tap
+human_readable_ids:
+- WidePlankSideTap
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

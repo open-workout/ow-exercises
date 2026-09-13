@@ -1,0 +1,15 @@
+id: '3966'
+slug: static-lunge-kick
+name: Static Lunge Kick
+human_readable_ids:
+- StaticLungeKick
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

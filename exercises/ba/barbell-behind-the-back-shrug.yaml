@@ -1,0 +1,15 @@
+id: '3730'
+slug: barbell-behind-the-back-shrug
+name: Barbell Behind The Back Shrug
+human_readable_ids:
+- BarbellBehindTheBackShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

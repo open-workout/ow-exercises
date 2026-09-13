@@ -1,0 +1,15 @@
+id: '4058'
+slug: leg-raise-dragon-flag
+name: Leg Raise Dragon Flag
+human_readable_ids:
+- LegRaiseDragonFlag
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

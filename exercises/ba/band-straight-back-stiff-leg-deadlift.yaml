@@ -1,0 +1,15 @@
+id: '1023'
+slug: band-straight-back-stiff-leg-deadlift
+name: Band straight back stiff leg deadlift
+human_readable_ids:
+- Bandstraightbackstifflegdeadlift
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

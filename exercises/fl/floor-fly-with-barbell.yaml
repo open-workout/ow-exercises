@@ -1,0 +1,15 @@
+id: 0458
+slug: floor-fly-with-barbell
+name: Floor Fly (with barbell)
+human_readable_ids:
+- FloorFly
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

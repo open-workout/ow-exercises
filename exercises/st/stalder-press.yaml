@@ -1,0 +1,14 @@
+id: '3291'
+slug: stalder-press
+name: Stalder Press
+human_readable_ids:
+- StalderPress
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

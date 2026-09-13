@@ -1,0 +1,15 @@
+id: '1471'
+slug: inchworm
+name: Inchworm
+human_readable_ids:
+- Inchworm
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

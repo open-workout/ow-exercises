@@ -1,0 +1,15 @@
+id: 0397
+slug: dumbbell-seated-neutral-wrist-curl
+name: Dumbbell Seated Neutral Wrist Curl
+human_readable_ids:
+- DumbbellSeatedNeutralWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

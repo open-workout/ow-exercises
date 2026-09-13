@@ -1,0 +1,15 @@
+id: '10950'
+slug: ring-long-arms-push-up-hold
+name: Ring Long Arms Push-up Hold
+human_readable_ids:
+- RingLongArmsPushupHold
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

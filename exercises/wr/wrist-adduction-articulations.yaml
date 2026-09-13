@@ -1,0 +1,14 @@
+id: '2789'
+slug: wrist-adduction-articulations
+name: Wrist - Adduction - Articulations
+human_readable_ids:
+- WristAdductionArticulations
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

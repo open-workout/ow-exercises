@@ -1,0 +1,14 @@
+id: '1714'
+slug: assisted-prone-rectus-femoris-stretch
+name: Assisted Prone Rectus Femoris Stretch
+human_readable_ids:
+- AssistedProneRectusFemorisStretch
+primary_muscles:
+- abs
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

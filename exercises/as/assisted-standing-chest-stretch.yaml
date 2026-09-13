@@ -1,0 +1,14 @@
+id: '1778'
+slug: assisted-standing-chest-stretch
+name: Assisted Standing Chest Stretch
+human_readable_ids:
+- AssistedStandingChestStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

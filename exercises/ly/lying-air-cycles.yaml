@@ -1,0 +1,15 @@
+id: '4883'
+slug: lying-air-cycles
+name: Lying Air Cycles
+human_readable_ids:
+- LyingAirCycles
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

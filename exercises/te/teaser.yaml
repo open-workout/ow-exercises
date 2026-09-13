@@ -1,0 +1,16 @@
+id: '2871'
+slug: teaser
+name: Teaser
+human_readable_ids:
+- Teaser
+primary_muscles:
+- glutes
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1257'
+slug: barbell-reverse-grip-incline-bench-press
+name: Barbell Reverse Grip Incline Bench Press
+human_readable_ids:
+- BarbellReverseGripInclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

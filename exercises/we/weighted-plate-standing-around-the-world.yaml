@@ -1,0 +1,15 @@
+id: '6549'
+slug: weighted-plate-standing-around-the-world
+name: Weighted Plate Standing Around the World
+human_readable_ids:
+- WeightedPlateStandingAroundtheWorld
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

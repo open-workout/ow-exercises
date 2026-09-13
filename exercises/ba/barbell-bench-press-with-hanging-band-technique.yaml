@@ -1,0 +1,15 @@
+id: '3185'
+slug: barbell-bench-press-with-hanging-band-technique
+name: Barbell Bench Press (with hanging band technique)
+human_readable_ids:
+- BarbellBenchPress3
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

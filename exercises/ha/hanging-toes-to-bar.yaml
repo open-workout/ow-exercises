@@ -1,0 +1,15 @@
+id: '3891'
+slug: hanging-toes-to-bar
+name: Hanging Toes to Bar
+human_readable_ids:
+- HangingToestoBar
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

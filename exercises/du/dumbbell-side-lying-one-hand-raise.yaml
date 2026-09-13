@@ -1,0 +1,15 @@
+id: 0408
+slug: dumbbell-side-lying-one-hand-raise
+name: Dumbbell Side Lying One Hand Raise
+human_readable_ids:
+- DumbbellSideLyingOneHandRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

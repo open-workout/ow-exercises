@@ -1,0 +1,14 @@
+id: '1940'
+slug: sitting-foot-to-chest-buttocks-stretch
+name: Sitting Foot To Chest Buttocks Stretch
+human_readable_ids:
+- SittingFootToChestButtocksStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

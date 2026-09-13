@@ -1,0 +1,15 @@
+id: '8200'
+slug: sitting-prayer-chest-squeeze-on-a-chair
+name: Sitting Prayer Chest Squeeze on a Chair
+human_readable_ids:
+- SittingPrayerChestSqueezeonaChair
+primary_muscles:
+- chest
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

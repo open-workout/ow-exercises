@@ -1,0 +1,14 @@
+id: '5378'
+slug: roll-front-shoulder-and-chest-lying-on-floor
+name: Roll Front Shoulder and Chest Lying on Floor
+human_readable_ids:
+- RollFrontShoulderandChestLyingonFloor
+primary_muscles:
+- chest
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

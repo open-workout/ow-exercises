@@ -1,0 +1,15 @@
+id: '3639'
+slug: bent-knee-lying-twist-3639
+name: Bent knee Lying Twist
+human_readable_ids:
+- BentkneeLyingTwist3
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

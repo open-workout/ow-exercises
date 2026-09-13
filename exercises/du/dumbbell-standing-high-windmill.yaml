@@ -1,0 +1,15 @@
+id: '4888'
+slug: dumbbell-standing-high-windmill
+name: Dumbbell Standing High Windmill
+human_readable_ids:
+- DumbbellStandingHighWindmill
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '7211'
+slug: resistance-band-lying-hyperextension-abduction
+name: Resistance Band Lying Hyperextension Abduction
+human_readable_ids:
+- ResistanceBandLyingHyperextensionAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

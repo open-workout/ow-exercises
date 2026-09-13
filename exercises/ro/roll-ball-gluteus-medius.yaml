@@ -1,0 +1,14 @@
+id: '4472'
+slug: roll-ball-gluteus-medius
+name: Roll Ball Gluteus Medius
+human_readable_ids:
+- RollBallGluteusMedius
+primary_muscles:
+- glutes
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

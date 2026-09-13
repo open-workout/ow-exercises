@@ -1,0 +1,15 @@
+id: '4857'
+slug: barbell-behind-the-back-push-press
+name: Barbell Behind the Back Push Press
+human_readable_ids:
+- BarbellBehindtheBackPushPress
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3252'
+slug: knee-raise
+name: Knee Raise
+human_readable_ids:
+- KneeRaise
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

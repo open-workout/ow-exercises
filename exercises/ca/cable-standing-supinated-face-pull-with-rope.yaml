@@ -1,0 +1,15 @@
+id: '7744'
+slug: cable-standing-supinated-face-pull-with-rope
+name: Cable Standing Supinated Face Pull (with rope)
+human_readable_ids:
+- CableStandingSupinatedFacePull
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

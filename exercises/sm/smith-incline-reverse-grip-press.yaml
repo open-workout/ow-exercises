@@ -1,0 +1,15 @@
+id: 0758
+slug: smith-incline-reverse-grip-press
+name: Smith Incline Reverse-grip Press
+human_readable_ids:
+- SmithInclineReversegripPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

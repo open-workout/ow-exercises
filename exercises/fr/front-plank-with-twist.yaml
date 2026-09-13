@@ -1,0 +1,15 @@
+id: '0464'
+slug: front-plank-with-twist
+name: Front Plank with Twist
+human_readable_ids:
+- FrontPlankwithTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

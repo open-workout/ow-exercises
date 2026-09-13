@@ -1,0 +1,15 @@
+id: '1355'
+slug: one-arm-against-wall
+name: One Arm Against Wall
+human_readable_ids:
+- OneArmAgainstWall
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

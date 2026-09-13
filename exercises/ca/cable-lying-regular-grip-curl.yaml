@@ -1,0 +1,15 @@
+id: '4350'
+slug: cable-lying-regular-grip-curl
+name: Cable Lying Regular grip Curl
+human_readable_ids:
+- CableLyingRegulargripCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

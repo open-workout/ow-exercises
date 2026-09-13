@@ -1,0 +1,15 @@
+id: '4576'
+slug: band-standing-straight-arm-pulldown
+name: Band Standing Straight Arm Pulldown
+human_readable_ids:
+- BandStandingStraightArmPulldown
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

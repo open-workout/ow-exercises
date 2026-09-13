@@ -1,0 +1,14 @@
+id: '11653'
+slug: standing-glute-squeeze
+name: Standing Glute Squeeze
+human_readable_ids:
+- StandingGluteSqueeze
+primary_muscles:
+- stretching
+equipment:
+- ez-barbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

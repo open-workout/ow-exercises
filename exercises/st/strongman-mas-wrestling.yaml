@@ -1,0 +1,15 @@
+id: '2708'
+slug: strongman-mas-wrestling
+name: StrongMan MAS Wrestling
+human_readable_ids:
+- StrongManMASWrestling
+primary_muscles:
+- weightlifting
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

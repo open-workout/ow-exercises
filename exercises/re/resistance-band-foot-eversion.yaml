@@ -1,0 +1,15 @@
+id: '3127'
+slug: resistance-band-foot-eversion
+name: Resistance Band Foot Eversion
+human_readable_ids:
+- ResistanceBandFootEversion
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

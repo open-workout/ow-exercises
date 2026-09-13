@@ -1,0 +1,15 @@
+id: '4958'
+slug: cable-overhead-single-arm-triceps-extension-rope-attachment
+name: Cable Overhead Single Arm Triceps Extension (rope attachment)
+human_readable_ids:
+- CableOverheadSingleArmTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6754'
+slug: bodyweight-lying-shoulder-external-rotation
+name: Bodyweight Lying Shoulder External Rotation
+human_readable_ids:
+- BodyweightLyingShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

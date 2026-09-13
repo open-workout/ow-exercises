@@ -1,0 +1,15 @@
+id: '5274'
+slug: lying-tuck-crunch
+name: Lying Tuck Crunch
+human_readable_ids:
+- LyingTuckCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4979'
+slug: ring-rollout
+name: Ring Rollout
+human_readable_ids:
+- RingRollout
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

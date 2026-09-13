@@ -1,0 +1,15 @@
+id: '2714'
+slug: strongman-iceland-cross
+name: StrongMan Iceland Cross
+human_readable_ids:
+- StrongManIcelandCross
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

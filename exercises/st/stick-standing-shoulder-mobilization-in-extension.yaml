@@ -1,0 +1,15 @@
+id: '9180'
+slug: stick-standing-shoulder-mobilization-in-extension
+name: Stick Standing Shoulder Mobilization in Extension
+human_readable_ids:
+- StickStandingShoulderMobilizationinExtension
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

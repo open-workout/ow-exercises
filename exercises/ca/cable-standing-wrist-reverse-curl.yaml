@@ -1,0 +1,15 @@
+id: '6363'
+slug: cable-standing-wrist-reverse-curl
+name: Cable Standing Wrist Reverse Curl
+human_readable_ids:
+- CableStandingWristReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

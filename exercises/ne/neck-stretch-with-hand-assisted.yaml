@@ -1,0 +1,14 @@
+id: '6765'
+slug: neck-stretch-with-hand-assisted
+name: Neck Stretch with Hand Assisted
+human_readable_ids:
+- NeckStretchwithHandAssisted
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

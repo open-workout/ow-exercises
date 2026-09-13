@@ -1,0 +1,15 @@
+id: '1723'
+slug: cable-one-arm-tricep-pushdown
+name: Cable One Arm Tricep Pushdown
+human_readable_ids:
+- CableOneArmTricepPushdown
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5242'
+slug: kneeling-abdominal-draw-in
+name: Kneeling Abdominal Draw In
+human_readable_ids:
+- KneelingAbdominalDrawIn
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

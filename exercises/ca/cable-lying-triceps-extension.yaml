@@ -1,0 +1,15 @@
+id: 0187
+slug: cable-lying-triceps-extension
+name: Cable Lying Triceps Extension
+human_readable_ids:
+- CableLyingTricepsExtension2
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

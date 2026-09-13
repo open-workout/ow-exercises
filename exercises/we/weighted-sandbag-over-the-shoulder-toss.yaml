@@ -1,0 +1,15 @@
+id: '10427'
+slug: weighted-sandbag-over-the-shoulder-toss
+name: Weighted Sandbag Over the Shoulder Toss
+human_readable_ids:
+- WeightedSandbagOvertheShoulderToss
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

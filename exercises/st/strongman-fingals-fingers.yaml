@@ -1,0 +1,18 @@
+id: '3306'
+slug: strongman-fingals-fingers
+name: StrongMan Fingals Fingers
+human_readable_ids:
+- StrongManFingalsFingers
+primary_muscles:
+- back
+- chest
+- shoulders
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

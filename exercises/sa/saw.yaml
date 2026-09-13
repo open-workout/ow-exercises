@@ -1,0 +1,14 @@
+id: '2861'
+slug: saw
+name: Saw
+human_readable_ids:
+- Saw
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1779'
+slug: assisted-seated-chest-stretch
+name: Assisted Seated Chest Stretch
+human_readable_ids:
+- AssistedSeatedChestStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

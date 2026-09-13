@@ -1,0 +1,15 @@
+id: '1276'
+slug: dumbbell-decline-one-arm-fly
+name: Dumbbell Decline One Arm Fly
+human_readable_ids:
+- DumbbellDeclineOneArmFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

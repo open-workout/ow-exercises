@@ -1,0 +1,15 @@
+id: '3473'
+slug: standing-balance-outer-hip-stretch
+name: Standing Balance Outer Hip Stretch
+human_readable_ids:
+- StandingBalanceOuterHipStretch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

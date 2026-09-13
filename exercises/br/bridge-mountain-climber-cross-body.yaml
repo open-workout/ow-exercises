@@ -1,0 +1,15 @@
+id: '0141'
+slug: bridge-mountain-climber-cross-body
+name: Bridge - Mountain Climber (Cross Body)
+human_readable_ids:
+- BridgeMountainClimber
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2127'
+slug: weighted-captains-chair-leg-raise
+name: Weighted Captains Chair Leg Raise
+human_readable_ids:
+- WeightedCaptainsChairLegRaise
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

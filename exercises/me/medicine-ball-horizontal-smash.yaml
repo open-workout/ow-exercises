@@ -1,0 +1,15 @@
+id: '10197'
+slug: medicine-ball-horizontal-smash
+name: Medicine Ball Horizontal Smash
+human_readable_ids:
+- MedicineBallHorizontalSmash
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

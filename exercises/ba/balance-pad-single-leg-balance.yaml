@@ -1,0 +1,14 @@
+id: '10734'
+slug: balance-pad-single-leg-balance
+name: Balance Pad Single Leg Balance
+human_readable_ids:
+- BalancePadSingleLegBalance
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

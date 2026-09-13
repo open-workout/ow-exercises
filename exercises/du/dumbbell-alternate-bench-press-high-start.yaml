@@ -1,0 +1,15 @@
+id: '3695'
+slug: dumbbell-alternate-bench-press-high-start
+name: Dumbbell Alternate Bench Press (high start)
+human_readable_ids:
+- DumbbellAlternateBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

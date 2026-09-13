@@ -1,0 +1,15 @@
+id: '3541'
+slug: dumbbell-incline-y-raise
+name: Dumbbell Incline Y-Raise
+human_readable_ids:
+- DumbbellInclineYRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

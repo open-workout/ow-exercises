@@ -1,0 +1,15 @@
+id: '5193'
+slug: power-sled-rear-drag-version-2
+name: Power Sled Rear Drag (VERSION 2)
+human_readable_ids:
+- PowerSledRearDrag2
+primary_muscles:
+- quads
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

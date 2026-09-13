@@ -1,0 +1,15 @@
+id: '4072'
+slug: bodyweight-single-leg-wall-squat
+name: Bodyweight Single Leg Wall Squat
+human_readable_ids:
+- BodyweightSingleLegWallSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4922'
+slug: ring-chest-fly
+name: Ring Chest Fly
+human_readable_ids:
+- RingChestFly
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

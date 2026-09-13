@@ -1,0 +1,15 @@
+id: '3538'
+slug: inverted-underhand-grip-row-between-chairs
+name: Inverted Underhand Grip Row between Chairs
+human_readable_ids:
+- InvertedUnderhandGripRowbetweenChairs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

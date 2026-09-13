@@ -1,0 +1,16 @@
+id: '3926'
+slug: side-lying-leg-circle
+name: Side Lying Leg Circle
+human_readable_ids:
+- SideLyingLegCircle
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

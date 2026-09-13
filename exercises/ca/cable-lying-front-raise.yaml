@@ -1,0 +1,15 @@
+id: '4227'
+slug: cable-lying-front-raise
+name: Cable Lying Front Raise
+human_readable_ids:
+- CableLyingFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

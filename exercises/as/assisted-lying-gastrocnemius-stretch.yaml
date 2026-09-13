@@ -1,0 +1,14 @@
+id: '1708'
+slug: assisted-lying-gastrocnemius-stretch
+name: Assisted Lying Gastrocnemius Stretch
+human_readable_ids:
+- AssistedLyingGastrocnemiusStretch
+primary_muscles:
+- calves
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

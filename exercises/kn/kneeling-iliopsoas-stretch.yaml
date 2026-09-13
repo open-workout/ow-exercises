@@ -1,0 +1,14 @@
+id: '6771'
+slug: kneeling-iliopsoas-stretch
+name: Kneeling Iliopsoas Stretch
+human_readable_ids:
+- KneelingIliopsoasStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

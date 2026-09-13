@@ -1,0 +1,15 @@
+id: 0529
+slug: kettlebell-double-snatch
+name: Kettlebell Double Snatch
+human_readable_ids:
+- KettlebellDoubleSnatch
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

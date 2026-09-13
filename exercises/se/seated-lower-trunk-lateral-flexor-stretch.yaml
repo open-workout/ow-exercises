@@ -1,0 +1,14 @@
+id: '2114'
+slug: seated-lower-trunk-lateral-flexor-stretch
+name: Seated Lower Trunk Lateral Flexor Stretch
+human_readable_ids:
+- SeatedLowerTrunkLateralFlexorStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

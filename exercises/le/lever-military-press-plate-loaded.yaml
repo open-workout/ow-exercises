@@ -1,0 +1,15 @@
+id: 0587
+slug: lever-military-press-plate-loaded
+name: Lever Military Press (plate loaded)
+human_readable_ids:
+- LeverMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

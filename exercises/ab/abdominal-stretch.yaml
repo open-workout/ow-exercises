@@ -1,0 +1,14 @@
+id: '3244'
+slug: abdominal-stretch
+name: Abdominal Stretch
+human_readable_ids:
+- AbdominalStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

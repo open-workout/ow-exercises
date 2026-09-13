@@ -1,0 +1,15 @@
+id: '5071'
+slug: kettlebell-single-arm-overhead-lunge
+name: Kettlebell Single Arm Overhead Lunge
+human_readable_ids:
+- KettlebellSingleArmOverheadLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

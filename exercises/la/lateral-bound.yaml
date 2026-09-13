@@ -1,0 +1,15 @@
+id: '0563'
+slug: lateral-bound
+name: Lateral Bound
+human_readable_ids:
+- LateralBound
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

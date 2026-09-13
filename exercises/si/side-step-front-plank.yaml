@@ -1,0 +1,15 @@
+id: '3958'
+slug: side-step-front-plank
+name: Side Step Front Plank
+human_readable_ids:
+- SideStepFrontPlank
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

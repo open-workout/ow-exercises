@@ -1,0 +1,15 @@
+id: '2310'
+slug: spin-back-kick-kickboxing
+name: Spin Back Kick. Kickboxing
+human_readable_ids:
+- SpinBackKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

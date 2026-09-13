@@ -1,0 +1,15 @@
+id: '0211'
+slug: cable-russian-twists-on-stability-ball
+name: Cable Russian Twists (on stability ball)
+human_readable_ids:
+- CableRussianTwists
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

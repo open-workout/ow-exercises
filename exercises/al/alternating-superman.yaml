@@ -1,0 +1,16 @@
+id: '4702'
+slug: alternating-superman
+name: Alternating Superman
+human_readable_ids:
+- AlternatingSuperman
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

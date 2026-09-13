@@ -1,0 +1,15 @@
+id: '4430'
+slug: weighted-side-lying-side-neck-raise
+name: Weighted Side Lying Side Neck Raise
+human_readable_ids:
+- WeightedSideLyingSideNeckRaise
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

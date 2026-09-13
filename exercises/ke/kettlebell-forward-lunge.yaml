@@ -1,0 +1,16 @@
+id: '3574'
+slug: kettlebell-forward-lunge
+name: Kettlebell Forward Lunge
+human_readable_ids:
+- KettlebellForwardLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

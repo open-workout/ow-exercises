@@ -1,0 +1,15 @@
+id: '4177'
+slug: hanging-scapular-shrug
+name: Hanging Scapular Shrug
+human_readable_ids:
+- HangingScapularShrug
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

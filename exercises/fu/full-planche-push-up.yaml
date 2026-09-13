@@ -1,0 +1,17 @@
+id: '3327'
+slug: full-planche-push-up
+name: Full Planche Push-Up
+human_readable_ids:
+- FullPlanchePushUp
+primary_muscles:
+- chest
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

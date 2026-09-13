@@ -1,0 +1,15 @@
+id: '7839'
+slug: dead-bug-version-3
+name: Dead Bug (VERSION 3)
+human_readable_ids:
+- DeadBug3
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

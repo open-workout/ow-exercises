@@ -1,0 +1,15 @@
+id: '4703'
+slug: bodyweight-full-squat-with-overhead-press-version-2
+name: Bodyweight Full Squat with Overhead Press (Version 2)
+human_readable_ids:
+- BodyweightFullSquatwithOverheadPress2
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

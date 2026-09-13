@@ -1,0 +1,14 @@
+id: '1340'
+slug: exercise-ball-lower-back-prone-stretch
+name: Exercise Ball Lower Back Prone Stretch
+human_readable_ids:
+- ExerciseBallLowerBackProneStretch
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

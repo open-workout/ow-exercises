@@ -1,0 +1,15 @@
+id: '4796'
+slug: standing-single-leg-calf-raise-balance
+name: Standing Single Leg Calf Raise Balance
+human_readable_ids:
+- StandingSingleLegCalfRaiseBalance
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

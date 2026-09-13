@@ -1,0 +1,15 @@
+id: '3799'
+slug: dumbbell-bent-over-reverse-row
+name: Dumbbell Bent Over Reverse Row
+human_readable_ids:
+- DumbbellBentOverReverseRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

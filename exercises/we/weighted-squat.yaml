@@ -1,0 +1,16 @@
+id: 0852
+slug: weighted-squat
+name: Weighted Squat
+human_readable_ids:
+- WeightedSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

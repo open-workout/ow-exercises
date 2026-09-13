@@ -1,0 +1,15 @@
+id: '5479'
+slug: close-grip-pull-up
+name: Close Grip Pull-Up
+human_readable_ids:
+- CloseGripPullUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

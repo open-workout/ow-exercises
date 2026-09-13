@@ -1,0 +1,15 @@
+id: '5997'
+slug: lay-down-push-up
+name: Lay Down Push-up
+human_readable_ids:
+- LayDownPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

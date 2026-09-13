@@ -1,0 +1,15 @@
+id: '4245'
+slug: single-leg-board-jump
+name: Single Leg Board Jump
+human_readable_ids:
+- SingleLegBoardJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

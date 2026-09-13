@@ -1,0 +1,15 @@
+id: '0546'
+slug: kettlebell-seated-press
+name: Kettlebell Seated Press
+human_readable_ids:
+- KettlebellSeatedPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

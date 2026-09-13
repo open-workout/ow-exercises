@@ -1,0 +1,15 @@
+id: '0522'
+slug: kettlebell-alternating-row
+name: Kettlebell Alternating Row
+human_readable_ids:
+- KettlebellAlternatingRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

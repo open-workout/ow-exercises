@@ -1,0 +1,15 @@
+id: 0583
+slug: lever-kneeling-twist
+name: Lever Kneeling Twist
+human_readable_ids:
+- LeverKneelingTwist
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

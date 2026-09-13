@@ -1,0 +1,15 @@
+id: 0929
+slug: band-straight-back-seated-row-0929
+name: Band straight-back seated row
+human_readable_ids:
+- Bandstraightbackseatedrow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

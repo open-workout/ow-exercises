@@ -1,0 +1,15 @@
+id: '5973'
+slug: lateral-ladder-drill
+name: Lateral Ladder Drill
+human_readable_ids:
+- LateralLadderDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '10551'
+slug: squat-mobilization
+name: Squat Mobilization
+human_readable_ids:
+- SquatMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

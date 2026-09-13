@@ -1,0 +1,15 @@
+id: '0365'
+slug: dumbbell-over-bench-neutral-wrist-curl
+name: Dumbbell Over Bench Neutral Wrist Curl
+human_readable_ids:
+- DumbbellOverBenchNeutralWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

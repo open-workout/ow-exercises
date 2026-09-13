@@ -1,0 +1,14 @@
+id: '4483'
+slug: roll-ball-pectoralis-major-sternal
+name: Roll Ball Pectoralis Major - Sternal
+human_readable_ids:
+- RollBallPectoralisMajorSternal
+primary_muscles:
+- chest
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

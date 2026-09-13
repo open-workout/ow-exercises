@@ -1,0 +1,15 @@
+id: '1521'
+slug: barbell-hang-clean-below-the-knees
+name: Barbell Hang Clean Below the Knees
+human_readable_ids:
+- BarbellHangCleanBelowtheKnees
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

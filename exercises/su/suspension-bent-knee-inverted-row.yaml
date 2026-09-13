@@ -1,0 +1,15 @@
+id: '1071'
+slug: suspension-bent-knee-inverted-row
+name: Suspension Bent knee Inverted Row
+human_readable_ids:
+- SuspensionBentkneeInvertedRow
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

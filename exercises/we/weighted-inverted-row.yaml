@@ -1,0 +1,15 @@
+id: '1184'
+slug: weighted-inverted-row
+name: Weighted Inverted Row
+human_readable_ids:
+- WeightedInvertedRow
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

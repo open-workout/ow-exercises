@@ -1,0 +1,14 @@
+id: '6290'
+slug: chaturanga-dandasana-four-limbed-staff-pose
+name: Chaturanga Dandasana (Four Limbed Staff Pose)
+human_readable_ids:
+- ChaturangaDandasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

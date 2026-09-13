@@ -1,0 +1,16 @@
+id: '3581'
+slug: lunge-with-leg-lift
+name: Lunge with Leg Lift
+human_readable_ids:
+- LungewithLegLift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

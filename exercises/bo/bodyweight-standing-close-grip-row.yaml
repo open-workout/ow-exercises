@@ -1,0 +1,15 @@
+id: '3157'
+slug: bodyweight-standing-close-grip-row
+name: Bodyweight Standing Close-grip Row
+human_readable_ids:
+- BodyweightStandingClosegripRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

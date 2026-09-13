@@ -1,0 +1,15 @@
+id: '5160'
+slug: incline-close-grip-push-up-5160
+name: Incline Close Grip Push-up
+human_readable_ids:
+- InclineCloseGripPushup
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

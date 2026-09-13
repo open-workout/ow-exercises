@@ -1,0 +1,15 @@
+id: '3117'
+slug: band-fixed-back-close-grip-pulldown
+name: Band Fixed Back Close Grip Pulldown
+human_readable_ids:
+- BandFixedBackCloseGripPulldown
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

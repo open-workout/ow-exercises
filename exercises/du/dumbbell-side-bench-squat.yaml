@@ -1,0 +1,15 @@
+id: '4752'
+slug: dumbbell-side-bench-squat
+name: Dumbbell Side Bench Squat
+human_readable_ids:
+- DumbbellSideBenchSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

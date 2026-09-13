@@ -1,0 +1,14 @@
+id: '2862'
+slug: scissors
+name: Scissors
+human_readable_ids:
+- Scissors
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

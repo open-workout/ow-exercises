@@ -1,0 +1,15 @@
+id: '3540'
+slug: kneeling-t-spine-mobility-stretching
+name: Kneeling T-Spine Mobility Stretching
+human_readable_ids:
+- KneelingTSpineMobilityStretching
+primary_muscles:
+- back
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

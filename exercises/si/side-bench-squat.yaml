@@ -1,0 +1,15 @@
+id: '4786'
+slug: side-bench-squat
+name: Side Bench Squat
+human_readable_ids:
+- SideBenchSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

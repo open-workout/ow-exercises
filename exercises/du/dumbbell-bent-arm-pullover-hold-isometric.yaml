@@ -1,0 +1,14 @@
+id: '1444'
+slug: dumbbell-bent-arm-pullover-hold-isometric
+name: Dumbbell Bent Arm Pullover Hold Isometric
+human_readable_ids:
+- DumbbellBentArmPulloverHoldIsometric
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

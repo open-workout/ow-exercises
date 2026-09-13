@@ -1,0 +1,15 @@
+id: '4125'
+slug: dumbbell-face-down-lying-shoulder-press
+name: Dumbbell Face Down Lying Shoulder Press
+human_readable_ids:
+- DumbbellFaceDownLyingShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

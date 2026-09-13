@@ -1,0 +1,17 @@
+id: '4932'
+slug: lying-bent-knee-figure-8
+name: Lying Bent Knee Figure 8
+human_readable_ids:
+- LyingBentKneeFigure8
+primary_muscles:
+- adductors
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

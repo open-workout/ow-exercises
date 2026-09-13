@@ -1,0 +1,15 @@
+id: '0401'
+slug: dumbbell-seated-palms-up-wrist-curl
+name: Dumbbell Seated Palms Up Wrist Curl
+human_readable_ids:
+- DumbbellSeatedPalmsUpWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

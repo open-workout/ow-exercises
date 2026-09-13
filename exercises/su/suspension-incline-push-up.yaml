@@ -1,0 +1,15 @@
+id: '1116'
+slug: suspension-incline-push-up
+name: Suspension Incline Push-up
+human_readable_ids:
+- SuspensionInclinePushup
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

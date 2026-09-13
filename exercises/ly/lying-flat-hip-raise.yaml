@@ -1,0 +1,15 @@
+id: '4886'
+slug: lying-flat-hip-raise
+name: Lying Flat Hip Raise
+human_readable_ids:
+- LyingFlatHipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

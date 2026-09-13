@@ -1,0 +1,15 @@
+id: '10367'
+slug: kettlebell-sitting-tibialis-press
+name: Kettlebell Sitting Tibialis Press
+human_readable_ids:
+- KettlebellSittingTibialisPress
+primary_muscles:
+- calves
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

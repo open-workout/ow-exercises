@@ -1,0 +1,15 @@
+id: '3073'
+slug: dumbbell-alternate-shoulder-press
+name: Dumbbell Alternate Shoulder Press
+human_readable_ids:
+- DumbbellAlternateShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

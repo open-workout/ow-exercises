@@ -1,0 +1,15 @@
+id: 0585
+slug: lever-leg-extension
+name: Lever Leg Extension
+human_readable_ids:
+- LeverLegExtension
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

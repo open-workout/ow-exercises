@@ -1,0 +1,15 @@
+id: '10929'
+slug: standing-internal-rotation-slide-with-towel
+name: Standing Internal Rotation Slide with Towel
+human_readable_ids:
+- StandingInternalRotationSlidewithTowel
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2792'
+slug: plank-jump
+name: Plank Jump
+human_readable_ids:
+- PlankJump
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6944'
+slug: swimming-crawl-style
+name: Swimming Crawl Style
+human_readable_ids:
+- SwimmingCrawlStyle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

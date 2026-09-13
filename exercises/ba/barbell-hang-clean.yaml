@@ -1,0 +1,15 @@
+id: '1520'
+slug: barbell-hang-clean
+name: Barbell Hang Clean
+human_readable_ids:
+- BarbellHangClean
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

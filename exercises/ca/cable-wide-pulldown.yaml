@@ -1,0 +1,15 @@
+id: 0197
+slug: cable-wide-pulldown
+name: Cable Wide Pulldown
+human_readable_ids:
+- CableWidePulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

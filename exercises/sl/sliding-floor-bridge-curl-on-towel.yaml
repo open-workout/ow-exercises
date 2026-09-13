@@ -1,0 +1,17 @@
+id: '3498'
+slug: sliding-floor-bridge-curl-on-towel
+name: Sliding Floor Bridge Curl on Towel
+human_readable_ids:
+- SlidingFloorBridgeCurlonTowel
+primary_muscles:
+- glutes
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

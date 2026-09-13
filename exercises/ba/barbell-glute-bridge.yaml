@@ -1,0 +1,15 @@
+id: '1409'
+slug: barbell-glute-bridge
+name: Barbell Glute Bridge
+human_readable_ids:
+- BarbellGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

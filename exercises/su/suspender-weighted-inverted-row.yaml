@@ -1,0 +1,15 @@
+id: '2833'
+slug: suspender-weighted-inverted-row
+name: Suspender Weighted Inverted Row
+human_readable_ids:
+- SuspenderWeightedInvertedRow
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

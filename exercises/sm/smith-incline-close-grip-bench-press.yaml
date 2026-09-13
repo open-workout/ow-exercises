@@ -1,0 +1,15 @@
+id: '10116'
+slug: smith-incline-close-grip-bench-press
+name: Smith Incline Close grip Bench Press
+human_readable_ids:
+- SmithInclineClosegripBenchPress
+primary_muscles:
+- biceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

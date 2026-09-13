@@ -1,0 +1,16 @@
+id: '4656'
+slug: kneeling-pulse
+name: Kneeling Pulse
+human_readable_ids:
+- KneelingPulse
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

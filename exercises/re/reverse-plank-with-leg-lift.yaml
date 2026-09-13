@@ -1,0 +1,15 @@
+id: '3663'
+slug: reverse-plank-with-leg-lift
+name: Reverse Plank with Leg Lift
+human_readable_ids:
+- ReversePlankwithLegLift
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

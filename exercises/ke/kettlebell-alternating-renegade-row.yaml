@@ -1,0 +1,15 @@
+id: '0521'
+slug: kettlebell-alternating-renegade-row
+name: Kettlebell Alternating Renegade Row
+human_readable_ids:
+- KettlebellAlternatingRenegadeRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,18 @@
+id: '3369'
+slug: battling-ropes-alternate-arms-squat
+name: Battling Ropes Alternate Arms Squat
+human_readable_ids:
+- BattlingRopesAlternateArmsSquat
+primary_muscles:
+- back
+- chest
+- glutes
+- quads
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

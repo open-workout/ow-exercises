@@ -1,0 +1,14 @@
+id: '5394'
+slug: roll-tibialis-anterior
+name: Roll Tibialis Anterior
+human_readable_ids:
+- RollTibialisAnterior
+primary_muscles:
+- calves
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

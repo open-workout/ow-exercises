@@ -1,0 +1,15 @@
+id: '11055'
+slug: lever-belt-sumo-deadlift-v-bar
+name: Lever Belt Sumo Deadlift (V bar)
+human_readable_ids:
+- LeverBeltSumoDeadlift
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

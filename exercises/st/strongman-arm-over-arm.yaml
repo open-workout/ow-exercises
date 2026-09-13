@@ -1,0 +1,15 @@
+id: '2709'
+slug: strongman-arm-over-arm
+name: StrongMan Arm over Arm
+human_readable_ids:
+- StrongManArmoverArm
+primary_muscles:
+- weightlifting
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

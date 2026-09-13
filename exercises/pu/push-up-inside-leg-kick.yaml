@@ -1,0 +1,17 @@
+id: '0661'
+slug: push-up-inside-leg-kick
+name: Push-Up Inside Leg Kick
+human_readable_ids:
+- PushUpInsideLegKick
+primary_muscles:
+- glutes
+- chest
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

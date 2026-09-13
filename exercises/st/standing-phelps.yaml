@@ -1,0 +1,16 @@
+id: '3409'
+slug: standing-phelps
+name: Standing Phelps
+human_readable_ids:
+- StandingPhelps
+primary_muscles:
+- back
+- chest
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

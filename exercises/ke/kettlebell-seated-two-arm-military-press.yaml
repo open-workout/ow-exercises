@@ -1,0 +1,15 @@
+id: '1438'
+slug: kettlebell-seated-two-arm-military-press
+name: Kettlebell Seated Two Arm Military Press
+human_readable_ids:
+- KettlebellSeatedTwoArmMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

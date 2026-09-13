@@ -1,0 +1,15 @@
+id: '4059'
+slug: kettlebell-split-squat
+name: Kettlebell Split Squat
+human_readable_ids:
+- KettlebellSplitSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

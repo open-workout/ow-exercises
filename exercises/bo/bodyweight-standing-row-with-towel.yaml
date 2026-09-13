@@ -1,0 +1,15 @@
+id: '3164'
+slug: bodyweight-standing-row-with-towel
+name: Bodyweight Standing Row (with towel)
+human_readable_ids:
+- BodyweightStandingRow2
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

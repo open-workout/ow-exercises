@@ -1,0 +1,15 @@
+id: '1810'
+slug: lying-knee-to-chest-stretch
+name: Lying Knee To Chest Stretch
+human_readable_ids:
+- LyingKneeToChestStretch
+primary_muscles:
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

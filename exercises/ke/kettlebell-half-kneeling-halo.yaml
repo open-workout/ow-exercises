@@ -1,0 +1,15 @@
+id: '8331'
+slug: kettlebell-half-kneeling-halo
+name: Kettlebell Half Kneeling Halo
+human_readable_ids:
+- KettlebellHalfKneelingHalo
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

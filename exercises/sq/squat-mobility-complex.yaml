@@ -1,0 +1,15 @@
+id: '2989'
+slug: squat-mobility-complex
+name: Squat mobility Complex
+human_readable_ids:
+- SquatmobilityComplex
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

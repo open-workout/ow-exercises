@@ -1,0 +1,15 @@
+id: '1632'
+slug: cable-drag-curl
+name: Cable Drag Curl
+human_readable_ids:
+- CableDragCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

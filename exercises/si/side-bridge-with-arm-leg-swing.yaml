@@ -1,0 +1,18 @@
+id: '3584'
+slug: side-bridge-with-arm-leg-swing
+name: Side Bridge with Arm Leg Swing
+human_readable_ids:
+- SideBridgewithArmLegSwing
+primary_muscles:
+- shoulders
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

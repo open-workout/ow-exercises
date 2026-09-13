@@ -1,0 +1,15 @@
+id: '7326'
+slug: dumbbell-reverse-lunge-from-deficit
+name: Dumbbell Reverse Lunge from Deficit
+human_readable_ids:
+- DumbbellReverseLungefromDeficit
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

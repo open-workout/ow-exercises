@@ -1,0 +1,15 @@
+id: '4425'
+slug: dumbbell-lying-close-grip-parallel-row-on-rack
+name: Dumbbell Lying Close-Grip Parallel Row on Rack
+human_readable_ids:
+- DumbbellLyingCloseGripParallelRowonRack
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

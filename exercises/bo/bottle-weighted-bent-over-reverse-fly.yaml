@@ -1,0 +1,15 @@
+id: '6061'
+slug: bottle-weighted-bent-over-reverse-fly
+name: Bottle Weighted Bent Over Reverse Fly
+human_readable_ids:
+- BottleWeightedBentOverReverseFly
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

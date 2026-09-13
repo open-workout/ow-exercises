@@ -1,0 +1,15 @@
+id: '5131'
+slug: seated-neck-tap
+name: Seated Neck Tap
+human_readable_ids:
+- SeatedNeckTap
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

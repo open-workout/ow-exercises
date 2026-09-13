@@ -1,0 +1,15 @@
+id: '2679'
+slug: push-up-on-stability-ball-2679
+name: Push Up (on stability ball)
+human_readable_ids:
+- PushUp
+primary_muscles:
+- chest
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

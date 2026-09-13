@@ -1,0 +1,15 @@
+id: '10186'
+slug: dumbbell-pullover-to-press-bridge
+name: Dumbbell Pullover to Press Bridge
+human_readable_ids:
+- DumbbellPullovertoPressBridge
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

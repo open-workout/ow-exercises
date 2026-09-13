@@ -1,0 +1,15 @@
+id: '4016'
+slug: barbell-seated-shrug
+name: Barbell Seated Shrug
+human_readable_ids:
+- BarbellSeatedShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

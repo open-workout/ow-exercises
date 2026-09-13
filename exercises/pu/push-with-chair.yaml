@@ -1,0 +1,15 @@
+id: '4329'
+slug: push-with-chair
+name: Push with Chair
+human_readable_ids:
+- PushwithChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

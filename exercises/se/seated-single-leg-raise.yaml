@@ -1,0 +1,15 @@
+id: '8946'
+slug: seated-single-leg-raise
+name: Seated Single Leg Raise
+human_readable_ids:
+- SeatedSingleLegRaise
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

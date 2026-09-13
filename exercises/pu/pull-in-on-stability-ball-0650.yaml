@@ -1,0 +1,15 @@
+id: '0650'
+slug: pull-in-on-stability-ball-0650
+name: Pull-In (on stability ball)
+human_readable_ids:
+- PullIn
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

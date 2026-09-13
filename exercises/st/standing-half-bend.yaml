@@ -1,0 +1,14 @@
+id: '5903'
+slug: standing-half-bend
+name: Standing Half Bend
+human_readable_ids:
+- StandingHalfBend
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

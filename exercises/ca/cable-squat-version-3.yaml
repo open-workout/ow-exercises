@@ -1,0 +1,15 @@
+id: '11268'
+slug: cable-squat-version-3
+name: Cable Squat (VERSION 3)
+human_readable_ids:
+- CableSquat
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

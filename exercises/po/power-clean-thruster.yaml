@@ -1,0 +1,15 @@
+id: '5188'
+slug: power-clean-thruster
+name: Power Clean Thruster
+human_readable_ids:
+- PowerCleanThruster
+primary_muscles:
+- weightlifting
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

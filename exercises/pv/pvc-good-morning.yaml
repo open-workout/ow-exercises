@@ -1,0 +1,15 @@
+id: '4604'
+slug: pvc-good-morning
+name: PVC Good Morning
+human_readable_ids:
+- PVCGoodMorning
+primary_muscles:
+- hamstrings
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

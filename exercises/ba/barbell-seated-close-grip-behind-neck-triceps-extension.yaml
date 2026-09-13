@@ -1,0 +1,15 @@
+id: '1718'
+slug: barbell-seated-close-grip-behind-neck-triceps-extension
+name: Barbell Seated Close grip Behind Neck Triceps Extension
+human_readable_ids:
+- BarbellSeatedClosegripBehindNeckTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

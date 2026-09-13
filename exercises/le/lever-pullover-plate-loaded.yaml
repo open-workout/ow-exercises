@@ -1,0 +1,15 @@
+id: '2285'
+slug: lever-pullover-plate-loaded
+name: Lever Pullover (plate loaded)
+human_readable_ids:
+- LeverPullover
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

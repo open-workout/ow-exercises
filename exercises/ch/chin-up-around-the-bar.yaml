@@ -1,0 +1,15 @@
+id: '4207'
+slug: chin-up-around-the-bar
+name: Chin-Up Around the Bar
+human_readable_ids:
+- ChinUpAroundtheBar
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1423'
+slug: reverse-hyper-on-flat-bench
+name: Reverse Hyper on Flat Bench
+human_readable_ids:
+- ReverseHyperonFlatBench
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

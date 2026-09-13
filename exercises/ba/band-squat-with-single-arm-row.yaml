@@ -1,0 +1,16 @@
+id: '3770'
+slug: band-squat-with-single-arm-row
+name: Band Squat with Single Arm Row
+human_readable_ids:
+- BandSquatwithSingleArmRow
+primary_muscles:
+- back
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

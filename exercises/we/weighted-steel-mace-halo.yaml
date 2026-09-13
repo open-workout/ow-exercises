@@ -1,0 +1,15 @@
+id: '10411'
+slug: weighted-steel-mace-halo
+name: Weighted Steel Mace Halo
+human_readable_ids:
+- WeightedSteelMaceHalo
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

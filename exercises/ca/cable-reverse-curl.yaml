@@ -1,0 +1,15 @@
+id: '0206'
+slug: cable-reverse-curl
+name: Cable Reverse Curl
+human_readable_ids:
+- CableReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

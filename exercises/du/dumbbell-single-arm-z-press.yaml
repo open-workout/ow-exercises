@@ -1,0 +1,15 @@
+id: '10043'
+slug: dumbbell-single-arm-z-press
+name: Dumbbell Single Arm Z Press
+human_readable_ids:
+- DumbbellSingleArmZPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

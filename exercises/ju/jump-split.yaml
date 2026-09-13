@@ -1,0 +1,15 @@
+id: '0512'
+slug: jump-split
+name: Jump Split
+human_readable_ids:
+- JumpSplit
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

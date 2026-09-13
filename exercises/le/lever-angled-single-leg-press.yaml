@@ -1,0 +1,15 @@
+id: '9387'
+slug: lever-angled-single-leg-press
+name: Lever Angled Single Leg Press
+human_readable_ids:
+- LeverAngledSingleLegPress
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

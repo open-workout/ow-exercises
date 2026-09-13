@@ -1,0 +1,14 @@
+id: '2766'
+slug: forearm-supination-articulations
+name: Forearm - Supination - Articulations
+human_readable_ids:
+- ForearmSupinationArticulations
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

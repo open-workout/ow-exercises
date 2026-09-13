@@ -1,0 +1,15 @@
+id: '4538'
+slug: kettlebell-bent-arm-pullover-with-knees-bent
+name: Kettlebell Bent Arm Pullover with Knees Bent
+human_readable_ids:
+- KettlebellBentArmPulloverwithKneesBent
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

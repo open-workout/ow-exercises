@@ -1,0 +1,15 @@
+id: '2686'
+slug: dumbbell-one-arm-wrist-curl-forearm
+name: Dumbbell One arm Wrist Curl _Forearm
+human_readable_ids:
+- DumbbellOnearmWristCurlForearm
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

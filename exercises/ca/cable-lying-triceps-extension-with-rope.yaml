@@ -1,0 +1,15 @@
+id: '4353'
+slug: cable-lying-triceps-extension-with-rope
+name: Cable Lying Triceps Extension (with Rope)
+human_readable_ids:
+- CableLyingTricepsExtension3
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

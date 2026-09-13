@@ -1,0 +1,15 @@
+id: '7274'
+slug: suspender-pike
+name: Suspender Pike
+human_readable_ids:
+- SuspenderPike
+primary_muscles:
+- glutes
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

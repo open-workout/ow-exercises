@@ -1,0 +1,15 @@
+id: '2394'
+slug: floor-hyperextension
+name: Floor Hyperextension
+human_readable_ids:
+- FloorHyperextension
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

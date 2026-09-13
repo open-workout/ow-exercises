@@ -1,0 +1,15 @@
+id: '4017'
+slug: dumbbell-standing-single-spider-curl
+name: Dumbbell Standing Single Spider Curl
+human_readable_ids:
+- DumbbellStandingSingleSpiderCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

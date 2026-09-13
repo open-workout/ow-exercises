@@ -1,0 +1,15 @@
+id: '4667'
+slug: bodyweight-overhead-triceps-extension
+name: Bodyweight Overhead Triceps Extension
+human_readable_ids:
+- BodyweightOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

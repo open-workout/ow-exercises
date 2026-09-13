@@ -1,0 +1,15 @@
+id: '3203'
+slug: prisoner-half-sit-up
+name: Prisoner Half Sit-up
+human_readable_ids:
+- PrisonerHalfSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

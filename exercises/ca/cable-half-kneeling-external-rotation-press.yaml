@@ -1,0 +1,15 @@
+id: '8879'
+slug: cable-half-kneeling-external-rotation-press
+name: Cable Half Kneeling External Rotation Press
+human_readable_ids:
+- CableHalfKneelingExternalRotationPress
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

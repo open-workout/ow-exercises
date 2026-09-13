@@ -1,0 +1,14 @@
+id: 0950
+slug: fish-pose-matsyasana
+name: Fish Pose Matsyasana
+human_readable_ids:
+- FishPoseMatsyasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

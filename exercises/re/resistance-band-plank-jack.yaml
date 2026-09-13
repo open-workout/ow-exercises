@@ -1,0 +1,15 @@
+id: '7210'
+slug: resistance-band-plank-jack
+name: Resistance Band Plank Jack
+human_readable_ids:
+- ResistanceBandPlankJack
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

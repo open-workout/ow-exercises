@@ -1,0 +1,14 @@
+id: '3404'
+slug: standing-t-raise
+name: Standing T-raise
+human_readable_ids:
+- StandingTraise
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

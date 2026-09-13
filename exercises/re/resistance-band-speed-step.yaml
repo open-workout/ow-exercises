@@ -1,0 +1,15 @@
+id: '8874'
+slug: resistance-band-speed-step
+name: Resistance Band Speed Step
+human_readable_ids:
+- ResistanceBandSpeedStep
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

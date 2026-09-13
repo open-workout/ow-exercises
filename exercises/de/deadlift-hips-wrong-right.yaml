@@ -1,0 +1,16 @@
+id: '2357'
+slug: deadlift-hips-wrong-right
+name: Deadlift - Hips (WRONG-RIGHT)
+human_readable_ids:
+- DeadliftHips
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

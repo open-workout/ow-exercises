@@ -1,0 +1,15 @@
+id: '1674'
+slug: dumbbell-prone-incline-hammer-curl
+name: Dumbbell Prone Incline Hammer Curl
+human_readable_ids:
+- DumbbellProneInclineHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

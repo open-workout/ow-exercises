@@ -1,0 +1,15 @@
+id: '1223'
+slug: underhand-grip-inverted-back-row
+name: Underhand-Grip Inverted Back Row
+human_readable_ids:
+- UnderhandGripInvertedBackRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

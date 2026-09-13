@@ -1,0 +1,15 @@
+id: '4175'
+slug: weighted-standing-shoulder-press
+name: Weighted Standing Shoulder Press
+human_readable_ids:
+- WeightedStandingShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

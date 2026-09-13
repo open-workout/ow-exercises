@@ -1,0 +1,15 @@
+id: '3634'
+slug: sitting-sumo-with-arms-up-mobility-stretch
+name: Sitting Sumo with Arms-Up Mobility Stretch
+human_readable_ids:
+- SittingSumowithArmsUpMobilityStretch
+primary_muscles:
+- chest
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

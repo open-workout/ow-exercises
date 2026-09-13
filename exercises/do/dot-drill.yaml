@@ -1,0 +1,15 @@
+id: '5969'
+slug: dot-drill
+name: Dot Drill
+human_readable_ids:
+- DotDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

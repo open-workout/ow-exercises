@@ -1,0 +1,15 @@
+id: '0453'
+slug: ez-barbell-seated-triceps-extension
+name: EZ Barbell Seated Triceps Extension
+human_readable_ids:
+- EZBarbellSeatedTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

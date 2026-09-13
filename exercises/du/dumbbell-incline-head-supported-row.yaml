@@ -1,0 +1,15 @@
+id: '4744'
+slug: dumbbell-incline-head-supported-row
+name: Dumbbell Incline Head Supported Row
+human_readable_ids:
+- DumbbellInclineHeadSupportedRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

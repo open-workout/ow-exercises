@@ -1,0 +1,16 @@
+id: '3676'
+slug: skip-jump-rope
+name: Skip Jump Rope
+human_readable_ids:
+- SkipJumpRope
+primary_muscles:
+- cardio
+equipment:
+- rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

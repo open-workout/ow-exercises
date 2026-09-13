@@ -1,0 +1,15 @@
+id: '3549'
+slug: lever-hip-thrust-plate-loaded
+name: Lever Hip Thrust (plate loaded)
+human_readable_ids:
+- LeverHipThrust4
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

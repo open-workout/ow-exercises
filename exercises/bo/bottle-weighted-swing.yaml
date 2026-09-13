@@ -1,0 +1,15 @@
+id: '6043'
+slug: bottle-weighted-swing
+name: Bottle Weighted Swing
+human_readable_ids:
+- BottleWeightedSwing
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

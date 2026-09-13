@@ -1,0 +1,15 @@
+id: '4739'
+slug: dumbbell-hang-power-clean
+name: Dumbbell Hang Power Clean
+human_readable_ids:
+- DumbbellHangPowerClean
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

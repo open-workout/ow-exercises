@@ -1,0 +1,15 @@
+id: '9066'
+slug: 4-way-single-leg-hop
+name: 4 Way Single Leg Hop
+human_readable_ids:
+- 4WaySingleLegHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

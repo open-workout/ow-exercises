@@ -1,0 +1,15 @@
+id: '6145'
+slug: dumbbell-reverse-hyperextension-on-bench
+name: Dumbbell Reverse Hyperextension on Bench
+human_readable_ids:
+- DumbbellReverseHyperextensiononBench
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

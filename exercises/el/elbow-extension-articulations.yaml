@@ -1,0 +1,14 @@
+id: '2763'
+slug: elbow-extension-articulations
+name: Elbow - Extension - Articulations
+human_readable_ids:
+- ElbowExtensionArticulations
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

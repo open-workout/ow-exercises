@@ -1,0 +1,14 @@
+id: '1153'
+slug: suspension-upper-back-stretch
+name: Suspension Upper Back Stretch
+human_readable_ids:
+- SuspensionUpperBackStretch
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- time
+load:
+  required: false
+  direction: added

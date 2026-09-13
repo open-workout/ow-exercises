@@ -1,0 +1,14 @@
+id: '6302'
+slug: two-legged-inverted-staff-pose-dwi-pada-viparita-dandasana
+name: Two Legged Inverted Staff Pose Dwi Pada Viparita Dandasana
+human_readable_ids:
+- TwoLeggedInvertedStaffPoseDwiPadaViparitaDandasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

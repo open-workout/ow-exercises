@@ -1,0 +1,15 @@
+id: '3147'
+slug: pelvic-tilt
+name: Pelvic Tilt
+human_readable_ids:
+- PelvicTilt
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

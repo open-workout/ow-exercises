@@ -1,0 +1,15 @@
+id: '11791'
+slug: single-arm-fingers-press-with-ball
+name: Single Arm Fingers Press with Ball
+human_readable_ids:
+- SingleArmFingersPresswithBall
+primary_muscles:
+- hands
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

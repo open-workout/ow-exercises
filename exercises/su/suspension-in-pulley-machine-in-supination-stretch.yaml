@@ -1,0 +1,14 @@
+id: '1819'
+slug: suspension-in-pulley-machine-in-supination-stretch
+name: Suspension In Pulley Machine In Supination Stretch
+human_readable_ids:
+- SuspensionInPulleyMachineInSupinationStretch
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- time
+load:
+  required: true
+  direction: added

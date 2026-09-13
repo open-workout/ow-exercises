@@ -1,0 +1,15 @@
+id: 0897
+slug: band-hammer-curl
+name: Band hammer curl
+human_readable_ids:
+- Bandhammercurl
+primary_muscles:
+- forearms
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

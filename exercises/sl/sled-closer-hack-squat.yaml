@@ -1,0 +1,16 @@
+id: '0741'
+slug: sled-closer-hack-squat
+name: Sled Closer Hack Squat
+human_readable_ids:
+- SledCloserHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

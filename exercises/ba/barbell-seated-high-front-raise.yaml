@@ -1,0 +1,15 @@
+id: '4411'
+slug: barbell-seated-high-front-raise
+name: Barbell Seated High Front Raise
+human_readable_ids:
+- BarbellSeatedHighFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

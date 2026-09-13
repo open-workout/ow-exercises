@@ -1,0 +1,15 @@
+id: '6542'
+slug: cable-kneeling-high-to-low-fly
+name: Cable Kneeling High to Low Fly
+human_readable_ids:
+- CableKneelingHightoLowFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

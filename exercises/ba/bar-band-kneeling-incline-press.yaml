@@ -1,0 +1,15 @@
+id: '4684'
+slug: bar-band-kneeling-incline-press
+name: Bar Band Kneeling Incline Press
+human_readable_ids:
+- BarBandKneelingInclinePress
+primary_muscles:
+- chest
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

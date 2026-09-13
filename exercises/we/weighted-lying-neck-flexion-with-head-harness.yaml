@@ -1,0 +1,15 @@
+id: '2409'
+slug: weighted-lying-neck-flexion-with-head-harness
+name: Weighted Lying Neck Flexion (with head harness)
+human_readable_ids:
+- WeightedLyingNeckFlexion2
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

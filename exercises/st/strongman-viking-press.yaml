@@ -1,0 +1,16 @@
+id: '2719'
+slug: strongman-viking-press
+name: StrongMan Viking Press
+human_readable_ids:
+- StrongManVikingPress
+primary_muscles:
+- shoulders
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

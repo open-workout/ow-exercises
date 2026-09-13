@@ -1,0 +1,14 @@
+id: '1988'
+slug: kneeling-one-arm-cross-body-stretch
+name: Kneeling One Arm Cross Body Stretch
+human_readable_ids:
+- KneelingOneArmCrossBodyStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

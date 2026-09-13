@@ -1,0 +1,15 @@
+id: '0022'
+slug: barbell-pullover-to-press
+name: Barbell Pullover To Press
+human_readable_ids:
+- BarbellPulloverToPress
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

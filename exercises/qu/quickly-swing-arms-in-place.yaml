@@ -1,0 +1,15 @@
+id: '3588'
+slug: quickly-swing-arms-in-place
+name: Quickly Swing Arms in place
+human_readable_ids:
+- QuicklySwingArmsinplace
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

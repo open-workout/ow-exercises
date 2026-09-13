@@ -1,0 +1,15 @@
+id: '5278'
+slug: kneeling-staggered-push-up
+name: Kneeling Staggered Push-up
+human_readable_ids:
+- KneelingStaggeredPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

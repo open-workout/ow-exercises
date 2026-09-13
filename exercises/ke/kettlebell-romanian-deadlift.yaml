@@ -1,0 +1,15 @@
+id: '4861'
+slug: kettlebell-romanian-deadlift
+name: Kettlebell Romanian Deadlift
+human_readable_ids:
+- KettlebellRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

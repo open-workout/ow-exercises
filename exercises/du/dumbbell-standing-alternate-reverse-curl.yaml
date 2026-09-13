@@ -1,0 +1,15 @@
+id: '6265'
+slug: dumbbell-standing-alternate-reverse-curl
+name: Dumbbell Standing Alternate Reverse Curl
+human_readable_ids:
+- DumbbellStandingAlternateReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

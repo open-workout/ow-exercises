@@ -1,0 +1,18 @@
+id: '2726'
+slug: strongman-hercules-hold
+name: StrongMan Hercules Hold
+human_readable_ids:
+- StrongManHerculesHold
+primary_muscles:
+- chest
+- forearms
+- shoulders
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

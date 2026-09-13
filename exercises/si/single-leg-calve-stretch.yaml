@@ -1,0 +1,14 @@
+id: '4931'
+slug: single-leg-calve-stretch
+name: Single Leg Calve Stretch
+human_readable_ids:
+- SingleLegCalveStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

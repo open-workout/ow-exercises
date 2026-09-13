@@ -1,0 +1,15 @@
+id: '4022'
+slug: seated-8-leg-crunch
+name: Seated 8 Leg Crunch
+human_readable_ids:
+- Seated8LegCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

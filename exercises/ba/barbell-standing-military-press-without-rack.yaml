@@ -1,0 +1,15 @@
+id: '1165'
+slug: barbell-standing-military-press-without-rack
+name: Barbell Standing Military Press (without rack)
+human_readable_ids:
+- BarbellStandingMilitaryPress2
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

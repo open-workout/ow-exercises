@@ -1,0 +1,15 @@
+id: '2306'
+slug: spin-hook-kick-kickboxing
+name: Spin Hook Kick. Kickboxing
+human_readable_ids:
+- SpinHookKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

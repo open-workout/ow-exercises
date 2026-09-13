@@ -1,0 +1,15 @@
+id: '10561'
+slug: kettlebell-single-leg-deadlift-pass
+name: Kettlebell Single Leg Deadlift Pass
+human_readable_ids:
+- KettlebellSingleLegDeadliftPass
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

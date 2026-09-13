@@ -1,0 +1,15 @@
+id: 0193
+slug: cable-one-arm-straight-back-high-row-kneeling
+name: Cable One Arm Straight Back High Row (kneeling)
+human_readable_ids:
+- CableOneArmStraightBackHighRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1958'
+slug: standing-toe-extensor-stretch
+name: Standing Toe Extensor Stretch
+human_readable_ids:
+- StandingToeExtensorStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3827'
+slug: lying-floor-hyperextension
+name: Lying Floor Hyperextension
+human_readable_ids:
+- LyingFloorHyperextension
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

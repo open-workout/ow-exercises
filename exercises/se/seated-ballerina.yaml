@@ -1,0 +1,15 @@
+id: '5134'
+slug: seated-ballerina
+name: Seated Ballerina
+human_readable_ids:
+- SeatedBallerina
+primary_muscles:
+- shoulders
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

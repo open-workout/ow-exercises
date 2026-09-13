@@ -1,0 +1,15 @@
+id: '4218'
+slug: safety-bar-front-squat
+name: Safety Bar Front Squat
+human_readable_ids:
+- SafetyBarFrontSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

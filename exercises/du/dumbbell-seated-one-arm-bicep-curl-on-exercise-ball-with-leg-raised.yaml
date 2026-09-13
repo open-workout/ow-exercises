@@ -1,0 +1,15 @@
+id: '1679'
+slug: dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised
+name: Dumbbell Seated One Arm Bicep Curl on Exercise Ball with Leg Raised
+human_readable_ids:
+- DumbbellSeatedOneArmBicepCurlonExerciseBallwithLegRaised
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3664'
+slug: dumbbell-side-plank-with-rear-fly
+name: Dumbbell Side Plank with Rear Fly
+human_readable_ids:
+- DumbbellSidePlankwithRearFly
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

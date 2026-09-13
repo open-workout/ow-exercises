@@ -1,0 +1,16 @@
+id: '1201'
+slug: dumbbell-burpee
+name: Dumbbell burpee
+human_readable_ids:
+- Dumbbellburpee
+primary_muscles:
+- cardio
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

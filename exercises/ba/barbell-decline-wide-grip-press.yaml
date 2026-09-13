@@ -1,0 +1,15 @@
+id: '0036'
+slug: barbell-decline-wide-grip-press
+name: Barbell Decline Wide-grip Press
+human_readable_ids:
+- BarbellDeclineWidegripPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

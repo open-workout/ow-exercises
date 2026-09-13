@@ -1,0 +1,15 @@
+id: '2302'
+slug: front-leg-hook-kick-kickboxing
+name: Front Leg Hook Kick. Kickboxing
+human_readable_ids:
+- FrontLegHookKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

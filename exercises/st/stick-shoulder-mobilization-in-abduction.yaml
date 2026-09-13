@@ -1,0 +1,15 @@
+id: '9184'
+slug: stick-shoulder-mobilization-in-abduction
+name: Stick Shoulder Mobilization in Abduction
+human_readable_ids:
+- StickShoulderMobilizationinAbduction
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

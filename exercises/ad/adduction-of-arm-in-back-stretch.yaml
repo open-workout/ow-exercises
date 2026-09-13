@@ -1,0 +1,14 @@
+id: '1977'
+slug: adduction-of-arm-in-back-stretch
+name: Adduction Of Arm In Back Stretch
+human_readable_ids:
+- AdductionOfArmInBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

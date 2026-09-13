@@ -1,0 +1,15 @@
+id: '10764'
+slug: sled-lying-single-leg-squat
+name: Sled Lying Single Leg Squat
+human_readable_ids:
+- SledLyingSingleLegSquat
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

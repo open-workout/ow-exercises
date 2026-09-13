@@ -1,0 +1,15 @@
+id: '5122'
+slug: barbell-clean-and-jerk
+name: Barbell Clean and Jerk
+human_readable_ids:
+- BarbellCleanandJerk
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

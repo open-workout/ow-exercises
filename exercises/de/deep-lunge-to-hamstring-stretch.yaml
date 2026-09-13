@@ -1,0 +1,14 @@
+id: '8162'
+slug: deep-lunge-to-hamstring-stretch
+name: Deep Lunge to Hamstring Stretch
+human_readable_ids:
+- DeepLungetoHamstringStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2304'
+slug: rear-axe-kick-kickboxing
+name: Rear Axe Kick. Kickboxing
+human_readable_ids:
+- RearAxeKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

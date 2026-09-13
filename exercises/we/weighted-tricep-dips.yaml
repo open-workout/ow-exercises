@@ -1,0 +1,15 @@
+id: '1755'
+slug: weighted-tricep-dips
+name: Weighted Tricep Dips
+human_readable_ids:
+- WeightedTricepDips
+primary_muscles:
+- triceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

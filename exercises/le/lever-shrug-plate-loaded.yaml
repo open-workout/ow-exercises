@@ -1,0 +1,15 @@
+id: '0604'
+slug: lever-shrug-plate-loaded
+name: Lever Shrug (plate loaded)
+human_readable_ids:
+- LeverShrug
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

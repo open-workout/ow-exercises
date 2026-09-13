@@ -1,0 +1,15 @@
+id: '9607'
+slug: isometric-mid-thighs-pull
+name: Isometric Mid Thighs Pull
+human_readable_ids:
+- IsometricMidThighsPull
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

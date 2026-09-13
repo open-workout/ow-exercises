@@ -1,0 +1,15 @@
+id: '4400'
+slug: kettlebell-step-up
+name: Kettlebell Step-Up
+human_readable_ids:
+- KettlebellStepUp
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

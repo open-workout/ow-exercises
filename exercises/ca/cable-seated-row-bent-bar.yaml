@@ -1,0 +1,15 @@
+id: '1238'
+slug: cable-seated-row-bent-bar
+name: Cable Seated Row (Bent bar)
+human_readable_ids:
+- CableSeatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3712'
+slug: standing-single-leg-calf-raise-with-support
+name: Standing Single Leg Calf Raise with Support
+human_readable_ids:
+- StandingSingleLegCalfRaisewithSupport
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3631'
+slug: sitting-sumo-mobility-stretch
+name: Sitting Sumo Mobility Stretch
+human_readable_ids:
+- SittingSumoMobilityStretch
+primary_muscles:
+- back
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

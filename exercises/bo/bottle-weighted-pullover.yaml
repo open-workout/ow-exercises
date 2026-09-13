@@ -1,0 +1,15 @@
+id: '6060'
+slug: bottle-weighted-pullover
+name: Bottle Weighted Pullover
+human_readable_ids:
+- BottleWeightedPullover
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

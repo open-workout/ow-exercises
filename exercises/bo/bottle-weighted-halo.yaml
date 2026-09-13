@@ -1,0 +1,15 @@
+id: '6077'
+slug: bottle-weighted-halo
+name: Bottle Weighted Halo
+human_readable_ids:
+- BottleWeightedHalo
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

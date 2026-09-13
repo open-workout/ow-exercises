@@ -1,0 +1,15 @@
+id: '9025'
+slug: sitting-woodchopper-on-stability-ball
+name: Sitting Woodchopper on Stability Ball
+human_readable_ids:
+- SittingWoodchopperonStabilityBall
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

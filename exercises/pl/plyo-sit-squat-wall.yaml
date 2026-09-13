@@ -1,0 +1,16 @@
+id: '0647'
+slug: plyo-sit-squat-wall
+name: Plyo Sit Squat (wall)
+human_readable_ids:
+- PlyoSitSquat
+primary_muscles:
+- calves
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

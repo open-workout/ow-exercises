@@ -1,0 +1,15 @@
+id: '2408'
+slug: weighted-lying-neck-extension-with-head-harness
+name: Weighted Lying Neck Extension (with head harness)
+human_readable_ids:
+- WeightedLyingNeckExtension2
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

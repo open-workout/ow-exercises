@@ -1,0 +1,15 @@
+id: '1113'
+slug: suspension-face-pul
+name: Suspension Face Pul
+human_readable_ids:
+- SuspensionFacePul
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '2735'
+slug: strongman-yoke-walk
+name: StrongMan Yoke Walk
+human_readable_ids:
+- StrongManYokeWalk
+primary_muscles:
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

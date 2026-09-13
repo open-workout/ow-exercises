@@ -1,0 +1,15 @@
+id: 0594
+slug: lever-seated-calf-raise-plate-loaded
+name: Lever Seated Calf Raise (plate loaded)
+human_readable_ids:
+- LeverSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

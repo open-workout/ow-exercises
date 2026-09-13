@@ -1,0 +1,15 @@
+id: '5886'
+slug: kettlebell-rotational-deadlift
+name: Kettlebell Rotational Deadlift
+human_readable_ids:
+- KettlebellRotationalDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

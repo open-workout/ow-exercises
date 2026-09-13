@@ -1,0 +1,15 @@
+id: '0454'
+slug: ez-barbell-spider-curl
+name: EZ Barbell Spider Curl
+human_readable_ids:
+- EZBarbellSpiderCurl
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

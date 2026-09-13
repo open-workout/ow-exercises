@@ -1,0 +1,16 @@
+id: '5095'
+slug: dumbbell-single-arm-overhead-lunge
+name: Dumbbell Single Arm Overhead Lunge
+human_readable_ids:
+- DumbbellSingleArmOverheadLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

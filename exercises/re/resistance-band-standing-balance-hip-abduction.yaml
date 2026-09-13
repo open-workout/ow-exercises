@@ -1,0 +1,15 @@
+id: '6736'
+slug: resistance-band-standing-balance-hip-abduction
+name: Resistance Band Standing Balance Hip Abduction
+human_readable_ids:
+- ResistanceBandStandingBalanceHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

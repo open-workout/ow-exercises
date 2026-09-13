@@ -1,0 +1,15 @@
+id: '3913'
+slug: dumbbell-one-arm-front-raise
+name: Dumbbell One Arm Front Raise
+human_readable_ids:
+- DumbbellOneArmFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

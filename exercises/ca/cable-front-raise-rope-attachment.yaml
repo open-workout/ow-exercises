@@ -1,0 +1,15 @@
+id: '6543'
+slug: cable-front-raise-rope-attachment
+name: Cable Front Raise (rope attachment)
+human_readable_ids:
+- CableFrontRaise2
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

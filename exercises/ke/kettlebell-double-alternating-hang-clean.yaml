@@ -1,0 +1,15 @@
+id: '0526'
+slug: kettlebell-double-alternating-hang-clean
+name: Kettlebell Double Alternating Hang Clean
+human_readable_ids:
+- KettlebellDoubleAlternatingHangClean
+primary_muscles:
+- forearms
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

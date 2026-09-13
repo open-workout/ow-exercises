@@ -1,0 +1,15 @@
+id: '1073'
+slug: suspension-chest-press
+name: Suspension Chest Press
+human_readable_ids:
+- SuspensionChestPress
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

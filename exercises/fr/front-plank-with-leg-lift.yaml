@@ -1,0 +1,15 @@
+id: '2898'
+slug: front-plank-with-leg-lift
+name: Front Plank with Leg Lift
+human_readable_ids:
+- FrontPlankwithLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

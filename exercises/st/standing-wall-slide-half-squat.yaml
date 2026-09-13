@@ -1,0 +1,15 @@
+id: '11316'
+slug: standing-wall-slide-half-squat
+name: Standing Wall Slide Half Squat
+human_readable_ids:
+- StandingWallSlideHalfSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

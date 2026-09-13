@@ -1,0 +1,15 @@
+id: '6070'
+slug: bottle-weighted-reverse-curl
+name: Bottle Weighted Reverse Curl
+human_readable_ids:
+- BottleWeightedReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

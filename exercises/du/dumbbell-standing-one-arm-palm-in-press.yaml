@@ -1,0 +1,15 @@
+id: '0424'
+slug: dumbbell-standing-one-arm-palm-in-press
+name: Dumbbell Standing One Arm Palm In Press
+human_readable_ids:
+- DumbbellStandingOneArmPalmInPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

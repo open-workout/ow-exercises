@@ -1,0 +1,14 @@
+id: '3714'
+slug: single-leg-stand
+name: Single Leg Stand
+human_readable_ids:
+- SingleLegStand
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

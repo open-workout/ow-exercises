@@ -1,0 +1,15 @@
+id: '2863'
+slug: shoulder-bridge
+name: Shoulder Bridge
+human_readable_ids:
+- ShoulderBridge
+primary_muscles:
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7621'
+slug: barbell-pin-bench-press-conventional-grip
+name: Barbell Pin Bench Press Conventional grip
+human_readable_ids:
+- BarbellPinBenchPressConventionalgrip
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

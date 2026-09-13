@@ -1,0 +1,15 @@
+id: '5800'
+slug: bodyweight-lying-prone-ys
+name: Bodyweight Lying Prone Ys
+human_readable_ids:
+- BodyweightLyingProneYs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

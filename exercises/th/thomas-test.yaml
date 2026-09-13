@@ -1,0 +1,14 @@
+id: '6794'
+slug: thomas-test
+name: Thomas Test
+human_readable_ids:
+- ThomasTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

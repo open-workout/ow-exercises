@@ -1,0 +1,15 @@
+id: '2463'
+slug: resistance-band-toe-touch
+name: Resistance Band Toe Touch
+human_readable_ids:
+- ResistanceBandToeTouch
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6067'
+slug: bottle-weighted-overhead-triceps-extension
+name: Bottle Weighted Overhead Triceps Extension
+human_readable_ids:
+- BottleWeightedOverheadTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

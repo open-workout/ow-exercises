@@ -1,0 +1,15 @@
+id: 0902
+slug: band-hyperextension
+name: Band hyperextension
+human_readable_ids:
+- Bandhyperextension
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

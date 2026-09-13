@@ -1,0 +1,15 @@
+id: '1590'
+slug: lever-lying-single-leg-curl
+name: Lever Lying Single Leg Curl
+human_readable_ids:
+- LeverLyingSingleLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

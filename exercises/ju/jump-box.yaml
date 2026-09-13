@@ -1,0 +1,15 @@
+id: 0509
+slug: jump-box
+name: Jump Box
+human_readable_ids:
+- JumpBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

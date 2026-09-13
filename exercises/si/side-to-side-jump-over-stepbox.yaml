@@ -1,0 +1,15 @@
+id: '10732'
+slug: side-to-side-jump-over-stepbox
+name: Side to Side Jump over StepBox
+human_readable_ids:
+- SidetoSideJumpoverStepBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

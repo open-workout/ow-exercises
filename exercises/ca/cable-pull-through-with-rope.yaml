@@ -1,0 +1,15 @@
+id: 0196
+slug: cable-pull-through-with-rope
+name: Cable Pull Through (with rope)
+human_readable_ids:
+- CablePullThrough
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

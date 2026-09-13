@@ -1,0 +1,15 @@
+id: '4436'
+slug: alternating-step-out
+name: Alternating Step Out
+human_readable_ids:
+- AlternatingStepOut
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1476'
+slug: one-leg-squat
+name: One Leg Squat
+human_readable_ids:
+- OneLegSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

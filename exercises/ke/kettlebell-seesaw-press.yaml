@@ -1,0 +1,15 @@
+id: '0547'
+slug: kettlebell-seesaw-press
+name: Kettlebell Seesaw Press
+human_readable_ids:
+- KettlebellSeesawPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

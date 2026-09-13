@@ -1,0 +1,15 @@
+id: '4605'
+slug: pvc-hip-hinge
+name: PVC Hip Hinge
+human_readable_ids:
+- PVCHipHinge
+primary_muscles:
+- glutes
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

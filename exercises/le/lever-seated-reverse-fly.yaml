@@ -1,0 +1,15 @@
+id: '0602'
+slug: lever-seated-reverse-fly
+name: Lever Seated Reverse Fly
+human_readable_ids:
+- LeverSeatedReverseFly2
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5700'
+slug: bodyweight-walking-calf-raise
+name: Bodyweight Walking Calf Raise
+human_readable_ids:
+- BodyweightWalkingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

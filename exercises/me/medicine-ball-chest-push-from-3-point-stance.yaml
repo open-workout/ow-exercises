@@ -1,0 +1,15 @@
+id: '1303'
+slug: medicine-ball-chest-push-from-3-point-stance
+name: Medicine Ball Chest Push from 3 Point Stance
+human_readable_ids:
+- MedicineBallChestPushfrom3PointStance
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

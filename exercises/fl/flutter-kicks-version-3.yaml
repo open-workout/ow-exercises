@@ -1,0 +1,15 @@
+id: '1244'
+slug: flutter-kicks-version-3
+name: Flutter Kicks (version 3)
+human_readable_ids:
+- FlutterKicks3
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

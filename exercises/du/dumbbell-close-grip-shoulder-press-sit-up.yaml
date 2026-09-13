@@ -1,0 +1,15 @@
+id: '4621'
+slug: dumbbell-close-grip-shoulder-press-sit-up
+name: Dumbbell Close Grip Shoulder Press Sit-up
+human_readable_ids:
+- DumbbellCloseGripShoulderPressSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

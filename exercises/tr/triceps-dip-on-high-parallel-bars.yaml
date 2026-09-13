@@ -1,0 +1,15 @@
+id: '8143'
+slug: triceps-dip-on-high-parallel-bars
+name: Triceps Dip on High Parallel Bars
+human_readable_ids:
+- TricepsDiponHighParallelBars
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

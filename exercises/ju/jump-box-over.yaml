@@ -1,0 +1,15 @@
+id: '3887'
+slug: jump-box-over
+name: Jump Box Over
+human_readable_ids:
+- JumpBoxOver
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

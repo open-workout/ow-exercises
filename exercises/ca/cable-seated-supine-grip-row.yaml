@@ -1,0 +1,15 @@
+id: '0217'
+slug: cable-seated-supine-grip-row
+name: Cable Seated Supine-grip Row
+human_readable_ids:
+- CableSeatedSupinegripRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

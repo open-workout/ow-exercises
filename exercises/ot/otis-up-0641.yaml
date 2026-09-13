@@ -1,0 +1,15 @@
+id: '0641'
+slug: otis-up-0641
+name: Otis Up
+human_readable_ids:
+- OtisUp
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

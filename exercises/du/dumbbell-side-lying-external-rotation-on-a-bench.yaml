@@ -1,0 +1,15 @@
+id: '5817'
+slug: dumbbell-side-lying-external-rotation-on-a-bench
+name: Dumbbell Side Lying External Rotation (on a bench)
+human_readable_ids:
+- DumbbellSideLyingExternalRotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

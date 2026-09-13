@@ -1,0 +1,15 @@
+id: '6735'
+slug: dumbbell-banded-hip-thrust
+name: Dumbbell Banded Hip Thrust
+human_readable_ids:
+- DumbbellBandedHipThrust
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

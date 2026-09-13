@@ -1,0 +1,16 @@
+id: '2574'
+slug: side-to-side-leg-swings
+name: Side to Side Leg Swings
+human_readable_ids:
+- SidetoSideLegSwings
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0215'
+slug: cable-seated-rear-lateral-raise
+name: Cable Seated Rear Lateral Raise
+human_readable_ids:
+- CableSeatedRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

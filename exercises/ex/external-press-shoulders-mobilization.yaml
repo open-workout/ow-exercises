@@ -1,0 +1,14 @@
+id: '11793'
+slug: external-press-shoulders-mobilization
+name: External Press Shoulders Mobilization
+human_readable_ids:
+- ExternalPressShouldersMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

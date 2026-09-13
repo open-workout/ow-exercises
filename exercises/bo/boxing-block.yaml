@@ -1,0 +1,15 @@
+id: '4581'
+slug: boxing-block
+name: Boxing Block
+human_readable_ids:
+- BoxingBlock
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

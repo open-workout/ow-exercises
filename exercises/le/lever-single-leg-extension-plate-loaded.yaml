@@ -1,0 +1,15 @@
+id: '5178'
+slug: lever-single-leg-extension-plate-loaded
+name: Lever Single Leg Extension (plate loaded)
+human_readable_ids:
+- LeverSingleLegExtension
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

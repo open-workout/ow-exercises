@@ -1,0 +1,16 @@
+id: '0066'
+slug: barbell-one-arm-side-deadlift
+name: Barbell One Arm Side Deadlift
+human_readable_ids:
+- BarbellOneArmSideDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

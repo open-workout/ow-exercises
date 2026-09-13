@@ -1,0 +1,15 @@
+id: '2328'
+slug: narrow-push-up-on-exercise-ball
+name: Narrow Push-Up on Exercise Ball
+human_readable_ids:
+- NarrowPushUponExerciseBall
+primary_muscles:
+- triceps
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

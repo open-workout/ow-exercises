@@ -1,0 +1,15 @@
+id: '1494'
+slug: butterfly-yoga-pose
+name: Butterfly Yoga Pose
+human_readable_ids:
+- ButterflyYogaPose
+primary_muscles:
+- biceps
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

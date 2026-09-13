@@ -1,0 +1,14 @@
+id: '1564'
+slug: intermediate-hip-flexor-and-quad-stretch
+name: Intermediate Hip Flexor and Quad Stretch
+human_readable_ids:
+- IntermediateHipFlexorandQuadStretch
+primary_muscles:
+- quads
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

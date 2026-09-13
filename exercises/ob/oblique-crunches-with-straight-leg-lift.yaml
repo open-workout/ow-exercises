@@ -1,0 +1,15 @@
+id: '3331'
+slug: oblique-crunches-with-straight-leg-lift
+name: Oblique Crunches with Straight Leg Lift
+human_readable_ids:
+- ObliqueCruncheswithStraightLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1504'
+slug: band-skull-crusher
+name: Band Skull Crusher
+human_readable_ids:
+- BandSkullCrusher
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

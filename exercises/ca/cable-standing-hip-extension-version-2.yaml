@@ -1,0 +1,15 @@
+id: 0880
+slug: cable-standing-hip-extension-version-2
+name: Cable standing hip extension (version 2)
+human_readable_ids:
+- Cablestandinghipextension
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

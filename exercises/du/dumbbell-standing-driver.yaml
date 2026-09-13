@@ -1,0 +1,15 @@
+id: '6141'
+slug: dumbbell-standing-driver
+name: Dumbbell Standing Driver
+human_readable_ids:
+- DumbbellStandingDriver
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

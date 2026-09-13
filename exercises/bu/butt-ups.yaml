@@ -1,0 +1,15 @@
+id: 0870
+slug: butt-ups
+name: Butt-ups
+human_readable_ids:
+- Buttups
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

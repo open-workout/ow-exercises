@@ -1,0 +1,15 @@
+id: '8901'
+slug: cable-single-arm-lateral-raise-version-2
+name: Cable Single Arm Lateral Raise (VERSION 2)
+human_readable_ids:
+- CableSingleArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

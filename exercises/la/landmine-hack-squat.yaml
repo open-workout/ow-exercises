@@ -1,0 +1,16 @@
+id: '5628'
+slug: landmine-hack-squat
+name: Landmine Hack Squat
+human_readable_ids:
+- LandmineHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

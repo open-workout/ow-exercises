@@ -1,0 +1,14 @@
+id: '10138'
+slug: standing-isometric-biceps-hold
+name: Standing Isometric Biceps Hold
+human_readable_ids:
+- StandingIsometricBicepsHold
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

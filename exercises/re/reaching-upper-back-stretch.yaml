@@ -1,0 +1,14 @@
+id: '1795'
+slug: reaching-upper-back-stretch
+name: Reaching upper back stretch
+human_readable_ids:
+- Reachingupperbackstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

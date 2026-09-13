@@ -1,0 +1,16 @@
+id: '4574'
+slug: dumbbell-standing-biceps-curl-to-shoulder-press
+name: Dumbbell Standing Biceps Curl to Shoulder Press
+human_readable_ids:
+- DumbbellStandingBicepsCurltoShoulderPress
+primary_muscles:
+- shoulders
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

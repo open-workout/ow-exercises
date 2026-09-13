@@ -1,0 +1,15 @@
+id: '1099'
+slug: suspension-single-leg-split-squat-self-assisted
+name: Suspension Single Leg Split Squat (self assisted)
+human_readable_ids:
+- SuspensionSingleLegSplitSquat
+primary_muscles:
+- glutes
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

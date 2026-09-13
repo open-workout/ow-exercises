@@ -1,0 +1,15 @@
+id: '1657'
+slug: dumbbell-cross-body-hammer-curl-version-2
+name: Dumbbell Cross Body Hammer Curl (Version 2)
+human_readable_ids:
+- DumbbellCrossBodyHammerCurl2
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

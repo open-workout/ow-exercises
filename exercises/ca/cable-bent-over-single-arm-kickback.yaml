@@ -1,0 +1,15 @@
+id: '4545'
+slug: cable-bent-over-single-arm-kickback
+name: Cable Bent-Over Single Arm Kickback
+human_readable_ids:
+- CableBentOverSingleArmKickback
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

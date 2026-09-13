@@ -1,0 +1,15 @@
+id: '3419'
+slug: l-sit-on-floor
+name: L-Sit on Floor
+human_readable_ids:
+- LSitonFloor
+primary_muscles:
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

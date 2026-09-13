@@ -1,0 +1,15 @@
+id: '0310'
+slug: dumbbell-front-raise
+name: Dumbbell Front Raise
+human_readable_ids:
+- DumbbellFrontRaise2
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

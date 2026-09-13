@@ -1,0 +1,15 @@
+id: '4252'
+slug: weighted-crunch-version-2
+name: Weighted Crunch (VERSION 2)
+human_readable_ids:
+- WeightedCrunch3
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

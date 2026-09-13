@@ -1,0 +1,15 @@
+id: '6054'
+slug: bottle-weighted-side-bend
+name: Bottle Weighted Side Bend
+human_readable_ids:
+- BottleWeightedSideBend
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4500'
+slug: bodyweight-front-plank-to-downward-dog
+name: Bodyweight Front Plank to Downward Dog
+human_readable_ids:
+- BodyweightFrontPlanktoDownwardDog
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

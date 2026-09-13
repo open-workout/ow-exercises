@@ -1,0 +1,15 @@
+id: '3236'
+slug: resistance-band-hip-thrusts-on-knees
+name: Resistance Band Hip Thrusts on Knees
+human_readable_ids:
+- ResistanceBandHipThrustsonKnees
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

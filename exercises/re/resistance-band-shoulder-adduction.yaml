@@ -1,0 +1,15 @@
+id: '6437'
+slug: resistance-band-shoulder-adduction
+name: Resistance Band Shoulder Adduction
+human_readable_ids:
+- ResistanceBandShoulderAdduction
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

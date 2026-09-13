@@ -1,0 +1,15 @@
+id: '4870'
+slug: hip-clam-shell
+name: Hip Clam Shell
+human_readable_ids:
+- HipClamShell
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

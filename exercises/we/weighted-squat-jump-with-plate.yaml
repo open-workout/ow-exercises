@@ -1,0 +1,15 @@
+id: '3876'
+slug: weighted-squat-jump-with-plate
+name: Weighted Squat Jump with Plate
+human_readable_ids:
+- WeightedSquatJumpwithPlate
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1321'
+slug: cable-rope-elevated-seated-row
+name: Cable Rope Elevated Seated Row
+human_readable_ids:
+- CableRopeElevatedSeatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

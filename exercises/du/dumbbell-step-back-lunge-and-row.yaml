@@ -1,0 +1,15 @@
+id: '4758'
+slug: dumbbell-step-back-lunge-and-row
+name: Dumbbell Step Back Lunge and Row
+human_readable_ids:
+- DumbbellStepBackLungeandRow
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

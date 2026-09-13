@@ -1,0 +1,15 @@
+id: '1649'
+slug: dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball
+name: Dumbbell Alternating Bicep Curl with Leg Raised on Exercise Ball
+human_readable_ids:
+- DumbbellAlternatingBicepCurlwithLegRaisedonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

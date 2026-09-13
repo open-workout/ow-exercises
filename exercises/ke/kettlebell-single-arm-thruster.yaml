@@ -1,0 +1,15 @@
+id: '4518'
+slug: kettlebell-single-arm-thruster
+name: Kettlebell Single Arm Thruster
+human_readable_ids:
+- KettlebellSingleArmThruster
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

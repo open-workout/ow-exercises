@@ -1,0 +1,15 @@
+id: '3698'
+slug: inchworm-version-2
+name: Inchworm (VERSION 2)
+human_readable_ids:
+- Inchworm2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

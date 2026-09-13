@@ -1,0 +1,15 @@
+id: '1088'
+slug: suspension-pull-up
+name: Suspension Pull-up
+human_readable_ids:
+- SuspensionPullup
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

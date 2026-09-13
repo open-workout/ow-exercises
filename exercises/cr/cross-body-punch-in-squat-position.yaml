@@ -1,0 +1,15 @@
+id: '5233'
+slug: cross-body-punch-in-squat-position
+name: Cross Body Punch in Squat Position
+human_readable_ids:
+- CrossBodyPunchinSquatPosition
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

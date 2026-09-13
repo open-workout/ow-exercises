@@ -1,0 +1,15 @@
+id: '1103'
+slug: suspension-triceps-dip
+name: Suspension Triceps Dip
+human_readable_ids:
+- SuspensionTricepsDip
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

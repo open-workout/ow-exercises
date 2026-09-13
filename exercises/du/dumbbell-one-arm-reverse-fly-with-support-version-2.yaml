@@ -1,0 +1,15 @@
+id: '4239'
+slug: dumbbell-one-arm-reverse-fly-with-support-version-2
+name: Dumbbell One Arm Reverse Fly (with support) (VERSION 2)
+human_readable_ids:
+- DumbbellOneArmReverseFly2
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '3994'
+slug: neck-circle-stretch
+name: Neck Circle Stretch
+human_readable_ids:
+- NeckCircleStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

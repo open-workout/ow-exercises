@@ -1,0 +1,15 @@
+id: '0020'
+slug: balance-board
+name: Balance Board
+human_readable_ids:
+- BalanceBoard
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,17 @@
+id: '3212'
+slug: basic-toe-touch
+name: Basic Toe Touch
+human_readable_ids:
+- BasicToeTouch
+primary_muscles:
+- back
+- glutes
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

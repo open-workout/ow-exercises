@@ -1,0 +1,15 @@
+id: '10117'
+slug: dumbbell-half-kneeling-single-arm-clean-press
+name: Dumbbell Half Kneeling Single Arm Clean Press
+human_readable_ids:
+- DumbbellHalfKneelingSingleArmCleanPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

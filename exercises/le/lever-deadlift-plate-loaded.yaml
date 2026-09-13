@@ -1,0 +1,16 @@
+id: 0578
+slug: lever-deadlift-plate-loaded
+name: Lever Deadlift (plate loaded)
+human_readable_ids:
+- LeverDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1506'
+slug: band-ez-barbell-close-grip-curl
+name: Band EZ Barbell Close-grip Curl
+human_readable_ids:
+- BandEZBarbellClosegripCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

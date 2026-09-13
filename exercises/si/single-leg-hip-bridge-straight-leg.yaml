@@ -1,0 +1,15 @@
+id: 0729
+slug: single-leg-hip-bridge-straight-leg
+name: Single Leg Hip Bridge (straight leg)
+human_readable_ids:
+- SingleLegHipBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

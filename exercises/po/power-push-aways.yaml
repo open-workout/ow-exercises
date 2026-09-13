@@ -1,0 +1,16 @@
+id: '3555'
+slug: power-push-aways
+name: Power Push Aways
+human_readable_ids:
+- PowerPushAways
+primary_muscles:
+- back
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

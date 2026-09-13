@@ -1,0 +1,15 @@
+id: '3925'
+slug: cable-seated-floor-one-arm-concentration-curl
+name: Cable Seated Floor One Arm Concentration Curl
+human_readable_ids:
+- CableSeatedFloorOneArmConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

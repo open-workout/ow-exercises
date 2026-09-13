@@ -1,0 +1,14 @@
+id: '1989'
+slug: depression-in-parallel-bars-stretch
+name: Depression In Parallel Bars Stretch
+human_readable_ids:
+- DepressionInParallelBarsStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,17 @@
+id: '5238'
+slug: medicine-ball-lunge-with-biceps-curl
+name: Medicine Ball Lunge with Biceps Curl
+human_readable_ids:
+- MedicineBallLungewithBicepsCurl
+primary_muscles:
+- biceps
+- glutes
+- quads
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

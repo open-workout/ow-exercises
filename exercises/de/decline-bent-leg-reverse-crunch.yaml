@@ -1,0 +1,15 @@
+id: '1845'
+slug: decline-bent-leg-reverse-crunch
+name: Decline Bent Leg Reverse Crunch
+human_readable_ids:
+- DeclineBentLegReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

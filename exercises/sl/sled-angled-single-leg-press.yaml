@@ -1,0 +1,15 @@
+id: '6734'
+slug: sled-angled-single-leg-press
+name: Sled Angled Single Leg Press
+human_readable_ids:
+- SledAngledSingleLegPress
+primary_muscles:
+- glutes
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

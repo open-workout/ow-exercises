@@ -1,0 +1,15 @@
+id: '11798'
+slug: bent-over-back-to-side-to-front-arms-raise
+name: Bent Over Back to Side to Front Arms Raise
+human_readable_ids:
+- BentOverBacktoSidetoFrontArmsRaise
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

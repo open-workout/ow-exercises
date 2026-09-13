@@ -1,0 +1,15 @@
+id: 0479
+slug: high-knee-step-up
+name: High Knee Step-up
+human_readable_ids:
+- HighKneeStepup
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

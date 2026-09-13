@@ -1,0 +1,15 @@
+id: '2487'
+slug: dumbbell-rear-delt-fly
+name: Dumbbell Rear Delt Fly
+human_readable_ids:
+- DumbbellRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

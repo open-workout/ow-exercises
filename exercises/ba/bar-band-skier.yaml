@@ -1,0 +1,15 @@
+id: '4697'
+slug: bar-band-skier
+name: Bar Band Skier
+human_readable_ids:
+- BarBandSkier
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

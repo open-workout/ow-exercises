@@ -1,0 +1,15 @@
+id: '3358'
+slug: cable-parallel-grip-lat-pulldown-on-floor
+name: Cable Parallel Grip Lat Pulldown on Floor
+human_readable_ids:
+- CableParallelGripLatPulldownonFloor
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

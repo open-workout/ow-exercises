@@ -1,0 +1,14 @@
+id: '9488'
+slug: pike-stand
+name: Pike Stand
+human_readable_ids:
+- PikeStand
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0862
+slug: cable-twist-up-down
+name: Cable twist (up-down)
+human_readable_ids:
+- Cabletwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

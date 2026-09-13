@@ -1,0 +1,15 @@
+id: '4776'
+slug: resistance-band-kneeling-woodchop
+name: Resistance Band Kneeling Woodchop
+human_readable_ids:
+- ResistanceBandKneelingWoodchop
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

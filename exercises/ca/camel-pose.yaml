@@ -1,0 +1,18 @@
+id: '3505'
+slug: camel-pose
+name: Camel Pose
+human_readable_ids:
+- CamelPose
+primary_muscles:
+- chest
+- shoulders
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

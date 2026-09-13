@@ -1,0 +1,15 @@
+id: '8701'
+slug: weighted-bag-walking-lunge
+name: Weighted Bag Walking Lunge
+human_readable_ids:
+- WeightedBagWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

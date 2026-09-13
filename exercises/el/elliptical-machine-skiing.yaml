@@ -1,0 +1,16 @@
+id: '2658'
+slug: elliptical-machine-skiing
+name: Elliptical Machine Skiing
+human_readable_ids:
+- EllipticalMachineSkiing
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0446'
+slug: ez-barbell-close-grip-curl-0446
+name: EZ Barbell Close-grip Curl
+human_readable_ids:
+- EZBarbellClosegripCurl
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

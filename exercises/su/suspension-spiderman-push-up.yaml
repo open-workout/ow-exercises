@@ -1,0 +1,16 @@
+id: '1138'
+slug: suspension-spiderman-push-up
+name: Suspension Spiderman Push-up
+human_readable_ids:
+- SuspensionSpidermanPushup
+primary_muscles:
+- glutes
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

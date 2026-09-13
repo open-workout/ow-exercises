@@ -1,0 +1,15 @@
+id: 0842
+slug: weighted-pullover-on-stability-ball
+name: Weighted Pullover (on stability ball)
+human_readable_ids:
+- WeightedPullover
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

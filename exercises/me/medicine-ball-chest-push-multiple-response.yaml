@@ -1,0 +1,15 @@
+id: '1304'
+slug: medicine-ball-chest-push-multiple-response
+name: Medicine Ball Chest Push Multiple Response
+human_readable_ids:
+- MedicineBallChestPushMultipleResponse
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

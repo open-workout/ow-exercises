@@ -1,0 +1,15 @@
+id: '0247'
+slug: cable-wrist-curl
+name: Cable Wrist Curl
+human_readable_ids:
+- CableWristCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

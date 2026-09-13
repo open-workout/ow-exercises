@@ -1,0 +1,15 @@
+id: '0015'
+slug: assisted-parallel-close-grip-pull-up
+name: Assisted Parallel Close Grip Pull-up
+human_readable_ids:
+- AssistedParallelCloseGripPullup
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

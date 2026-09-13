@@ -1,0 +1,15 @@
+id: '4057'
+slug: kettlebell-turkish-get-up-to-hand
+name: Kettlebell Turkish Get-Up to Hand
+human_readable_ids:
+- KettlebellTurkishGetUptoHand
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

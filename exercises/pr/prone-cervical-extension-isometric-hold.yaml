@@ -1,0 +1,15 @@
+id: '5061'
+slug: prone-cervical-extension-isometric-hold
+name: Prone Cervical Extension Isometric Hold
+human_readable_ids:
+- ProneCervicalExtensionIsometricHold
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

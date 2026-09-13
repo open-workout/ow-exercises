@@ -1,0 +1,15 @@
+id: '1206'
+slug: cable-pull-through
+name: Cable pull through
+human_readable_ids:
+- Cablepullthrough
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

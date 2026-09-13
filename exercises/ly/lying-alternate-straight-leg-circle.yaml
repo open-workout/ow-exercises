@@ -1,0 +1,15 @@
+id: '6020'
+slug: lying-alternate-straight-leg-circle
+name: Lying Alternate Straight Leg Circle
+human_readable_ids:
+- LyingAlternateStraightLegCircle
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

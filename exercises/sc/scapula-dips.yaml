@@ -1,0 +1,15 @@
+id: '3012'
+slug: scapula-dips
+name: Scapula Dips
+human_readable_ids:
+- ScapulaDips
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0140'
+slug: brachialis-pull-up
+name: Brachialis Pull-up
+human_readable_ids:
+- BrachialisPullup
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

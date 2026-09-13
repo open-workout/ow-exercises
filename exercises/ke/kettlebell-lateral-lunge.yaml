@@ -1,0 +1,15 @@
+id: '4045'
+slug: kettlebell-lateral-lunge
+name: Kettlebell Lateral Lunge
+human_readable_ids:
+- KettlebellLateralLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

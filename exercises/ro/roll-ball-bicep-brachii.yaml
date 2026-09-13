@@ -1,0 +1,14 @@
+id: '4498'
+slug: roll-ball-bicep-brachii
+name: Roll Ball Bicep Brachii
+human_readable_ids:
+- RollBallBicepBrachii
+primary_muscles:
+- biceps
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

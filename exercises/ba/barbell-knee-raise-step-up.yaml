@@ -1,0 +1,15 @@
+id: '4401'
+slug: barbell-knee-raise-step-up
+name: Barbell Knee Raise Step-Up
+human_readable_ids:
+- BarbellKneeRaiseStepUp
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

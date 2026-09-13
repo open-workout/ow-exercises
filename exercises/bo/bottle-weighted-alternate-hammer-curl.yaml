@@ -1,0 +1,15 @@
+id: '6069'
+slug: bottle-weighted-alternate-hammer-curl
+name: Bottle Weighted Alternate Hammer Curl
+human_readable_ids:
+- BottleWeightedAlternateHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2616'
+slug: cable-lateral-pulldown-with-v-bar
+name: Cable Lateral Pulldown with V-bar
+human_readable_ids:
+- CableLateralPulldownwithVbar
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

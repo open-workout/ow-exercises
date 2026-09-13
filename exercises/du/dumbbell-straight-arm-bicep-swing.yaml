@@ -1,0 +1,15 @@
+id: '10949'
+slug: dumbbell-straight-arm-bicep-swing
+name: Dumbbell Straight Arm Bicep Swing
+human_readable_ids:
+- DumbbellStraightArmBicepSwing
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

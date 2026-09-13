@@ -1,0 +1,15 @@
+id: '4867'
+slug: butterfly-yoga-flaps
+name: Butterfly Yoga Flaps
+human_readable_ids:
+- ButterflyYogaFlaps
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

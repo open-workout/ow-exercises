@@ -1,0 +1,15 @@
+id: '7566'
+slug: dumbbell-hack-squat
+name: Dumbbell Hack Squat
+human_readable_ids:
+- DumbbellHackSquat
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

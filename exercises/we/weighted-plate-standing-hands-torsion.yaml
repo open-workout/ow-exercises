@@ -1,0 +1,15 @@
+id: '7055'
+slug: weighted-plate-standing-hands-torsion
+name: Weighted Plate Standing Hands Torsion
+human_readable_ids:
+- WeightedPlateStandingHandsTorsion
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

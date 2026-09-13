@@ -1,0 +1,15 @@
+id: 0392
+slug: dumbbell-seated-front-raise
+name: Dumbbell Seated Front Raise
+human_readable_ids:
+- DumbbellSeatedFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

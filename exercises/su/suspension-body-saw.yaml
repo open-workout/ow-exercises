@@ -1,0 +1,15 @@
+id: '1110'
+slug: suspension-body-saw
+name: Suspension Body Saw
+human_readable_ids:
+- SuspensionBodySaw
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2340'
+slug: chest-bench-press-shoulders-wrong-right
+name: Chest Bench Press - Shoulders (WRONG-RIGHT)
+human_readable_ids:
+- ChestBenchPressShoulders
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

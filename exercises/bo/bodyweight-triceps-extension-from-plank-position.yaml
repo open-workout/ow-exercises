@@ -1,0 +1,15 @@
+id: '6423'
+slug: bodyweight-triceps-extension-from-plank-position
+name: Bodyweight Triceps Extension from Plank Position
+human_readable_ids:
+- BodyweightTricepsExtensionfromPlankPosition
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

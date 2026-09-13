@@ -1,0 +1,14 @@
+id: '5400'
+slug: stick-lat-stretch
+name: Stick Lat Stretch
+human_readable_ids:
+- StickLatStretch
+primary_muscles:
+- back
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

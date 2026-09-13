@@ -1,0 +1,15 @@
+id: '4007'
+slug: 90-degree-heel-touch
+name: 90 Degree Heel Touch
+human_readable_ids:
+- 90DegreeHeelTouch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

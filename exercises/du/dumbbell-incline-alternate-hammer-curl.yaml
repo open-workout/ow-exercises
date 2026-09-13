@@ -1,0 +1,15 @@
+id: '1233'
+slug: dumbbell-incline-alternate-hammer-curl
+name: Dumbbell Incline Alternate Hammer Curl
+human_readable_ids:
+- DumbbellInclineAlternateHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

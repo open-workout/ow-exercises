@@ -1,0 +1,15 @@
+id: 0096
+slug: barbell-side-bent-version-2
+name: Barbell Side Bent (version 2)
+human_readable_ids:
+- BarbellSideBent
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8223'
+slug: dumbbell-renegade-row-on-stability-ball
+name: Dumbbell Renegade Row on Stability Ball
+human_readable_ids:
+- DumbbellRenegadeRowonStabilityBall
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

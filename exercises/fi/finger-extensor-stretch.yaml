@@ -1,0 +1,14 @@
+id: '1827'
+slug: finger-extensor-stretch
+name: Finger Extensor Stretch
+human_readable_ids:
+- FingerExtensorStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

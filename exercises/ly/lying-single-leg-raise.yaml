@@ -1,0 +1,14 @@
+id: '3267'
+slug: lying-single-leg-raise
+name: Lying Single Leg Raise
+human_readable_ids:
+- LyingSingleLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

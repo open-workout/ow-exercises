@@ -1,0 +1,14 @@
+id: '5389'
+slug: roll-pigeon-stretch
+name: Roll Pigeon Stretch
+human_readable_ids:
+- RollPigeonStretch
+primary_muscles:
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5517'
+slug: supinated-grip-inverted-row
+name: Supinated Grip Inverted Row
+human_readable_ids:
+- SupinatedGripInvertedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

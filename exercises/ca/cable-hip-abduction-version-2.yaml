@@ -1,0 +1,16 @@
+id: 0879
+slug: cable-hip-abduction-version-2
+name: Cable hip abduction (version 2)
+human_readable_ids:
+- Cablehipabduction
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

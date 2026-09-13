@@ -1,0 +1,15 @@
+id: '1596'
+slug: smith-squat-to-bench
+name: Smith Squat to Bench
+human_readable_ids:
+- SmithSquattoBench
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

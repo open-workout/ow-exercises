@@ -1,0 +1,17 @@
+id: '3644'
+slug: weighted-lunge-with-swing
+name: Weighted Lunge with Swing
+human_readable_ids:
+- WeightedLungewithSwing
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

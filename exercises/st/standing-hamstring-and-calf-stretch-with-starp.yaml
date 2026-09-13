@@ -1,0 +1,14 @@
+id: '4317'
+slug: standing-hamstring-and-calf-stretch-with-starp
+name: Standing Hamstring and Calf Stretch with Starp
+human_readable_ids:
+- StandingHamstringandCalfStretchwithStarp
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

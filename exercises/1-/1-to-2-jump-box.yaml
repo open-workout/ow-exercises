@@ -1,0 +1,15 @@
+id: '4209'
+slug: 1-to-2-jump-box
+name: 1 to 2 Jump Box
+human_readable_ids:
+- 1to2JumpBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

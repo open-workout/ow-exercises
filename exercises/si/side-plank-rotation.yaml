@@ -1,0 +1,15 @@
+id: '4991'
+slug: side-plank-rotation
+name: Side Plank Rotation
+human_readable_ids:
+- SidePlankRotation
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

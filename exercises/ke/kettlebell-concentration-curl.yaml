@@ -1,0 +1,15 @@
+id: '5856'
+slug: kettlebell-concentration-curl
+name: Kettlebell Concentration Curl
+human_readable_ids:
+- KettlebellConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0466'
+slug: gironda-sternum-chin
+name: Gironda Sternum Chin
+human_readable_ids:
+- GirondaSternumChin
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

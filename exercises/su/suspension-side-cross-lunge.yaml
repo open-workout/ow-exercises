@@ -1,0 +1,15 @@
+id: '1131'
+slug: suspension-side-cross-lunge
+name: Suspension Side Cross Lunge
+human_readable_ids:
+- SuspensionSideCrossLunge
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

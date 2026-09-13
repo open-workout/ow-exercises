@@ -1,0 +1,14 @@
+id: '10657'
+slug: pilates-machine-lying-calf-raise
+name: Pilates Machine Lying Calf Raise
+human_readable_ids:
+- PilatesMachineLyingCalfRaise
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6064'
+slug: bottle-weighted-reverse-grip-concentration-curl
+name: Bottle Weighted Reverse Grip Concentration Curl
+human_readable_ids:
+- BottleWeightedReverseGripConcentrationCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

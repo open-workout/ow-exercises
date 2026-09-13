@@ -1,0 +1,15 @@
+id: '1226'
+slug: ez-bar-standing-overhead-press
+name: EZ-Bar Standing Overhead Press
+human_readable_ids:
+- EZBarStandingOverheadPress
+primary_muscles:
+- shoulders
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

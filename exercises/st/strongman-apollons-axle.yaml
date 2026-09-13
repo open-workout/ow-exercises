@@ -1,0 +1,17 @@
+id: '2733'
+slug: strongman-apollons-axle
+name: StrongMan Apollons Axle
+human_readable_ids:
+- StrongManApollonsAxle
+primary_muscles:
+- forearms
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

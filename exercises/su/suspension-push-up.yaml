@@ -1,0 +1,15 @@
+id: '1128'
+slug: suspension-push-up
+name: Suspension Push-up
+human_readable_ids:
+- SuspensionPushup
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

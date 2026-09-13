@@ -1,0 +1,15 @@
+id: '1349'
+slug: lever-reverse-t-bar-row
+name: Lever Reverse T-Bar Row
+human_readable_ids:
+- LeverReverseTBarRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

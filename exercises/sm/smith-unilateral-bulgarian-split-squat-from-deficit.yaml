@@ -1,0 +1,15 @@
+id: '11568'
+slug: smith-unilateral-bulgarian-split-squat-from-deficit
+name: Smith Unilateral Bulgarian Split Squat from Deficit
+human_readable_ids:
+- SmithUnilateralBulgarianSplitSquatfromDeficit
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

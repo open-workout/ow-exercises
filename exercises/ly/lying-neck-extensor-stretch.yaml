@@ -1,0 +1,14 @@
+id: '1841'
+slug: lying-neck-extensor-stretch
+name: Lying Neck Extensor Stretch
+human_readable_ids:
+- LyingNeckExtensorStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

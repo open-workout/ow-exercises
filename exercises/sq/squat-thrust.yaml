@@ -1,0 +1,15 @@
+id: '3705'
+slug: squat-thrust
+name: Squat Thrust
+human_readable_ids:
+- SquatThrust
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

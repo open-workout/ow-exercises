@@ -1,0 +1,15 @@
+id: '4595'
+slug: front-knee-kick-kickboxing-with-partner
+name: Front Knee Kick Kickboxing (with partner)
+human_readable_ids:
+- FrontKneeKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

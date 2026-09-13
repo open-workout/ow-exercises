@@ -1,0 +1,15 @@
+id: '5816'
+slug: dumbell-one-arm-side-lying-bench-press
+name: Dumbell One Arm Side Lying Bench Press
+human_readable_ids:
+- DumbellOneArmSideLyingBenchPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

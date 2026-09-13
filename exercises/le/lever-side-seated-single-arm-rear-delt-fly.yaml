@@ -1,0 +1,15 @@
+id: '8990'
+slug: lever-side-seated-single-arm-rear-delt-fly
+name: Lever Side Seated Single Arm Rear Delt Fly
+human_readable_ids:
+- LeverSideSeatedSingleArmRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

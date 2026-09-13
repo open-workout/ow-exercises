@@ -1,0 +1,15 @@
+id: '7589'
+slug: cable-kneeling-glute-kickback
+name: Cable Kneeling Glute Kickback
+human_readable_ids:
+- CableKneelingGluteKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

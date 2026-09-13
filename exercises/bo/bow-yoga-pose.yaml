@@ -1,0 +1,16 @@
+id: '1481'
+slug: bow-yoga-pose
+name: Bow Yoga Pose
+human_readable_ids:
+- BowYogaPose
+primary_muscles:
+- back
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

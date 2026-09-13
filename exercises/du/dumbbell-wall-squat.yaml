@@ -1,0 +1,15 @@
+id: '1558'
+slug: dumbbell-wall-squat
+name: Dumbbell Wall Squat
+human_readable_ids:
+- DumbbellWallSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

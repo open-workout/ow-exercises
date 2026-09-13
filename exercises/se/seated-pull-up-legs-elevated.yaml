@@ -1,0 +1,15 @@
+id: '4783'
+slug: seated-pull-up-legs-elevated
+name: Seated Pull-up (legs elevated)
+human_readable_ids:
+- SeatedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

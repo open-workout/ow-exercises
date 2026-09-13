@@ -1,0 +1,15 @@
+id: '1387'
+slug: one-leg-floor-calf-raise
+name: One Leg Floor Calf Raise
+human_readable_ids:
+- OneLegFloorCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

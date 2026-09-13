@@ -1,0 +1,15 @@
+id: '2473'
+slug: glute-bridge-one-leg-on-bench
+name: Glute Bridge One Leg on Bench
+human_readable_ids:
+- GluteBridgeOneLegonBench
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

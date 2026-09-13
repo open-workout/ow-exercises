@@ -1,0 +1,15 @@
+id: '1720'
+slug: barbell-lying-back-of-the-head-tricep-extension
+name: Barbell Lying Back of the Head Tricep Extension
+human_readable_ids:
+- BarbellLyingBackoftheHeadTricepExtension
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

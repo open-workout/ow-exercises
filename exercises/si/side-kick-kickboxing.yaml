@@ -1,0 +1,15 @@
+id: '2307'
+slug: side-kick-kickboxing
+name: Side Kick. Kickboxing
+human_readable_ids:
+- SideKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

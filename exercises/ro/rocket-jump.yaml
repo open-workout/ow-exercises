@@ -1,0 +1,15 @@
+id: '1584'
+slug: rocket-jump
+name: Rocket Jump
+human_readable_ids:
+- RocketJump
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0556'
+slug: kicks-leg-bent-version-2
+name: Kicks Leg Bent (version 2)
+human_readable_ids:
+- KicksLegBent
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

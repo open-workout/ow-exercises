@@ -1,0 +1,14 @@
+id: '2879'
+slug: mermaid
+name: Mermaid
+human_readable_ids:
+- Mermaid
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

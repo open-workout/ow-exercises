@@ -1,0 +1,15 @@
+id: '4774'
+slug: pull-up-negative
+name: Pull-up (negative)
+human_readable_ids:
+- Pullup3
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

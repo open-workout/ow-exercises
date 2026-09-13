@@ -1,0 +1,15 @@
+id: '3693'
+slug: dumbbell-bench-supported-external-rotation
+name: Dumbbell Bench Supported External Rotation
+human_readable_ids:
+- DumbbellBenchSupportedExternalRotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

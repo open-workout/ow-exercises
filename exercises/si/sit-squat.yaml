@@ -1,0 +1,15 @@
+id: '1593'
+slug: sit-squat
+name: Sit Squat
+human_readable_ids:
+- SitSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

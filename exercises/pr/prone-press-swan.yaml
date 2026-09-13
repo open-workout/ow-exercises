@@ -1,0 +1,17 @@
+id: '2878'
+slug: prone-press-swan
+name: Prone Press-Swan
+human_readable_ids:
+- PronePressSwan
+primary_muscles:
+- back
+- glutes
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,17 @@
+id: '3662'
+slug: pike-to-cobra-push-up
+name: Pike-to-Cobra Push-up
+human_readable_ids:
+- PiketoCobraPushup
+primary_muscles:
+- chest
+- back
+- glutes
+- triceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

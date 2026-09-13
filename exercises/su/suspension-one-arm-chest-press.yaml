@@ -1,0 +1,15 @@
+id: '1124'
+slug: suspension-one-arm-chest-press
+name: Suspension One Arm Chest Press
+human_readable_ids:
+- SuspensionOneArmChestPress
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

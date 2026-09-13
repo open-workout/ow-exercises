@@ -1,0 +1,15 @@
+id: '1495'
+slug: oblique-crunch-version-2
+name: Oblique Crunch (Version 2)
+human_readable_ids:
+- ObliqueCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

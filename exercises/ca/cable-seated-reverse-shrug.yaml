@@ -1,0 +1,15 @@
+id: '7155'
+slug: cable-seated-reverse-shrug
+name: Cable Seated Reverse Shrug
+human_readable_ids:
+- CableSeatedReverseShrug
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

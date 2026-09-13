@@ -1,0 +1,14 @@
+id: '8987'
+slug: half-kneeling-side-lunge
+name: Half Kneeling Side Lunge
+human_readable_ids:
+- HalfKneelingSideLunge
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

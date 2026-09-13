@@ -1,0 +1,15 @@
+id: '3303'
+slug: flag
+name: Flag
+human_readable_ids:
+- Flag
+primary_muscles:
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '4490'
+slug: roll-ball-trapezius-upper
+name: Roll Ball Trapezius Upper
+human_readable_ids:
+- RollBallTrapeziusUpper
+primary_muscles:
+- back
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

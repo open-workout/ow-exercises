@@ -1,0 +1,14 @@
+id: '10563'
+slug: knee-to-box-calf-stretch
+name: Knee to Box Calf Stretch
+human_readable_ids:
+- KneetoBoxCalfStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6557'
+slug: smith-sumo-deadlift
+name: Smith Sumo Deadlift
+human_readable_ids:
+- SmithSumoDeadlift
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

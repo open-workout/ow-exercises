@@ -1,0 +1,15 @@
+id: '4342'
+slug: dumbbell-twisted-fly
+name: Dumbbell Twisted Fly
+human_readable_ids:
+- DumbbellTwistedFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

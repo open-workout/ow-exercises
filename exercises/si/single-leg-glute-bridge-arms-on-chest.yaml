@@ -1,0 +1,15 @@
+id: '4791'
+slug: single-leg-glute-bridge-arms-on-chest
+name: Single Leg Glute Bridge (arms on chest)
+human_readable_ids:
+- SingleLegGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

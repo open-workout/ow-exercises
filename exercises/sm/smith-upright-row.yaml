@@ -1,0 +1,15 @@
+id: '0775'
+slug: smith-upright-row
+name: Smith Upright Row
+human_readable_ids:
+- SmithUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

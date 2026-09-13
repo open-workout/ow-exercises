@@ -1,0 +1,14 @@
+id: '2777'
+slug: shoulder-extension-articulations
+name: Shoulder - Extension - Articulations
+human_readable_ids:
+- ShoulderExtensionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

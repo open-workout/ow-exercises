@@ -1,0 +1,14 @@
+id: '4407'
+slug: tiger-tail-triceps
+name: Tiger Tail Triceps
+human_readable_ids:
+- TigerTailTriceps
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

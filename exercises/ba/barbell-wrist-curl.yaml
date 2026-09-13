@@ -1,0 +1,15 @@
+id: '0126'
+slug: barbell-wrist-curl
+name: Barbell Wrist Curl
+human_readable_ids:
+- BarbellWristCurl2
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

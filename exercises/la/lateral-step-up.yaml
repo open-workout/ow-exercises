@@ -1,0 +1,16 @@
+id: '0566'
+slug: lateral-step-up
+name: Lateral Step-up
+human_readable_ids:
+- LateralStepup
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

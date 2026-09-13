@@ -1,0 +1,16 @@
+id: '3683'
+slug: dumbbell-gobelt-curtsey-lunge
+name: Dumbbell Gobelt Curtsey Lunge
+human_readable_ids:
+- DumbbellGobeltCurtseyLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

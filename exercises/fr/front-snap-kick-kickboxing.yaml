@@ -1,0 +1,15 @@
+id: '2305'
+slug: front-snap-kick-kickboxing
+name: Front Snap Kick. Kickboxing
+human_readable_ids:
+- FrontSnapKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

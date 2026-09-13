@@ -1,0 +1,15 @@
+id: '4711'
+slug: criss-cross-jack
+name: Criss Cross Jack
+human_readable_ids:
+- CrissCrossJack
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '10749'
+slug: walk-leg-kick
+name: Walk Leg Kick
+human_readable_ids:
+- WalkLegKick
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

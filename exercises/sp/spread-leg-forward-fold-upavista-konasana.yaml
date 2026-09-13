@@ -1,0 +1,14 @@
+id: 0958
+slug: spread-leg-forward-fold-upavista-konasana
+name: Spread Leg Forward Fold Upavista Konasana
+human_readable_ids:
+- SpreadLegForwardFoldUpavistaKonasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

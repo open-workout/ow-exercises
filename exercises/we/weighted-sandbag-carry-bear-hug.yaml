@@ -1,0 +1,15 @@
+id: '10387'
+slug: weighted-sandbag-carry-bear-hug
+name: Weighted Sandbag Carry (Bear Hug)
+human_readable_ids:
+- WeightedSandbagCarry2
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

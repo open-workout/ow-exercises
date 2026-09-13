@@ -1,0 +1,15 @@
+id: '2916'
+slug: kettlebell-goblet-carry
+name: Kettlebell Goblet Carry
+human_readable_ids:
+- KettlebellGobletCarry
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

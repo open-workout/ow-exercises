@@ -1,0 +1,15 @@
+id: '1669'
+slug: dumbbell-one-arm-seated-hammer-curl
+name: Dumbbell One Arm Seated Hammer Curl
+human_readable_ids:
+- DumbbellOneArmSeatedHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

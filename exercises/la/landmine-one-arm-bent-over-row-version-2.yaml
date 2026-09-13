@@ -1,0 +1,15 @@
+id: '5034'
+slug: landmine-one-arm-bent-over-row-version-2
+name: Landmine One Arm Bent Over Row (Version 2)
+human_readable_ids:
+- LandmineOneArmBentOverRow2
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

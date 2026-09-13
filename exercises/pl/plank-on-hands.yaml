@@ -1,0 +1,15 @@
+id: '5159'
+slug: plank-on-hands
+name: Plank on Hands
+human_readable_ids:
+- PlankonHands
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

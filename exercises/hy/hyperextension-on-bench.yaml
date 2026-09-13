@@ -1,0 +1,15 @@
+id: 0488
+slug: hyperextension-on-bench
+name: Hyperextension (on bench)
+human_readable_ids:
+- Hyperextension
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

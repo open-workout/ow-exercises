@@ -1,0 +1,15 @@
+id: 0109
+slug: barbell-standing-overhead-triceps-extension
+name: Barbell Standing Overhead Triceps Extension
+human_readable_ids:
+- BarbellStandingOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

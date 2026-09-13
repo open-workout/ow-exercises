@@ -1,0 +1,15 @@
+id: '4810'
+slug: standing-side-bend-version-2
+name: Standing Side Bend (VERSION 2)
+human_readable_ids:
+- StandingSideBend3
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

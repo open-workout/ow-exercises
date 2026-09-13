@@ -1,0 +1,15 @@
+id: '5883'
+slug: barbell-curl-press-extension
+name: Barbell Curl Press Extension
+human_readable_ids:
+- BarbellCurlPressExtension
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

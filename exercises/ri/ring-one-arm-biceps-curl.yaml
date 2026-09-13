@@ -1,0 +1,15 @@
+id: '6237'
+slug: ring-one-arm-biceps-curl
+name: Ring One Arm Biceps Curl
+human_readable_ids:
+- RingOneArmBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

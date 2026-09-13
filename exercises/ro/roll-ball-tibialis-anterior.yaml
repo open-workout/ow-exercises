@@ -1,0 +1,14 @@
+id: '4464'
+slug: roll-ball-tibialis-anterior
+name: Roll Ball Tibialis Anterior
+human_readable_ids:
+- RollBallTibialisAnterior
+primary_muscles:
+- calves
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

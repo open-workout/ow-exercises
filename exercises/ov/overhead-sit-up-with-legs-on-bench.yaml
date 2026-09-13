@@ -1,0 +1,15 @@
+id: '7417'
+slug: overhead-sit-up-with-legs-on-bench
+name: Overhead Sit-up with Legs on Bench
+human_readable_ids:
+- OverheadSitupwithLegsonBench
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

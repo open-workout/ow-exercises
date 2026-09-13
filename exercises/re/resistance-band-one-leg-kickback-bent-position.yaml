@@ -1,0 +1,15 @@
+id: '2160'
+slug: resistance-band-one-leg-kickback-bent-position
+name: Resistance Band One Leg Kickback (Bent Position)
+human_readable_ids:
+- ResistanceBandOneLegKickback
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

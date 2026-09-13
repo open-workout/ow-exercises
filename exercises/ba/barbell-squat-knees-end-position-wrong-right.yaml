@@ -1,0 +1,15 @@
+id: '2359'
+slug: barbell-squat-knees-end-position-wrong-right
+name: Barbell Squat - Knees - End position (WRONG-RIGHT)
+human_readable_ids:
+- BarbellSquatKneesEndposition
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

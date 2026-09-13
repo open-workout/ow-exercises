@@ -1,0 +1,15 @@
+id: '2914'
+slug: barbell-overhead-carry
+name: Barbell Overhead Carry
+human_readable_ids:
+- BarbellOverheadCarry
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

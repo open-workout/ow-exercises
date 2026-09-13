@@ -1,0 +1,15 @@
+id: 0358
+slug: dumbbell-one-arm-revers-wrist-curl
+name: Dumbbell One arm Revers Wrist Curl
+human_readable_ids:
+- DumbbellOnearmReversWristCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

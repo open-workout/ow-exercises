@@ -1,0 +1,15 @@
+id: 0148
+slug: cable-alternate-shoulder-press
+name: Cable Alternate Shoulder Press
+human_readable_ids:
+- CableAlternateShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

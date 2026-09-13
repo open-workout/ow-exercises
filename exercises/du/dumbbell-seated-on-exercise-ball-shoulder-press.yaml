@@ -1,0 +1,15 @@
+id: '3690'
+slug: dumbbell-seated-on-exercise-ball-shoulder-press
+name: Dumbbell Seated on Exercise Ball Shoulder Press
+human_readable_ids:
+- DumbbellSeatedonExerciseBallShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

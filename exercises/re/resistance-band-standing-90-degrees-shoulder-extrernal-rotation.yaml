@@ -1,0 +1,15 @@
+id: '8363'
+slug: resistance-band-standing-90-degrees-shoulder-extrernal-rotation
+name: Resistance Band Standing 90 degrees Shoulder Extrernal Rotation
+human_readable_ids:
+- ResistanceBandStanding90degreesShoulderExtrernalRotation
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7743'
+slug: cable-half-kneeling-face-pull
+name: Cable Half Kneeling Face Pull
+human_readable_ids:
+- CableHalfKneelingFacePull
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

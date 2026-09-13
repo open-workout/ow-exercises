@@ -1,0 +1,15 @@
+id: '0416'
+slug: dumbbell-standing-biceps-curl
+name: Dumbbell Standing Biceps Curl
+human_readable_ids:
+- DumbbellStandingBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

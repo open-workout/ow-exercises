@@ -1,0 +1,14 @@
+id: '1970'
+slug: standing-upright-shoulders-stretch
+name: Standing Upright Shoulders Stretch
+human_readable_ids:
+- StandingUprightShouldersStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

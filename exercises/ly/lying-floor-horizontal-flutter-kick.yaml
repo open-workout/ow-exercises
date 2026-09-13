@@ -1,0 +1,15 @@
+id: '9321'
+slug: lying-floor-horizontal-flutter-kick
+name: Lying Floor Horizontal Flutter Kick
+human_readable_ids:
+- LyingFloorHorizontalFlutterKick
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

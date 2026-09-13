@@ -1,0 +1,16 @@
+id: '0630'
+slug: mountain-climber
+name: Mountain Climber
+human_readable_ids:
+- MountainClimber
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

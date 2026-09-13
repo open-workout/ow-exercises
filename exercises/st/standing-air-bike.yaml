@@ -1,0 +1,15 @@
+id: '3999'
+slug: standing-air-bike
+name: Standing Air Bike
+human_readable_ids:
+- StandingAirBike
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

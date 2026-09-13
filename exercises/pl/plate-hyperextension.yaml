@@ -1,0 +1,15 @@
+id: '1234'
+slug: plate-hyperextension
+name: Plate Hyperextension
+human_readable_ids:
+- PlateHyperextension
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

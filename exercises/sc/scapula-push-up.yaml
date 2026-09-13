@@ -1,0 +1,15 @@
+id: '3021'
+slug: scapula-push-up
+name: Scapula Push-up
+human_readable_ids:
+- ScapulaPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

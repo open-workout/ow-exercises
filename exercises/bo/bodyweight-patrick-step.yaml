@@ -1,0 +1,15 @@
+id: '9601'
+slug: bodyweight-patrick-step
+name: Bodyweight Patrick Step
+human_readable_ids:
+- BodyweightPatrickStep
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

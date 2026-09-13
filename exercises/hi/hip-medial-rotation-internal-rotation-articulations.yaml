@@ -1,0 +1,15 @@
+id: '2772'
+slug: hip-medial-rotation-internal-rotation-articulations
+name: Hip - Medial Rotation (Internal Rotation) - Articulations
+human_readable_ids:
+- HipMedialRotationArticulations
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

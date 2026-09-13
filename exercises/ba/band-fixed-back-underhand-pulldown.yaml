@@ -1,0 +1,15 @@
+id: '3116'
+slug: band-fixed-back-underhand-pulldown
+name: Band Fixed Back Underhand Pulldown
+human_readable_ids:
+- BandFixedBackUnderhandPulldown
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

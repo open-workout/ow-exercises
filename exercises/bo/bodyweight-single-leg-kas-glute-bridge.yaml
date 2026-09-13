@@ -1,0 +1,15 @@
+id: '5671'
+slug: bodyweight-single-leg-kas-glute-bridge
+name: Bodyweight Single Leg Kas Glute Bridge
+human_readable_ids:
+- BodyweightSingleLegKasGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

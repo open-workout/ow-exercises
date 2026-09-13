@@ -1,0 +1,15 @@
+id: 0178
+slug: cable-lateral-raise
+name: Cable Lateral Raise
+human_readable_ids:
+- CableLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

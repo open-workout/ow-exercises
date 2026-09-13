@@ -1,0 +1,15 @@
+id: '8220'
+slug: deep-knee-bend
+name: Deep Knee Bend
+human_readable_ids:
+- DeepKneeBend
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '11287'
+slug: kettlebell-standing-behind-back-romanian-deadlift
+name: Kettlebell Standing Behind Back Romanian Deadlift
+human_readable_ids:
+- KettlebellStandingBehindBackRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

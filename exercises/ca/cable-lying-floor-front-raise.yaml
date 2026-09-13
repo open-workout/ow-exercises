@@ -1,0 +1,15 @@
+id: '9705'
+slug: cable-lying-floor-front-raise
+name: Cable Lying Floor Front Raise
+human_readable_ids:
+- CableLyingFloorFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10930'
+slug: standing-external-rotation-slide-with-towel
+name: Standing External Rotation Slide with Towel
+human_readable_ids:
+- StandingExternalRotationSlidewithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

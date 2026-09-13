@@ -1,0 +1,15 @@
+id: '5005'
+slug: band-seated-underhand-grip-row
+name: Band Seated Underhand Grip Row
+human_readable_ids:
+- BandSeatedUnderhandGripRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

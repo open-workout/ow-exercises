@@ -1,0 +1,14 @@
+id: '4406'
+slug: tiger-yoga-pose
+name: Tiger Yoga Pose
+human_readable_ids:
+- TigerYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

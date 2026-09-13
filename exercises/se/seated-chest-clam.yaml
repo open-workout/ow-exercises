@@ -1,0 +1,15 @@
+id: '4946'
+slug: seated-chest-clam
+name: Seated Chest Clam
+human_readable_ids:
+- SeatedChestClam
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1440'
+slug: plank-arm-lifts
+name: Plank arm lifts
+human_readable_ids:
+- Plankarmlifts
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

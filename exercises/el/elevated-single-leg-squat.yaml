@@ -1,0 +1,15 @@
+id: '4892'
+slug: elevated-single-leg-squat
+name: Elevated Single Leg Squat
+human_readable_ids:
+- ElevatedSingleLegSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

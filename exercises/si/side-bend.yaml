@@ -1,0 +1,14 @@
+id: '2864'
+slug: side-bend
+name: Side Bend
+human_readable_ids:
+- SideBend2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

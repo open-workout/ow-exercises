@@ -1,0 +1,15 @@
+id: '4442'
+slug: assisted-bulgarian-split-squat
+name: Assisted Bulgarian Split Squat
+human_readable_ids:
+- AssistedBulgarianSplitSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

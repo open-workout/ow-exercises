@@ -1,0 +1,15 @@
+id: '4219'
+slug: safety-bar-elevated-heel-squat
+name: Safety Bar Elevated Heel Squat
+human_readable_ids:
+- SafetyBarElevatedHeelSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

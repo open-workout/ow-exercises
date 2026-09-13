@@ -1,0 +1,15 @@
+id: '4041'
+slug: dumbbell-russian-twist-on-stability-ball
+name: Dumbbell Russian Twist (on stability ball)
+human_readable_ids:
+- DumbbellRussianTwist2
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

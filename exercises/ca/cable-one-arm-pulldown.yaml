@@ -1,0 +1,15 @@
+id: '3563'
+slug: cable-one-arm-pulldown
+name: Cable One Arm Pulldown
+human_readable_ids:
+- CableOneArmPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

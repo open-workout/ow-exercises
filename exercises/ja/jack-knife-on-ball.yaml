@@ -1,0 +1,15 @@
+id: '0503'
+slug: jack-knife-on-ball
+name: Jack knife on Ball
+human_readable_ids:
+- JackknifeonBall
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

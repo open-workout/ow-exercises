@@ -1,0 +1,14 @@
+id: '11801'
+slug: lying-single-leg-quadriceps-mobilization
+name: Lying Single Leg Quadriceps Mobilization
+human_readable_ids:
+- LyingSingleLegQuadricepsMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

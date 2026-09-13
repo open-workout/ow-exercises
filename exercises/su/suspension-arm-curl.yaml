@@ -1,0 +1,15 @@
+id: '1070'
+slug: suspension-arm-curl
+name: Suspension Arm Curl
+human_readable_ids:
+- SuspensionArmCurl
+primary_muscles:
+- biceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

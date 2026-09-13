@@ -1,0 +1,15 @@
+id: '4026'
+slug: resistance-band-standing-front-warming-up
+name: Resistance Band Standing Front Warming-up
+human_readable_ids:
+- ResistanceBandStandingFrontWarmingup
+primary_muscles:
+- back
+- glutes
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

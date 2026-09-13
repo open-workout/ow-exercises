@@ -1,0 +1,15 @@
+id: '11656'
+slug: hydrotherapy-walking-on-spot
+name: Hydrotherapy Walking on Spot
+human_readable_ids:
+- HydrotherapyWalkingonSpot
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6222'
+slug: suspender-squat-jump
+name: Suspender Squat Jump
+human_readable_ids:
+- SuspenderSquatJump
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

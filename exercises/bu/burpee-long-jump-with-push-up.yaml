@@ -1,0 +1,16 @@
+id: '5187'
+slug: burpee-long-jump-with-push-up
+name: Burpee Long Jump with Push-up
+human_readable_ids:
+- BurpeeLongJumpwithPushup
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

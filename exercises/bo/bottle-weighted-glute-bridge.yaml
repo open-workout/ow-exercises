@@ -1,0 +1,15 @@
+id: '6050'
+slug: bottle-weighted-glute-bridge
+name: Bottle Weighted Glute Bridge
+human_readable_ids:
+- BottleWeightedGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

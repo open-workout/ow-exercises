@@ -1,0 +1,15 @@
+id: '3495'
+slug: lying-floor-row-with-bent-knee
+name: Lying Floor Row with Bent Knee
+human_readable_ids:
+- LyingFloorRowwithBentKnee
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

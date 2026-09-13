@@ -1,0 +1,14 @@
+id: '3645'
+slug: single-leg-bridge-with-outstretched-leg
+name: Single Leg Bridge with Outstretched Leg
+human_readable_ids:
+- SingleLegBridgewithOutstretchedLeg
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

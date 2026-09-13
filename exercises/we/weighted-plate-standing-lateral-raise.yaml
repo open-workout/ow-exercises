@@ -1,0 +1,15 @@
+id: '6485'
+slug: weighted-plate-standing-lateral-raise
+name: Weighted Plate Standing Lateral Raise
+human_readable_ids:
+- WeightedPlateStandingLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

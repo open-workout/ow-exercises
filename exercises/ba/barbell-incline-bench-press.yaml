@@ -1,0 +1,15 @@
+id: '0047'
+slug: barbell-incline-bench-press
+name: Barbell Incline Bench Press
+human_readable_ids:
+- BarbellInclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

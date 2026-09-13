@@ -1,0 +1,17 @@
+id: '3524'
+slug: band-horizontal-pallof-press-with-resistance-band-squat
+name: Band horizontal Pallof Press with Resistance Band Squat
+human_readable_ids:
+- BandhorizontalPallofPresswithResistanceBandSquat
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

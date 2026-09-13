@@ -1,0 +1,15 @@
+id: '2363'
+slug: wide-grip-chest-dip-on-high-parallel-bars
+name: Wide-Grip Chest Dip on High Parallel Bars
+human_readable_ids:
+- WideGripChestDiponHighParallelBars
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

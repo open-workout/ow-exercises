@@ -1,0 +1,15 @@
+id: '10909'
+slug: seated-feet-circle
+name: Seated Feet Circle
+human_readable_ids:
+- SeatedFeetCircle
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

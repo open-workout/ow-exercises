@@ -1,0 +1,15 @@
+id: '1541'
+slug: barbell-squat-to-upright-row
+name: Barbell Squat to Upright Row
+human_readable_ids:
+- BarbellSquattoUprightRow
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

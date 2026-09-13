@@ -1,0 +1,15 @@
+id: '2929'
+slug: kneeling-battling-ropes
+name: Kneeling Battling Ropes
+human_readable_ids:
+- KneelingBattlingRopes
+primary_muscles:
+- plyometrics
+equipment:
+- rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

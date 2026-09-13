@@ -1,0 +1,14 @@
+id: '6788'
+slug: hip-internal-rotation-test
+name: Hip Internal Rotation Test
+human_readable_ids:
+- HipInternalRotationTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

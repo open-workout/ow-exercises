@@ -1,0 +1,15 @@
+id: '2476'
+slug: 3-4-sit-up-2476
+name: 3 4 Sit up
+human_readable_ids:
+- 34Situp2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

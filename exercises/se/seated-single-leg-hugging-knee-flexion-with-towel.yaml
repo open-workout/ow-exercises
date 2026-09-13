@@ -1,0 +1,15 @@
+id: '10542'
+slug: seated-single-leg-hugging-knee-flexion-with-towel
+name: Seated Single Leg Hugging Knee Flexion with Towel
+human_readable_ids:
+- SeatedSingleLegHuggingKneeFlexionwithTowel
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

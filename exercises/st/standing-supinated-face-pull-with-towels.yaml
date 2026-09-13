@@ -1,0 +1,15 @@
+id: '7745'
+slug: standing-supinated-face-pull-with-towels
+name: Standing Supinated Face Pull (with towels)
+human_readable_ids:
+- StandingSupinatedFacePull
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

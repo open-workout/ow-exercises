@@ -1,0 +1,15 @@
+id: 0498
+slug: inverted-row-with-straps
+name: Inverted Row with Straps
+human_readable_ids:
+- InvertedRowwithStraps
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

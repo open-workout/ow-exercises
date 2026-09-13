@@ -1,0 +1,15 @@
+id: '1392'
+slug: sled-one-leg-calf-press-on-leg-press
+name: Sled One Leg Calf Press on Leg Press
+human_readable_ids:
+- SledOneLegCalfPressonLegPress
+primary_muscles:
+- calves
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

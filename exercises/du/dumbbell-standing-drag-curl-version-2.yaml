@@ -1,0 +1,15 @@
+id: '5449'
+slug: dumbbell-standing-drag-curl-version-2
+name: Dumbbell Standing Drag Curl (VERSION 2)
+human_readable_ids:
+- DumbbellStandingDragCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

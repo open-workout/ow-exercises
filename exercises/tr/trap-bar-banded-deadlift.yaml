@@ -1,0 +1,15 @@
+id: '4842'
+slug: trap-bar-banded-deadlift
+name: Trap bar Banded Deadlift
+human_readable_ids:
+- TrapbarBandedDeadlift
+primary_muscles:
+- glutes
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0748
+slug: smith-bench-press
+name: Smith Bench Press
+human_readable_ids:
+- SmithBenchPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

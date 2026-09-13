@@ -1,0 +1,15 @@
+id: '3993'
+slug: dumbbell-push-up-front-raise
+name: Dumbbell Push-up Front Raise
+human_readable_ids:
+- DumbbellPushupFrontRaise
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

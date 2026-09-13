@@ -1,0 +1,15 @@
+id: '3347'
+slug: dumbbell-curl-to-press
+name: Dumbbell Curl to Press
+human_readable_ids:
+- DumbbellCurltoPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

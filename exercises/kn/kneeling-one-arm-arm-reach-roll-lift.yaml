@@ -1,0 +1,15 @@
+id: '3417'
+slug: kneeling-one-arm-arm-reach-roll-lift
+name: Kneeling One Arm Arm Reach Roll Lift
+human_readable_ids:
+- KneelingOneArmArmReachRollLift
+primary_muscles:
+- back
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

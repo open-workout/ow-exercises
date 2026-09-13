@@ -1,0 +1,18 @@
+id: '3585'
+slug: single-leg-deadlift-with-knee-lift
+name: Single Leg Deadlift with Knee Lift
+human_readable_ids:
+- SingleLegDeadliftwithKneeLift
+primary_muscles:
+- shoulders
+- back
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

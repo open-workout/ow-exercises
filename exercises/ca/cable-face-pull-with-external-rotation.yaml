@@ -1,0 +1,15 @@
+id: '11060'
+slug: cable-face-pull-with-external-rotation
+name: Cable Face Pull with External Rotation
+human_readable_ids:
+- CableFacePullwithExternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

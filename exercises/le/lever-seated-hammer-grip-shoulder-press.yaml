@@ -1,0 +1,15 @@
+id: '2962'
+slug: lever-seated-hammer-grip-shoulder-press
+name: Lever Seated Hammer grip Shoulder Press
+human_readable_ids:
+- LeverSeatedHammergripShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

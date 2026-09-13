@@ -1,0 +1,16 @@
+id: '0510'
+slug: jump-lunge-to-feet-jack
+name: Jump Lunge To Feet Jack
+human_readable_ids:
+- JumpLungeToFeetJack
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

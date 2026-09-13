@@ -1,0 +1,15 @@
+id: '0023'
+slug: barbell-alternate-biceps-curl
+name: Barbell Alternate Biceps Curl
+human_readable_ids:
+- BarbellAlternateBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

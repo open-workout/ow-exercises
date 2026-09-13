@@ -1,0 +1,16 @@
+id: '5301'
+slug: kettlebell-full-squat-from-deficit
+name: Kettlebell Full Squat from Deficit
+human_readable_ids:
+- KettlebellFullSquatfromDeficit
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

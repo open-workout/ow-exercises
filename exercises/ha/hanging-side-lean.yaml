@@ -1,0 +1,15 @@
+id: '9489'
+slug: hanging-side-lean
+name: Hanging Side Lean
+human_readable_ids:
+- HangingSideLean
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

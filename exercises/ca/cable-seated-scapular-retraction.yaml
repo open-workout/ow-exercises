@@ -1,0 +1,15 @@
+id: '11057'
+slug: cable-seated-scapular-retraction
+name: Cable Seated Scapular Retraction
+human_readable_ids:
+- CableSeatedScapularRetraction
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

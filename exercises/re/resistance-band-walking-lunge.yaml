@@ -1,0 +1,15 @@
+id: '7110'
+slug: resistance-band-walking-lunge
+name: Resistance Band Walking Lunge
+human_readable_ids:
+- ResistanceBandWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

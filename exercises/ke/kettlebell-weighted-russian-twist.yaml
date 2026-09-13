@@ -1,0 +1,15 @@
+id: '8371'
+slug: kettlebell-weighted-russian-twist
+name: Kettlebell Weighted Russian Twist
+human_readable_ids:
+- KettlebellWeightedRussianTwist
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

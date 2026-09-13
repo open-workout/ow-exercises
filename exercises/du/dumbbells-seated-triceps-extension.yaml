@@ -1,0 +1,15 @@
+id: '2189'
+slug: dumbbells-seated-triceps-extension
+name: Dumbbells Seated Triceps Extension
+human_readable_ids:
+- DumbbellsSeatedTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

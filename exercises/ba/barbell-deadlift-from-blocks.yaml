@@ -1,0 +1,15 @@
+id: '6034'
+slug: barbell-deadlift-from-blocks
+name: Barbell Deadlift from Blocks
+human_readable_ids:
+- BarbellDeadliftfromBlocks
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

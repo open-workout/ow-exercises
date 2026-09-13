@@ -1,0 +1,16 @@
+id: '4782'
+slug: seated-commando-pull-up
+name: Seated Commando Pull-up
+human_readable_ids:
+- SeatedCommandoPullup
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

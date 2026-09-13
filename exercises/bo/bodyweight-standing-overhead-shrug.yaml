@@ -1,0 +1,15 @@
+id: '11288'
+slug: bodyweight-standing-overhead-shrug
+name: Bodyweight Standing Overhead Shrug
+human_readable_ids:
+- BodyweightStandingOverheadShrug
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

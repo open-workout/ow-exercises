@@ -1,0 +1,16 @@
+id: '1585'
+slug: runners-stretch
+name: Runners Stretch
+human_readable_ids:
+- RunnersStretch
+primary_muscles:
+- calves
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

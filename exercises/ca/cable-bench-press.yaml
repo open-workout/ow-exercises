@@ -1,0 +1,15 @@
+id: '0151'
+slug: cable-bench-press
+name: Cable Bench Press
+human_readable_ids:
+- CableBenchPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

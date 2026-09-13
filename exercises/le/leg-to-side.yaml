@@ -1,0 +1,14 @@
+id: 0955
+slug: leg-to-side
+name: Leg to Side
+human_readable_ids:
+- LegtoSide
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

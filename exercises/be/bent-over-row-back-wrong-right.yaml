@@ -1,0 +1,15 @@
+id: '2343'
+slug: bent-over-row-back-wrong-right
+name: Bent-over Row - Back (WRONG-RIGHT)
+human_readable_ids:
+- BentoverRowBack
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

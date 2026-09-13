@@ -1,0 +1,15 @@
+id: '0064'
+slug: barbell-one-arm-bent-over-row
+name: Barbell One Arm Bent over Row
+human_readable_ids:
+- BarbellOneArmBentoverRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

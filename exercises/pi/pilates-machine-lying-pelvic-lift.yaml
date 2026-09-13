@@ -1,0 +1,14 @@
+id: '10849'
+slug: pilates-machine-lying-pelvic-lift
+name: Pilates Machine Lying Pelvic Lift
+human_readable_ids:
+- PilatesMachineLyingPelvicLift
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

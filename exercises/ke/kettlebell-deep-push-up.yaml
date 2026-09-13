@@ -1,0 +1,15 @@
+id: '3580'
+slug: kettlebell-deep-push-up
+name: Kettlebell Deep Push-Up
+human_readable_ids:
+- KettlebellDeepPushUp
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

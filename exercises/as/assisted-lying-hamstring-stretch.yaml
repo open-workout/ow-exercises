@@ -1,0 +1,14 @@
+id: '1923'
+slug: assisted-lying-hamstring-stretch
+name: Assisted Lying Hamstring Stretch
+human_readable_ids:
+- AssistedLyingHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

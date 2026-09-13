@@ -1,0 +1,15 @@
+id: '2471'
+slug: glute-bridge-two-legs-on-floor
+name: Glute Bridge Two Legs on Floor
+human_readable_ids:
+- GluteBridgeTwoLegsonFloor
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

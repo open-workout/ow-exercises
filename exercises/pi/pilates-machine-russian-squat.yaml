@@ -1,0 +1,14 @@
+id: '10851'
+slug: pilates-machine-russian-squat
+name: Pilates Machine Russian Squat
+human_readable_ids:
+- PilatesMachineRussianSquat
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

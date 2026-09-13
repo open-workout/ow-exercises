@@ -1,0 +1,16 @@
+id: '3547'
+slug: dumbbell-seated-biceps-curl-to-shoulder-press
+name: Dumbbell Seated Biceps Curl to Shoulder Press
+human_readable_ids:
+- DumbbellSeatedBicepsCurltoShoulderPress
+primary_muscles:
+- shoulders
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

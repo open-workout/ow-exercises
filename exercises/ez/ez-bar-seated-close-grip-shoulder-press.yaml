@@ -1,0 +1,15 @@
+id: '3990'
+slug: ez-bar-seated-close-grip-shoulder-press
+name: EZ-bar Seated Close grip Shoulder Press
+human_readable_ids:
+- EZbarSeatedClosegripShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

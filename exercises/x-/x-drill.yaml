@@ -1,0 +1,15 @@
+id: '5979'
+slug: x-drill
+name: X Drill
+human_readable_ids:
+- XDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

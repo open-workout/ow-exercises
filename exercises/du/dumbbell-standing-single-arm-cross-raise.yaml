@@ -1,0 +1,15 @@
+id: '5458'
+slug: dumbbell-standing-single-arm-cross-raise
+name: Dumbbell Standing Single Arm Cross Raise
+human_readable_ids:
+- DumbbellStandingSingleArmCrossRaise
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

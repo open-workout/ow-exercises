@@ -1,0 +1,15 @@
+id: '0667'
+slug: raise-single-leg-push-up
+name: Raise Single Leg Push-up
+human_readable_ids:
+- RaiseSingleLegPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

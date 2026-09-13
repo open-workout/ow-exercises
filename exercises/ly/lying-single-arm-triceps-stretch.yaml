@@ -1,0 +1,14 @@
+id: '10739'
+slug: lying-single-arm-triceps-stretch
+name: Lying Single Arm Triceps Stretch
+human_readable_ids:
+- LyingSingleArmTricepsStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

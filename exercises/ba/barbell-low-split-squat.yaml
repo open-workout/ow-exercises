@@ -1,0 +1,15 @@
+id: '6329'
+slug: barbell-low-split-squat
+name: Barbell Low Split Squat
+human_readable_ids:
+- BarbellLowSplitSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5916'
+slug: cable-seated-high-pulley-overhead-triceps-extension
+name: Cable Seated High Pulley Overhead Triceps Extension
+human_readable_ids:
+- CableSeatedHighPulleyOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

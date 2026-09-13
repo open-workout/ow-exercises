@@ -1,0 +1,15 @@
+id: '5232'
+slug: dumbbell-deadlift-bent-over-row
+name: Dumbbell Deadlift Bent over Row
+human_readable_ids:
+- DumbbellDeadliftBentoverRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

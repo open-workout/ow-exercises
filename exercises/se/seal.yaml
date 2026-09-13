@@ -1,0 +1,14 @@
+id: '2877'
+slug: seal
+name: Seal
+human_readable_ids:
+- Seal
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

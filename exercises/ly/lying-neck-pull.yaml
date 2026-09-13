@@ -1,0 +1,14 @@
+id: '2853'
+slug: lying-neck-pull
+name: Lying Neck Pull
+human_readable_ids:
+- LyingNeckPull
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

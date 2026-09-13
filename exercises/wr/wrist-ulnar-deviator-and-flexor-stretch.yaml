@@ -1,0 +1,14 @@
+id: '1825'
+slug: wrist-ulnar-deviator-and-flexor-stretch
+name: Wrist Ulnar Deviator And Flexor Stretch
+human_readable_ids:
+- WristUlnarDeviatorAndFlexorStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

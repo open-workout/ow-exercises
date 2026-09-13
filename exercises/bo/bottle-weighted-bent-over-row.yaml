@@ -1,0 +1,15 @@
+id: '6059'
+slug: bottle-weighted-bent-over-row
+name: Bottle Weighted Bent Over Row
+human_readable_ids:
+- BottleWeightedBentOverRow
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

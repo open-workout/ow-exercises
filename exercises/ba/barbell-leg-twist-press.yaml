@@ -1,0 +1,15 @@
+id: '2811'
+slug: barbell-leg-twist-press
+name: Barbell Leg Twist Press
+human_readable_ids:
+- BarbellLegTwistPress
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

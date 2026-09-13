@@ -1,0 +1,15 @@
+id: '1648'
+slug: dumbbell-alternate-seated-hammer-curl
+name: Dumbbell Alternate Seated Hammer Curl
+human_readable_ids:
+- DumbbellAlternateSeatedHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

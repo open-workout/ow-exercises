@@ -1,0 +1,14 @@
+id: '1965'
+slug: seated-toe-flexor-stretch
+name: Seated Toe Flexor Stretch
+human_readable_ids:
+- SeatedToeFlexorStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

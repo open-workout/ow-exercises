@@ -1,0 +1,14 @@
+id: '6793'
+slug: posterior-chain-flexibility-test
+name: Posterior Chain Flexibility Test
+human_readable_ids:
+- PosteriorChainFlexibilityTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

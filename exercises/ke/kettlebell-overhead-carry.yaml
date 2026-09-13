@@ -1,0 +1,15 @@
+id: '4244'
+slug: kettlebell-overhead-carry
+name: Kettlebell Overhead Carry
+human_readable_ids:
+- KettlebellOverheadCarry
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

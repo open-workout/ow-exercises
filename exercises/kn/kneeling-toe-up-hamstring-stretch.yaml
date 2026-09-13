@@ -1,0 +1,14 @@
+id: '1913'
+slug: kneeling-toe-up-hamstring-stretch
+name: Kneeling Toe Up Hamstring Stretch
+human_readable_ids:
+- KneelingToeUpHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

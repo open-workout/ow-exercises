@@ -1,0 +1,15 @@
+id: '3207'
+slug: swimmer-kicks
+name: Swimmer Kicks
+human_readable_ids:
+- SwimmerKicks
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4328'
+slug: standing-scissors
+name: Standing Scissors
+human_readable_ids:
+- StandingScissors
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5984'
+slug: 123-back-drill
+name: 123 Back Drill
+human_readable_ids:
+- 123BackDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

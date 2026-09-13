@@ -1,0 +1,15 @@
+id: '10873'
+slug: weighted-dumbbell-crunch-hands-overhead
+name: Weighted Dumbbell Crunch (hands overhead)
+human_readable_ids:
+- WeightedDumbbellCrunch
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

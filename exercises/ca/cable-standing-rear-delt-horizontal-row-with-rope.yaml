@@ -1,0 +1,15 @@
+id: '3232'
+slug: cable-standing-rear-delt-horizontal-row-with-rope
+name: Cable Standing Rear Delt Horizontal Row (with rope)
+human_readable_ids:
+- CableStandingRearDeltHorizontalRow
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

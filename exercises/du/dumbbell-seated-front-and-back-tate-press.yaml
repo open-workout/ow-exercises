@@ -1,0 +1,15 @@
+id: '4157'
+slug: dumbbell-seated-front-and-back-tate-press
+name: Dumbbell Seated Front and Back Tate Press
+human_readable_ids:
+- DumbbellSeatedFrontandBackTatePress
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

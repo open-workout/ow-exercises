@@ -1,0 +1,15 @@
+id: '1859'
+slug: cable-kneeling-triceps-extension-version-2
+name: Cable Kneeling Triceps Extension (VERSION 2)
+human_readable_ids:
+- CableKneelingTricepsExtension2
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

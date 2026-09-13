@@ -1,0 +1,15 @@
+id: '4178'
+slug: barbell-elevated-heel-squat
+name: Barbell Elevated Heel Squat
+human_readable_ids:
+- BarbellElevatedHeelSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

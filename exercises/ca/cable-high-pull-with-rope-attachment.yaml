@@ -1,0 +1,15 @@
+id: '6648'
+slug: cable-high-pull-with-rope-attachment
+name: Cable High Pull with Rope Attachment
+human_readable_ids:
+- CableHighPullwithRopeAttachment
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

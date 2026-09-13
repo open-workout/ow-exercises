@@ -1,0 +1,15 @@
+id: 0986
+slug: band-one-arm-overhead-biceps-cur
+name: Band one arm overhead biceps cur
+human_readable_ids:
+- Bandonearmoverheadbicepscur
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

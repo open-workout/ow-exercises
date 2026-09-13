@@ -1,0 +1,15 @@
+id: '2856'
+slug: rocker-with-open-legs
+name: Rocker with Open Legs
+human_readable_ids:
+- RockerwithOpenLegs
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

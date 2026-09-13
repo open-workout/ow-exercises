@@ -1,0 +1,15 @@
+id: '0771'
+slug: smith-standing-back-wrist-curl
+name: Smith Standing Back Wrist Curl
+human_readable_ids:
+- SmithStandingBackWristCurl
+primary_muscles:
+- forearms
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

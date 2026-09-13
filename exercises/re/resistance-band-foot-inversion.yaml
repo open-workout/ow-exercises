@@ -1,0 +1,15 @@
+id: '3128'
+slug: resistance-band-foot-inversion
+name: Resistance Band Foot Inversion
+human_readable_ids:
+- ResistanceBandFootInversion
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

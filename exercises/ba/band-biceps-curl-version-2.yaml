@@ -1,0 +1,15 @@
+id: '4357'
+slug: band-biceps-curl-version-2
+name: Band Biceps Curl (VERSION 2)
+human_readable_ids:
+- BandBicepsCurl2
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3685'
+slug: dumbbell-chest-supported-lateral-raises
+name: Dumbbell Chest Supported Lateral Raises
+human_readable_ids:
+- DumbbellChestSupportedLateralRaises
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

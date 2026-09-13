@@ -1,0 +1,15 @@
+id: '4612'
+slug: bodyweight-standing-around-world-wall-supported
+name: Bodyweight Standing Around World Wall Supported
+human_readable_ids:
+- BodyweightStandingAroundWorldWallSupported
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4170'
+slug: bear-plank
+name: Bear Plank
+human_readable_ids:
+- BearPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

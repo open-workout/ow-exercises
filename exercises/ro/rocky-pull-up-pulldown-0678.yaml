@@ -1,0 +1,15 @@
+id: 0678
+slug: rocky-pull-up-pulldown-0678
+name: Rocky Pull-Up Pulldown
+human_readable_ids:
+- RockyPullUpPulldown
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

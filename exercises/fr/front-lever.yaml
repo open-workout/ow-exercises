@@ -1,0 +1,15 @@
+id: '3296'
+slug: front-lever
+name: Front Lever
+human_readable_ids:
+- FrontLever
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

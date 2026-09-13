@@ -1,0 +1,15 @@
+id: '0762'
+slug: smith-bent-over-row-version-2
+name: Smith Bent Over Row (VERSION 2)
+human_readable_ids:
+- SmithBentOverRow
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

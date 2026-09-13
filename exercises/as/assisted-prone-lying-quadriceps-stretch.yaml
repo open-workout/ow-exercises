@@ -1,0 +1,14 @@
+id: '1713'
+slug: assisted-prone-lying-quadriceps-stretch
+name: Assisted Prone Lying Quadriceps Stretch
+human_readable_ids:
+- AssistedProneLyingQuadricepsStretch
+primary_muscles:
+- quads
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

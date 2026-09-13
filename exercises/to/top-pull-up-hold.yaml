@@ -1,0 +1,15 @@
+id: '4983'
+slug: top-pull-up-hold
+name: Top Pull-up Hold
+human_readable_ids:
+- TopPullupHold
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

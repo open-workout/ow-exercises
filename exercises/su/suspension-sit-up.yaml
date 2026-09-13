@@ -1,0 +1,15 @@
+id: '1137'
+slug: suspension-sit-up
+name: Suspension Sit-up
+human_readable_ids:
+- SuspensionSitup
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

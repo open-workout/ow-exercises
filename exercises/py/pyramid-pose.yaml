@@ -1,0 +1,14 @@
+id: '5898'
+slug: pyramid-pose
+name: Pyramid Pose
+human_readable_ids:
+- PyramidPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

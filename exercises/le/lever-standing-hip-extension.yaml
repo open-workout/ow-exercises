@@ -1,0 +1,15 @@
+id: '1031'
+slug: lever-standing-hip-extension
+name: Lever Standing Hip Extension
+human_readable_ids:
+- LeverStandingHipExtension
+primary_muscles:
+- triceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

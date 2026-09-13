@@ -1,0 +1,15 @@
+id: '2894'
+slug: front-plank-with-arm-lift
+name: Front Plank with Arm Lift
+human_readable_ids:
+- FrontPlankwithArmLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

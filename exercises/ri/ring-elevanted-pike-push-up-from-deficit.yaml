@@ -1,0 +1,15 @@
+id: '9316'
+slug: ring-elevanted-pike-push-up-from-deficit
+name: Ring Elevanted Pike Push-up from deficit
+human_readable_ids:
+- RingElevantedPikePushupfromdeficit
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9515'
+slug: dumbbell-sitting-good-morning
+name: Dumbbell Sitting Good Morning
+human_readable_ids:
+- DumbbellSittingGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1754'
+slug: weighted-three-bench-dips
+name: Weighted Three Bench Dips
+human_readable_ids:
+- WeightedThreeBenchDips
+primary_muscles:
+- triceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

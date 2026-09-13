@@ -1,0 +1,15 @@
+id: '3096'
+slug: lever-alternating-narrow-grip-seated-row-plate-loaded
+name: Lever Alternating Narrow Grip Seated Row (plate loaded)
+human_readable_ids:
+- LeverAlternatingNarrowGripSeatedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

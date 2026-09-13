@@ -1,0 +1,14 @@
+id: '2992'
+slug: calf-self-massage-with-barbell
+name: Calf self massage with barbell
+human_readable_ids:
+- Calfselfmassagewithbarbell
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

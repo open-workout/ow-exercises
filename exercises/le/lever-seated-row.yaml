@@ -1,0 +1,15 @@
+id: '1350'
+slug: lever-seated-row
+name: Lever Seated Row
+human_readable_ids:
+- LeverSeatedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

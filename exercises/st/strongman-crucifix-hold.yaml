@@ -1,0 +1,15 @@
+id: '2717'
+slug: strongman-crucifix-hold
+name: StrongMan Crucifix Hold
+human_readable_ids:
+- StrongManCrucifixHold
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

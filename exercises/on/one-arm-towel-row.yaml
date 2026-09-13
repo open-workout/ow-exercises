@@ -1,0 +1,15 @@
+id: '1773'
+slug: one-arm-towel-row
+name: One Arm Towel Row
+human_readable_ids:
+- OneArmTowelRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

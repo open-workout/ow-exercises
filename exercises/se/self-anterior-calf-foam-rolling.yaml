@@ -1,0 +1,14 @@
+id: '2994'
+slug: self-anterior-calf-foam-rolling
+name: Self Anterior Calf Foam Rolling
+human_readable_ids:
+- SelfAnteriorCalfFoamRolling
+primary_muscles:
+- calves
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

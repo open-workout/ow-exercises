@@ -1,0 +1,15 @@
+id: 0819
+slug: twist-crunch-leg-up
+name: Twist Crunch (leg-up)
+human_readable_ids:
+- TwistCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

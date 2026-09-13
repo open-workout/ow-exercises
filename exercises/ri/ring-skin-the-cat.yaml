@@ -1,0 +1,14 @@
+id: '10663'
+slug: ring-skin-the-cat
+name: Ring Skin the Cat
+human_readable_ids:
+- RingSkintheCat
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

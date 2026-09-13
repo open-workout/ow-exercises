@@ -1,0 +1,15 @@
+id: 0584
+slug: lever-lateral-raise
+name: Lever Lateral Raise
+human_readable_ids:
+- LeverLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

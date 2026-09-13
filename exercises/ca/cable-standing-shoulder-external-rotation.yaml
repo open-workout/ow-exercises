@@ -1,0 +1,15 @@
+id: '0235'
+slug: cable-standing-shoulder-external-rotation
+name: Cable Standing Shoulder External Rotation
+human_readable_ids:
+- CableStandingShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5970'
+slug: heel-to-toe-walk
+name: Heel to Toe Walk
+human_readable_ids:
+- HeeltoToeWalk
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

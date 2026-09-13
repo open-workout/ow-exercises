@@ -1,0 +1,15 @@
+id: '4127'
+slug: weighted-dead-bug
+name: Weighted Dead Bug
+human_readable_ids:
+- WeightedDeadBug
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

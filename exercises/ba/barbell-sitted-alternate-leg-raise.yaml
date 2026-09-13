@@ -1,0 +1,15 @@
+id: '2799'
+slug: barbell-sitted-alternate-leg-raise
+name: Barbell Sitted Alternate Leg Raise
+human_readable_ids:
+- BarbellSittedAlternateLegRaise
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1986'
+slug: arm-up-rotator-stretch
+name: Arm Up Rotator Stretch
+human_readable_ids:
+- ArmUpRotatorStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6052'
+slug: bottle-weighted-overhead-crunch
+name: Bottle Weighted Overhead Crunch
+human_readable_ids:
+- BottleWeightedOverheadCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

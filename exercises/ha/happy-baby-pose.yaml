@@ -1,0 +1,14 @@
+id: '5917'
+slug: happy-baby-pose
+name: Happy Baby Pose
+human_readable_ids:
+- HappyBabyPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '8431'
+slug: seated-overhead-stretch-on-a-chair
+name: Seated Overhead Stretch on a Chair
+human_readable_ids:
+- SeatedOverheadStretchonaChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

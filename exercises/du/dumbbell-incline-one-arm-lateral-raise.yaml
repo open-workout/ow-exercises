@@ -1,0 +1,15 @@
+id: '0323'
+slug: dumbbell-incline-one-arm-lateral-raise
+name: Dumbbell Incline One Arm Lateral Raise
+human_readable_ids:
+- DumbbellInclineOneArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

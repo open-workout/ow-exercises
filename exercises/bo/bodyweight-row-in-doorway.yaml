@@ -1,0 +1,15 @@
+id: '3506'
+slug: bodyweight-row-in-doorway
+name: Bodyweight Row in Doorway
+human_readable_ids:
+- BodyweightRowinDoorway
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1041'
+slug: lever-lying-chest-press-plate-loaded
+name: Lever Lying Chest Press (plate loaded)
+human_readable_ids:
+- LeverLyingChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

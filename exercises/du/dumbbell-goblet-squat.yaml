@@ -1,0 +1,16 @@
+id: '1760'
+slug: dumbbell-goblet-squat
+name: Dumbbell Goblet Squat
+human_readable_ids:
+- DumbbellGobletSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

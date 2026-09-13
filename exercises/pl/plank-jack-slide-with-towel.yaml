@@ -1,0 +1,15 @@
+id: '5158'
+slug: plank-jack-slide-with-towel
+name: Plank Jack Slide with Towel
+human_readable_ids:
+- PlankJackSlidewithTowel
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

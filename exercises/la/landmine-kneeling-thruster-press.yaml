@@ -1,0 +1,17 @@
+id: '5282'
+slug: landmine-kneeling-thruster-press
+name: Landmine Kneeling Thruster Press
+human_readable_ids:
+- LandmineKneelingThrusterPress
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

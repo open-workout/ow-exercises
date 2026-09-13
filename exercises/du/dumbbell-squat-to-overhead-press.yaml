@@ -1,0 +1,15 @@
+id: '5066'
+slug: dumbbell-squat-to-overhead-press
+name: Dumbbell Squat to Overhead Press
+human_readable_ids:
+- DumbbellSquattoOverheadPress
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

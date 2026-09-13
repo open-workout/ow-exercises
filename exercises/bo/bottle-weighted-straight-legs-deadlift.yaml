@@ -1,0 +1,15 @@
+id: '6049'
+slug: bottle-weighted-straight-legs-deadlift
+name: Bottle Weighted Straight Legs Deadlift
+human_readable_ids:
+- BottleWeightedStraightLegsDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4680'
+slug: bar-band-standing-triceps-extension
+name: Bar Band Standing Triceps Extension
+human_readable_ids:
+- BarBandStandingTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

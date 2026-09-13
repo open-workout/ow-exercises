@@ -1,0 +1,15 @@
+id: '10730'
+slug: weighted-sandbag-romanian-deadlift
+name: Weighted Sandbag Romanian Deadlift
+human_readable_ids:
+- WeightedSandbagRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

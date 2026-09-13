@@ -1,0 +1,15 @@
+id: '6063'
+slug: bottle-weighted-concentration-curl
+name: Bottle Weighted Concentration Curl
+human_readable_ids:
+- BottleWeightedConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

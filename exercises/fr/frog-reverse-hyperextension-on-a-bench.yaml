@@ -1,0 +1,16 @@
+id: '3179'
+slug: frog-reverse-hyperextension-on-a-bench
+name: Frog Reverse Hyperextension (on a bench)
+human_readable_ids:
+- FrogReverseHyperextension
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

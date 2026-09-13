@@ -1,0 +1,15 @@
+id: '7234'
+slug: dumbbell-standing-scapular-external-rotation
+name: Dumbbell Standing Scapular External Rotation
+human_readable_ids:
+- DumbbellStandingScapularExternalRotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

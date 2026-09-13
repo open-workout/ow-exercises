@@ -1,0 +1,15 @@
+id: '4571'
+slug: resistance-band-push-up
+name: Resistance Band Push-Up
+human_readable_ids:
+- ResistanceBandPushUp
+primary_muscles:
+- chest
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

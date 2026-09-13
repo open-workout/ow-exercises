@@ -1,0 +1,15 @@
+id: '1620'
+slug: dumbbell-incline-one-arm-hammer-press-on-exercise-ball
+name: Dumbbell Incline One Arm Hammer Press on Exercise Ball
+human_readable_ids:
+- DumbbellInclineOneArmHammerPressonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

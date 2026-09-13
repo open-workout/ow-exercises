@@ -1,0 +1,15 @@
+id: '1616'
+slug: lever-reverse-grip-preacher-curl
+name: Lever Reverse Grip Preacher Curl
+human_readable_ids:
+- LeverReverseGripPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

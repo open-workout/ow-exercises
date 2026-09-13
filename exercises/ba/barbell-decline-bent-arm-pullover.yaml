@@ -1,0 +1,15 @@
+id: '0034'
+slug: barbell-decline-bent-arm-pullover
+name: Barbell Decline Bent Arm Pullover
+human_readable_ids:
+- BarbellDeclineBentArmPullover
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

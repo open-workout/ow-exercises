@@ -1,0 +1,15 @@
+id: '1456'
+slug: barbell-standing-close-grip-military-press
+name: Barbell Standing Close Grip Military Press
+human_readable_ids:
+- BarbellStandingCloseGripMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

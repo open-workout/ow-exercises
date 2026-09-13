@@ -1,0 +1,15 @@
+id: '0657'
+slug: push-up-one-arm-on-stability-ball
+name: Push-up (one arm on stability ball)
+human_readable_ids:
+- Pushup4
+primary_muscles:
+- chest
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

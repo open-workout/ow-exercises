@@ -1,0 +1,15 @@
+id: '1862'
+slug: lever-cable-shoulder-press
+name: Lever Cable Shoulder Press
+human_readable_ids:
+- LeverCableShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

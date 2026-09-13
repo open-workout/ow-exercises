@@ -1,0 +1,15 @@
+id: '4584'
+slug: boxing-right-hook-with-boxing-bag
+name: Boxing Right Hook (with boxing bag)
+human_readable_ids:
+- BoxingRightHook
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

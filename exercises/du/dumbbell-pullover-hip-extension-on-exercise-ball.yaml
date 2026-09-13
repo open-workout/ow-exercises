@@ -1,0 +1,15 @@
+id: '1294'
+slug: dumbbell-pullover-hip-extension-on-exercise-ball
+name: Dumbbell Pullover Hip Extension on Exercise Ball
+human_readable_ids:
+- DumbbellPulloverHipExtensiononExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

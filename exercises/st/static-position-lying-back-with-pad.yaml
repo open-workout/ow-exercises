@@ -1,0 +1,13 @@
+id: '3136'
+slug: static-position-lying-back-with-pad
+name: Static Position Lying Back with Pad
+human_readable_ids:
+- StaticPositionLyingBackwithPad
+primary_muscles: []
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

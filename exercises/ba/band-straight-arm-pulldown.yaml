@@ -1,0 +1,15 @@
+id: 0928
+slug: band-straight-arm-pulldown
+name: Band straight-arm pulldown
+human_readable_ids:
+- Bandstraightarmpulldown
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

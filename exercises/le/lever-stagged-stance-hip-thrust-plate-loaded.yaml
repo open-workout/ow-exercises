@@ -1,0 +1,15 @@
+id: '11054'
+slug: lever-stagged-stance-hip-thrust-plate-loaded
+name: Lever Stagged Stance Hip Thrust (plate loaded)
+human_readable_ids:
+- LeverStaggedStanceHipThrust
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

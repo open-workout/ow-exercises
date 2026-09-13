@@ -1,0 +1,17 @@
+id: '4541'
+slug: kettlebell-one-arm-thruster
+name: Kettlebell One Arm Thruster
+human_readable_ids:
+- KettlebellOneArmThruster
+primary_muscles:
+- glutes
+- shoulders
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

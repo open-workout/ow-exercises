@@ -1,0 +1,14 @@
+id: 0941
+slug: bridge-pose-setu-bandhasana
+name: Bridge Pose Setu Bandhasana
+human_readable_ids:
+- BridgePoseSetuBandhasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

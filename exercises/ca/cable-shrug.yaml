@@ -1,0 +1,15 @@
+id: '0220'
+slug: cable-shrug
+name: Cable Shrug
+human_readable_ids:
+- CableShrug
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

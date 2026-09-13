@@ -1,0 +1,15 @@
+id: '11049'
+slug: seated-bent-knee-abduction-feet-floor-off
+name: Seated Bent Knee Abduction Feet Floor Off
+human_readable_ids:
+- SeatedBentKneeAbductionFeetFloorOff
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

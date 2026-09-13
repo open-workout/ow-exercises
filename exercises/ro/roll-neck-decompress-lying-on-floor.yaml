@@ -1,0 +1,14 @@
+id: '5372'
+slug: roll-neck-decompress-lying-on-floor
+name: Roll Neck Decompress Lying on Floor
+human_readable_ids:
+- RollNeckDecompressLyingonFloor
+primary_muscles:
+- neck
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1753'
+slug: three-bench-dip
+name: Three Bench Dip
+human_readable_ids:
+- ThreeBenchDip
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3722'
+slug: barbell-incline-lying-rear-delt-raise
+name: Barbell Incline Lying Rear Delt Raise
+human_readable_ids:
+- BarbellInclineLyingRearDeltRaise
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0572'
+slug: lever-assisted-chin-up
+name: Lever Assisted Chin-Up
+human_readable_ids:
+- LeverAssistedChinUp
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

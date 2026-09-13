@@ -1,0 +1,15 @@
+id: '5052'
+slug: single-leg-calf-raise-off-step
+name: Single Leg Calf Raise Off Step
+human_readable_ids:
+- SingleLegCalfRaiseOffStep
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

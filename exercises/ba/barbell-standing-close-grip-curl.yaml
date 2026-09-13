@@ -1,0 +1,15 @@
+id: '0106'
+slug: barbell-standing-close-grip-curl
+name: Barbell Standing Close Grip Curl
+human_readable_ids:
+- BarbellStandingCloseGripCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

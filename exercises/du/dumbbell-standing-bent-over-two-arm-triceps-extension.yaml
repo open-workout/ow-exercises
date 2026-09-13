@@ -1,0 +1,15 @@
+id: '1741'
+slug: dumbbell-standing-bent-over-two-arm-triceps-extension
+name: Dumbbell Standing Bent Over Two Arm Triceps Extension
+human_readable_ids:
+- DumbbellStandingBentOverTwoArmTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

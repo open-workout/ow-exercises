@@ -1,0 +1,15 @@
+id: '3879'
+slug: dumbbell-poliquin-lateral-raise
+name: Dumbbell Poliquin Lateral Raise
+human_readable_ids:
+- DumbbellPoliquinLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

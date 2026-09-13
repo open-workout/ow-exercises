@@ -1,0 +1,15 @@
+id: '0073'
+slug: barbell-pullover
+name: Barbell Pullover
+human_readable_ids:
+- BarbellPullover
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

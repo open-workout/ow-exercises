@@ -1,0 +1,15 @@
+id: '6263'
+slug: barbell-standing-wrist-reverse-curl
+name: Barbell Standing Wrist Reverse Curl
+human_readable_ids:
+- BarbellStandingWristReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

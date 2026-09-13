@@ -1,0 +1,15 @@
+id: 0860
+slug: cable-kickback
+name: Cable kickback
+human_readable_ids:
+- Cablekickback
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

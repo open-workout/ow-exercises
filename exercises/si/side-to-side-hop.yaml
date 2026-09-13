@@ -1,0 +1,15 @@
+id: '5153'
+slug: side-to-side-hop
+name: Side to Side Hop
+human_readable_ids:
+- SidetoSideHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

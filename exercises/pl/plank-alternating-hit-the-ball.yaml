@@ -1,0 +1,15 @@
+id: '10554'
+slug: plank-alternating-hit-the-ball
+name: Plank Alternating Hit the Ball
+human_readable_ids:
+- PlankAlternatingHittheBall
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

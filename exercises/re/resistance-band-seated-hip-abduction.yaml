@@ -1,0 +1,15 @@
+id: '3005'
+slug: resistance-band-seated-hip-abduction
+name: Resistance Band Seated Hip Abduction
+human_readable_ids:
+- ResistanceBandSeatedHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

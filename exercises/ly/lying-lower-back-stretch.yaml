@@ -1,0 +1,14 @@
+id: '3243'
+slug: lying-lower-back-stretch
+name: Lying Lower Back Stretch
+human_readable_ids:
+- LyingLowerBackStretch2
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

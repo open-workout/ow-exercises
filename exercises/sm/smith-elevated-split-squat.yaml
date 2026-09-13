@@ -1,0 +1,15 @@
+id: '9042'
+slug: smith-elevated-split-squat
+name: Smith Elevated Split Squat
+human_readable_ids:
+- SmithElevatedSplitSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

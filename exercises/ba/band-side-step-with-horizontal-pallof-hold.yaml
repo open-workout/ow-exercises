@@ -1,0 +1,15 @@
+id: '3776'
+slug: band-side-step-with-horizontal-pallof-hold
+name: Band Side Step with Horizontal Pallof Hold
+human_readable_ids:
+- BandSideStepwithHorizontalPallofHold
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

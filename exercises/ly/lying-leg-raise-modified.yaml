@@ -1,0 +1,15 @@
+id: '4419'
+slug: lying-leg-raise-modified
+name: Lying Leg Raise (Modified)
+human_readable_ids:
+- LyingLegRaise2
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

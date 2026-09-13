@@ -1,0 +1,15 @@
+id: '0006'
+slug: alternate-heel-touchers
+name: Alternate Heel Touchers
+human_readable_ids:
+- AlternateHeelTouchers
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '11789'
+slug: barbell-staggered-stance-stiff-legged-deadlift
+name: Barbell Staggered Stance Stiff Legged Deadlift
+human_readable_ids:
+- BarbellStaggeredStanceStiffLeggedDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

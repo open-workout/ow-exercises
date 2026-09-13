@@ -1,0 +1,15 @@
+id: '3892'
+slug: jump-on-fit-box
+name: Jump on Fit-Box
+human_readable_ids:
+- JumponFitBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

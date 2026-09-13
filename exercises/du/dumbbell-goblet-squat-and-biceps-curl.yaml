@@ -1,0 +1,15 @@
+id: '4738'
+slug: dumbbell-goblet-squat-and-biceps-curl
+name: Dumbbell Goblet Squat and Biceps Curl
+human_readable_ids:
+- DumbbellGobletSquatandBicepsCurl
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

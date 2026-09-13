@@ -1,0 +1,15 @@
+id: '5166'
+slug: single-leg-box-jump
+name: Single Leg Box Jump
+human_readable_ids:
+- SingleLegBoxJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

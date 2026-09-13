@@ -1,0 +1,15 @@
+id: '6692'
+slug: barbell-deadlift-side-pov
+name: Barbell Deadlift (side POV)
+human_readable_ids:
+- BarbellDeadlift2
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

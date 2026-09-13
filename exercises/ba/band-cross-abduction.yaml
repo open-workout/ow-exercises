@@ -1,0 +1,15 @@
+id: '4136'
+slug: band-cross-abduction
+name: Band Cross Abduction
+human_readable_ids:
+- BandCrossAbduction
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

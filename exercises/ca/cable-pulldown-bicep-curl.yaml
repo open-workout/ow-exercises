@@ -1,0 +1,15 @@
+id: '1638'
+slug: cable-pulldown-bicep-curl
+name: Cable Pulldown Bicep Curl
+human_readable_ids:
+- CablePulldownBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '4949'
+slug: bodyweight-forward-lunge-hinge-at-hips
+name: Bodyweight Forward Lunge (Hinge at Hips)
+human_readable_ids:
+- BodyweightForwardLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

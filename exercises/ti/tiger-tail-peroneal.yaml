@@ -1,0 +1,15 @@
+id: '4223'
+slug: tiger-tail-peroneal
+name: Tiger Tail Peroneal
+human_readable_ids:
+- TigerTailPeroneal
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '2847'
+slug: jackknife
+name: JackKnife
+human_readable_ids:
+- JackKnife
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

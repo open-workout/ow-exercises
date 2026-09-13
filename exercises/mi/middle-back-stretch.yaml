@@ -1,0 +1,14 @@
+id: '0626'
+slug: middle-back-stretch
+name: Middle Back Stretch
+human_readable_ids:
+- MiddleBackStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

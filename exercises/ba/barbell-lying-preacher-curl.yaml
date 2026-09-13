@@ -1,0 +1,15 @@
+id: 0059
+slug: barbell-lying-preacher-curl
+name: Barbell Lying Preacher Curl
+human_readable_ids:
+- BarbellLyingPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

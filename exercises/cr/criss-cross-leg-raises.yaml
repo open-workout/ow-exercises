@@ -1,0 +1,17 @@
+id: '4020'
+slug: criss-cross-leg-raises
+name: Criss Cross Leg Raises
+human_readable_ids:
+- CrissCrossLegRaises
+primary_muscles:
+- adductors
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

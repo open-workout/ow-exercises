@@ -1,0 +1,15 @@
+id: '0537'
+slug: kettlebell-one-arm-clean-and-jerk
+name: Kettlebell One Arm Clean and Jerk
+human_readable_ids:
+- KettlebellOneArmCleanandJerk
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

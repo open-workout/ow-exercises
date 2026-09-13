@@ -1,0 +1,15 @@
+id: '3452'
+slug: dumbbell-svend-press
+name: Dumbbell Svend Press
+human_readable_ids:
+- DumbbellSvendPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1335'
+slug: exercise-ball-back-extension-with-knees-off-ground
+name: Exercise Ball Back Extension With Knees Off Ground
+human_readable_ids:
+- ExerciseBallBackExtensionWithKneesOffGround
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '2788'
+slug: spine-lumbar-rotation-articulations
+name: Spine (Lumbar) - Rotation - Articulations
+human_readable_ids:
+- SpineRotationArticulations
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

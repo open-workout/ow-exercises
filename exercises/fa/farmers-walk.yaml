@@ -1,0 +1,19 @@
+id: '2133'
+slug: farmers-walk
+name: Farmers walk
+human_readable_ids:
+- Farmerswalk
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

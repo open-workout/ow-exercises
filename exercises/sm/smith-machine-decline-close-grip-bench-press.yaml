@@ -1,0 +1,15 @@
+id: '1625'
+slug: smith-machine-decline-close-grip-bench-press
+name: Smith Machine Decline Close Grip Bench Press
+human_readable_ids:
+- SmithMachineDeclineCloseGripBenchPress
+primary_muscles:
+- biceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

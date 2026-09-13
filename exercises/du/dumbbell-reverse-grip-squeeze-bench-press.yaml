@@ -1,0 +1,15 @@
+id: '4836'
+slug: dumbbell-reverse-grip-squeeze-bench-press
+name: Dumbbell Reverse Grip Squeeze Bench Press
+human_readable_ids:
+- DumbbellReverseGripSqueezeBenchPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

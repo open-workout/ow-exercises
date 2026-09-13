@@ -1,0 +1,15 @@
+id: '10191'
+slug: clock-goblet-squat
+name: Clock Goblet Squat
+human_readable_ids:
+- ClockGobletSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

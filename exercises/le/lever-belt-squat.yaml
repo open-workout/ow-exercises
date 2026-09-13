@@ -1,0 +1,15 @@
+id: '2950'
+slug: lever-belt-squat
+name: Lever Belt Squat
+human_readable_ids:
+- LeverBeltSquat
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

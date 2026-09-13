@@ -1,0 +1,15 @@
+id: '4848'
+slug: barbell-pin-front-squat
+name: Barbell Pin Front Squat
+human_readable_ids:
+- BarbellPinFrontSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

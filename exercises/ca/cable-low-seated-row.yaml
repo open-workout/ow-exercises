@@ -1,0 +1,15 @@
+id: 0180
+slug: cable-low-seated-row
+name: Cable Low Seated Row
+human_readable_ids:
+- CableLowSeatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '6879'
+slug: supported-headstand-yoga-pose-sirsasana
+name: Supported Headstand Yoga Pose Sirsasana
+human_readable_ids:
+- SupportedHeadstandYogaPoseSirsasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

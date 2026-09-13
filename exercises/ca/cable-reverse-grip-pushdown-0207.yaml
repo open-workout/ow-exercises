@@ -1,0 +1,15 @@
+id: '0207'
+slug: cable-reverse-grip-pushdown-0207
+name: Cable Reverse-grip Pushdown
+human_readable_ids:
+- CableReversegripPushdown
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '10654'
+slug: pilates-machine-lying-knee-extension-on-toes
+name: Pilates Machine Lying Knee Extension on Toes
+human_readable_ids:
+- PilatesMachineLyingKneeExtensiononToes
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

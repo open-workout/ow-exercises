@@ -1,0 +1,14 @@
+id: '5907'
+slug: warrior-iii-pose
+name: Warrior III Pose
+human_readable_ids:
+- WarriorIIIPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

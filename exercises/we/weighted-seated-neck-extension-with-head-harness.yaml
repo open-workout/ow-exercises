@@ -1,0 +1,15 @@
+id: 0848
+slug: weighted-seated-neck-extension-with-head-harness
+name: Weighted Seated Neck Extension (with head harness)
+human_readable_ids:
+- WeightedSeatedNeckExtension
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added
