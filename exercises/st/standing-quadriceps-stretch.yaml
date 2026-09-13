@@ -1,6 +1,8 @@
 id: '1059'
 slug: standing-quadriceps-stretch
 name: Standing Quadriceps Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StandingQuadricepsStretch
 primary_muscles:

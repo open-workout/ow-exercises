@@ -1,6 +1,8 @@
 id: 0954
 slug: hero-pose-virasana
 name: Hero Pose Virasana
+alt_names:
+  en: []
 human_readable_ids:
 - HeroPoseVirasana
 primary_muscles:

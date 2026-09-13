@@ -1,6 +1,8 @@
 id: '0170'
 slug: cable-incline-fly-on-stability-ball
 name: Cable Incline Fly (on stability ball)
+alt_names:
+  en: []
 human_readable_ids:
 - CableInclineFly
 primary_muscles:

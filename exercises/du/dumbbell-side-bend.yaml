@@ -1,6 +1,8 @@
 id: '0407'
 slug: dumbbell-side-bend
 name: Dumbbell Side Bend
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSideBend
 primary_muscles:

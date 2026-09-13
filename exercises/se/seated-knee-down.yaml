@@ -1,6 +1,8 @@
 id: '11654'
 slug: seated-knee-down
 name: Seated Knee Down
+alt_names:
+  en: []
 human_readable_ids:
 - SeatedKneeDown
 primary_muscles:

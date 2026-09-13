@@ -1,6 +1,8 @@
 id: '2982'
 slug: dumbbell-alternating-floor-press
 name: Dumbbell Alternating Floor Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellAlternatingFloorPress
 primary_muscles:

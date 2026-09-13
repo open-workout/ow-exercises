@@ -1,6 +1,8 @@
 id: '9865'
 slug: lever-belt-deadlift-v-bar
 name: Lever Belt Deadlift (V bar)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverBeltDeadlift
 primary_muscles:

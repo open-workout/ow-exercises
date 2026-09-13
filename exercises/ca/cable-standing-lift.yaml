@@ -1,6 +1,8 @@
 id: '0230'
 slug: cable-standing-lift
 name: Cable Standing Lift
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingLift
 primary_muscles:

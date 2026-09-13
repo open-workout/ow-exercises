@@ -1,6 +1,8 @@
 id: '1077'
 slug: suspension-hip-abduction
 name: Suspension Hip Abduction
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionHipAbduction
 primary_muscles:

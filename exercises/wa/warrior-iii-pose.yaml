@@ -1,6 +1,8 @@
 id: '5907'
 slug: warrior-iii-pose
 name: Warrior III Pose
+alt_names:
+  en: []
 human_readable_ids:
 - WarriorIIIPose
 primary_muscles:

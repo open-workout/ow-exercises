@@ -1,6 +1,8 @@
 id: '0067'
 slug: barbell-one-arm-snatch
 name: Barbell One Arm Snatch
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellOneArmSnatch
 primary_muscles:

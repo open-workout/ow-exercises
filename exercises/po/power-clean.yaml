@@ -1,6 +1,8 @@
 id: 0648
 slug: power-clean
 name: Power Clean
+alt_names:
+  en: []
 human_readable_ids:
 - PowerClean
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2849'
 slug: leg-pull
 name: Leg Pull
+alt_names:
+  en: []
 human_readable_ids:
 - LegPull
 primary_muscles:

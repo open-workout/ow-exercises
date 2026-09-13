@@ -1,6 +1,8 @@
 id: '0640'
 slug: one-arm-slam-with-medicine-ball
 name: One Arm Slam (with medicine ball)
+alt_names:
+  en: []
 human_readable_ids:
 - OneArmSlam
 primary_muscles:

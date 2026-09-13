@@ -1,6 +1,8 @@
 id: '4749'
 slug: dumbbell-rdl-and-bent-over-row
 name: Dumbbell RDL and Bent over Row
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellRDLandBentoverRow
 primary_muscles:

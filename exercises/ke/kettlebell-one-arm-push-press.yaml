@@ -1,6 +1,8 @@
 id: '0540'
 slug: kettlebell-one-arm-push-press
 name: Kettlebell One Arm Push Press
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellOneArmPushPress
 primary_muscles:

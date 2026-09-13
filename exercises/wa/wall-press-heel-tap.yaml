@@ -1,6 +1,8 @@
 id: '4096'
 slug: wall-press-heel-tap
 name: Wall Press Heel Tap
+alt_names:
+  en: []
 human_readable_ids:
 - WallPressHeelTap
 primary_muscles:

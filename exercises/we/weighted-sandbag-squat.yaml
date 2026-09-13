@@ -1,6 +1,8 @@
 id: '10384'
 slug: weighted-sandbag-squat
 name: Weighted Sandbag Squat
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSandbagSquat
 primary_muscles:

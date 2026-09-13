@@ -1,6 +1,8 @@
 id: '10054'
 slug: barbell-static-lunge
 name: Barbell Static Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStaticLunge
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4180'
 slug: cable-seated-pullover
 name: Cable Seated Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - CableSeatedPullover
 primary_muscles:

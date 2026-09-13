@@ -1,6 +1,8 @@
 id: '1510'
 slug: crossover-reverse-lunge
 name: Crossover Reverse Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - CrossoverReverseLunge
 primary_muscles:

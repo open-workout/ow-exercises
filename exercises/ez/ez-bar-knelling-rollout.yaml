@@ -1,6 +1,8 @@
 id: '4189'
 slug: ez-bar-knelling-rollout
 name: EZ-Bar Knelling Rollout
+alt_names:
+  en: []
 human_readable_ids:
 - EZBarKnellingRollout
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3224'
 slug: jack-jump
 name: Jack Jump
+alt_names:
+  en: []
 human_readable_ids:
 - JackJump
 primary_muscles:

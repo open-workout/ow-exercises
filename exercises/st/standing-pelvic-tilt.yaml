@@ -1,6 +1,8 @@
 id: '1364'
 slug: standing-pelvic-tilt
 name: Standing Pelvic Tilt
+alt_names:
+  en: []
 human_readable_ids:
 - StandingPelvicTilt
 primary_muscles:

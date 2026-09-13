@@ -1,6 +1,8 @@
 id: '0715'
 slug: side-plank
 name: Side Plank
+alt_names:
+  en: []
 human_readable_ids:
 - SidePlank2
 primary_muscles:

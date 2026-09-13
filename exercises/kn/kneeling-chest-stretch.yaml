@@ -1,6 +1,8 @@
 id: '1785'
 slug: kneeling-chest-stretch
 name: Kneeling Chest Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - KneelingChestStretch
 primary_muscles:

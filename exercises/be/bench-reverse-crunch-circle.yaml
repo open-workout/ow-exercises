@@ -1,6 +1,8 @@
 id: '4333'
 slug: bench-reverse-crunch-circle
 name: Bench Reverse Crunch Circle
+alt_names:
+  en: []
 human_readable_ids:
 - BenchReverseCrunchCircle
 primary_muscles:

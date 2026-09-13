@@ -1,6 +1,8 @@
 id: '1655'
 slug: dumbbell-biceps-curl-squat
 name: Dumbbell Biceps Curl Squat
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBicepsCurlSquat
 primary_muscles:

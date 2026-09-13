@@ -1,6 +1,8 @@
 id: '2419'
 slug: resistance-band-leg-lift
 name: Resistance Band Leg Lift
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandLegLift
 primary_muscles:

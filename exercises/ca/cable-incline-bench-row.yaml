@@ -1,6 +1,8 @@
 id: '1318'
 slug: cable-incline-bench-row
 name: Cable Incline Bench Row
+alt_names:
+  en: []
 human_readable_ids:
 - CableInclineBenchRow
 primary_muscles:

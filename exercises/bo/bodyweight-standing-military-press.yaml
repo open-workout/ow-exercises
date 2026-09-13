@@ -1,6 +1,8 @@
 id: '4346'
 slug: bodyweight-standing-military-press
 name: Bodyweight Standing Military Press
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightStandingMilitaryPress
 primary_muscles:

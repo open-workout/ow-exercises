@@ -1,6 +1,8 @@
 id: '4756'
 slug: dumbbell-sit-up
 name: Dumbbell Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSitup
 primary_muscles:

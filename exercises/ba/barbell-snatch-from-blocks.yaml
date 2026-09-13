@@ -1,6 +1,8 @@
 id: '1536'
 slug: barbell-snatch-from-blocks
 name: Barbell Snatch from Blocks
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSnatchfromBlocks
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3011'
 slug: incline-scapula-push-up
 name: Incline Scapula Push up
+alt_names:
+  en: []
 human_readable_ids:
 - InclineScapulaPushup
 primary_muscles:

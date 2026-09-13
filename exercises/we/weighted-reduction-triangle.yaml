@@ -1,6 +1,8 @@
 id: 0843
 slug: weighted-reduction-triangle
 name: Weighted Reduction Triangle
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedReductionTriangle
 primary_muscles:

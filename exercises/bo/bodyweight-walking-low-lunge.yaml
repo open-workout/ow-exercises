@@ -1,6 +1,8 @@
 id: '9700'
 slug: bodyweight-walking-low-lunge
 name: Bodyweight Walking Low Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightWalkingLowLunge
 primary_muscles:

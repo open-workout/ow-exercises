@@ -1,6 +1,8 @@
 id: '3399'
 slug: barbell-front-rack-lunge
 name: Barbell Front Rack Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFrontRackLunge
 primary_muscles:

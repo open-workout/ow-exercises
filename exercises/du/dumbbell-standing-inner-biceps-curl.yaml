@@ -1,6 +1,8 @@
 id: '1228'
 slug: dumbbell-standing-inner-biceps-curl
 name: Dumbbell Standing Inner Biceps Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingInnerBicepsCurl
 primary_muscles:

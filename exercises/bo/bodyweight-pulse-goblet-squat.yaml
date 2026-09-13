@@ -1,6 +1,8 @@
 id: '9702'
 slug: bodyweight-pulse-goblet-squat
 name: Bodyweight Pulse Goblet Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightPulseGobletSquat
 primary_muscles:

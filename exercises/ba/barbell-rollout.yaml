@@ -1,6 +1,8 @@
 id: 0084
 slug: barbell-rollout
 name: Barbell Rollout
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellRollout
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4332'
 slug: crunch-hold
 name: Crunch Hold
+alt_names:
+  en: []
 human_readable_ids:
 - CrunchHold
 primary_muscles:

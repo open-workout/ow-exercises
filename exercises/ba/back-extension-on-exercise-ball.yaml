@@ -1,6 +1,8 @@
 id: '1314'
 slug: back-extension-on-exercise-ball
 name: Back Extension on Exercise Ball
+alt_names:
+  en: []
 human_readable_ids:
 - BackExtensiononExerciseBall
 primary_muscles:

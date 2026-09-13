@@ -1,6 +1,8 @@
 id: '1039'
 slug: lever-full-squat
 name: Lever Full Squat
+alt_names:
+  en: []
 human_readable_ids:
 - LeverFullSquat
 primary_muscles:

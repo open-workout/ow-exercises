@@ -1,6 +1,8 @@
 id: '10048'
 slug: cable-step-up
 name: Cable Step-up
+alt_names:
+  en: []
 human_readable_ids:
 - CableStepup
 primary_muscles:

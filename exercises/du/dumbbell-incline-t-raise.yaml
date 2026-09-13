@@ -1,6 +1,8 @@
 id: '3542'
 slug: dumbbell-incline-t-raise
 name: Dumbbell Incline T-Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellInclineTRaise
 primary_muscles:

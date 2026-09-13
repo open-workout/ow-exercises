@@ -1,6 +1,8 @@
 id: '9510'
 slug: partner-assisted-pull-up
 name: Partner Assisted Pull-up
+alt_names:
+  en: []
 human_readable_ids:
 - PartnerAssistedPullup
 primary_muscles:

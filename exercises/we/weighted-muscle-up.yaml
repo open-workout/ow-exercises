@@ -1,6 +1,8 @@
 id: '3286'
 slug: weighted-muscle-up
 name: Weighted Muscle up
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedMuscleup
 primary_muscles:

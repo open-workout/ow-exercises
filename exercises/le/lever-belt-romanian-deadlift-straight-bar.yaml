@@ -1,6 +1,8 @@
 id: '9876'
 slug: lever-belt-romanian-deadlift-straight-bar
 name: Lever Belt Romanian Deadlift (straight bar)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverBeltRomanianDeadlift2
 primary_muscles:

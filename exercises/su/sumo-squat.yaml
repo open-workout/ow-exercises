@@ -1,6 +1,8 @@
 id: 0802
 slug: sumo-squat
 name: Sumo Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SumoSquat
 primary_muscles:

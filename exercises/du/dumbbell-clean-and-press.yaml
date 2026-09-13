@@ -1,6 +1,8 @@
 id: '3400'
 slug: dumbbell-clean-and-press
 name: Dumbbell Clean and Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellCleanandPress
 primary_muscles:

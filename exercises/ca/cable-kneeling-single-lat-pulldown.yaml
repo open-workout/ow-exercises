@@ -1,6 +1,8 @@
 id: '5581'
 slug: cable-kneeling-single-lat-pulldown
 name: Cable Kneeling Single Lat Pulldown
+alt_names:
+  en: []
 human_readable_ids:
 - CableKneelingSingleLatPulldown
 primary_muscles:

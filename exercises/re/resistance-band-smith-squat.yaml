@@ -1,6 +1,8 @@
 id: '3856'
 slug: resistance-band-smith-squat
 name: Resistance Band Smith Squat
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandSmithSquat
 primary_muscles:

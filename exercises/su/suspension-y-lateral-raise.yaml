@@ -1,6 +1,8 @@
 id: '1107'
 slug: suspension-y-lateral-raise
 name: Suspension Y Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionYLateralRaise
 primary_muscles:

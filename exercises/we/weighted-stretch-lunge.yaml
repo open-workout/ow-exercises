@@ -1,6 +1,8 @@
 id: '3642'
 slug: weighted-stretch-lunge
 name: Weighted Stretch Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedStretchLunge
 primary_muscles:

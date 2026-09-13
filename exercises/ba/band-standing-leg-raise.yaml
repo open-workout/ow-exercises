@@ -1,6 +1,8 @@
 id: '1021'
 slug: band-standing-leg-raise
 name: Band Standing Leg Raise
+alt_names:
+  en: []
 human_readable_ids:
 - BandStandingLegRaise
 primary_muscles:

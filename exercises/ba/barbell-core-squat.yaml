@@ -1,6 +1,8 @@
 id: '10092'
 slug: barbell-core-squat
 name: Barbell Core Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellCoreSquat
 primary_muscles:

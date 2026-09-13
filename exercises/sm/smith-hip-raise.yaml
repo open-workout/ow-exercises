@@ -1,6 +1,8 @@
 id: '0756'
 slug: smith-hip-raise
 name: Smith Hip Raise
+alt_names:
+  en: []
 human_readable_ids:
 - SmithHipRaise
 primary_muscles:

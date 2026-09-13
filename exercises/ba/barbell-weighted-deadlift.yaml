@@ -1,6 +1,8 @@
 id: '3308'
 slug: barbell-weighted-deadlift
 name: Barbell Weighted Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWeightedDeadlift
 primary_muscles:

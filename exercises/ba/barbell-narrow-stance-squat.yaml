@@ -1,6 +1,8 @@
 id: '0063'
 slug: barbell-narrow-stance-squat
 name: Barbell Narrow Stance Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellNarrowStanceSquat
 primary_muscles:

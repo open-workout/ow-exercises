@@ -1,6 +1,8 @@
 id: '1543'
 slug: barbell-stiff-legged-deadlift
 name: Barbell Stiff Legged Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStiffLeggedDeadlift
 primary_muscles:

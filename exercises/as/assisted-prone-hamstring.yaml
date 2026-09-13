@@ -1,6 +1,8 @@
 id: '0016'
 slug: assisted-prone-hamstring
 name: Assisted Prone Hamstring
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedProneHamstring
 primary_muscles:

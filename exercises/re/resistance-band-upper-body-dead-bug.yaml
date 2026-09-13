@@ -1,6 +1,8 @@
 id: '3512'
 slug: resistance-band-upper-body-dead-bug
 name: Resistance Band Upper Body Dead Bug
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandUpperBodyDeadBug
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1862'
 slug: lever-cable-shoulder-press
 name: Lever Cable Shoulder Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverCableShoulderPress
 primary_muscles:

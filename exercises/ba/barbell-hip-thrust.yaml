@@ -1,6 +1,8 @@
 id: '1060'
 slug: barbell-hip-thrust
 name: Barbell Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellHipThrust
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1109'
 slug: suspension-biceps-clutch
 name: Suspension Biceps Clutch
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionBicepsClutch
 primary_muscles:

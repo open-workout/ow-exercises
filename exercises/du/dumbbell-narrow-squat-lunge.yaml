@@ -1,6 +1,8 @@
 id: '10055'
 slug: dumbbell-narrow-squat-lunge
 name: Dumbbell Narrow Squat Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellNarrowSquatLunge
 primary_muscles:

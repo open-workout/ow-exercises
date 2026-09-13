@@ -1,6 +1,8 @@
 id: '1301'
 slug: machine-inner-chest-press
 name: Machine Inner Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - MachineInnerChestPress
 primary_muscles:

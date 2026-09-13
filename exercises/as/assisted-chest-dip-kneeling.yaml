@@ -1,6 +1,8 @@
 id: 0009
 slug: assisted-chest-dip-kneeling
 name: Assisted Chest Dip (kneeling)
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedChestDip
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1515'
 slug: barbell-clean-deadlift
 name: Barbell Clean Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellCleanDeadlift
 primary_muscles:

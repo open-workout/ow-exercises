@@ -1,6 +1,8 @@
 id: '1683'
 slug: smith-machine-bicep-curl
 name: Smith Machine Bicep Curl
+alt_names:
+  en: []
 human_readable_ids:
 - SmithMachineBicepCurl
 primary_muscles:

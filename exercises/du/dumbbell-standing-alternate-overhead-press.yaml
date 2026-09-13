@@ -1,6 +1,8 @@
 id: '0414'
 slug: dumbbell-standing-alternate-overhead-press
 name: Dumbbell Standing Alternate Overhead Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingAlternateOverheadPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0578
 slug: lever-deadlift-plate-loaded
 name: Lever Deadlift (plate loaded)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverDeadlift
 primary_muscles:

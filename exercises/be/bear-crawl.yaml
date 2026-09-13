@@ -1,6 +1,8 @@
 id: '3360'
 slug: bear-crawl
 name: Bear Crawl
+alt_names:
+  en: []
 human_readable_ids:
 - BearCrawl
 primary_muscles:

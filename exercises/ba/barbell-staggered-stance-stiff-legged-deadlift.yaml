@@ -1,6 +1,8 @@
 id: '11789'
 slug: barbell-staggered-stance-stiff-legged-deadlift
 name: Barbell Staggered Stance Stiff Legged Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStaggeredStanceStiffLeggedDeadlift
 primary_muscles:

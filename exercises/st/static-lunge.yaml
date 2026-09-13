@@ -1,6 +1,8 @@
 id: '4000'
 slug: static-lunge
 name: Static Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - StaticLunge
 primary_muscles:

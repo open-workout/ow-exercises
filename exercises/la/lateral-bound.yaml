@@ -1,6 +1,8 @@
 id: '0563'
 slug: lateral-bound
 name: Lateral Bound
+alt_names:
+  en: []
 human_readable_ids:
 - LateralBound
 primary_muscles:

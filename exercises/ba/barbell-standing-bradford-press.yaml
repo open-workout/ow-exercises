@@ -1,6 +1,8 @@
 id: '0105'
 slug: barbell-standing-bradford-press
 name: Barbell Standing Bradford Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingBradfordPress
 primary_muscles:

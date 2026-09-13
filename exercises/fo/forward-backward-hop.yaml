@@ -1,6 +1,8 @@
 id: '7543'
 slug: forward-backward-hop
 name: Forward Backward Hop
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardBackwardHop
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0961
 slug: tree-pose-vrksasana
 name: Tree Pose Vrksasana
+alt_names:
+  en: []
 human_readable_ids:
 - TreePoseVrksasana
 primary_muscles:

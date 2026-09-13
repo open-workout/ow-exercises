@@ -1,6 +1,8 @@
 id: '2124'
 slug: lateral-bend-on-floor-by-kneeing
 name: Lateral Bend On Floor By Kneeing
+alt_names:
+  en: []
 human_readable_ids:
 - LateralBendOnFloorByKneeing
 primary_muscles:

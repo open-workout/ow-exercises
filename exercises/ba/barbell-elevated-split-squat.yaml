@@ -1,6 +1,8 @@
 id: '5331'
 slug: barbell-elevated-split-squat
 name: Barbell Elevated Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellElevatedSplitSquat
 primary_muscles:

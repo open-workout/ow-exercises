@@ -1,6 +1,8 @@
 id: '1187'
 slug: kettlebell-sit-up
 name: Kettlebell Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellSitup
 primary_muscles:

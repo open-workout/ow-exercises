@@ -1,6 +1,8 @@
 id: '5153'
 slug: side-to-side-hop
 name: Side to Side Hop
+alt_names:
+  en: []
 human_readable_ids:
 - SidetoSideHop
 primary_muscles:

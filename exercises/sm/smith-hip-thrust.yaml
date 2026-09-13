@@ -1,6 +1,8 @@
 id: '3110'
 slug: smith-hip-thrust
 name: Smith Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - SmithHipThrust
 primary_muscles:

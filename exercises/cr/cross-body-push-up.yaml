@@ -1,6 +1,8 @@
 id: '3979'
 slug: cross-body-push-up
 name: Cross Body Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - CrossBodyPushup
 primary_muscles:

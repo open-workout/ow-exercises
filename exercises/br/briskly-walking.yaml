@@ -1,6 +1,8 @@
 id: '3003'
 slug: briskly-walking
 name: Briskly Walking
+alt_names:
+  en: []
 human_readable_ids:
 - BrisklyWalking
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0143'
 slug: bridge-straight-arm
 name: Bridge (straight arm)
+alt_names:
+  en: []
 human_readable_ids:
 - Bridge2
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5991'
 slug: partner-shuffle
 name: Partner Shuffle
+alt_names:
+  en: []
 human_readable_ids:
 - PartnerShuffle
 primary_muscles:

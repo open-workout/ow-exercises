@@ -1,6 +1,8 @@
 id: '0443'
 slug: elbow-to-knee
 name: Elbow-To-Knee
+alt_names:
+  en: []
 human_readable_ids:
 - ElbowToKnee
 primary_muscles:

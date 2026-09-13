@@ -1,6 +1,8 @@
 id: '5224'
 slug: barbell-wide-shrug
 name: Barbell Wide Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWideShrug
 primary_muscles:

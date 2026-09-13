@@ -1,6 +1,8 @@
 id: '10676'
 slug: weighted-backpack-walking
 name: Weighted Backpack Walking
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedBackpackWalking
 primary_muscles:

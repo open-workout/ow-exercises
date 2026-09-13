@@ -1,6 +1,8 @@
 id: '1837'
 slug: neck-extensor-stretch
 name: Neck Extensor Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - NeckExtensorStretch
 primary_muscles:

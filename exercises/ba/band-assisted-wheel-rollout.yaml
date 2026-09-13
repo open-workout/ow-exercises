@@ -1,6 +1,8 @@
 id: 0971
 slug: band-assisted-wheel-rollout
 name: Band Assisted Wheel Rollout
+alt_names:
+  en: []
 human_readable_ids:
 - BandAssistedWheelRollout
 primary_muscles:

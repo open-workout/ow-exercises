@@ -1,6 +1,8 @@
 id: '4092'
 slug: weighted-seated-triceps-extension
 name: Weighted Seated Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSeatedTricepsExtension
 primary_muscles:

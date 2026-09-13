@@ -1,6 +1,8 @@
 id: '3281'
 slug: smith-full-squat
 name: Smith Full Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SmithFullSquat
 primary_muscles:

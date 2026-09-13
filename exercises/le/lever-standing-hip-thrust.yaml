@@ -1,6 +1,8 @@
 id: '9848'
 slug: lever-standing-hip-thrust
 name: Lever Standing Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - LeverStandingHipThrust
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1830'
 slug: elbow-extensor-anconeus-stretch
 name: Elbow Extensor Anconeus Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - ElbowExtensorAnconeusStretch
 primary_muscles:

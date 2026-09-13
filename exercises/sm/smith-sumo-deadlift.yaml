@@ -1,6 +1,8 @@
 id: '6557'
 slug: smith-sumo-deadlift
 name: Smith Sumo Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - SmithSumoDeadlift
 primary_muscles:

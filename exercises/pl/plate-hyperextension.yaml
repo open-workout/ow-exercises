@@ -1,6 +1,8 @@
 id: '1234'
 slug: plate-hyperextension
 name: Plate Hyperextension
+alt_names:
+  en: []
 human_readable_ids:
 - PlateHyperextension
 primary_muscles:

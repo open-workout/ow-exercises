@@ -1,6 +1,8 @@
 id: '1678'
 slug: dumbbell-seated-hammer-curl
 name: Dumbbell Seated Hammer Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedHammerCurl
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4655'
 slug: side-lying-scissors
 name: Side Lying Scissors
+alt_names:
+  en: []
 human_readable_ids:
 - SideLyingScissors
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '8991'
 slug: barbell-zercher-back-extension
 name: Barbell Zercher Back Extension
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellZercherBackExtension
 primary_muscles:

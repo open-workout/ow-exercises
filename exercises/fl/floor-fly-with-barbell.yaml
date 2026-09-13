@@ -1,6 +1,8 @@
 id: 0458
 slug: floor-fly-with-barbell
 name: Floor Fly (with barbell)
+alt_names:
+  en: []
 human_readable_ids:
 - FloorFly
 primary_muscles:

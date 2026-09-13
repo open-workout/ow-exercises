@@ -1,6 +1,8 @@
 id: '5982'
 slug: half-sun-salutation
 name: Half Sun Salutation
+alt_names:
+  en: []
 human_readable_ids:
 - HalfSunSalutation
 primary_muscles:

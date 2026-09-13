@@ -1,6 +1,8 @@
 id: '5400'
 slug: stick-lat-stretch
 name: Stick Lat Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StickLatStretch
 primary_muscles:

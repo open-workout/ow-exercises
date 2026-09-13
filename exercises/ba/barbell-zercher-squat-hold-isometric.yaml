@@ -1,6 +1,8 @@
 id: '1446'
 slug: barbell-zercher-squat-hold-isometric
 name: Barbell Zercher Squat Hold Isometric
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellZercherSquatHoldIsometric
 primary_muscles:

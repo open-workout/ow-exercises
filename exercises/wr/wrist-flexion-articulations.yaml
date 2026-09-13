@@ -1,6 +1,8 @@
 id: '2791'
 slug: wrist-flexion-articulations
 name: Wrist - Flexion - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - WristFlexionArticulations
 primary_muscles:

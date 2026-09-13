@@ -1,6 +1,8 @@
 id: '5188'
 slug: power-clean-thruster
 name: Power Clean Thruster
+alt_names:
+  en: []
 human_readable_ids:
 - PowerCleanThruster
 primary_muscles:

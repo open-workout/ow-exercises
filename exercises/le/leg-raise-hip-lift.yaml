@@ -1,6 +1,8 @@
 id: '1852'
 slug: leg-raise-hip-lift
 name: Leg Raise Hip Lift
+alt_names:
+  en: []
 human_readable_ids:
 - LegRaiseHipLift
 primary_muscles:

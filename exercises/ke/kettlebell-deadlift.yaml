@@ -1,6 +1,8 @@
 id: '3322'
 slug: kettlebell-deadlift
 name: Kettlebell deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - Kettlebelldeadlift
 primary_muscles:

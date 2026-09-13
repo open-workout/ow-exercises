@@ -1,6 +1,8 @@
 id: 0791
 slug: standing-hip-abduction
 name: Standing Hip Abduction
+alt_names:
+  en: []
 human_readable_ids:
 - StandingHipAbduction2
 primary_muscles:

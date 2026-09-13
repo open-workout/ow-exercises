@@ -1,6 +1,8 @@
 id: '2718'
 slug: strongman-front-hold
 name: StrongMan Front Hold
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManFrontHold
 primary_muscles:

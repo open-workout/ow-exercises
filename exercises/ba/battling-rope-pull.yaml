@@ -1,6 +1,8 @@
 id: '8703'
 slug: battling-rope-pull
 name: Battling Rope Pull
+alt_names:
+  en: []
 human_readable_ids:
 - BattlingRopePull
 primary_muscles:

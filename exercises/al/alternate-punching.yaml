@@ -1,6 +1,8 @@
 id: '3531'
 slug: alternate-punching
 name: Alternate Punching
+alt_names:
+  en: []
 human_readable_ids:
 - AlternatePunching
 primary_muscles:

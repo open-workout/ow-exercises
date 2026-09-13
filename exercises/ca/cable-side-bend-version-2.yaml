@@ -1,6 +1,8 @@
 id: '5657'
 slug: cable-side-bend-version-2
 name: Cable Side Bend (VERSION 2)
+alt_names:
+  en: []
 human_readable_ids:
 - CableSideBend2
 primary_muscles:

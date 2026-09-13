@@ -1,6 +1,8 @@
 id: '1221'
 slug: lever-shrug-bench-press-machine
 name: Lever Shrug (bench press machine)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverShrug2
 primary_muscles:

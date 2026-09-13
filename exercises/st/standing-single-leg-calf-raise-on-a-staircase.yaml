@@ -1,6 +1,8 @@
 id: '5003'
 slug: standing-single-leg-calf-raise-on-a-staircase
 name: Standing Single Leg Calf Raise (On a staircase)
+alt_names:
+  en: []
 human_readable_ids:
 - StandingSingleLegCalfRaise
 primary_muscles:

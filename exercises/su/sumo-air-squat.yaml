@@ -1,6 +1,8 @@
 id: '4936'
 slug: sumo-air-squat
 name: Sumo Air Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SumoAirSquat
 primary_muscles:

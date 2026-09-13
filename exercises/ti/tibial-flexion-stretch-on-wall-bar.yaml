@@ -1,6 +1,8 @@
 id: '1928'
 slug: tibial-flexion-stretch-on-wall-bar
 name: Tibial Flexion Stretch On Wall Bar
+alt_names:
+  en: []
 human_readable_ids:
 - TibialFlexionStretchOnWallBar
 primary_muscles:

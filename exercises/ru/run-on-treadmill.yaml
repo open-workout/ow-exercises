@@ -1,6 +1,8 @@
 id: '2197'
 slug: run-on-treadmill
 name: Run on Treadmill
+alt_names:
+  en: []
 human_readable_ids:
 - RunonTreadmill
 primary_muscles:

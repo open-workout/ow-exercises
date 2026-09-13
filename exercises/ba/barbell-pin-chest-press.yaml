@@ -1,6 +1,8 @@
 id: '5660'
 slug: barbell-pin-chest-press
 name: Barbell Pin Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPinChestPress
 primary_muscles:

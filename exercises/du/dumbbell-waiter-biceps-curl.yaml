@@ -1,6 +1,8 @@
 id: '5201'
 slug: dumbbell-waiter-biceps-curl
 name: Dumbbell Waiter Biceps Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellWaiterBicepsCurl
 primary_muscles:

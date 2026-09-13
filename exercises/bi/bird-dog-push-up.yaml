@@ -1,6 +1,8 @@
 id: '4060'
 slug: bird-dog-push-up
 name: Bird Dog Push-Up
+alt_names:
+  en: []
 human_readable_ids:
 - BirdDogPushUp
 primary_muscles:

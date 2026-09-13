@@ -1,6 +1,8 @@
 id: '1101'
 slug: suspension-single-leg-squat
 name: Suspension Single Leg Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionSingleLegSquat
 primary_muscles:

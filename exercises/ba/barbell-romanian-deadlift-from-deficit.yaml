@@ -1,6 +1,8 @@
 id: '1532'
 slug: barbell-romanian-deadlift-from-deficit
 name: Barbell Romanian Deadlift From Deficit
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellRomanianDeadliftFromDeficit
 primary_muscles:

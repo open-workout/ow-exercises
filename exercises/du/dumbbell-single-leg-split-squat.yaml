@@ -1,6 +1,8 @@
 id: '0410'
 slug: dumbbell-single-leg-split-squat
 name: Dumbbell Single Leg Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleLegSplitSquat
 primary_muscles:

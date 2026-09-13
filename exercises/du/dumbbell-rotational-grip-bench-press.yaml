@@ -1,6 +1,8 @@
 id: '4835'
 slug: dumbbell-rotational-grip-bench-press
 name: Dumbbell Rotational Grip Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellRotationalGripBenchPress
 primary_muscles:

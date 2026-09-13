@@ -1,6 +1,8 @@
 id: 0598
 slug: lever-seated-hip-adduction
 name: Lever Seated Hip Adduction
+alt_names:
+  en: []
 human_readable_ids:
 - LeverSeatedHipAdduction
 primary_muscles:

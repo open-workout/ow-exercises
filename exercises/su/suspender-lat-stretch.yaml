@@ -1,6 +1,8 @@
 id: '7278'
 slug: suspender-lat-stretch
 name: Suspender Lat Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - SuspenderLatStretch
 primary_muscles:

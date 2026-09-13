@@ -1,6 +1,8 @@
 id: '1839'
 slug: neck-flexor-stretch
 name: Neck Flexor Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - NeckFlexorStretch
 primary_muscles:

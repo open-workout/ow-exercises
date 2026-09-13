@@ -1,6 +1,8 @@
 id: '9517'
 slug: weighted-kettlebell-dead-bug
 name: Weighted Kettlebell Dead Bug
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedKettlebellDeadBug
 primary_muscles:

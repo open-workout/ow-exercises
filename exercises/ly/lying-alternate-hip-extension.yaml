@@ -1,6 +1,8 @@
 id: '0614'
 slug: lying-alternate-hip-extension
 name: Lying Alternate Hip Extension
+alt_names:
+  en: []
 human_readable_ids:
 - LyingAlternateHipExtension
 primary_muscles:

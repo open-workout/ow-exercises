@@ -1,6 +1,8 @@
 id: '1030'
 slug: lever-pec-deck-fly
 name: Lever Pec Deck Fly
+alt_names:
+  en: []
 human_readable_ids:
 - LeverPecDeckFly
 primary_muscles:

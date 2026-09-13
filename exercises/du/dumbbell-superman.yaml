@@ -1,6 +1,8 @@
 id: '3454'
 slug: dumbbell-superman
 name: Dumbbell Superman
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSuperman
 primary_muscles:

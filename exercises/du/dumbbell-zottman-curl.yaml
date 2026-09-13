@@ -1,6 +1,8 @@
 id: 0439
 slug: dumbbell-zottman-curl
 name: Dumbbell Zottman Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellZottmanCurl
 primary_muscles:

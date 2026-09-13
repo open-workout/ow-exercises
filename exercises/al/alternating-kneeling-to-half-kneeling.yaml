@@ -1,6 +1,8 @@
 id: '10058'
 slug: alternating-kneeling-to-half-kneeling
 name: Alternating Kneeling to Half Kneeling
+alt_names:
+  en: []
 human_readable_ids:
 - AlternatingKneelingtoHalfKneeling
 primary_muscles:

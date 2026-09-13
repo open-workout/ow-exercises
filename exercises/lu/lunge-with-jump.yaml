@@ -1,6 +1,8 @@
 id: '3582'
 slug: lunge-with-jump
 name: Lunge with Jump
+alt_names:
+  en: []
 human_readable_ids:
 - LungewithJump
 primary_muscles:

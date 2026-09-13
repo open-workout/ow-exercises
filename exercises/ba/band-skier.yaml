@@ -1,6 +1,8 @@
 id: '3779'
 slug: band-skier
 name: Band Skier
+alt_names:
+  en: []
 human_readable_ids:
 - BandSkier
 primary_muscles:

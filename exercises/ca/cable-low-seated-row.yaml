@@ -1,6 +1,8 @@
 id: 0180
 slug: cable-low-seated-row
 name: Cable Low Seated Row
+alt_names:
+  en: []
 human_readable_ids:
 - CableLowSeatedRow
 primary_muscles:

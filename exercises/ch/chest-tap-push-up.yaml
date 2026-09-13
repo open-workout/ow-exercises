@@ -1,6 +1,8 @@
 id: '3216'
 slug: chest-tap-push-up
 name: Chest Tap Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - ChestTapPushup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0168
 slug: cable-hip-adduction
 name: Cable Hip Adduction
+alt_names:
+  en: []
 human_readable_ids:
 - CableHipAdduction
 primary_muscles:

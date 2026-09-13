@@ -1,6 +1,8 @@
 id: '7620'
 slug: barbell-banded-bench-press
 name: Barbell Banded Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBandedBenchPress
 primary_muscles:

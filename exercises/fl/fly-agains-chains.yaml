@@ -1,6 +1,8 @@
 id: '4200'
 slug: fly-agains-chains
 name: Fly agains Chains
+alt_names:
+  en: []
 human_readable_ids:
 - FlyagainsChains
 primary_muscles:

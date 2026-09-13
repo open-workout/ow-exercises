@@ -1,6 +1,8 @@
 id: '1073'
 slug: suspension-chest-press
 name: Suspension Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionChestPress
 primary_muscles:

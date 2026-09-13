@@ -1,6 +1,8 @@
 id: '2463'
 slug: resistance-band-toe-touch
 name: Resistance Band Toe Touch
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandToeTouch
 primary_muscles:

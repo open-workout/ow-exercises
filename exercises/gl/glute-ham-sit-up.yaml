@@ -1,6 +1,8 @@
 id: '6554'
 slug: glute-ham-sit-up
 name: Glute Ham Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - GluteHamSitup
 primary_muscles:

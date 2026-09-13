@@ -1,6 +1,8 @@
 id: '3510'
 slug: crunchy-frog-on-floor
 name: Crunchy Frog on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - CrunchyFrogonFloor
 primary_muscles:

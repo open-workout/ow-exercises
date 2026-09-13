@@ -1,6 +1,8 @@
 id: '1472'
 slug: forward-jump
 name: Forward Jump
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardJump
 primary_muscles:

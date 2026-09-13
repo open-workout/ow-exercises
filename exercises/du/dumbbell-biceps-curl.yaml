@@ -1,6 +1,8 @@
 id: 0294
 slug: dumbbell-biceps-curl
 name: Dumbbell Biceps Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBicepsCurl
 primary_muscles:

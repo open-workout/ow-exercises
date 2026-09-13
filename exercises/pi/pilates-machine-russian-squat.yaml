@@ -1,6 +1,8 @@
 id: '10851'
 slug: pilates-machine-russian-squat
 name: Pilates Machine Russian Squat
+alt_names:
+  en: []
 human_readable_ids:
 - PilatesMachineRussianSquat
 primary_muscles:

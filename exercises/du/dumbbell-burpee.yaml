@@ -1,6 +1,8 @@
 id: '1201'
 slug: dumbbell-burpee
 name: Dumbbell burpee
+alt_names:
+  en: []
 human_readable_ids:
 - Dumbbellburpee
 primary_muscles:

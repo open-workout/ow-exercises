@@ -1,6 +1,8 @@
 id: '3306'
 slug: strongman-fingals-fingers
 name: StrongMan Fingals Fingers
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManFingalsFingers
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0171'
 slug: cable-incline-fly
 name: Cable Incline Fly
+alt_names:
+  en: []
 human_readable_ids:
 - CableInclineFly2
 primary_muscles:

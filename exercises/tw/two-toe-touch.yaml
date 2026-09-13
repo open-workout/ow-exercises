@@ -1,6 +1,8 @@
 id: '3231'
 slug: two-toe-touch
 name: Two Toe Touch
+alt_names:
+  en: []
 human_readable_ids:
 - TwoToeTouch
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4065'
 slug: dumbbell-standing-alternate-arnold-press
 name: Dumbbell Standing Alternate Arnold Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingAlternateArnoldPress
 primary_muscles:

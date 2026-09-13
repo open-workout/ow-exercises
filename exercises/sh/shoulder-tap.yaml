@@ -1,6 +1,8 @@
 id: '3699'
 slug: shoulder-tap
 name: Shoulder Tap
+alt_names:
+  en: []
 human_readable_ids:
 - ShoulderTap
 primary_muscles:

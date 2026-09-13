@@ -1,6 +1,8 @@
 id: '2928'
 slug: barbell-overhead-shrug
 name: Barbell Overhead Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellOverheadShrug
 primary_muscles:

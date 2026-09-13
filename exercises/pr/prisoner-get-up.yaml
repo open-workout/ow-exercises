@@ -1,6 +1,8 @@
 id: '4388'
 slug: prisoner-get-up
 name: Prisoner Get-Up
+alt_names:
+  en: []
 human_readable_ids:
 - PrisonerGetUp
 primary_muscles:

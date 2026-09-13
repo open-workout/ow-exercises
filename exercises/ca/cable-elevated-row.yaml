@@ -1,6 +1,8 @@
 id: '1046'
 slug: cable-elevated-row
 name: Cable Elevated Row
+alt_names:
+  en: []
 human_readable_ids:
 - CableElevatedRow
 primary_muscles:

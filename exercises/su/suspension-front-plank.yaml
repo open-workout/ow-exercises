@@ -1,6 +1,8 @@
 id: '1114'
 slug: suspension-front-plank
 name: Suspension Front Plank
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionFrontPlank
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2460'
 slug: resistance-band-lateral-walk
 name: Resistance Band Lateral Walk
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandLateralWalk
 primary_muscles:

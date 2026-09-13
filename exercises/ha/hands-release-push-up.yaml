@@ -1,6 +1,8 @@
 id: '3947'
 slug: hands-release-push-up
 name: Hands Release Push-Up
+alt_names:
+  en: []
 human_readable_ids:
 - HandsReleasePushUp
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4110'
 slug: dumbbell-seated-zottman-curl
 name: Dumbbell Seated Zottman Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedZottmanCurl
 primary_muscles:

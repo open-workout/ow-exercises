@@ -1,6 +1,8 @@
 id: '5893'
 slug: low-lunge
 name: Low Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - LowLunge
 primary_muscles:

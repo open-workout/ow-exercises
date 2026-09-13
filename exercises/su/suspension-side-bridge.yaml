@@ -1,6 +1,8 @@
 id: '1098'
 slug: suspension-side-bridge
 name: Suspension Side Bridge
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionSideBridge
 primary_muscles:

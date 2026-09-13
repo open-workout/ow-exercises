@@ -1,6 +1,8 @@
 id: '2845'
 slug: hip-twist-supported-arms
 name: Hip Twist Supported Arms
+alt_names:
+  en: []
 human_readable_ids:
 - HipTwistSupportedArms
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4116'
 slug: barbell-reeves-deadlift
 name: Barbell Reeves Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellReevesDeadlift
 primary_muscles:

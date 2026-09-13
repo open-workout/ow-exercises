@@ -1,6 +1,8 @@
 id: '4209'
 slug: 1-to-2-jump-box
 name: 1 to 2 Jump Box
+alt_names:
+  en: []
 human_readable_ids:
 - 1to2JumpBox
 primary_muscles:

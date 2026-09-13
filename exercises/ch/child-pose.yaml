@@ -1,6 +1,8 @@
 id: 0945
 slug: child-pose
 name: Child Pose
+alt_names:
+  en: []
 human_readable_ids:
 - ChildPose
 primary_muscles:

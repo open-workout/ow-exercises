@@ -1,6 +1,8 @@
 id: '3556'
 slug: high-knee-run
 name: High Knee Run
+alt_names:
+  en: []
 human_readable_ids:
 - HighKneeRun
 primary_muscles:

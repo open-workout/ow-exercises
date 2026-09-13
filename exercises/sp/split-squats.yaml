@@ -1,6 +1,8 @@
 id: '2368'
 slug: split-squats
 name: Split Squats
+alt_names:
+  en: []
 human_readable_ids:
 - SplitSquats
 primary_muscles:

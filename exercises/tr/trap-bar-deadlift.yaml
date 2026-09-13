@@ -1,6 +1,8 @@
 id: 0811
 slug: trap-bar-deadlift
 name: Trap Bar Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - TrapBarDeadlift
 primary_muscles:

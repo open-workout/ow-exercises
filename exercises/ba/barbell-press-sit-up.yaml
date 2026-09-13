@@ -1,6 +1,8 @@
 id: '0071'
 slug: barbell-press-sit-up
 name: Barbell Press Sit-Up
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPressSitUp
 primary_muscles:

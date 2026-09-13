@@ -1,6 +1,8 @@
 id: '3798'
 slug: resistance-band-punch
 name: Resistance Band Punch
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandPunch
 primary_muscles:

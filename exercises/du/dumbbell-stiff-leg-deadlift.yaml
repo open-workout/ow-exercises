@@ -1,6 +1,8 @@
 id: '0432'
 slug: dumbbell-stiff-leg-deadlift
 name: Dumbbell Stiff Leg Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStiffLegDeadlift
 primary_muscles:

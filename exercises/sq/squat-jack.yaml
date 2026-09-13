@@ -1,6 +1,8 @@
 id: '7556'
 slug: squat-jack
 name: Squat Jack
+alt_names:
+  en: []
 human_readable_ids:
 - SquatJack
 primary_muscles:

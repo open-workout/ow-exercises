@@ -1,6 +1,8 @@
 id: '6043'
 slug: bottle-weighted-swing
 name: Bottle Weighted Swing
+alt_names:
+  en: []
 human_readable_ids:
 - BottleWeightedSwing
 primary_muscles:

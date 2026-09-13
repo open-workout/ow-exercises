@@ -1,6 +1,8 @@
 id: '1631'
 slug: cable-concentration-curl
 name: Cable Concentration Curl
+alt_names:
+  en: []
 human_readable_ids:
 - CableConcentrationCurl
 primary_muscles:

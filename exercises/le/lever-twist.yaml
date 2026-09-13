@@ -1,6 +1,8 @@
 id: 0608
 slug: lever-twist
 name: Lever Twist
+alt_names:
+  en: []
 human_readable_ids:
 - LeverTwist
 primary_muscles:

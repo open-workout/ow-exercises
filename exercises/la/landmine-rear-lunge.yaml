@@ -1,6 +1,8 @@
 id: '3919'
 slug: landmine-rear-lunge
 name: Landmine Rear Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - LandmineRearLunge
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2150'
 slug: resistance-band-clam
 name: Resistance Band Clam
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandClam
 primary_muscles:

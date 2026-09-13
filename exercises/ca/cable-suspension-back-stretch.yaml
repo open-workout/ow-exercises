@@ -1,6 +1,8 @@
 id: '1800'
 slug: cable-suspension-back-stretch
 name: Cable Suspension Back Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - CableSuspensionBackStretch
 primary_muscles:

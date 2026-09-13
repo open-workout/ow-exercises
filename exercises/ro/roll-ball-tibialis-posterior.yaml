@@ -1,6 +1,8 @@
 id: '4467'
 slug: roll-ball-tibialis-posterior
 name: Roll Ball Tibialis Posterior
+alt_names:
+  en: []
 human_readable_ids:
 - RollBallTibialisPosterior
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3635'
 slug: dumbbell-contralateral-forward-lunge
 name: Dumbbell Contralateral Forward Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellContralateralForwardLunge
 primary_muscles:

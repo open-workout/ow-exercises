@@ -1,6 +1,8 @@
 id: '5070'
 slug: kettlebell-rear-lunge
 name: Kettlebell Rear Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellRearLunge
 primary_muscles:

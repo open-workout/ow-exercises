@@ -1,6 +1,8 @@
 id: '3327'
 slug: full-planche-push-up
 name: Full Planche Push-Up
+alt_names:
+  en: []
 human_readable_ids:
 - FullPlanchePushUp
 primary_muscles:

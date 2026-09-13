@@ -1,6 +1,8 @@
 id: '8750'
 slug: ring-pullover
 name: Ring Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - RingPullover
 primary_muscles:

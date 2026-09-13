@@ -1,6 +1,8 @@
 id: '1858'
 slug: lever-decline-sit-up
 name: Lever Decline Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - LeverDeclineSitup
 primary_muscles:

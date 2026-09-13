@@ -1,6 +1,8 @@
 id: '4797'
 slug: supported-squat
 name: Supported Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SupportedSquat
 primary_muscles:

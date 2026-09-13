@@ -1,6 +1,8 @@
 id: '9324'
 slug: long-lever-standing-hip-extension
 name: Long Lever Standing Hip Extension
+alt_names:
+  en: []
 human_readable_ids:
 - LongLeverStandingHipExtension
 primary_muscles:

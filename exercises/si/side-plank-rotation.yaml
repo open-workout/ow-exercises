@@ -1,6 +1,8 @@
 id: '4991'
 slug: side-plank-rotation
 name: Side Plank Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - SidePlankRotation
 primary_muscles:

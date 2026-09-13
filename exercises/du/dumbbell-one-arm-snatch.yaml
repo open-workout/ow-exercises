@@ -1,6 +1,8 @@
 id: '3888'
 slug: dumbbell-one-arm-snatch
 name: Dumbbell One Arm Snatch
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOneArmSnatch
 primary_muscles:

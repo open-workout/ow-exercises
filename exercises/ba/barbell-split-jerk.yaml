@@ -1,6 +1,8 @@
 id: '1538'
 slug: barbell-split-jerk
 name: Barbell Split Jerk
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSplitJerk
 primary_muscles:

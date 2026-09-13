@@ -1,6 +1,8 @@
 id: '3021'
 slug: scapula-push-up
 name: Scapula Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - ScapulaPushup
 primary_muscles:

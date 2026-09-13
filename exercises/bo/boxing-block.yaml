@@ -1,6 +1,8 @@
 id: '4581'
 slug: boxing-block
 name: Boxing Block
+alt_names:
+  en: []
 human_readable_ids:
 - BoxingBlock
 primary_muscles:

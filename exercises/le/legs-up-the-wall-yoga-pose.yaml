@@ -1,6 +1,8 @@
 id: '4381'
 slug: legs-up-the-wall-yoga-pose
 name: Legs-Up The Wall Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - LegsUpTheWallYogaPose
 primary_muscles:

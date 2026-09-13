@@ -1,6 +1,8 @@
 id: '3686'
 slug: dumbbell-kneeling-hold-to-stand
 name: Dumbbell Kneeling Hold to Stand
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellKneelingHoldtoStand
 primary_muscles:

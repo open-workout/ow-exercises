@@ -1,6 +1,8 @@
 id: '10849'
 slug: pilates-machine-lying-pelvic-lift
 name: Pilates Machine Lying Pelvic Lift
+alt_names:
+  en: []
 human_readable_ids:
 - PilatesMachineLyingPelvicLift
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '8880'
 slug: cable-standing-jab
 name: Cable Standing Jab
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingJab
 primary_muscles:

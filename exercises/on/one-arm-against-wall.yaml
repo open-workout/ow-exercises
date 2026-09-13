@@ -1,6 +1,8 @@
 id: '1355'
 slug: one-arm-against-wall
 name: One Arm Against Wall
+alt_names:
+  en: []
 human_readable_ids:
 - OneArmAgainstWall
 primary_muscles:

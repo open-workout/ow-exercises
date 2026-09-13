@@ -1,6 +1,8 @@
 id: '3349'
 slug: cable-front-squat
 name: Cable Front Squat
+alt_names:
+  en: []
 human_readable_ids:
 - CableFrontSquat
 primary_muscles:

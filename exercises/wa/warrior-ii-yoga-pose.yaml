@@ -1,6 +1,8 @@
 id: '4410'
 slug: warrior-ii-yoga-pose
 name: Warrior II Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - WarriorIIYogaPose
 primary_muscles:

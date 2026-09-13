@@ -1,6 +1,8 @@
 id: '8221'
 slug: dumbbell-lateral-raise-plank
 name: Dumbbell Lateral Raise Plank
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellLateralRaisePlank
 primary_muscles:

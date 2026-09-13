@@ -1,6 +1,8 @@
 id: '2186'
 slug: ez-barbell-decline-triceps-extension
 name: EZ Barbell Decline Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - EZBarbellDeclineTricepsExtension
 primary_muscles:

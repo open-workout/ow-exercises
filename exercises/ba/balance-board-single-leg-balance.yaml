@@ -1,6 +1,8 @@
 id: '10733'
 slug: balance-board-single-leg-balance
 name: Balance Board Single Leg Balance
+alt_names:
+  en: []
 human_readable_ids:
 - BalanceBoardSingleLegBalance
 primary_muscles:

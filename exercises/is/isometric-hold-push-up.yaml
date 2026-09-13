@@ -1,6 +1,8 @@
 id: '9325'
 slug: isometric-hold-push-up
 name: Isometric Hold Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - IsometricHoldPushup
 primary_muscles:

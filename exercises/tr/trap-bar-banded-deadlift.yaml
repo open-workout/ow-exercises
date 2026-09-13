@@ -1,6 +1,8 @@
 id: '4842'
 slug: trap-bar-banded-deadlift
 name: Trap bar Banded Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - TrapbarBandedDeadlift
 primary_muscles:

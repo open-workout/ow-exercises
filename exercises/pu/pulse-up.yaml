@@ -1,6 +1,8 @@
 id: '3459'
 slug: pulse-up
 name: Pulse-up
+alt_names:
+  en: []
 human_readable_ids:
 - Pulseup
 primary_muscles:

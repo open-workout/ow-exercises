@@ -1,6 +1,8 @@
 id: 0449
 slug: ez-barbell-incline-triceps-extension
 name: EZ Barbell Incline Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - EZBarbellInclineTricepsExtension
 primary_muscles:

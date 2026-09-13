@@ -1,6 +1,8 @@
 id: 0081
 slug: barbell-reverse-preacher-curl
 name: Barbell Reverse Preacher Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellReversePreacherCurl
 primary_muscles:

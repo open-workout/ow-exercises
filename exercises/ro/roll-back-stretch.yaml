@@ -1,6 +1,8 @@
 id: '2208'
 slug: roll-back-stretch
 name: Roll Back Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - RollBackStretch
 primary_muscles:

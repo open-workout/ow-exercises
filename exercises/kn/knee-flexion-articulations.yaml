@@ -1,6 +1,8 @@
 id: '2774'
 slug: knee-flexion-articulations
 name: Knee - Flexion - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - KneeFlexionArticulations
 primary_muscles:

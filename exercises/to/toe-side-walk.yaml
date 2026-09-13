@@ -1,6 +1,8 @@
 id: '10762'
 slug: toe-side-walk
 name: Toe Side Walk
+alt_names:
+  en: []
 human_readable_ids:
 - ToeSideWalk
 primary_muscles:

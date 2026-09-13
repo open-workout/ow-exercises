@@ -1,6 +1,8 @@
 id: '6548'
 slug: decline-knee-raise
 name: Decline Knee Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DeclineKneeRaise
 primary_muscles:

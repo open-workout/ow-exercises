@@ -1,6 +1,8 @@
 id: '2342'
 slug: chest-bench-press-elbows-wrong-right
 name: Chest Bench Press - Elbows (WRONG-RIGHT)
+alt_names:
+  en: []
 human_readable_ids:
 - ChestBenchPressElbows
 primary_muscles:

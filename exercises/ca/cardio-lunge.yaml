@@ -1,6 +1,8 @@
 id: '3708'
 slug: cardio-lunge
 name: Cardio Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - CardioLunge
 primary_muscles:

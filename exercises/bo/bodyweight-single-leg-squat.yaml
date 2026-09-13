@@ -1,6 +1,8 @@
 id: '7560'
 slug: bodyweight-single-leg-squat
 name: Bodyweight Single Leg Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightSingleLegSquat
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0479
 slug: high-knee-step-up
 name: High Knee Step-up
+alt_names:
+  en: []
 human_readable_ids:
 - HighKneeStepup
 primary_muscles:

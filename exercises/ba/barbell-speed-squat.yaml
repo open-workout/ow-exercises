@@ -1,6 +1,8 @@
 id: '0101'
 slug: barbell-speed-squat
 name: Barbell Speed Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSpeedSquat
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2420'
 slug: resistance-band-air-bike
 name: Resistance Band Air Bike
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandAirBike
 primary_muscles:

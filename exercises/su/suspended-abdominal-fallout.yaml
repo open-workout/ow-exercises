@@ -1,6 +1,8 @@
 id: 0805
 slug: suspended-abdominal-fallout
 name: Suspended Abdominal Fallout
+alt_names:
+  en: []
 human_readable_ids:
 - SuspendedAbdominalFallout
 primary_muscles:

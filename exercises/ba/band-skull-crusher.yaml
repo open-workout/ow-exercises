@@ -1,6 +1,8 @@
 id: '1504'
 slug: band-skull-crusher
 name: Band Skull Crusher
+alt_names:
+  en: []
 human_readable_ids:
 - BandSkullCrusher
 primary_muscles:

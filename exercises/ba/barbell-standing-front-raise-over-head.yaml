@@ -1,6 +1,8 @@
 id: '0107'
 slug: barbell-standing-front-raise-over-head
 name: Barbell Standing Front Raise Over Head
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingFrontRaiseOverHead
 primary_muscles:

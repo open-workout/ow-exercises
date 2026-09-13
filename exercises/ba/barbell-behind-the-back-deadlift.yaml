@@ -1,6 +1,8 @@
 id: '5663'
 slug: barbell-behind-the-back-deadlift
 name: Barbell Behind The Back Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBehindTheBackDeadlift
 primary_muscles:

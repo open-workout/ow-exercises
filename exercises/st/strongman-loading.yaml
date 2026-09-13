@@ -1,6 +1,8 @@
 id: '2721'
 slug: strongman-loading
 name: StrongMan Loading
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManLoading
 primary_muscles:

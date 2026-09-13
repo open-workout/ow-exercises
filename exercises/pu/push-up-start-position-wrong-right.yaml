@@ -1,6 +1,8 @@
 id: '2350'
 slug: push-up-start-position-wrong-right
 name: Push-up - Start position (WRONG-RIGHT)
+alt_names:
+  en: []
 human_readable_ids:
 - PushupStartposition
 primary_muscles:

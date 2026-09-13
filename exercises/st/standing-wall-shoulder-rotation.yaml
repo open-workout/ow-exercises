@@ -1,6 +1,8 @@
 id: '10937'
 slug: standing-wall-shoulder-rotation
 name: Standing Wall Shoulder Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - StandingWallShoulderRotation
 primary_muscles:

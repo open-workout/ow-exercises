@@ -1,6 +1,8 @@
 id: 0079
 slug: barbell-revers-wrist-curl-version-2
 name: Barbell Revers Wrist Curl (version 2)
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellReversWristCurl
 primary_muscles:

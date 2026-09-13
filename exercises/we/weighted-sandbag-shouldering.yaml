@@ -1,6 +1,8 @@
 id: '10385'
 slug: weighted-sandbag-shouldering
 name: Weighted Sandbag Shouldering
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSandbagShouldering
 primary_muscles:

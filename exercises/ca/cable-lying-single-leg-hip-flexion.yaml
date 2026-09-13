@@ -1,6 +1,8 @@
 id: '8875'
 slug: cable-lying-single-leg-hip-flexion
 name: Cable Lying Single Leg Hip Flexion
+alt_names:
+  en: []
 human_readable_ids:
 - CableLyingSingleLegHipFlexion
 primary_muscles:

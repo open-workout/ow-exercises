@@ -1,6 +1,8 @@
 id: '1195'
 slug: lever-incline-hammer-chest-press
 name: Lever Incline Hammer Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverInclineHammerChestPress
 primary_muscles:

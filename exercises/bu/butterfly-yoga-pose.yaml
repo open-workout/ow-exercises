@@ -1,6 +1,8 @@
 id: '1494'
 slug: butterfly-yoga-pose
 name: Butterfly Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - ButterflyYogaPose
 primary_muscles:

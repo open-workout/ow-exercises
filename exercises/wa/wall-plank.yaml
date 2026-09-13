@@ -1,6 +1,8 @@
 id: '7389'
 slug: wall-plank
 name: Wall Plank
+alt_names:
+  en: []
 human_readable_ids:
 - WallPlank
 primary_muscles:

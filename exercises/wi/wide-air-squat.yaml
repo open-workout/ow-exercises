@@ -1,6 +1,8 @@
 id: '4805'
 slug: wide-air-squat
 name: Wide Air Squat
+alt_names:
+  en: []
 human_readable_ids:
 - WideAirSquat
 primary_muscles:

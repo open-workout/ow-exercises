@@ -1,6 +1,8 @@
 id: '2923'
 slug: pulse-row
 name: Pulse Row
+alt_names:
+  en: []
 human_readable_ids:
 - PulseRow
 primary_muscles:

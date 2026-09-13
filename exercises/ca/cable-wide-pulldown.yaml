@@ -1,6 +1,8 @@
 id: 0197
 slug: cable-wide-pulldown
 name: Cable Wide Pulldown
+alt_names:
+  en: []
 human_readable_ids:
 - CableWidePulldown
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '6945'
 slug: wrist-push-up
 name: Wrist Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - WristPushup
 primary_muscles:

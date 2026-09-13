@@ -1,6 +1,8 @@
 id: '3356'
 slug: cable-forward-lunge
 name: Cable Forward Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - CableForwardLunge
 primary_muscles:

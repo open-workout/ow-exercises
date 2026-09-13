@@ -1,6 +1,8 @@
 id: '6944'
 slug: swimming-crawl-style
 name: Swimming Crawl Style
+alt_names:
+  en: []
 human_readable_ids:
 - SwimmingCrawlStyle
 primary_muscles:

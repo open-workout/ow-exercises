@@ -1,6 +1,8 @@
 id: '0534'
 slug: kettlebell-goblet-squat
 name: Kettlebell Goblet Squat
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellGobletSquat
 primary_muscles:

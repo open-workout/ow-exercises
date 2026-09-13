@@ -1,6 +1,8 @@
 id: '1595'
 slug: smith-front-squat
 name: Smith Front Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SmithFrontSquat2
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '10671'
 slug: lever-stack-seated-chest-press
 name: Lever Stack Seated Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverStackSeatedChestPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0810
 slug: toe-touch-sit-wall
 name: Toe Touch Sit (wall)
+alt_names:
+  en: []
 human_readable_ids:
 - ToeTouchSit
 primary_muscles:

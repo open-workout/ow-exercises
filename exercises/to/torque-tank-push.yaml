@@ -1,6 +1,8 @@
 id: '8702'
 slug: torque-tank-push
 name: Torque Tank Push
+alt_names:
+  en: []
 human_readable_ids:
 - TorqueTankPush
 primary_muscles:

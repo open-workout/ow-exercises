@@ -1,6 +1,8 @@
 id: '0361'
 slug: dumbbell-one-arm-shoulder-press
 name: Dumbbell One Arm Shoulder Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOneArmShoulderPress2
 primary_muscles:

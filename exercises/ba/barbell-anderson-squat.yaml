@@ -1,6 +1,8 @@
 id: '5659'
 slug: barbell-anderson-squat
 name: Barbell Anderson Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellAndersonSquat
 primary_muscles:

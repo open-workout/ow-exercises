@@ -1,6 +1,8 @@
 id: '2459'
 slug: tire-flip
 name: Tire Flip
+alt_names:
+  en: []
 human_readable_ids:
 - TireFlip
 primary_muscles:

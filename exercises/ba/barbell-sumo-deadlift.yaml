@@ -1,6 +1,8 @@
 id: '0117'
 slug: barbell-sumo-deadlift
 name: Barbell Sumo Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSumoDeadlift
 primary_muscles:

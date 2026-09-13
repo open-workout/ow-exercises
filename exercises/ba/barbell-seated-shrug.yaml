@@ -1,6 +1,8 @@
 id: '4016'
 slug: barbell-seated-shrug
 name: Barbell Seated Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSeatedShrug
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4666'
 slug: palm-up-palm-down-rotation
 name: Palm-up Palm down Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - PalmupPalmdownRotation
 primary_muscles:

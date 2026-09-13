@@ -1,6 +1,8 @@
 id: '5896'
 slug: mountain-pose
 name: Mountain Pose
+alt_names:
+  en: []
 human_readable_ids:
 - MountainPose
 primary_muscles:

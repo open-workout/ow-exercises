@@ -1,6 +1,8 @@
 id: '5374'
 slug: roll-biceps-lying-on-floor
 name: Roll Biceps Lying on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - RollBicepsLyingonFloor
 primary_muscles:

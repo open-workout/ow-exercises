@@ -1,6 +1,8 @@
 id: '3415'
 slug: assisted-inverse-leg-curl
 name: Assisted Inverse Leg Curl
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedInverseLegCurl
 primary_muscles:

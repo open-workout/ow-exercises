@@ -1,6 +1,8 @@
 id: '0430'
 slug: dumbbell-standing-triceps-extension
 name: Dumbbell Standing Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingTricepsExtension
 primary_muscles:

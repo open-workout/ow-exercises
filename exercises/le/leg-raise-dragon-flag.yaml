@@ -1,6 +1,8 @@
 id: '4058'
 slug: leg-raise-dragon-flag
 name: Leg Raise Dragon Flag
+alt_names:
+  en: []
 human_readable_ids:
 - LegRaiseDragonFlag
 primary_muscles:

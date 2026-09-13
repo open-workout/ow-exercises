@@ -1,6 +1,8 @@
 id: '3254'
 slug: standing-two-side-bend
 name: Standing Two Side Bend
+alt_names:
+  en: []
 human_readable_ids:
 - StandingTwoSideBend
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1984'
 slug: rotator-cuff-stretch
 name: Rotator Cuff Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - RotatorCuffStretch
 primary_muscles:

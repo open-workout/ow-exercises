@@ -1,6 +1,8 @@
 id: 0827
 slug: vertical-mountain-climber
 name: Vertical Mountain Climber
+alt_names:
+  en: []
 human_readable_ids:
 - VerticalMountainClimber
 primary_muscles:

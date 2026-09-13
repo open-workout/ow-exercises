@@ -1,6 +1,8 @@
 id: '0172'
 slug: cable-incline-pushdown
 name: Cable Incline Pushdown
+alt_names:
+  en: []
 human_readable_ids:
 - CableInclinePushdown
 primary_muscles:

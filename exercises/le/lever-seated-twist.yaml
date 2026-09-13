@@ -1,6 +1,8 @@
 id: '1453'
 slug: lever-seated-twist
 name: Lever Seated Twist
+alt_names:
+  en: []
 human_readable_ids:
 - LeverSeatedTwist
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2148'
 slug: lever-single-leg-hip-thrust
 name: Lever Single Leg Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - LeverSingleLegHipThrust
 primary_muscles:

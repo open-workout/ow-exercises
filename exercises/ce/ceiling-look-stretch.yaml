@@ -1,6 +1,8 @@
 id: '0250'
 slug: ceiling-look-stretch
 name: Ceiling Look Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - CeilingLookStretch
 primary_muscles:

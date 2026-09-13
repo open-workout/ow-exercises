@@ -1,6 +1,8 @@
 id: '5088'
 slug: cable-shoulder-internal-rotation
 name: Cable Shoulder Internal Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - CableShoulderInternalRotation
 primary_muscles:

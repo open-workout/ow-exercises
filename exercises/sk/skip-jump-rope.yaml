@@ -1,6 +1,8 @@
 id: '3676'
 slug: skip-jump-rope
 name: Skip Jump Rope
+alt_names:
+  en: []
 human_readable_ids:
 - SkipJumpRope
 primary_muscles:

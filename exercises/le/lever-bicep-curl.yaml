@@ -1,6 +1,8 @@
 id: '0575'
 slug: lever-bicep-curl
 name: Lever Bicep Curl
+alt_names:
+  en: []
 human_readable_ids:
 - LeverBicepCurl
 primary_muscles:

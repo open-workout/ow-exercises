@@ -1,6 +1,8 @@
 id: '6543'
 slug: cable-front-raise-rope-attachment
 name: Cable Front Raise (rope attachment)
+alt_names:
+  en: []
 human_readable_ids:
 - CableFrontRaise2
 primary_muscles:

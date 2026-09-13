@@ -1,6 +1,8 @@
 id: '9312'
 slug: high-bar-incline-push-up
 name: High Bar Incline Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - HighBarInclinePushup
 primary_muscles:

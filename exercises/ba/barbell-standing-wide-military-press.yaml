@@ -1,6 +1,8 @@
 id: '1457'
 slug: barbell-standing-wide-military-press
 name: Barbell Standing Wide Military Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingWideMilitaryPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1703'
 slug: single-leg-transverse-bend
 name: Single Leg Transverse Bend
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegTransverseBend
 primary_muscles:

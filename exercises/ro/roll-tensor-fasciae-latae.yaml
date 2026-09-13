@@ -1,6 +1,8 @@
 id: '4598'
 slug: roll-tensor-fasciae-latae
 name: Roll Tensor Fasciae Latae
+alt_names:
+  en: []
 human_readable_ids:
 - RollTensorFasciaeLatae
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2221'
 slug: dumbbell-step-up-2221
 name: Dumbbell Step Up
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStepUp
 primary_muscles:

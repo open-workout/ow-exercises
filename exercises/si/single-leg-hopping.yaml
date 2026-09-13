@@ -1,6 +1,8 @@
 id: '5482'
 slug: single-leg-hopping
 name: Single Leg Hopping
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegHopping
 primary_muscles:

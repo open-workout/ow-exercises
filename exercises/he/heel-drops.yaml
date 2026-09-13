@@ -1,6 +1,8 @@
 id: '3872'
 slug: heel-drops
 name: Heel Drops
+alt_names:
+  en: []
 human_readable_ids:
 - HeelDrops
 primary_muscles:

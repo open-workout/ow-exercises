@@ -1,6 +1,8 @@
 id: '10138'
 slug: standing-isometric-biceps-hold
 name: Standing Isometric Biceps Hold
+alt_names:
+  en: []
 human_readable_ids:
 - StandingIsometricBicepsHold
 primary_muscles:

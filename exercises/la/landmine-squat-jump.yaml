@@ -1,6 +1,8 @@
 id: '10675'
 slug: landmine-squat-jump
 name: Landmine Squat Jump
+alt_names:
+  en: []
 human_readable_ids:
 - LandmineSquatJump
 primary_muscles:

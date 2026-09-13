@@ -1,6 +1,8 @@
 id: '6194'
 slug: kettlebell-shrug
 name: Kettlebell Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellShrug
 primary_muscles:

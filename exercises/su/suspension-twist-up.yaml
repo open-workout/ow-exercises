@@ -1,6 +1,8 @@
 id: '1152'
 slug: suspension-twist-up
 name: Suspension Twist-Up
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionTwistUp
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4933'
 slug: standing-leg-circle
 name: Standing Leg Circle
+alt_names:
+  en: []
 human_readable_ids:
 - StandingLegCircle
 primary_muscles:

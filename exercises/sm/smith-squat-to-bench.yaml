@@ -1,6 +1,8 @@
 id: '1596'
 slug: smith-squat-to-bench
 name: Smith Squat to Bench
+alt_names:
+  en: []
 human_readable_ids:
 - SmithSquattoBench
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3533'
 slug: bulgarian-split-squat
 name: Bulgarian Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BulgarianSplitSquat
 primary_muscles:

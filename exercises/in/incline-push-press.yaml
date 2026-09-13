@@ -1,6 +1,8 @@
 id: '1851'
 slug: incline-push-press
 name: Incline Push Press
+alt_names:
+  en: []
 human_readable_ids:
 - InclinePushPress
 primary_muscles:

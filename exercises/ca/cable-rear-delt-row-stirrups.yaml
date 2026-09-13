@@ -1,6 +1,8 @@
 id: '0202'
 slug: cable-rear-delt-row-stirrups
 name: Cable Rear Delt Row (stirrups)
+alt_names:
+  en: []
 human_readable_ids:
 - CableRearDeltRow
 primary_muscles:

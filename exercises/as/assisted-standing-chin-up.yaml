@@ -1,6 +1,8 @@
 id: '1431'
 slug: assisted-standing-chin-up
 name: Assisted Standing Chin-Up
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedStandingChinUp
 primary_muscles:

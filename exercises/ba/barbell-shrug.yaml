@@ -1,6 +1,8 @@
 id: 0095
 slug: barbell-shrug
 name: Barbell Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellShrug
 primary_muscles:

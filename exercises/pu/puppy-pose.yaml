@@ -1,6 +1,8 @@
 id: '5897'
 slug: puppy-pose
 name: Puppy Pose
+alt_names:
+  en: []
 human_readable_ids:
 - PuppyPose
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0350'
 slug: dumbbell-lying-supine-curl
 name: Dumbbell Lying Supine Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellLyingSupineCurl
 primary_muscles:

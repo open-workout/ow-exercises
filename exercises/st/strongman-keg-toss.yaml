@@ -1,6 +1,8 @@
 id: '3307'
 slug: strongman-keg-toss
 name: StrongMan Keg Toss
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManKegToss
 primary_muscles:

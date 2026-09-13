@@ -1,6 +1,8 @@
 id: '3889'
 slug: frog-sit-up
 name: Frog Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - FrogSitup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0483
 slug: hip-extension-stretch
 name: Hip Extension Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - HipExtensionStretch
 primary_muscles:

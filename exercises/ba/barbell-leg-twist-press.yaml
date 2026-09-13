@@ -1,6 +1,8 @@
 id: '2811'
 slug: barbell-leg-twist-press
 name: Barbell Leg Twist Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellLegTwistPress
 primary_muscles:

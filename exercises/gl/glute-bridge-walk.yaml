@@ -1,6 +1,8 @@
 id: '6570'
 slug: glute-bridge-walk
 name: Glute Bridge Walk
+alt_names:
+  en: []
 human_readable_ids:
 - GluteBridgeWalk
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4254'
 slug: single-leg-vertical-jump
 name: Single Leg Vertical Jump
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegVerticalJump
 primary_muscles:

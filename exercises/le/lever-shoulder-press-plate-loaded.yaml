@@ -1,6 +1,8 @@
 id: '0603'
 slug: lever-shoulder-press-plate-loaded
 name: Lever Shoulder Press (plate loaded)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverShoulderPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '10110'
 slug: barbell-fat-bar-reverse-curl
 name: Barbell Fat Bar Reverse Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFatBarReverseCurl
 primary_muscles:

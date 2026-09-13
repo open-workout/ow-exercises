@@ -1,6 +1,8 @@
 id: '0402'
 slug: dumbbell-seated-preacher-curl
 name: Dumbbell Seated Preacher Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedPreacherCurl
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1357'
 slug: one-handed-hang
 name: One Handed Hang
+alt_names:
+  en: []
 human_readable_ids:
 - OneHandedHang
 primary_muscles:

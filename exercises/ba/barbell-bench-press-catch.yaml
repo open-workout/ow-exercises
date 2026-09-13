@@ -1,6 +1,8 @@
 id: '10560'
 slug: barbell-bench-press-catch
 name: Barbell Bench Press Catch
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBenchPressCatch
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '9387'
 slug: lever-angled-single-leg-press
 name: Lever Angled Single Leg Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverAngledSingleLegPress
 primary_muscles:

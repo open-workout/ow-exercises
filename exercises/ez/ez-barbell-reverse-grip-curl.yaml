@@ -1,6 +1,8 @@
 id: '0451'
 slug: ez-barbell-reverse-grip-curl
 name: EZ Barbell Reverse Grip Curl
+alt_names:
+  en: []
 human_readable_ids:
 - EZBarbellReverseGripCurl
 primary_muscles:

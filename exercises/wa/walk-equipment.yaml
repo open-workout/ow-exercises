@@ -1,6 +1,8 @@
 id: 0828
 slug: walk-equipment
 name: Walk (equipment)
+alt_names:
+  en: []
 human_readable_ids:
 - Walk
 primary_muscles:

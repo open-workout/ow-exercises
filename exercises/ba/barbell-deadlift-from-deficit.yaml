@@ -1,6 +1,8 @@
 id: '5702'
 slug: barbell-deadlift-from-deficit
 name: Barbell Deadlift from Deficit
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellDeadliftfromDeficit
 primary_muscles:

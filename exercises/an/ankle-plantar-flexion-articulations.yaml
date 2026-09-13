@@ -1,6 +1,8 @@
 id: '2762'
 slug: ankle-plantar-flexion-articulations
 name: Ankle - Plantar Flexion - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - AnklePlantarFlexionArticulations
 primary_muscles:

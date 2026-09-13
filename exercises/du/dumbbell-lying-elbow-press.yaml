@@ -1,6 +1,8 @@
 id: 0338
 slug: dumbbell-lying-elbow-press
 name: Dumbbell Lying Elbow Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellLyingElbowPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4786'
 slug: side-bench-squat
 name: Side Bench Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SideBenchSquat
 primary_muscles:

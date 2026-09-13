@@ -1,6 +1,8 @@
 id: '2709'
 slug: strongman-arm-over-arm
 name: StrongMan Arm over Arm
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManArmoverArm
 primary_muscles:

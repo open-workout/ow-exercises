@@ -1,6 +1,8 @@
 id: '3182'
 slug: weighted-frog-pump
 name: Weighted Frog Pump
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedFrogPump
 primary_muscles:

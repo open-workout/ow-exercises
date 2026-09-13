@@ -1,6 +1,8 @@
 id: '1569'
 slug: kettlebell-one-legged-deadlift
 name: Kettlebell One Legged Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellOneLeggedDeadlift
 primary_muscles:

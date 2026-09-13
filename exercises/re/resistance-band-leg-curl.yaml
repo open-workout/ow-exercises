@@ -1,6 +1,8 @@
 id: '2422'
 slug: resistance-band-leg-curl
 name: Resistance Band Leg Curl
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandLegCurl
 primary_muscles:

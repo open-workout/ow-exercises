@@ -1,6 +1,8 @@
 id: 0018
 slug: assisted-standing-triceps-extension-with-towel
 name: Assisted Standing Triceps Extension (with towel)
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedStandingTricepsExtension
 primary_muscles:

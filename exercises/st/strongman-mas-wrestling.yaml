@@ -1,6 +1,8 @@
 id: '2708'
 slug: strongman-mas-wrestling
 name: StrongMan MAS Wrestling
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManMASWrestling
 primary_muscles:

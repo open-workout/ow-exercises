@@ -1,6 +1,8 @@
 id: '10901'
 slug: dumbbell-single-arm-shrug
 name: Dumbbell Single Arm Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleArmShrug
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4166'
 slug: trap-bar-jump-squat
 name: Trap Bar Jump Squat
+alt_names:
+  en: []
 human_readable_ids:
 - TrapBarJumpSquat
 primary_muscles:

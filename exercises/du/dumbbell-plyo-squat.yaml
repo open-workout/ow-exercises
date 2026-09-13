@@ -1,6 +1,8 @@
 id: '0371'
 slug: dumbbell-plyo-squat
 name: Dumbbell Plyo Squat
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellPlyoSquat
 primary_muscles:

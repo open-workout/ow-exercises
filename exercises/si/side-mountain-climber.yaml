@@ -1,6 +1,8 @@
 id: '5680'
 slug: side-mountain-climber
 name: Side Mountain Climber
+alt_names:
+  en: []
 human_readable_ids:
 - SideMountainClimber
 primary_muscles:

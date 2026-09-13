@@ -1,6 +1,8 @@
 id: '5393'
 slug: roll-quadriceps-vastus-lateralis-lying-on-floor
 name: Roll Quadriceps (Vastus Lateralis) Lying on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - RollQuadricepsLyingonFloor
 primary_muscles:

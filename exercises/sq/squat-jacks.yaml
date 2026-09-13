@@ -1,6 +1,8 @@
 id: 0785
 slug: squat-jacks
 name: Squat Jacks
+alt_names:
+  en: []
 human_readable_ids:
 - SquatJacks
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4246'
 slug: landmine-front-squat
 name: Landmine Front Squat
+alt_names:
+  en: []
 human_readable_ids:
 - LandmineFrontSquat
 primary_muscles:

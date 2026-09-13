@@ -1,6 +1,8 @@
 id: '8342'
 slug: bodyweight-standing-scapular-external-rotation
 name: Bodyweight Standing Scapular External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightStandingScapularExternalRotation
 primary_muscles:

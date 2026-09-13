@@ -1,6 +1,8 @@
 id: '11647'
 slug: single-leg-pogo-jump
 name: Single Leg Pogo Jump
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegPogoJump
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2465'
 slug: resistance-band-jumping-jack
 name: Resistance Band Jumping Jack
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandJumpingJack
 primary_muscles:

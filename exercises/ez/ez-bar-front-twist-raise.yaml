@@ -1,6 +1,8 @@
 id: '3986'
 slug: ez-bar-front-twist-raise
 name: EZ-bar Front Twist Raise
+alt_names:
+  en: []
 human_readable_ids:
 - EZbarFrontTwistRaise
 primary_muscles:

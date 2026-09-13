@@ -1,6 +1,8 @@
 id: '3303'
 slug: flag
 name: Flag
+alt_names:
+  en: []
 human_readable_ids:
 - Flag
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0744'
 slug: sled-lying-squat
 name: Sled Lying Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SledLyingSquat
 primary_muscles:

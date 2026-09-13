@@ -1,6 +1,8 @@
 id: '4160'
 slug: squat-hold-calf-raise
 name: Squat Hold Calf Raise
+alt_names:
+  en: []
 human_readable_ids:
 - SquatHoldCalfRaise
 primary_muscles:

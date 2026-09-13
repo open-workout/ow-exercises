@@ -1,6 +1,8 @@
 id: 0884
 slug: smith-lateral-step-up
 name: Smith Lateral Step-Up
+alt_names:
+  en: []
 human_readable_ids:
 - SmithLateralStepUp
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2862'
 slug: scissors
 name: Scissors
+alt_names:
+  en: []
 human_readable_ids:
 - Scissors
 primary_muscles:

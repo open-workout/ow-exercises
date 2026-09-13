@@ -1,6 +1,8 @@
 id: '10537'
 slug: seated-single-leg-knee-extension
 name: Seated Single Leg Knee Extension
+alt_names:
+  en: []
 human_readable_ids:
 - SeatedSingleLegKneeExtension
 primary_muscles:

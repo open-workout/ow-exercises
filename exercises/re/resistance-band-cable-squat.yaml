@@ -1,6 +1,8 @@
 id: '3857'
 slug: resistance-band-cable-squat
 name: Resistance Band Cable Squat
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandCableSquat
 primary_muscles:

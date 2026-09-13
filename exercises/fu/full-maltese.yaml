@@ -1,6 +1,8 @@
 id: '3315'
 slug: full-maltese
 name: Full Maltese
+alt_names:
+  en: []
 human_readable_ids:
 - FullMaltese
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3389'
 slug: sit-up-with-chair-assisted
 name: Sit up with Chair Assisted
+alt_names:
+  en: []
 human_readable_ids:
 - SitupwithChairAssisted
 primary_muscles:

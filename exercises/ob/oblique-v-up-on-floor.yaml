@@ -1,6 +1,8 @@
 id: '3515'
 slug: oblique-v-up-on-floor
 name: Oblique V-up on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - ObliqueVuponFloor
 primary_muscles:

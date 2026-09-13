@@ -1,6 +1,8 @@
 id: '1485'
 slug: plow-yoga-pose
 name: Plow Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - PlowYogaPose
 primary_muscles:

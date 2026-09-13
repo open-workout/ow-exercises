@@ -1,6 +1,8 @@
 id: '3017'
 slug: barbell-pendlay-row
 name: Barbell Pendlay Row
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPendlayRow
 primary_muscles:

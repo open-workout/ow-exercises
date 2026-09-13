@@ -1,6 +1,8 @@
 id: '0234'
 slug: cable-standing-row-v-bar
 name: Cable Standing Row (V-bar)
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingRow
 primary_muscles:

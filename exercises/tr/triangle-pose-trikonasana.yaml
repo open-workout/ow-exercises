@@ -1,6 +1,8 @@
 id: 0962
 slug: triangle-pose-trikonasana
 name: Triangle Pose Trikonasana
+alt_names:
+  en: []
 human_readable_ids:
 - TrianglePoseTrikonasana
 primary_muscles:

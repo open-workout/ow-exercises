@@ -1,6 +1,8 @@
 id: 0801
 slug: step-up
 name: Step-up
+alt_names:
+  en: []
 human_readable_ids:
 - Stepup
 primary_muscles:

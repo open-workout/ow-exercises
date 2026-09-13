@@ -1,6 +1,8 @@
 id: '1721'
 slug: barbell-reverse-grip-skullcrusher
 name: Barbell Reverse Grip Skullcrusher
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellReverseGripSkullcrusher
 primary_muscles:

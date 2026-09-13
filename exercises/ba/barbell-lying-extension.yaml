@@ -1,6 +1,8 @@
 id: '0057'
 slug: barbell-lying-extension
 name: Barbell Lying extension
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellLyingextension
 primary_muscles:

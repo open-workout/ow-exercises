@@ -1,6 +1,8 @@
 id: '2275'
 slug: left-uppercut-boxing
 name: Left Uppercut. Boxing
+alt_names:
+  en: []
 human_readable_ids:
 - LeftUppercutBoxing
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0323'
 slug: dumbbell-incline-one-arm-lateral-raise
 name: Dumbbell Incline One Arm Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellInclineOneArmLateralRaise
 primary_muscles:

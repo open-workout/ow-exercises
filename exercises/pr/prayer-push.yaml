@@ -1,6 +1,8 @@
 id: '4876'
 slug: prayer-push
 name: Prayer Push
+alt_names:
+  en: []
 human_readable_ids:
 - PrayerPush
 primary_muscles:

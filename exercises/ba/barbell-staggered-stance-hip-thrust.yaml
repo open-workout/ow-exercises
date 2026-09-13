@@ -1,6 +1,8 @@
 id: '5476'
 slug: barbell-staggered-stance-hip-thrust
 name: Barbell Staggered Stance Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStaggeredStanceHipThrust
 primary_muscles:

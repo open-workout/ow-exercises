@@ -1,6 +1,8 @@
 id: '2106'
 slug: cat-stretch-version-2
 name: Cat Stretch (Version 2)
+alt_names:
+  en: []
 human_readable_ids:
 - CatStretch2
 primary_muscles:

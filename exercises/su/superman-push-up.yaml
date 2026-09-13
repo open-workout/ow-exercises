@@ -1,6 +1,8 @@
 id: 0803
 slug: superman-push-up
 name: Superman Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - SupermanPushup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '10925'
 slug: two-to-one-leg-jump
 name: Two to One Leg Jump
+alt_names:
+  en: []
 human_readable_ids:
 - TwotoOneLegJump
 primary_muscles:

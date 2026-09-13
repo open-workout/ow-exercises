@@ -1,6 +1,8 @@
 id: 0108
 slug: barbell-standing-leg-calf-raise
 name: Barbell Standing Leg Calf Raise
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingLegCalfRaise
 primary_muscles:

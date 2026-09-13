@@ -1,6 +1,8 @@
 id: '5275'
 slug: lying-toe-touch
 name: Lying Toe Touch
+alt_names:
+  en: []
 human_readable_ids:
 - LyingToeTouch
 primary_muscles:

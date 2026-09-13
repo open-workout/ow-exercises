@@ -1,6 +1,8 @@
 id: '3310'
 slug: barbell-weighted-bench-press
 name: Barbell Weighted Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWeightedBenchPress
 primary_muscles:

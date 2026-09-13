@@ -1,6 +1,8 @@
 id: '4050'
 slug: resistance-band-hip-thrusts
 name: Resistance Band Hip Thrusts
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandHipThrusts
 primary_muscles:

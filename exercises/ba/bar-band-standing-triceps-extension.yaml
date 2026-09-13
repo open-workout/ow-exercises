@@ -1,6 +1,8 @@
 id: '4680'
 slug: bar-band-standing-triceps-extension
 name: Bar Band Standing Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - BarBandStandingTricepsExtension
 primary_muscles:
