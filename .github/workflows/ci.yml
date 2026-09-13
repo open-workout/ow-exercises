@@ -18,3 +18,5 @@ jobs:
         run: pip install pyyaml
       - name: Check unique human_readable_ids
         run: python3 scripts/check_unique_human_readable_ids.py
+      - name: Validate exercise schema
+        run: python3 scripts/validate_exercises.py
