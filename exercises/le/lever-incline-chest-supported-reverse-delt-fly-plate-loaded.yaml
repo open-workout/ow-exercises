@@ -1,0 +1,15 @@
+id: '11718'
+slug: lever-incline-chest-supported-reverse-delt-fly-plate-loaded
+name: Lever Incline Chest Supported Reverse Delt Fly (plate loaded)
+human_readable_ids:
+- LeverInclineChestSupportedReverseDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

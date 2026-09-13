@@ -1,0 +1,15 @@
+id: '2661'
+slug: cable-seated-row-with-v-bar
+name: Cable Seated Row with V bar
+human_readable_ids:
+- CableSeatedRowwithVbar
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

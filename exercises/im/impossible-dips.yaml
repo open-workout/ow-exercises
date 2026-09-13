@@ -1,0 +1,16 @@
+id: '3289'
+slug: impossible-dips
+name: Impossible dips
+human_readable_ids:
+- Impossibledips
+primary_muscles:
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

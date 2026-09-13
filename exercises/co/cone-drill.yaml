@@ -1,0 +1,15 @@
+id: '5986'
+slug: cone-drill
+name: Cone Drill
+human_readable_ids:
+- ConeDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

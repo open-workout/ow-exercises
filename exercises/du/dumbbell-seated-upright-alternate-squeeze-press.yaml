@@ -1,0 +1,15 @@
+id: '3946'
+slug: dumbbell-seated-upright-alternate-squeeze-press
+name: Dumbbell Seated Upright Alternate Squeeze Press
+human_readable_ids:
+- DumbbellSeatedUprightAlternateSqueezePress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

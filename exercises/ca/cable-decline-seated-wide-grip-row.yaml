@@ -1,0 +1,15 @@
+id: 0159
+slug: cable-decline-seated-wide-grip-row
+name: Cable Decline Seated Wide-grip Row
+human_readable_ids:
+- CableDeclineSeatedWidegripRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

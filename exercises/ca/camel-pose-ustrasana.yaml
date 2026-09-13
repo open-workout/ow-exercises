@@ -1,0 +1,14 @@
+id: '6303'
+slug: camel-pose-ustrasana
+name: Camel Pose Ustrasana
+human_readable_ids:
+- CamelPoseUstrasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

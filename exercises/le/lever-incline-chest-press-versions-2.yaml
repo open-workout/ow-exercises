@@ -1,0 +1,15 @@
+id: '1479'
+slug: lever-incline-chest-press-versions-2
+name: Lever Incline Chest Press (versions 2)
+human_readable_ids:
+- LeverInclineChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3856'
+slug: resistance-band-smith-squat
+name: Resistance Band Smith Squat
+human_readable_ids:
+- ResistanceBandSmithSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

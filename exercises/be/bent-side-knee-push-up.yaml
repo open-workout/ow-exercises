@@ -1,0 +1,16 @@
+id: '0134'
+slug: bent-side-knee-push-up
+name: Bent Side Knee Push-up
+human_readable_ids:
+- BentSideKneePushup
+primary_muscles:
+- glutes
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

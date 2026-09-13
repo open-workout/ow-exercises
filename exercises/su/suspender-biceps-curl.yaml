@@ -1,0 +1,15 @@
+id: '6232'
+slug: suspender-biceps-curl
+name: Suspender Biceps Curl
+human_readable_ids:
+- SuspenderBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5668'
+slug: barbell-standing-shoulder-pin-press
+name: Barbell Standing Shoulder Pin Press
+human_readable_ids:
+- BarbellStandingShoulderPinPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

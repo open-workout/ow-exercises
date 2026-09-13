@@ -1,0 +1,15 @@
+id: '9986'
+slug: standing-towel-foot-crunch
+name: Standing Towel Foot Crunch
+human_readable_ids:
+- StandingTowelFootCrunch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

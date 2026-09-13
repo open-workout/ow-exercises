@@ -1,0 +1,19 @@
+id: '2311'
+slug: walking-on-stepmill
+name: Walking on Stepmill
+human_readable_ids:
+- WalkingonStepmill
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

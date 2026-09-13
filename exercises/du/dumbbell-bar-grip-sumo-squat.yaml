@@ -1,0 +1,16 @@
+id: '2430'
+slug: dumbbell-bar-grip-sumo-squat
+name: Dumbbell Bar Grip Sumo Squat
+human_readable_ids:
+- DumbbellBarGripSumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

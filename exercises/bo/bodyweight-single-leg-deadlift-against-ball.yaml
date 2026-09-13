@@ -1,0 +1,15 @@
+id: '10862'
+slug: bodyweight-single-leg-deadlift-against-ball
+name: Bodyweight Single Leg Deadlift against Ball
+human_readable_ids:
+- BodyweightSingleLegDeadliftagainstBall
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

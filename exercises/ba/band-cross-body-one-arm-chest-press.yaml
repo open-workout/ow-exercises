@@ -1,0 +1,15 @@
+id: '4076'
+slug: band-cross-body-one-arm-chest-press
+name: Band Cross Body One Arm Chest Press
+human_readable_ids:
+- BandCrossBodyOneArmChestPress
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

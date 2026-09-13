@@ -1,0 +1,15 @@
+id: '4523'
+slug: kettlebell-single-leg-deadlift
+name: Kettlebell Single Leg Deadlift
+human_readable_ids:
+- KettlebellSingleLegDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

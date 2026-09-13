@@ -1,0 +1,14 @@
+id: '1711'
+slug: assisted-oblique-glute-minimus-and-medius-stretch
+name: Assisted Oblique Glute Minimus And Medius Stretch
+human_readable_ids:
+- AssistedObliqueGluteMinimusAndMediusStretch
+primary_muscles:
+- glutes
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

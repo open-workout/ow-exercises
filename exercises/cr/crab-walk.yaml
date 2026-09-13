@@ -1,0 +1,15 @@
+id: '5881'
+slug: crab-walk
+name: Crab Walk
+human_readable_ids:
+- CrabWalk
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

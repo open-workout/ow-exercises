@@ -1,0 +1,15 @@
+id: '1553'
+slug: dumbbell-lateral-lunge-with-bicep-curl
+name: Dumbbell Lateral Lunge with Bicep Curl
+human_readable_ids:
+- DumbbellLateralLungewithBicepCurl
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

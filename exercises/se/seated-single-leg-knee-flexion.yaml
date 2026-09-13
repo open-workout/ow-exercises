@@ -1,0 +1,15 @@
+id: '10534'
+slug: seated-single-leg-knee-flexion
+name: Seated Single Leg Knee Flexion
+human_readable_ids:
+- SeatedSingleLegKneeFlexion
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

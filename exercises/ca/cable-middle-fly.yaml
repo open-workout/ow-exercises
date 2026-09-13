@@ -1,0 +1,15 @@
+id: 0188
+slug: cable-middle-fly
+name: Cable Middle Fly
+human_readable_ids:
+- CableMiddleFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

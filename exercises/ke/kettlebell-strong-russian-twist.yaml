@@ -1,0 +1,15 @@
+id: '10327'
+slug: kettlebell-strong-russian-twist
+name: Kettlebell Strong Russian Twist
+human_readable_ids:
+- KettlebellStrongRussianTwist
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

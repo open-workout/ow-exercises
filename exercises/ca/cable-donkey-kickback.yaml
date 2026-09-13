@@ -1,0 +1,15 @@
+id: '4421'
+slug: cable-donkey-kickback
+name: Cable Donkey Kickback
+human_readable_ids:
+- CableDonkeyKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

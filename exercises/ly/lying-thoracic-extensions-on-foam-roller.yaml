@@ -1,0 +1,15 @@
+id: '11572'
+slug: lying-thoracic-extensions-on-foam-roller
+name: Lying Thoracic Extensions on Foam Roller
+human_readable_ids:
+- LyingThoracicExtensionsonFoamRoller
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

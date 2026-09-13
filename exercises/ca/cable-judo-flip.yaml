@@ -1,0 +1,15 @@
+id: '0174'
+slug: cable-judo-flip
+name: Cable Judo Flip
+human_readable_ids:
+- CableJudoFlip
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

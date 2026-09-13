@@ -1,0 +1,16 @@
+id: '3470'
+slug: forward-lunge
+name: Forward Lunge
+human_readable_ids:
+- ForwardLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

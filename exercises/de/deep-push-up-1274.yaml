@@ -1,0 +1,15 @@
+id: '1274'
+slug: deep-push-up-1274
+name: Deep Push Up
+human_readable_ids:
+- DeepPushUp
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

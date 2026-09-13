@@ -1,0 +1,14 @@
+id: '10547'
+slug: standing-single-leg-calf-rock
+name: Standing Single Leg Calf Rock
+human_readable_ids:
+- StandingSingleLegCalfRock
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4179'
+slug: smith-banded-full-squat
+name: Smith Banded Full Squat
+human_readable_ids:
+- SmithBandedFullSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

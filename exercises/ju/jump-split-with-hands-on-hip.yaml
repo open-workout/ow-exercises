@@ -1,0 +1,15 @@
+id: '4771'
+slug: jump-split-with-hands-on-hip
+name: Jump Split with Hands on Hip
+human_readable_ids:
+- JumpSplitwithHandsonHip
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

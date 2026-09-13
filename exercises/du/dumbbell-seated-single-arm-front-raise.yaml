@@ -1,0 +1,15 @@
+id: '6143'
+slug: dumbbell-seated-single-arm-front-raise
+name: Dumbbell Seated Single Arm Front Raise
+human_readable_ids:
+- DumbbellSeatedSingleArmFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

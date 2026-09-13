@@ -1,0 +1,15 @@
+id: '9971'
+slug: lying-supine-straight-knee-raise
+name: Lying Supine Straight Knee Raise
+human_readable_ids:
+- LyingSupineStraightKneeRaise
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

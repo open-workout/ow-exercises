@@ -1,0 +1,15 @@
+id: '6545'
+slug: handstand-hold-on-wall
+name: Handstand Hold on Wall
+human_readable_ids:
+- HandstandHoldonWall
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

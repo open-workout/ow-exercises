@@ -1,0 +1,15 @@
+id: '4664'
+slug: arm-crossover
+name: Arm Crossover
+human_readable_ids:
+- ArmCrossover
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

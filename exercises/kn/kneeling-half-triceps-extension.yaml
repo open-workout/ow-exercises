@@ -1,0 +1,15 @@
+id: '4893'
+slug: kneeling-half-triceps-extension
+name: Kneeling Half Triceps Extension
+human_readable_ids:
+- KneelingHalfTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

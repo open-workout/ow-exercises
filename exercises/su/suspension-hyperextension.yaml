@@ -1,0 +1,15 @@
+id: '1079'
+slug: suspension-hyperextension
+name: Suspension Hyperextension
+human_readable_ids:
+- SuspensionHyperextension
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

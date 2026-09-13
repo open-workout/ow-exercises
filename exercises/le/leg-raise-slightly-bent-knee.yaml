@@ -1,0 +1,15 @@
+id: '1854'
+slug: leg-raise-slightly-bent-knee
+name: Leg Raise Slightly Bent Knee
+human_readable_ids:
+- LegRaiseSlightlyBentKnee
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

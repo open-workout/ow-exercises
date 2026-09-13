@@ -1,0 +1,15 @@
+id: '4327'
+slug: sled-vertical-leg-press
+name: Sled Vertical Leg Press
+human_readable_ids:
+- SledVerticalLegPress
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

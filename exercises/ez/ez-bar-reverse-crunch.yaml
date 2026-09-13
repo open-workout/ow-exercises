@@ -1,0 +1,15 @@
+id: '4188'
+slug: ez-bar-reverse-crunch
+name: EZ-Bar Reverse Crunch
+human_readable_ids:
+- EZBarReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

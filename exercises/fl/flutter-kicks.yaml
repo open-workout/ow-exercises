@@ -1,0 +1,15 @@
+id: 0459
+slug: flutter-kicks
+name: Flutter Kicks
+human_readable_ids:
+- FlutterKicks
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

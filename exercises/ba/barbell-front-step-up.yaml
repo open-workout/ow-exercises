@@ -1,0 +1,16 @@
+id: '3728'
+slug: barbell-front-step-up
+name: Barbell Front Step Up
+human_readable_ids:
+- BarbellFrontStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

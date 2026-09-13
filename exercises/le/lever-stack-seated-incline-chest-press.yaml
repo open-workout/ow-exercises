@@ -1,0 +1,15 @@
+id: '10669'
+slug: lever-stack-seated-incline-chest-press
+name: Lever Stack Seated Incline Chest Press
+human_readable_ids:
+- LeverStackSeatedInclineChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

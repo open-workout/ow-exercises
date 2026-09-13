@@ -1,0 +1,15 @@
+id: '2288'
+slug: lever-gripper-hands-plate-loaded
+name: Lever Gripper Hands (plate loaded)
+human_readable_ids:
+- LeverGripperHands
+primary_muscles:
+- forearms
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

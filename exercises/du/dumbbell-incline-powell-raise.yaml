@@ -1,0 +1,15 @@
+id: '7252'
+slug: dumbbell-incline-powell-raise
+name: Dumbbell Incline Powell Raise
+human_readable_ids:
+- DumbbellInclinePowellRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

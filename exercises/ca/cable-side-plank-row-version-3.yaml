@@ -1,0 +1,15 @@
+id: '11275'
+slug: cable-side-plank-row-version-3
+name: Cable Side Plank Row (VERSION 3)
+human_readable_ids:
+- CableSidePlankRow
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

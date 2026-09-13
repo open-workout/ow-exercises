@@ -1,0 +1,15 @@
+id: '0347'
+slug: dumbbell-lying-pronation
+name: Dumbbell Lying Pronation
+human_readable_ids:
+- DumbbellLyingPronation
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '2468'
+slug: dumbbell-lateral-step-up
+name: Dumbbell Lateral Step-Up
+human_readable_ids:
+- DumbbellLateralStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

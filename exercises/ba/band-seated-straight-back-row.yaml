@@ -1,0 +1,15 @@
+id: '3121'
+slug: band-seated-straight-back-row
+name: Band Seated Straight Back Row
+human_readable_ids:
+- BandSeatedStraightBackRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1492'
+slug: triceps-dip-stretch
+name: Triceps Dip Stretch
+human_readable_ids:
+- TricepsDipStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

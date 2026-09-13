@@ -1,0 +1,15 @@
+id: '1379'
+slug: dumbbell-seated-calf-raise
+name: Dumbbell Seated Calf Raise
+human_readable_ids:
+- DumbbellSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

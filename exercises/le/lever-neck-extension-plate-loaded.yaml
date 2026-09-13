@@ -1,0 +1,15 @@
+id: '2282'
+slug: lever-neck-extension-plate-loaded
+name: Lever Neck Extension (plate loaded)
+human_readable_ids:
+- LeverNeckExtension
+primary_muscles:
+- neck
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

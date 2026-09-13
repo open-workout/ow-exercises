@@ -1,0 +1,15 @@
+id: '2908'
+slug: power-sled-anti-rotation-forward-walk
+name: Power Sled Anti-Rotation Forward Walk
+human_readable_ids:
+- PowerSledAntiRotationForwardWalk
+primary_muscles:
+- glutes
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

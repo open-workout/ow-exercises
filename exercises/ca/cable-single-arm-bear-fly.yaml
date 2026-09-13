@@ -1,0 +1,15 @@
+id: '10095'
+slug: cable-single-arm-bear-fly
+name: Cable Single Arm Bear Fly
+human_readable_ids:
+- CableSingleArmBearFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

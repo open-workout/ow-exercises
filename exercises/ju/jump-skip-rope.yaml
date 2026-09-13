@@ -1,0 +1,15 @@
+id: '4829'
+slug: jump-skip-rope
+name: Jump Skip Rope
+human_readable_ids:
+- JumpSkipRope
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

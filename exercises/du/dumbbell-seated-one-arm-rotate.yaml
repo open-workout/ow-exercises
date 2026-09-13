@@ -1,0 +1,15 @@
+id: 0399
+slug: dumbbell-seated-one-arm-rotate
+name: Dumbbell Seated One Arm Rotate
+human_readable_ids:
+- DumbbellSeatedOneArmRotate
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

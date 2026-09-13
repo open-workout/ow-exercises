@@ -1,0 +1,15 @@
+id: '6745'
+slug: cable-seated-foot-eversion
+name: Cable Seated Foot Eversion
+human_readable_ids:
+- CableSeatedFootEversion
+primary_muscles:
+- calves
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

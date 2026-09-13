@@ -1,0 +1,14 @@
+id: '4496'
+slug: roll-ball-forearm-extensors
+name: Roll Ball Forearm Extensors
+human_readable_ids:
+- RollBallForearmExtensors
+primary_muscles:
+- forearms
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

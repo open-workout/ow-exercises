@@ -1,0 +1,15 @@
+id: '2910'
+slug: dumbbell-suitcase-carry
+name: Dumbbell Suitcase Carry
+human_readable_ids:
+- DumbbellSuitcaseCarry
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4078'
+slug: band-alternate-low-chest-fly
+name: Band Alternate Low Chest Fly
+human_readable_ids:
+- BandAlternateLowChestFly
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10735'
+slug: hanging-alternating-knee-raise
+name: Hanging Alternating Knee Raise
+human_readable_ids:
+- HangingAlternatingKneeRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

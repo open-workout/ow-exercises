@@ -1,0 +1,15 @@
+id: 0090
+slug: barbell-seated-good-morning
+name: Barbell Seated Good morning
+human_readable_ids:
+- BarbellSeatedGoodmorning
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

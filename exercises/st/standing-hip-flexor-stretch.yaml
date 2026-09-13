@@ -1,0 +1,14 @@
+id: '1949'
+slug: standing-hip-flexor-stretch
+name: Standing Hip Flexor Stretch
+human_readable_ids:
+- StandingHipFlexorStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

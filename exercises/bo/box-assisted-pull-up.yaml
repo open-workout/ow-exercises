@@ -1,0 +1,15 @@
+id: '9511'
+slug: box-assisted-pull-up
+name: Box Assisted Pull-up
+human_readable_ids:
+- BoxAssistedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '3785'
+slug: incline-push-up-on-box
+name: Incline Push-Up (on box)
+human_readable_ids:
+- InclinePushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

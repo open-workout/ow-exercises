@@ -1,0 +1,15 @@
+id: '3491'
+slug: decline-push-up-against-wall
+name: Decline Push-up against Wall
+human_readable_ids:
+- DeclinePushupagainstWall
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

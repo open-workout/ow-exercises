@@ -1,0 +1,15 @@
+id: '1119'
+slug: suspension-lunge-back-crossover
+name: Suspension Lunge Back Crossover
+human_readable_ids:
+- SuspensionLungeBackCrossover
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

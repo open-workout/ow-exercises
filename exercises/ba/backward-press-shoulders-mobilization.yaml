@@ -1,0 +1,14 @@
+id: '11795'
+slug: backward-press-shoulders-mobilization
+name: Backward Press Shoulders Mobilization
+human_readable_ids:
+- BackwardPressShouldersMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

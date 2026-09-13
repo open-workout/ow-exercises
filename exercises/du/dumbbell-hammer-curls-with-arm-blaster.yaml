@@ -1,0 +1,15 @@
+id: '2402'
+slug: dumbbell-hammer-curls-with-arm-blaster
+name: Dumbbell Hammer Curls (with arm blaster)
+human_readable_ids:
+- DumbbellHammerCurls
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

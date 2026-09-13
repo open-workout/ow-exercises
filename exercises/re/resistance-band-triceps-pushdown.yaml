@@ -1,0 +1,15 @@
+id: '4688'
+slug: resistance-band-triceps-pushdown
+name: Resistance Band Triceps Pushdown
+human_readable_ids:
+- ResistanceBandTricepsPushdown
+primary_muscles:
+- triceps
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

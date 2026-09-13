@@ -1,0 +1,15 @@
+id: '5910'
+slug: weighted-chain-sumo-deadlift
+name: Weighted Chain Sumo Deadlift
+human_readable_ids:
+- WeightedChainSumoDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

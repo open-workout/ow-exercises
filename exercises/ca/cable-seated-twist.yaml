@@ -1,0 +1,15 @@
+id: '2399'
+slug: cable-seated-twist
+name: Cable Seated Twist
+human_readable_ids:
+- CableSeatedTwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

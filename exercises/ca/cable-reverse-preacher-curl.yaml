@@ -1,0 +1,15 @@
+id: 0209
+slug: cable-reverse-preacher-curl
+name: Cable Reverse Preacher Curl
+human_readable_ids:
+- CableReversePreacherCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

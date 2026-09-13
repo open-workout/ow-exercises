@@ -1,0 +1,14 @@
+id: '1259'
+slug: behind-head-chest-stretch
+name: Behind Head Chest Stretch
+human_readable_ids:
+- BehindHeadChestStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: added

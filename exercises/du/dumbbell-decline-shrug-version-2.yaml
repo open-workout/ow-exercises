@@ -1,0 +1,15 @@
+id: '0304'
+slug: dumbbell-decline-shrug-version-2
+name: Dumbbell Decline Shrug (version 2)
+human_readable_ids:
+- DumbbellDeclineShrug
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

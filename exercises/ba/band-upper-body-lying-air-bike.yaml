@@ -1,0 +1,16 @@
+id: '3778'
+slug: band-upper-body-lying-air-bike
+name: Band Upper Body Lying Air Bike
+human_readable_ids:
+- BandUpperBodyLyingAirBike
+primary_muscles:
+- glutes
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

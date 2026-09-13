@@ -1,0 +1,15 @@
+id: '4154'
+slug: weighted-seated-neutral-wrist-curl
+name: Weighted Seated Neutral Wrist Curl
+human_readable_ids:
+- WeightedSeatedNeutralWristCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

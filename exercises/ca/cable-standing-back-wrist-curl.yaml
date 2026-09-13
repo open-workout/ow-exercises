@@ -1,0 +1,15 @@
+id: '0224'
+slug: cable-standing-back-wrist-curl
+name: Cable Standing Back Wrist Curl
+human_readable_ids:
+- CableStandingBackWristCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

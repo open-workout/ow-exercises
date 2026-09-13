@@ -1,0 +1,15 @@
+id: '2754'
+slug: weighted-hip-thrusts
+name: Weighted Hip Thrusts
+human_readable_ids:
+- WeightedHipThrusts
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

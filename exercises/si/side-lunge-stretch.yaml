@@ -1,0 +1,15 @@
+id: '0711'
+slug: side-lunge-stretch
+name: Side Lunge Stretch
+human_readable_ids:
+- SideLungeStretch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

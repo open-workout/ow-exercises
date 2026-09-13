@@ -1,0 +1,15 @@
+id: '10756'
+slug: calf-forward-jump
+name: Calf Forward Jump
+human_readable_ids:
+- CalfForwardJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

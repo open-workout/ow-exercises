@@ -1,0 +1,15 @@
+id: '4934'
+slug: reverse-plank-version-2
+name: Reverse Plank (VERSION 2)
+human_readable_ids:
+- ReversePlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

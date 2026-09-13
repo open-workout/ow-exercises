@@ -1,0 +1,15 @@
+id: '10120'
+slug: cable-unilateral-step-up
+name: Cable Unilateral Step-up
+human_readable_ids:
+- CableUnilateralStepup
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

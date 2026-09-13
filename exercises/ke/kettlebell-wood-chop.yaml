@@ -1,0 +1,15 @@
+id: '8025'
+slug: kettlebell-wood-chop
+name: Kettlebell Wood Chop
+human_readable_ids:
+- KettlebellWoodChop
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

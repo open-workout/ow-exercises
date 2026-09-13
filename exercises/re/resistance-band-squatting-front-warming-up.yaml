@@ -1,0 +1,16 @@
+id: '4028'
+slug: resistance-band-squatting-front-warming-up
+name: Resistance Band Squatting Front Warming-up
+human_readable_ids:
+- ResistanceBandSquattingFrontWarmingup
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

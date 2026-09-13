@@ -1,0 +1,15 @@
+id: '0027'
+slug: barbell-bent-over-row
+name: Barbell Bent Over Row
+human_readable_ids:
+- BarbellBentOverRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

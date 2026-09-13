@@ -1,0 +1,15 @@
+id: '1284'
+slug: dumbbell-lying-pullover-on-exercise-ball
+name: Dumbbell Lying Pullover on Exercise Ball
+human_readable_ids:
+- DumbbellLyingPulloveronExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

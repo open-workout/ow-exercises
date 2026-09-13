@@ -1,0 +1,14 @@
+id: '2876'
+slug: boomerang
+name: Boomerang
+human_readable_ids:
+- Boomerang
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4566'
+slug: cable-neutral-grip-kickback
+name: Cable Neutral Grip Kickback
+human_readable_ids:
+- CableNeutralGripKickback
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

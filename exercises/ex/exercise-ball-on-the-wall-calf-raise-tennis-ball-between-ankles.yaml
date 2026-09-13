@@ -1,0 +1,15 @@
+id: '3241'
+slug: exercise-ball-on-the-wall-calf-raise-tennis-ball-between-ankles
+name: Exercise Ball on the Wall Calf Raise (tennis ball between ankles)
+human_readable_ids:
+- ExerciseBallontheWallCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

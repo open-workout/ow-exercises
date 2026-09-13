@@ -1,0 +1,15 @@
+id: '0255'
+slug: circles-ball-wall
+name: Circles Ball (wall)
+human_readable_ids:
+- CirclesBall
+primary_muscles:
+- shoulders
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

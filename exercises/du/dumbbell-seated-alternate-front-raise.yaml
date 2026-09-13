@@ -1,0 +1,15 @@
+id: 0387
+slug: dumbbell-seated-alternate-front-raise
+name: Dumbbell Seated Alternate Front Raise
+human_readable_ids:
+- DumbbellSeatedAlternateFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

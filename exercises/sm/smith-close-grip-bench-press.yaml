@@ -1,0 +1,15 @@
+id: '0751'
+slug: smith-close-grip-bench-press
+name: Smith Close-Grip Bench Press
+human_readable_ids:
+- SmithCloseGripBenchPress
+primary_muscles:
+- triceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

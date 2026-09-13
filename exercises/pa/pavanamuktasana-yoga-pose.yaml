@@ -1,0 +1,14 @@
+id: '6120'
+slug: pavanamuktasana-yoga-pose
+name: Pavanamuktasana Yoga Pose
+human_readable_ids:
+- PavanamuktasanaYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

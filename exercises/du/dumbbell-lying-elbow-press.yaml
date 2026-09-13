@@ -1,0 +1,15 @@
+id: 0338
+slug: dumbbell-lying-elbow-press
+name: Dumbbell Lying Elbow Press
+human_readable_ids:
+- DumbbellLyingElbowPress
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

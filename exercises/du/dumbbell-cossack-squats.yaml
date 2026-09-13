@@ -1,0 +1,16 @@
+id: '4562'
+slug: dumbbell-cossack-squats
+name: Dumbbell Cossack Squats
+human_readable_ids:
+- DumbbellCossackSquats
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

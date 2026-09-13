@@ -1,0 +1,15 @@
+id: '4585'
+slug: front-groin-kick-kickboxing-with-boxing-bag
+name: Front Groin Kick Kickboxing (with boxing bag)
+human_readable_ids:
+- FrontGroinKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

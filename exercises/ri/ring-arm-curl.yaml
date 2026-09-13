@@ -1,0 +1,15 @@
+id: '6234'
+slug: ring-arm-curl
+name: Ring Arm Curl
+human_readable_ids:
+- RingArmCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

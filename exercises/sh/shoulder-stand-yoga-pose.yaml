@@ -1,0 +1,14 @@
+id: '1487'
+slug: shoulder-stand-yoga-pose
+name: Shoulder Stand Yoga Pose
+human_readable_ids:
+- ShoulderStandYogaPose
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '8505'
+slug: dumbbell-kneeling-twist-down-up-raise
+name: Dumbbell Kneeling Twist Down-up Raise
+human_readable_ids:
+- DumbbellKneelingTwistDownupRaise
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

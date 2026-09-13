@@ -1,0 +1,15 @@
+id: '3850'
+slug: two-legs-reverse-biceps-curl-with-towel-version-2
+name: Two Legs Reverse Biceps Curl with Towel (VERSION 2)
+human_readable_ids:
+- TwoLegsReverseBicepsCurlwithTowel
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

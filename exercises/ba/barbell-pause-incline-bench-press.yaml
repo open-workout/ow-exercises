@@ -1,0 +1,15 @@
+id: '5011'
+slug: barbell-pause-incline-bench-press
+name: Barbell Pause Incline Bench Press
+human_readable_ids:
+- BarbellPauseInclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

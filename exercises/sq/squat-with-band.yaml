@@ -1,0 +1,16 @@
+id: 0784
+slug: squat-with-band
+name: Squat (with band)
+human_readable_ids:
+- Squat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

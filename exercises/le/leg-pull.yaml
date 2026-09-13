@@ -1,0 +1,15 @@
+id: '2849'
+slug: leg-pull
+name: Leg Pull
+human_readable_ids:
+- LegPull
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

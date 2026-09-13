@@ -1,0 +1,16 @@
+id: '3702'
+slug: forward-pulse-lunge-with-hands-overhead
+name: Forward Pulse Lunge with Hands Overhead
+human_readable_ids:
+- ForwardPulseLungewithHandsOverhead
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4766'
+slug: hanging-flutter-kick
+name: Hanging Flutter Kick
+human_readable_ids:
+- HangingFlutterKick
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

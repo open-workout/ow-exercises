@@ -1,0 +1,17 @@
+id: '5498'
+slug: weighted-plate-overhead-march
+name: Weighted Plate Overhead March
+human_readable_ids:
+- WeightedPlateOverheadMarch
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

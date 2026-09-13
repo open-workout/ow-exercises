@@ -1,0 +1,15 @@
+id: '4134'
+slug: kettlebell-single-leg-step-up
+name: Kettlebell Single Leg Step Up
+human_readable_ids:
+- KettlebellSingleLegStepUp
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0319
+slug: dumbbell-incline-fly
+name: Dumbbell Incline Fly
+human_readable_ids:
+- DumbbellInclineFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

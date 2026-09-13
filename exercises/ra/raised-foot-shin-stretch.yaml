@@ -1,0 +1,14 @@
+id: '1959'
+slug: raised-foot-shin-stretch
+name: Raised Foot Shin Stretch
+human_readable_ids:
+- RaisedFootShinStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '4471'
+slug: roll-ball-tensor-fasciae-latae
+name: Roll Ball Tensor Fasciae Latae
+human_readable_ids:
+- RollBallTensorFasciaeLatae
+primary_muscles:
+- quads
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

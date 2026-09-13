@@ -1,0 +1,15 @@
+id: '1095'
+slug: suspension-self-assisted-triceps-dip
+name: Suspension Self assisted Triceps Dip
+human_readable_ids:
+- SuspensionSelfassistedTricepsDip
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

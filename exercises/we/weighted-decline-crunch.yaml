@@ -1,0 +1,15 @@
+id: '2130'
+slug: weighted-decline-crunch
+name: Weighted Decline Crunch
+human_readable_ids:
+- WeightedDeclineCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

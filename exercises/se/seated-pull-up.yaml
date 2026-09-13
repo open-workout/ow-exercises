@@ -1,0 +1,15 @@
+id: '4785'
+slug: seated-pull-up
+name: Seated Pull-up
+human_readable_ids:
+- SeatedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

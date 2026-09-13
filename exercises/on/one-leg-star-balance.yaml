@@ -1,0 +1,15 @@
+id: '4212'
+slug: one-leg-star-balance
+name: One Leg Star Balance
+human_readable_ids:
+- OneLegStarBalance
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

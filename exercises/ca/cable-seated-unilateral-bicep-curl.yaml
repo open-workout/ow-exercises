@@ -1,0 +1,15 @@
+id: '7921'
+slug: cable-seated-unilateral-bicep-curl
+name: Cable Seated Unilateral Bicep Curl
+human_readable_ids:
+- CableSeatedUnilateralBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

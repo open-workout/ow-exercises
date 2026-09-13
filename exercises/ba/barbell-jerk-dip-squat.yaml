@@ -1,0 +1,15 @@
+id: '1525'
+slug: barbell-jerk-dip-squat
+name: Barbell Jerk Dip Squat
+human_readable_ids:
+- BarbellJerkDipSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '11864'
+slug: dumbbell-single-arm-curl-with-isometric-hold
+name: Dumbbell Single Arm Curl with Isometric Hold
+human_readable_ids:
+- DumbbellSingleArmCurlwithIsometricHold
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

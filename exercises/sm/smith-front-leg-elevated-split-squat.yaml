@@ -1,0 +1,15 @@
+id: '9041'
+slug: smith-front-leg-elevated-split-squat
+name: Smith Front Leg Elevated Split Squat
+human_readable_ids:
+- SmithFrontLegElevatedSplitSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

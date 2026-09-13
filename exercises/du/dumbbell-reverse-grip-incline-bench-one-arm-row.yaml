@@ -1,0 +1,15 @@
+id: '1330'
+slug: dumbbell-reverse-grip-incline-bench-one-arm-row
+name: Dumbbell Reverse Grip Incline Bench One Arm Row
+human_readable_ids:
+- DumbbellReverseGripInclineBenchOneArmRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

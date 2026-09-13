@@ -1,0 +1,15 @@
+id: '10928'
+slug: standing-wall-serratus-slide-with-towel
+name: Standing Wall Serratus Slide with Towel
+human_readable_ids:
+- StandingWallSerratusSlidewithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

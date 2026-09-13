@@ -1,0 +1,15 @@
+id: '0123'
+slug: barbell-wide-grip-upright-row-0123
+name: Barbell Wide-grip Upright Row
+human_readable_ids:
+- BarbellWidegripUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

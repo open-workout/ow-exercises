@@ -1,0 +1,14 @@
+id: '1921'
+slug: recumbent-knee-flexor-stretch
+name: Recumbent Knee Flexor Stretch
+human_readable_ids:
+- RecumbentKneeFlexorStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

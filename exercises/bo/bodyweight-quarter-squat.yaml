@@ -1,0 +1,15 @@
+id: '10914'
+slug: bodyweight-quarter-squat
+name: Bodyweight Quarter Squat
+human_readable_ids:
+- BodyweightQuarterSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

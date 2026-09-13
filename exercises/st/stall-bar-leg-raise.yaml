@@ -1,0 +1,15 @@
+id: '11878'
+slug: stall-bar-leg-raise
+name: Stall Bar Leg Raise
+human_readable_ids:
+- StallBarLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3482'
+slug: split-sprinter-high-lunge
+name: Split Sprinter High Lunge
+human_readable_ids:
+- SplitSprinterHighLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

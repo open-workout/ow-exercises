@@ -1,0 +1,16 @@
+id: '0560'
+slug: kneeling-hip-flexor
+name: Kneeling Hip Flexor
+human_readable_ids:
+- KneelingHipFlexor
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

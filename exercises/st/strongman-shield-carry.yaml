@@ -1,0 +1,15 @@
+id: '2727'
+slug: strongman-shield-carry
+name: StrongMan Shield Carry
+human_readable_ids:
+- StrongManShieldCarry
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

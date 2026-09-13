@@ -1,0 +1,15 @@
+id: '4384'
+slug: body-saw-plank
+name: Body Saw Plank
+human_readable_ids:
+- BodySawPlank
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

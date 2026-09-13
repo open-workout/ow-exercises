@@ -1,0 +1,15 @@
+id: '4895'
+slug: standing-calf-raise-circle
+name: Standing Calf Raise Circle
+human_readable_ids:
+- StandingCalfRaiseCircle
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

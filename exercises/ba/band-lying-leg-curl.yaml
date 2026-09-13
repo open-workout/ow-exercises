@@ -1,0 +1,15 @@
+id: 0911
+slug: band-lying-leg-curl
+name: Band lying leg curl
+human_readable_ids:
+- Bandlyinglegcurl
+primary_muscles:
+- hamstrings
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

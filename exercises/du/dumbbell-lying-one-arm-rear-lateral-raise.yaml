@@ -1,0 +1,15 @@
+id: '0345'
+slug: dumbbell-lying-one-arm-rear-lateral-raise
+name: Dumbbell Lying One Arm Rear Lateral Raise
+human_readable_ids:
+- DumbbellLyingOneArmRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

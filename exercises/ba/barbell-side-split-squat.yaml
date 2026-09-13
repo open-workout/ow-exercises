@@ -1,0 +1,16 @@
+id: 0098
+slug: barbell-side-split-squat
+name: Barbell Side Split Squat
+human_readable_ids:
+- BarbellSideSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0747'
+slug: smith-behind-neck-press
+name: Smith Behind Neck Press
+human_readable_ids:
+- SmithBehindNeckPress
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

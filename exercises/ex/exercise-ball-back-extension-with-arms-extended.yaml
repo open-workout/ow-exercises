@@ -1,0 +1,15 @@
+id: '1333'
+slug: exercise-ball-back-extension-with-arms-extended
+name: Exercise Ball Back Extension With Arms Extended
+human_readable_ids:
+- ExerciseBallBackExtensionWithArmsExtended
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

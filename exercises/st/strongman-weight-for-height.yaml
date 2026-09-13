@@ -1,0 +1,15 @@
+id: '2731'
+slug: strongman-weight-for-height
+name: StrongMan Weight for Height
+human_readable_ids:
+- StrongManWeightforHeight
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

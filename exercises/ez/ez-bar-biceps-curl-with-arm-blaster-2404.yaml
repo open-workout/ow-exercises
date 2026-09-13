@@ -1,0 +1,15 @@
+id: '2404'
+slug: ez-bar-biceps-curl-with-arm-blaster-2404
+name: EZ-bar Biceps Curl (with arm blaster)
+human_readable_ids:
+- EZbarBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

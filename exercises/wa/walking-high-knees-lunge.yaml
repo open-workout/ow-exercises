@@ -1,0 +1,16 @@
+id: '3655'
+slug: walking-high-knees-lunge
+name: Walking High Knees Lunge
+human_readable_ids:
+- WalkingHighKneesLunge
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

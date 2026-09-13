@@ -1,0 +1,15 @@
+id: '10673'
+slug: kettlebell-squat
+name: Kettlebell Squat
+human_readable_ids:
+- KettlebellSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

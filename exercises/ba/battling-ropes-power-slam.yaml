@@ -1,0 +1,17 @@
+id: '3384'
+slug: battling-ropes-power-slam
+name: Battling Ropes Power Slam
+human_readable_ids:
+- BattlingRopesPowerSlam
+primary_muscles:
+- back
+- chest
+- abs
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0841
+slug: weighted-pull-up
+name: Weighted Pull-Up
+human_readable_ids:
+- WeightedPullUp
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3208'
+slug: lying-back-extension
+name: Lying Back Extension
+human_readable_ids:
+- LyingBackExtension
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

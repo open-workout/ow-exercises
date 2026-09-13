@@ -1,0 +1,15 @@
+id: '1547'
+slug: cable-standing-leg-curl
+name: Cable Standing Leg Curl
+human_readable_ids:
+- CableStandingLegCurl
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

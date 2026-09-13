@@ -1,0 +1,15 @@
+id: '10049'
+slug: barbell-butterfly-z-press
+name: Barbell Butterfly Z Press
+human_readable_ids:
+- BarbellButterflyZPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

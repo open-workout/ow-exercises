@@ -1,0 +1,15 @@
+id: '5602'
+slug: front-leg-lift-under-knee-tap
+name: Front Leg Lift Under Knee Tap
+human_readable_ids:
+- FrontLegLiftUnderKneeTap
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

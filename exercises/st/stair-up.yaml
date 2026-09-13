@@ -1,0 +1,16 @@
+id: '3009'
+slug: stair-up
+name: Stair Up
+human_readable_ids:
+- StairUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

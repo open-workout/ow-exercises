@@ -1,0 +1,15 @@
+id: '5032'
+slug: leg-raise-oblique-crunch
+name: Leg Raise Oblique Crunch
+human_readable_ids:
+- LegRaiseObliqueCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

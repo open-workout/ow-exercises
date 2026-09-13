@@ -1,0 +1,15 @@
+id: '10589'
+slug: stick-lying-front-raise
+name: Stick Lying Front Raise
+human_readable_ids:
+- StickLyingFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0153'
+slug: cable-cross-over-lateral-pulldown-0153
+name: Cable Cross-over Lateral Pulldown
+human_readable_ids:
+- CableCrossoverLateralPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

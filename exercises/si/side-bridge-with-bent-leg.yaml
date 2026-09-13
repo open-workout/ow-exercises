@@ -1,0 +1,15 @@
+id: '4461'
+slug: side-bridge-with-bent-leg
+name: Side Bridge with Bent Leg
+human_readable_ids:
+- SideBridgewithBentLeg
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

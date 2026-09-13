@@ -1,0 +1,19 @@
+id: '4964'
+slug: jump-shrug
+name: Jump Shrug
+human_readable_ids:
+- JumpShrug
+primary_muscles:
+- adductors
+- calves
+- glutes
+- quads
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4989'
+slug: v-sit-cross-punch
+name: V Sit Cross Punch
+human_readable_ids:
+- VSitCrossPunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0988
+slug: band-one-arm-standing-low-row
+name: Band one arm Standing Low Row
+human_readable_ids:
+- BandonearmStandingLowRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

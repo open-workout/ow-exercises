@@ -1,0 +1,15 @@
+id: '3176'
+slug: dumbbell-straight-arm-pullover-knees-at-90-degrees
+name: Dumbbell Straight Arm Pullover (knees at 90 degrees)
+human_readable_ids:
+- DumbbellStraightArmPullover
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

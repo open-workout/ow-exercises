@@ -1,0 +1,15 @@
+id: '7255'
+slug: seated-frog-half-to-full-sit-up
+name: Seated Frog Half to Full Sit-up
+human_readable_ids:
+- SeatedFrogHalftoFullSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

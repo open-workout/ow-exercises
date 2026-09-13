@@ -1,0 +1,15 @@
+id: '10195'
+slug: barbell-half-kneeling-thor-lift
+name: Barbell Half Kneeling Thor Lift
+human_readable_ids:
+- BarbellHalfKneelingThorLift
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

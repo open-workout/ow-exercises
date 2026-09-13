@@ -1,0 +1,15 @@
+id: '4990'
+slug: knee-tuck-oblique-crunch
+name: Knee Tuck Oblique Crunch
+human_readable_ids:
+- KneeTuckObliqueCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

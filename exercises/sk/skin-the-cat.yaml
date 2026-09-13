@@ -1,0 +1,15 @@
+id: '3304'
+slug: skin-the-cat
+name: Skin the cat
+human_readable_ids:
+- Skinthecat
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

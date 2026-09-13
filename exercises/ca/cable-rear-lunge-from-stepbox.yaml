@@ -1,0 +1,15 @@
+id: '2837'
+slug: cable-rear-lunge-from-stepbox
+name: Cable Rear Lunge from Stepbox
+human_readable_ids:
+- CableRearLungefromStepbox
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

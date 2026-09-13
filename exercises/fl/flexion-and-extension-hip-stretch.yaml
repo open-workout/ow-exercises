@@ -1,0 +1,17 @@
+id: '1950'
+slug: flexion-and-extension-hip-stretch
+name: Flexion And Extension Hip Stretch
+human_readable_ids:
+- FlexionAndExtensionHipStretch
+primary_muscles:
+- glutes
+- hamstrings
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6746'
+slug: cable-seated-foot-inversion
+name: Cable Seated Foot Inversion
+human_readable_ids:
+- CableSeatedFootInversion
+primary_muscles:
+- calves
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

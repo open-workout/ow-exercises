@@ -1,0 +1,15 @@
+id: '9010'
+slug: medicine-ball-crunch-on-stability-ball
+name: Medicine Ball Crunch on Stability Ball
+human_readable_ids:
+- MedicineBallCrunchonStabilityBall
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

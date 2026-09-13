@@ -1,0 +1,14 @@
+id: '2944'
+slug: seal-push-up
+name: Seal Push up
+human_readable_ids:
+- SealPushup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

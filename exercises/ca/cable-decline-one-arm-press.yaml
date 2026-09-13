@@ -1,0 +1,15 @@
+id: '1260'
+slug: cable-decline-one-arm-press
+name: Cable Decline One Arm Press
+human_readable_ids:
+- CableDeclineOneArmPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

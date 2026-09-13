@@ -1,0 +1,14 @@
+id: '1974'
+slug: standing-reverse-shoulder-stretch
+name: Standing Reverse Shoulder Stretch
+human_readable_ids:
+- StandingReverseShoulderStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

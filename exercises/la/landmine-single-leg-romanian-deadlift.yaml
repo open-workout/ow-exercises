@@ -1,0 +1,15 @@
+id: '6553'
+slug: landmine-single-leg-romanian-deadlift
+name: Landmine Single Leg Romanian Deadlift
+human_readable_ids:
+- LandmineSingleLegRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

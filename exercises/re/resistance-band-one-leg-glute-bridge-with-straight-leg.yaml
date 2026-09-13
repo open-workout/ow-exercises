@@ -1,0 +1,15 @@
+id: '2158'
+slug: resistance-band-one-leg-glute-bridge-with-straight-leg
+name: Resistance Band One Leg Glute Bridge With Straight Leg
+human_readable_ids:
+- ResistanceBandOneLegGluteBridgeWithStraightLeg
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

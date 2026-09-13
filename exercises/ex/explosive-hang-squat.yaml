@@ -1,0 +1,15 @@
+id: '11784'
+slug: explosive-hang-squat
+name: Explosive Hang Squat
+human_readable_ids:
+- ExplosiveHangSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

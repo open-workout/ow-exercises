@@ -1,0 +1,15 @@
+id: '0313'
+slug: dumbbell-hammer-curl
+name: Dumbbell Hammer Curl
+human_readable_ids:
+- DumbbellHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

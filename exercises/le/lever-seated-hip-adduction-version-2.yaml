@@ -1,0 +1,15 @@
+id: '1867'
+slug: lever-seated-hip-adduction-version-2
+name: Lever Seated Hip Adduction (VERSION 2)
+human_readable_ids:
+- LeverSeatedHipAdduction
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

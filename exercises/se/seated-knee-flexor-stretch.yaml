@@ -1,0 +1,16 @@
+id: '1915'
+slug: seated-knee-flexor-stretch
+name: Seated Knee Flexor Stretch
+human_readable_ids:
+- SeatedKneeFlexorStretch
+primary_muscles:
+- calves
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

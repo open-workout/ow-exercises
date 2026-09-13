@@ -1,0 +1,15 @@
+id: '6350'
+slug: lying-prone-y-raise
+name: Lying Prone Y Raise
+human_readable_ids:
+- LyingProneYRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

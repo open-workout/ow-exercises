@@ -1,0 +1,15 @@
+id: '4049'
+slug: inverted-shrug
+name: Inverted Shrug
+human_readable_ids:
+- InvertedShrug
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

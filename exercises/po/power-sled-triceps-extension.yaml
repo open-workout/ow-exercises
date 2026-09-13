@@ -1,0 +1,15 @@
+id: '4119'
+slug: power-sled-triceps-extension
+name: Power Sled Triceps Extension
+human_readable_ids:
+- PowerSledTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

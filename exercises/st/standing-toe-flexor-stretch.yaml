@@ -1,0 +1,14 @@
+id: '1968'
+slug: standing-toe-flexor-stretch
+name: Standing Toe Flexor Stretch
+human_readable_ids:
+- StandingToeFlexorStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

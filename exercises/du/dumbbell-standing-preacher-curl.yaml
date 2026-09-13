@@ -1,0 +1,15 @@
+id: 0428
+slug: dumbbell-standing-preacher-curl
+name: Dumbbell Standing Preacher Curl
+human_readable_ids:
+- DumbbellStandingPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

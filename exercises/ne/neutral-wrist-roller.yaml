@@ -1,0 +1,15 @@
+id: '8882'
+slug: neutral-wrist-roller
+name: Neutral Wrist Roller
+human_readable_ids:
+- NeutralWristRoller
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

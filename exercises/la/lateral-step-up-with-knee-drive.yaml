@@ -1,0 +1,17 @@
+id: '5155'
+slug: lateral-step-up-with-knee-drive
+name: Lateral Step-up with Knee Drive
+human_readable_ids:
+- LateralStepupwithKneeDrive
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9514'
+slug: countermovement-jump-arms-on-hip
+name: Countermovement Jump Arms on Hip
+human_readable_ids:
+- CountermovementJumpArmsonHip
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

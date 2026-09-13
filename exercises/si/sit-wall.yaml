@@ -1,0 +1,16 @@
+id: '0734'
+slug: sit-wall
+name: Sit (wall)
+human_readable_ids:
+- Sit
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

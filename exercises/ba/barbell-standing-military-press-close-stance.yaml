@@ -1,0 +1,15 @@
+id: '10947'
+slug: barbell-standing-military-press-close-stance
+name: Barbell Standing Military Press (close stance)
+human_readable_ids:
+- BarbellStandingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

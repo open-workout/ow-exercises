@@ -1,0 +1,15 @@
+id: '5148'
+slug: jumping-single-leg-lunge
+name: Jumping Single Leg Lunge
+human_readable_ids:
+- JumpingSingleLegLunge
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

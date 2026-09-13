@@ -1,0 +1,15 @@
+id: '7543'
+slug: forward-backward-hop
+name: Forward Backward Hop
+human_readable_ids:
+- ForwardBackwardHop
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

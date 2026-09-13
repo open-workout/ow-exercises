@@ -1,0 +1,15 @@
+id: '3724'
+slug: barbell-floor-chest-press
+name: Barbell Floor Chest Press
+human_readable_ids:
+- BarbellFloorChestPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

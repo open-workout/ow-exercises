@@ -1,0 +1,15 @@
+id: '5968'
+slug: burpee-twist
+name: Burpee Twist
+human_readable_ids:
+- BurpeeTwist
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

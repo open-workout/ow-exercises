@@ -1,0 +1,16 @@
+id: '0046'
+slug: barbell-hack-squat
+name: Barbell Hack Squat
+human_readable_ids:
+- BarbellHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

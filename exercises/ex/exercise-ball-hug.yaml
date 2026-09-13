@@ -1,0 +1,14 @@
+id: '1338'
+slug: exercise-ball-hug
+name: Exercise Ball Hug
+human_readable_ids:
+- ExerciseBallHug
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

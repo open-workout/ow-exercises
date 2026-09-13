@@ -1,0 +1,15 @@
+id: '0263'
+slug: cross-body-twisting-crunch
+name: Cross Body Twisting Crunch
+human_readable_ids:
+- CrossBodyTwistingCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

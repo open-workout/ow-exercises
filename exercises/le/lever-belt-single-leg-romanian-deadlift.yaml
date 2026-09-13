@@ -1,0 +1,15 @@
+id: '11529'
+slug: lever-belt-single-leg-romanian-deadlift
+name: Lever Belt Single Leg Romanian Deadlift
+human_readable_ids:
+- LeverBeltSingleLegRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

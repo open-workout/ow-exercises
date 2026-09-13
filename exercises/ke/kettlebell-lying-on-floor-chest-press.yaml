@@ -1,0 +1,15 @@
+id: '4845'
+slug: kettlebell-lying-on-floor-chest-press
+name: Kettlebell Lying on Floor Chest Press
+human_readable_ids:
+- KettlebellLyingonFloorChestPress
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

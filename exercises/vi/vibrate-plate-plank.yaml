@@ -1,0 +1,14 @@
+id: '2526'
+slug: vibrate-plate-plank
+name: Vibrate Plate Plank
+human_readable_ids:
+- VibratePlatePlank
+primary_muscles:
+- chest
+equipment:
+- vibrate-plate
+modalities:
+- time
+load:
+  required: false
+  direction: added

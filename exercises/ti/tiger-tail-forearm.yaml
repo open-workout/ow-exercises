@@ -1,0 +1,14 @@
+id: '4220'
+slug: tiger-tail-forearm
+name: Tiger Tail Forearm
+human_readable_ids:
+- TigerTailForearm
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

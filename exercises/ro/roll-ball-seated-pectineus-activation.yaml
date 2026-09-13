@@ -1,0 +1,14 @@
+id: '6812'
+slug: roll-ball-seated-pectineus-activation
+name: Roll Ball Seated Pectineus Activation
+human_readable_ids:
+- RollBallSeatedPectineusActivation
+primary_muscles:
+- stretching
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

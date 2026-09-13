@@ -1,0 +1,16 @@
+id: '3522'
+slug: kettlebell-single-leg-glute-bridge-pullover
+name: Kettlebell Single Leg Glute Bridge Pullover
+human_readable_ids:
+- KettlebellSingleLegGluteBridgePullover
+primary_muscles:
+- back
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

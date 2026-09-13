@@ -1,0 +1,15 @@
+id: '1602'
+slug: transverse-step-up
+name: Transverse Step Up
+human_readable_ids:
+- TransverseStepUp
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

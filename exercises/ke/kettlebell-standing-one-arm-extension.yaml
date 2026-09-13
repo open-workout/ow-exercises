@@ -1,0 +1,15 @@
+id: '5863'
+slug: kettlebell-standing-one-arm-extension
+name: Kettlebell Standing One Arm Extension
+human_readable_ids:
+- KettlebellStandingOneArmExtension
+primary_muscles:
+- biceps
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

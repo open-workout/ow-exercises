@@ -1,0 +1,15 @@
+id: 0998
+slug: band-side-triceps-extension
+name: Band side triceps extension
+human_readable_ids:
+- Bandsidetricepsextension
+primary_muscles:
+- triceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

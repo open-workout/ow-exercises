@@ -1,0 +1,15 @@
+id: '1499'
+slug: band-behind-neck-shoulder-press
+name: Band Behind Neck Shoulder Press
+human_readable_ids:
+- BandBehindNeckShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

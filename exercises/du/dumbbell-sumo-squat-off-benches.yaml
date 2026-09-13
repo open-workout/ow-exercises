@@ -1,0 +1,16 @@
+id: '2431'
+slug: dumbbell-sumo-squat-off-benches
+name: Dumbbell Sumo Squat off Benches
+human_readable_ids:
+- DumbbellSumoSquatoffBenches
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

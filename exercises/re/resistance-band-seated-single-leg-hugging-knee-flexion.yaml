@@ -1,0 +1,15 @@
+id: '10591'
+slug: resistance-band-seated-single-leg-hugging-knee-flexion
+name: Resistance Band Seated Single Leg Hugging Knee Flexion
+human_readable_ids:
+- ResistanceBandSeatedSingleLegHuggingKneeFlexion
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

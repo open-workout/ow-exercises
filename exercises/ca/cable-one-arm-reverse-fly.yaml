@@ -1,0 +1,15 @@
+id: '4122'
+slug: cable-one-arm-reverse-fly
+name: Cable One Arm Reverse Fly
+human_readable_ids:
+- CableOneArmReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

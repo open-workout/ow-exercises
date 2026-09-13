@@ -1,0 +1,15 @@
+id: '2508'
+slug: barbell-reverse-preacher-curl-forearm
+name: Barbell Reverse Preacher Curl _Forearm
+human_readable_ids:
+- BarbellReversePreacherCurlForearm
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

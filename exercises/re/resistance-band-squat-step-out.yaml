@@ -1,0 +1,15 @@
+id: '7203'
+slug: resistance-band-squat-step-out
+name: Resistance Band Squat Step Out
+human_readable_ids:
+- ResistanceBandSquatStepOut
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4101'
+slug: weighted-straight-leg-toe-touch-crunch
+name: Weighted Straight Leg Toe Touch Crunch
+human_readable_ids:
+- WeightedStraightLegToeTouchCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

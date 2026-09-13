@@ -1,0 +1,15 @@
+id: '0673'
+slug: reverse-grip-machine-lat-pulldown
+name: Reverse grip machine lat pulldown
+human_readable_ids:
+- Reversegripmachinelatpulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1852'
+slug: leg-raise-hip-lift
+name: Leg Raise Hip Lift
+human_readable_ids:
+- LegRaiseHipLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1550'
+slug: dumbbell-bench-one-leg-squat
+name: Dumbbell Bench One Leg Squat
+human_readable_ids:
+- DumbbellBenchOneLegSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

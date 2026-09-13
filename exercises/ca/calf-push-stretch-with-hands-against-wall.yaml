@@ -1,0 +1,14 @@
+id: '1407'
+slug: calf-push-stretch-with-hands-against-wall
+name: Calf Push Stretch With Hands Against Wall
+human_readable_ids:
+- CalfPushStretchWithHandsAgainstWall
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

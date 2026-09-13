@@ -1,0 +1,15 @@
+id: '11717'
+slug: plyo-push-up-version-2
+name: Plyo Push-up (VERSION 2)
+human_readable_ids:
+- PlyoPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

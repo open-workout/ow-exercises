@@ -1,0 +1,15 @@
+id: '6336'
+slug: bodyweight-slow-to-explosive-squats
+name: Bodyweight Slow To Explosive Squats
+human_readable_ids:
+- BodyweightSlowToExplosiveSquats
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

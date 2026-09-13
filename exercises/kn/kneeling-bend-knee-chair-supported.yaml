@@ -1,0 +1,15 @@
+id: '10543'
+slug: kneeling-bend-knee-chair-supported
+name: Kneeling Bend Knee Chair Supported
+human_readable_ids:
+- KneelingBendKneeChairSupported
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

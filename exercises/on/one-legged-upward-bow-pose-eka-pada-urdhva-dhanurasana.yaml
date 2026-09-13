@@ -1,0 +1,14 @@
+id: '6298'
+slug: one-legged-upward-bow-pose-eka-pada-urdhva-dhanurasana
+name: One Legged Upward Bow Pose Eka Pada Urdhva Dhanurasana
+human_readable_ids:
+- OneLeggedUpwardBowPoseEkaPadaUrdhvaDhanurasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

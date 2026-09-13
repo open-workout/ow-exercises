@@ -1,0 +1,15 @@
+id: '8614'
+slug: cable-standing-single-arm-horizontal-triceps-extension
+name: Cable Standing Single Arm Horizontal Triceps Extension
+human_readable_ids:
+- CableStandingSingleArmHorizontalTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

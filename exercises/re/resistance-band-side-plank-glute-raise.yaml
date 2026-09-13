@@ -1,0 +1,15 @@
+id: '6737'
+slug: resistance-band-side-plank-glute-raise
+name: Resistance Band Side Plank Glute Raise
+human_readable_ids:
+- ResistanceBandSidePlankGluteRaise
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

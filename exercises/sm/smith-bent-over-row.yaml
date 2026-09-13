@@ -1,0 +1,15 @@
+id: '1359'
+slug: smith-bent-over-row
+name: Smith Bent Over Row
+human_readable_ids:
+- SmithBentOverRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

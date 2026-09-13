@@ -1,0 +1,15 @@
+id: '4143'
+slug: band-triceps-kickback
+name: Band Triceps Kickback
+human_readable_ids:
+- BandTricepsKickback
+primary_muscles:
+- triceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

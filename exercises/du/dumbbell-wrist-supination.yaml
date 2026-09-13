@@ -1,0 +1,15 @@
+id: '10038'
+slug: dumbbell-wrist-supination
+name: Dumbbell Wrist Supination
+human_readable_ids:
+- DumbbellWristSupination
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

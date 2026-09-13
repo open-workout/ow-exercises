@@ -1,0 +1,15 @@
+id: '2300'
+slug: inverted-row-bent-knees
+name: Inverted Row Bent Knees
+human_readable_ids:
+- InvertedRowBentKnees
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

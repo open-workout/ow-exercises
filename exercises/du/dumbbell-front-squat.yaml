@@ -1,0 +1,16 @@
+id: '2966'
+slug: dumbbell-front-squat
+name: Dumbbell Front Squat
+human_readable_ids:
+- DumbbellFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

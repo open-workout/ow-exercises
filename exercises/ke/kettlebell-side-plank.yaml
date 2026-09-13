@@ -1,0 +1,15 @@
+id: '5879'
+slug: kettlebell-side-plank
+name: Kettlebell Side Plank
+human_readable_ids:
+- KettlebellSidePlank
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10094'
+slug: dumbbell-standing-cross-clean
+name: Dumbbell Standing Cross Clean
+human_readable_ids:
+- DumbbellStandingCrossClean
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

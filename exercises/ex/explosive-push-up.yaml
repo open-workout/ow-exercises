@@ -1,0 +1,15 @@
+id: '5460'
+slug: explosive-push-up
+name: Explosive Push-up
+human_readable_ids:
+- ExplosivePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

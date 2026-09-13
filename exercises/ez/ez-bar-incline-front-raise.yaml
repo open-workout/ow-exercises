@@ -1,0 +1,15 @@
+id: '3989'
+slug: ez-bar-incline-front-raise
+name: EZ-bar Incline Front Raise
+human_readable_ids:
+- EZbarInclineFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

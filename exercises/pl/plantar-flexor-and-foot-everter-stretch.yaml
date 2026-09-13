@@ -1,0 +1,14 @@
+id: '1926'
+slug: plantar-flexor-and-foot-everter-stretch
+name: Plantar Flexor And Foot Everter Stretch
+human_readable_ids:
+- PlantarFlexorAndFootEverterStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

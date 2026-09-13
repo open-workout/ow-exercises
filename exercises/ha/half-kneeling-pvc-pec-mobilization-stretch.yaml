@@ -1,0 +1,14 @@
+id: '2935'
+slug: half-kneeling-pvc-pec-mobilization-stretch
+name: Half Kneeling PVC Pec Mobilization Stretch
+human_readable_ids:
+- HalfKneelingPVCPecMobilizationStretch
+primary_muscles:
+- chest
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

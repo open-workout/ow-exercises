@@ -1,0 +1,15 @@
+id: '4194'
+slug: cable-half-kneeling-external-rotation
+name: Cable Half Kneeling External Rotation
+human_readable_ids:
+- CableHalfKneelingExternalRotation
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

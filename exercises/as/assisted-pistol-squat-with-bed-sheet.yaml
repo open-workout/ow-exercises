@@ -1,0 +1,16 @@
+id: '3747'
+slug: assisted-pistol-squat-with-bed-sheet
+name: Assisted Pistol Squat with Bed Sheet
+human_readable_ids:
+- AssistedPistolSquatwithBedSheet
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

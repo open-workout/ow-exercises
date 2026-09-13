@@ -1,0 +1,16 @@
+id: '0732'
+slug: single-leg-squat-pistol
+name: Single Leg Squat (pistol)
+human_readable_ids:
+- SingleLegSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

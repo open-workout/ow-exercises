@@ -1,0 +1,15 @@
+id: '4087'
+slug: band-45-degrees-biceps-curl
+name: Band 45 degrees Biceps Curl
+human_readable_ids:
+- Band45degreesBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

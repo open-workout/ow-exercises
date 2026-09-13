@@ -1,0 +1,15 @@
+id: '5077'
+slug: bodyweight-svend-press
+name: Bodyweight Svend Press
+human_readable_ids:
+- BodyweightSvendPress
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

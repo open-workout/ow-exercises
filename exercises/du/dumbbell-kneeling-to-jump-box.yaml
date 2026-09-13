@@ -1,0 +1,15 @@
+id: '10988'
+slug: dumbbell-kneeling-to-jump-box
+name: Dumbbell Kneeling to Jump Box
+human_readable_ids:
+- DumbbellKneelingtoJumpBox
+primary_muscles:
+- plyometrics
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

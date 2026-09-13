@@ -1,0 +1,16 @@
+id: '3687'
+slug: dumbbell-drag-bicep-curl
+name: Dumbbell Drag Bicep Curl
+human_readable_ids:
+- DumbbellDragBicepCurl
+primary_muscles:
+- shoulders
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

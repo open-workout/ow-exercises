@@ -1,0 +1,15 @@
+id: '2143'
+slug: dumbbell-standing-around-world
+name: Dumbbell Standing Around World
+human_readable_ids:
+- DumbbellStandingAroundWorld
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '11879'
+slug: smith-step-up
+name: Smith Step up
+human_readable_ids:
+- SmithStepup
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1592'
+slug: single-leg-stride-jump
+name: Single Leg Stride Jump
+human_readable_ids:
+- SingleLegStrideJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

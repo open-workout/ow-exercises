@@ -1,0 +1,16 @@
+id: '3248'
+slug: front-toe-touching
+name: Front Toe Touching
+human_readable_ids:
+- FrontToeTouching
+primary_muscles:
+- back
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

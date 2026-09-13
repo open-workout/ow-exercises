@@ -1,0 +1,15 @@
+id: '1457'
+slug: barbell-standing-wide-military-press
+name: Barbell Standing Wide Military Press
+human_readable_ids:
+- BarbellStandingWideMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

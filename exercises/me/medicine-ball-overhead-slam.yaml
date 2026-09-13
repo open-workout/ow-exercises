@@ -1,0 +1,15 @@
+id: '1354'
+slug: medicine-ball-overhead-slam
+name: Medicine Ball Overhead Slam
+human_readable_ids:
+- MedicineBallOverheadSlam
+primary_muscles:
+- back
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

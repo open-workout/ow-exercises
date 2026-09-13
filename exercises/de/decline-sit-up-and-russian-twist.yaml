@@ -1,0 +1,15 @@
+id: '4972'
+slug: decline-sit-up-and-russian-twist
+name: Decline Sit-up and Russian Twist
+human_readable_ids:
+- DeclineSitupandRussianTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0558
+slug: kipping-muscle-up
+name: Kipping Muscle Up
+human_readable_ids:
+- KippingMuscleUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

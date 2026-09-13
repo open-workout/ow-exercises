@@ -1,0 +1,14 @@
+id: '4497'
+slug: roll-ball-forearm-pronator
+name: Roll Ball Forearm Pronator
+human_readable_ids:
+- RollBallForearmPronator
+primary_muscles:
+- forearms
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

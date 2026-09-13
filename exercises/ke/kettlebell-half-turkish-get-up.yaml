@@ -1,0 +1,18 @@
+id: '3323'
+slug: kettlebell-half-turkish-get-up
+name: Kettlebell Half Turkish Get Up
+human_readable_ids:
+- KettlebellHalfTurkishGetUp
+primary_muscles:
+- glutes
+- abs
+- quads
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6419'
+slug: resistance-band-reverse-crunch-version-2
+name: Resistance Band Reverse Crunch (VERSION 2)
+human_readable_ids:
+- ResistanceBandReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

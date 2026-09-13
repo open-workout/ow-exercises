@@ -1,0 +1,15 @@
+id: '0132'
+slug: bent-knee-lying-twist-0132
+name: Bent-knee Lying Twist
+human_readable_ids:
+- BentkneeLyingTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

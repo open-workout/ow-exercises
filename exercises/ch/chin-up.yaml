@@ -1,0 +1,15 @@
+id: '1326'
+slug: chin-up
+name: Chin-Up
+human_readable_ids:
+- ChinUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

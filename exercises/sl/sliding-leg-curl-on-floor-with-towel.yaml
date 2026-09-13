@@ -1,0 +1,15 @@
+id: '3395'
+slug: sliding-leg-curl-on-floor-with-towel
+name: Sliding Leg Curl on Floor with Towel
+human_readable_ids:
+- SlidingLegCurlonFloorwithTowel
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0664'
+slug: push-up-to-side-plank
+name: Push-Up to Side Plank
+human_readable_ids:
+- PushUptoSidePlank
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

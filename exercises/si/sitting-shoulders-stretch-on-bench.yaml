@@ -1,0 +1,14 @@
+id: '1972'
+slug: sitting-shoulders-stretch-on-bench
+name: Sitting Shoulders Stretch On Bench
+human_readable_ids:
+- SittingShouldersStretchOnBench
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

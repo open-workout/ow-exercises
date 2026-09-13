@@ -1,0 +1,15 @@
+id: '5098'
+slug: dumbbell-single-arm-alternate-fly
+name: Dumbbell Single Arm Alternate Fly
+human_readable_ids:
+- DumbbellSingleArmAlternateFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

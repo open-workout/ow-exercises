@@ -1,0 +1,15 @@
+id: '4070'
+slug: barbell-bench-press-with-1-board
+name: Barbell Bench Press with 1 board
+human_readable_ids:
+- BarbellBenchPresswith1board
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

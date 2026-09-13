@@ -1,0 +1,15 @@
+id: '6813'
+slug: barbell-bench-press-side-pov
+name: Barbell Bench Press (side POV)
+human_readable_ids:
+- BarbellBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

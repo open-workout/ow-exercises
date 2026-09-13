@@ -1,0 +1,15 @@
+id: '3388'
+slug: inverted-row-between-chairs
+name: Inverted Row between Chairs
+human_readable_ids:
+- InvertedRowbetweenChairs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

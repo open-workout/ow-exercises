@@ -1,0 +1,15 @@
+id: '4908'
+slug: dumbbell-over-bench-revers-wrist-curl-with-mat
+name: Dumbbell Over Bench Revers Wrist Curl with Mat
+human_readable_ids:
+- DumbbellOverBenchReversWristCurlwithMat
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

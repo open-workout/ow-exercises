@@ -1,0 +1,15 @@
+id: '2931'
+slug: shoulder-flexion-back-to-wall
+name: Shoulder Flexion Back to Wall
+human_readable_ids:
+- ShoulderFlexionBacktoWall
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0121'
+slug: barbell-upright-row-version-3
+name: Barbell Upright Row (version 3)
+human_readable_ids:
+- BarbellUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

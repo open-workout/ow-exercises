@@ -1,0 +1,16 @@
+id: '2729'
+slug: strongman-deadlift
+name: StrongMan Deadlift
+human_readable_ids:
+- StrongManDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

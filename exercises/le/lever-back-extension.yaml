@@ -1,0 +1,15 @@
+id: '0573'
+slug: lever-back-extension
+name: Lever Back Extension
+human_readable_ids:
+- LeverBackExtension
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1790'
+slug: assisted-pulling-arms-in-prone-position-chest-stretch
+name: Assisted Pulling Arms in Prone Position Chest Stretch
+human_readable_ids:
+- AssistedPullingArmsinPronePositionChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

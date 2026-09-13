@@ -1,0 +1,14 @@
+id: '5135'
+slug: seated-rotation-stretch
+name: Seated Rotation Stretch
+human_readable_ids:
+- SeatedRotationStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

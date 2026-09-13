@@ -1,0 +1,15 @@
+id: '2358'
+slug: plank-butt-wrong-right
+name: Plank - Butt (WRONG-RIGHT)
+human_readable_ids:
+- PlankButt
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

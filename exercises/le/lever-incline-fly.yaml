@@ -1,0 +1,15 @@
+id: '5843'
+slug: lever-incline-fly
+name: Lever Incline Fly
+human_readable_ids:
+- LeverInclineFly
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

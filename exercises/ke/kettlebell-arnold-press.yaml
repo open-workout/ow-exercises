@@ -1,0 +1,15 @@
+id: '0523'
+slug: kettlebell-arnold-press
+name: Kettlebell Arnold Press
+human_readable_ids:
+- KettlebellArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

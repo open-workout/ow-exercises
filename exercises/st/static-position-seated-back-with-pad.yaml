@@ -1,0 +1,13 @@
+id: '3137'
+slug: static-position-seated-back-with-pad
+name: Static Position Seated Back with Pad
+human_readable_ids:
+- StaticPositionSeatedBackwithPad
+primary_muscles: []
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

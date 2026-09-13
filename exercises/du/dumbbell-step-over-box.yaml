@@ -1,0 +1,15 @@
+id: '9612'
+slug: dumbbell-step-over-box
+name: Dumbbell Step over Box
+human_readable_ids:
+- DumbbellStepoverBox
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

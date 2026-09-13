@@ -1,0 +1,19 @@
+id: '2140'
+slug: walk-wave-machine
+name: Walk Wave Machine
+human_readable_ids:
+- WalkWaveMachine
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

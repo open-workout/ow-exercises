@@ -1,0 +1,15 @@
+id: '0333'
+slug: dumbbell-kickback
+name: Dumbbell Kickback
+human_readable_ids:
+- DumbbellKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

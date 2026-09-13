@@ -1,0 +1,14 @@
+id: '5398'
+slug: roll-foot
+name: Roll Foot
+human_readable_ids:
+- RollFoot
+primary_muscles:
+- calves
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

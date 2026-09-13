@@ -1,0 +1,16 @@
+id: '2361'
+slug: barbell-squat-hips-wrong-right
+name: Barbell Squat - Hips (WRONG-RIGHT)
+human_readable_ids:
+- BarbellSquatHips
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

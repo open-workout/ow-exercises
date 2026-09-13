@@ -1,0 +1,15 @@
+id: '0103'
+slug: barbell-standing-ab-rollout
+name: Barbell Standing AB rollout
+human_readable_ids:
+- BarbellStandingABrollout
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

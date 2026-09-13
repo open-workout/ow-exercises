@@ -1,0 +1,14 @@
+id: '1885'
+slug: standing-toe-up-achilles-stretch
+name: Standing Toe Up Achilles Stretch
+human_readable_ids:
+- StandingToeUpAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0379
+slug: dumbbell-rear-lateral-raise-support-head
+name: Dumbbell Rear Lateral Raise (support head)
+human_readable_ids:
+- DumbbellRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

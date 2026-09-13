@@ -1,0 +1,15 @@
+id: '4619'
+slug: band-standing-hammer-curl
+name: Band Standing Hammer Curl
+human_readable_ids:
+- BandStandingHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

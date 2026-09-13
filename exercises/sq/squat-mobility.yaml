@@ -1,0 +1,16 @@
+id: '2988'
+slug: squat-mobility
+name: Squat mobility
+human_readable_ids:
+- Squatmobility
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

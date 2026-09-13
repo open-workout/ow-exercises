@@ -1,0 +1,14 @@
+id: '1341'
+slug: exercise-ball-lower-back-stretch-pyramid
+name: Exercise Ball Lower Back Stretch (Pyramid)
+human_readable_ids:
+- ExerciseBallLowerBackStretch
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7880'
+slug: dumbbell-kneeling-triceps-kickback
+name: Dumbbell Kneeling Triceps Kickback
+human_readable_ids:
+- DumbbellKneelingTricepsKickback
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

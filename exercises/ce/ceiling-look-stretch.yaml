@@ -1,0 +1,14 @@
+id: '0250'
+slug: ceiling-look-stretch
+name: Ceiling Look Stretch
+human_readable_ids:
+- CeilingLookStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

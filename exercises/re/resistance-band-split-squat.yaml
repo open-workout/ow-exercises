@@ -1,0 +1,16 @@
+id: '4689'
+slug: resistance-band-split-squat
+name: Resistance Band Split Squat
+human_readable_ids:
+- ResistanceBandSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

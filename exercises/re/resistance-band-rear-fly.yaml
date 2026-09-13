@@ -1,0 +1,15 @@
+id: '3321'
+slug: resistance-band-rear-fly
+name: Resistance Band Rear Fly
+human_readable_ids:
+- ResistanceBandRearFly
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

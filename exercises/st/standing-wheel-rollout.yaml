@@ -1,0 +1,15 @@
+id: 0796
+slug: standing-wheel-rollout
+name: Standing Wheel Rollout
+human_readable_ids:
+- StandingWheelRollout
+primary_muscles:
+- abs
+equipment:
+- wheel-roller
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

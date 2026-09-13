@@ -1,0 +1,15 @@
+id: '4086'
+slug: band-standard-biceps-curl
+name: Band Standard Biceps Curl
+human_readable_ids:
+- BandStandardBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

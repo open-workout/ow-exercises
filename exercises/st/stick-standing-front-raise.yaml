@@ -1,0 +1,15 @@
+id: '9187'
+slug: stick-standing-front-raise
+name: Stick Standing Front Raise
+human_readable_ids:
+- StickStandingFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

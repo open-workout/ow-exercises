@@ -1,0 +1,15 @@
+id: '1087'
+slug: suspension-pull-through
+name: Suspension Pull Through
+human_readable_ids:
+- SuspensionPullThrough
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

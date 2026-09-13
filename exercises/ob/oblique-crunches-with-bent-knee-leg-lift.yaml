@@ -1,0 +1,15 @@
+id: '3330'
+slug: oblique-crunches-with-bent-knee-leg-lift
+name: Oblique Crunches with Bent Knee Leg Lift
+human_readable_ids:
+- ObliqueCruncheswithBentKneeLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '0675'
+slug: reverse-hyper-extension-on-stability-ball
+name: Reverse Hyper extension (on stability ball)
+human_readable_ids:
+- ReverseHyperextension
+primary_muscles:
+- back
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '6763'
+slug: seated-forearms-stretch
+name: Seated Forearms Stretch
+human_readable_ids:
+- SeatedForearmsStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10908'
+slug: seated-single-leg-foot-circle
+name: Seated Single Leg Foot Circle
+human_readable_ids:
+- SeatedSingleLegFootCircle
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

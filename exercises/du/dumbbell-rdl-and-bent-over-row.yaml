@@ -1,0 +1,15 @@
+id: '4749'
+slug: dumbbell-rdl-and-bent-over-row
+name: Dumbbell RDL and Bent over Row
+human_readable_ids:
+- DumbbellRDLandBentoverRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

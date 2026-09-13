@@ -1,0 +1,16 @@
+id: '1461'
+slug: barbell-full-squat-back-pov
+name: Barbell Full Squat (Back POV)
+human_readable_ids:
+- BarbellFullSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2460'
+slug: resistance-band-lateral-walk
+name: Resistance Band Lateral Walk
+human_readable_ids:
+- ResistanceBandLateralWalk
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

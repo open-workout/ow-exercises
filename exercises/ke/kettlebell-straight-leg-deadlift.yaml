@@ -1,0 +1,16 @@
+id: '3733'
+slug: kettlebell-straight-leg-deadlift
+name: Kettlebell Straight leg Deadlift
+human_readable_ids:
+- KettlebellStraightlegDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

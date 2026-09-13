@@ -1,0 +1,15 @@
+id: '1645'
+slug: cable-two-arm-curl-on-incline-bench
+name: Cable Two Arm Curl on Incline Bench
+human_readable_ids:
+- CableTwoArmCurlonInclineBench
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4735'
+slug: dumbbell-decline-sit-up
+name: Dumbbell Decline Sit-up
+human_readable_ids:
+- DumbbellDeclineSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

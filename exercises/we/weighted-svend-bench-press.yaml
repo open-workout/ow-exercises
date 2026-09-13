@@ -1,0 +1,15 @@
+id: '5332'
+slug: weighted-svend-bench-press
+name: Weighted Svend Bench Press
+human_readable_ids:
+- WeightedSvendBenchPress
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

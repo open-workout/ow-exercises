@@ -1,0 +1,15 @@
+id: '5407'
+slug: stick-overhead-full-sumo-squat-stretch
+name: Stick Overhead Full Sumo Squat Stretch
+human_readable_ids:
+- StickOverheadFullSumoSquatStretch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3697'
+slug: cable-kneeling-rear-delt-row-with-rope
+name: Cable Kneeling Rear Delt Row (with rope)
+human_readable_ids:
+- CableKneelingRearDeltRow
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

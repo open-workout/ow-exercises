@@ -1,0 +1,15 @@
+id: '4257'
+slug: shuffle
+name: Shuffle
+human_readable_ids:
+- Shuffle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

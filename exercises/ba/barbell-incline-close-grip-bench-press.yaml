@@ -1,0 +1,15 @@
+id: '1719'
+slug: barbell-incline-close-grip-bench-press
+name: Barbell Incline Close Grip Bench Press
+human_readable_ids:
+- BarbellInclineCloseGripBenchPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

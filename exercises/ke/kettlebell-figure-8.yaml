@@ -1,0 +1,15 @@
+id: '0532'
+slug: kettlebell-figure-8
+name: Kettlebell Figure 8
+human_readable_ids:
+- KettlebellFigure8
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

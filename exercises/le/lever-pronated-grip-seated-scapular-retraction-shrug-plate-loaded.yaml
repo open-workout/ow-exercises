@@ -1,0 +1,15 @@
+id: '5448'
+slug: lever-pronated-grip-seated-scapular-retraction-shrug-plate-loaded
+name: Lever Pronated Grip Seated Scapular Retraction Shrug (plate loaded)
+human_readable_ids:
+- LeverPronatedGripSeatedScapularRetractionShrug
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6328'
+slug: dumbbell-low-split-squat
+name: Dumbbell Low Split Squat
+human_readable_ids:
+- DumbbellLowSplitSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

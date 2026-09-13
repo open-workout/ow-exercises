@@ -1,0 +1,15 @@
+id: '10890'
+slug: elastic-bed-toe-jump
+name: Elastic Bed Toe Jump
+human_readable_ids:
+- ElasticBedToeJump
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

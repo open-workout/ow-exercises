@@ -1,0 +1,15 @@
+id: '3167'
+slug: bodyweight-squatting-row-with-towel
+name: Bodyweight Squatting Row (with towel)
+human_readable_ids:
+- BodyweightSquattingRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

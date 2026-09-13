@@ -1,0 +1,15 @@
+id: '6266'
+slug: cable-seated-overhead-curl-sz-bar
+name: Cable Seated Overhead Curl (SZ Bar)
+human_readable_ids:
+- CableSeatedOverheadCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2564'
+slug: jack-plank-on-medicine-ball
+name: Jack Plank on Medicine Ball
+human_readable_ids:
+- JackPlankonMedicineBall
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

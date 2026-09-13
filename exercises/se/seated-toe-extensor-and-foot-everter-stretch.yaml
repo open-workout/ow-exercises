@@ -1,0 +1,14 @@
+id: '1963'
+slug: seated-toe-extensor-and-foot-everter-stretch
+name: Seated Toe Extensor And Foot Everter Stretch
+human_readable_ids:
+- SeatedToeExtensorAndFootEverterStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

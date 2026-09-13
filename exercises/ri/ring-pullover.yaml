@@ -1,0 +1,15 @@
+id: '8750'
+slug: ring-pullover
+name: Ring Pullover
+human_readable_ids:
+- RingPullover
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

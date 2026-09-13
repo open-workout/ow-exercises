@@ -1,0 +1,15 @@
+id: '1397'
+slug: standing-gastrocnemius
+name: Standing Gastrocnemius
+human_readable_ids:
+- StandingGastrocnemius
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

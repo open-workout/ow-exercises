@@ -1,0 +1,15 @@
+id: '5234'
+slug: wall-walks
+name: Wall Walks
+human_readable_ids:
+- WallWalks
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

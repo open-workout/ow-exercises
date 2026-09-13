@@ -1,0 +1,15 @@
+id: 0499
+slug: inverted-row
+name: Inverted Row
+human_readable_ids:
+- InvertedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

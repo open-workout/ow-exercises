@@ -1,0 +1,15 @@
+id: '8502'
+slug: dumbbell-kneeling-opposite-shoulder-press
+name: Dumbbell Kneeling Opposite Shoulder Press
+human_readable_ids:
+- DumbbellKneelingOppositeShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

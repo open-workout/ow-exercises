@@ -1,0 +1,15 @@
+id: '4420'
+slug: marching-on-spot
+name: Marching On Spot
+human_readable_ids:
+- MarchingOnSpot
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

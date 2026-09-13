@@ -1,0 +1,15 @@
+id: '2945'
+slug: scapular-slide-back-to-wall
+name: Scapular Slide Back to Wall
+human_readable_ids:
+- ScapularSlideBacktoWall
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

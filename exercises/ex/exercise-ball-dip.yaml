@@ -1,0 +1,15 @@
+id: '1744'
+slug: exercise-ball-dip
+name: Exercise Ball Dip
+human_readable_ids:
+- ExerciseBallDip
+primary_muscles:
+- biceps
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0062'
+slug: barbell-narrow-row
+name: Barbell Narrow Row
+human_readable_ids:
+- BarbellNarrowRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

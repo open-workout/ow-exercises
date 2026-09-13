@@ -1,0 +1,15 @@
+id: '1186'
+slug: alternate-straight-leg-raise-on-bosu-ball
+name: Alternate Straight Leg Raise (on bosu ball)
+human_readable_ids:
+- AlternateStraightLegRaise
+primary_muscles:
+- abs
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

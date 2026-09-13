@@ -1,0 +1,15 @@
+id: '11048'
+slug: seated-bent-knee-abduction
+name: Seated Bent Knee Abduction
+human_readable_ids:
+- SeatedBentKneeAbduction
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

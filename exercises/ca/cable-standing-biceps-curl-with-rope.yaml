@@ -1,0 +1,15 @@
+id: '3068'
+slug: cable-standing-biceps-curl-with-rope
+name: Cable Standing Biceps Curl (with rope)
+human_readable_ids:
+- CableStandingBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

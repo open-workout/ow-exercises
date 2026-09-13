@@ -1,0 +1,14 @@
+id: '2845'
+slug: hip-twist-supported-arms
+name: Hip Twist Supported Arms
+human_readable_ids:
+- HipTwistSupportedArms
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

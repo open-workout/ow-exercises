@@ -1,0 +1,15 @@
+id: '0370'
+slug: dumbbell-peacher-hammer-curl
+name: Dumbbell Peacher Hammer Curl
+human_readable_ids:
+- DumbbellPeacherHammerCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

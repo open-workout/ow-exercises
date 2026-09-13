@@ -1,0 +1,15 @@
+id: '0137'
+slug: body-up
+name: Body-Up
+human_readable_ids:
+- BodyUp
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

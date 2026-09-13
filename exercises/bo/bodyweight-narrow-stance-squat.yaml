@@ -1,0 +1,16 @@
+id: '5630'
+slug: bodyweight-narrow-stance-squat
+name: Bodyweight Narrow Stance Squat
+human_readable_ids:
+- BodyweightNarrowStanceSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

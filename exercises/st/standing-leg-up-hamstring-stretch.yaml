@@ -1,0 +1,14 @@
+id: '1910'
+slug: standing-leg-up-hamstring-stretch
+name: Standing Leg Up Hamstring Stretch
+human_readable_ids:
+- StandingLegUpHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

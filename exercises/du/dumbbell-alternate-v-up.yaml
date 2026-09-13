@@ -1,0 +1,15 @@
+id: '6805'
+slug: dumbbell-alternate-v-up
+name: Dumbbell Alternate V up
+human_readable_ids:
+- DumbbellAlternateVup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

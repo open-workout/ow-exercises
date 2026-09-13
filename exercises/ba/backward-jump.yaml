@@ -1,0 +1,15 @@
+id: '1473'
+slug: backward-jump
+name: Backward Jump
+human_readable_ids:
+- BackwardJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

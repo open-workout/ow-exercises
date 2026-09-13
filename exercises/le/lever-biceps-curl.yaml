@@ -1,0 +1,15 @@
+id: '4336'
+slug: lever-biceps-curl
+name: Lever Biceps Curl
+human_readable_ids:
+- LeverBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

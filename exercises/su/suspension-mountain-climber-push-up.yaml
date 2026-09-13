@@ -1,0 +1,16 @@
+id: '1121'
+slug: suspension-mountain-climber-push-up
+name: Suspension Mountain Climber Push-up
+human_readable_ids:
+- SuspensionMountainClimberPushup
+primary_muscles:
+- abs
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

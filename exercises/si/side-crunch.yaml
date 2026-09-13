@@ -1,0 +1,15 @@
+id: 0708
+slug: side-crunch
+name: Side Crunch
+human_readable_ids:
+- SideCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

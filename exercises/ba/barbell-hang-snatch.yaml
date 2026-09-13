@@ -1,0 +1,15 @@
+id: '1522'
+slug: barbell-hang-snatch
+name: Barbell Hang Snatch
+human_readable_ids:
+- BarbellHangSnatch
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

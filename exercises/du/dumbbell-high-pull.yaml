@@ -1,0 +1,15 @@
+id: '5666'
+slug: dumbbell-high-pull
+name: Dumbbell High Pull
+human_readable_ids:
+- DumbbellHighPull
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

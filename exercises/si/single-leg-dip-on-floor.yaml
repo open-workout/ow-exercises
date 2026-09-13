@@ -1,0 +1,15 @@
+id: '4364'
+slug: single-leg-dip-on-floor
+name: Single Leg Dip on floor
+human_readable_ids:
+- SingleLegDiponfloor
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

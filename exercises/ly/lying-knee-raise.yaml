@@ -1,0 +1,15 @@
+id: '8194'
+slug: lying-knee-raise
+name: Lying Knee Raise
+human_readable_ids:
+- LyingKneeRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7550'
+slug: dumbell-bulgarian-split-squat-from-deficit
+name: Dumbell Bulgarian Split Squat from Deficit
+human_readable_ids:
+- DumbellBulgarianSplitSquatfromDeficit
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

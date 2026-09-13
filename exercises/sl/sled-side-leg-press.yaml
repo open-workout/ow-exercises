@@ -1,0 +1,15 @@
+id: '8660'
+slug: sled-side-leg-press
+name: Sled Side Leg Press
+human_readable_ids:
+- SledSideLegPress
+primary_muscles:
+- glutes
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

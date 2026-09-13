@@ -1,0 +1,15 @@
+id: '4982'
+slug: negative-dragon-flag
+name: Negative Dragon Flag
+human_readable_ids:
+- NegativeDragonFlag
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

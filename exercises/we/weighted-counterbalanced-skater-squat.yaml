@@ -1,0 +1,15 @@
+id: '4129'
+slug: weighted-counterbalanced-skater-squat
+name: Weighted Counterbalanced Skater Squat
+human_readable_ids:
+- WeightedCounterbalancedSkaterSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

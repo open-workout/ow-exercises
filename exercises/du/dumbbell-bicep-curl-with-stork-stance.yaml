@@ -1,0 +1,15 @@
+id: '1653'
+slug: dumbbell-bicep-curl-with-stork-stance
+name: Dumbbell Bicep Curl With Stork Stance
+human_readable_ids:
+- DumbbellBicepCurlWithStorkStance
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6804'
+slug: plank-alternate-anti-gravity-pull-up
+name: Plank Alternate Anti Gravity Pull up
+human_readable_ids:
+- PlankAlternateAntiGravityPullup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

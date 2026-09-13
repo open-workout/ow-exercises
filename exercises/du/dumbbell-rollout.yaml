@@ -1,0 +1,15 @@
+id: '6215'
+slug: dumbbell-rollout
+name: Dumbbell Rollout
+human_readable_ids:
+- DumbbellRollout
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

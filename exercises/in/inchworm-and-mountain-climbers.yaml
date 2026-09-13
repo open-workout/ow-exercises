@@ -1,0 +1,15 @@
+id: '5598'
+slug: inchworm-and-mountain-climbers
+name: Inchworm and Mountain Climbers
+human_readable_ids:
+- InchwormandMountainClimbers
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

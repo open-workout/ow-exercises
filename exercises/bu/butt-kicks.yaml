@@ -1,0 +1,15 @@
+id: '0146'
+slug: butt-kicks
+name: Butt Kicks
+human_readable_ids:
+- ButtKicks
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

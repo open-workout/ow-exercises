@@ -1,0 +1,14 @@
+id: '5396'
+slug: roll-peroneal-side-lying-on-floor
+name: Roll Peroneal Side Lying on Floor
+human_readable_ids:
+- RollPeronealSideLyingonFloor
+primary_muscles:
+- calves
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6558'
+slug: dumbbell-banded-wall-sit
+name: Dumbbell Banded Wall Sit
+human_readable_ids:
+- DumbbellBandedWallSit
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

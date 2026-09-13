@@ -1,0 +1,15 @@
+id: '8799'
+slug: lever-single-leg-deadlift-on-hack-squat-machine
+name: Lever Single Leg Deadlift on Hack Squat Machine
+human_readable_ids:
+- LeverSingleLegDeadliftonHackSquatMachine
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0671'
+slug: reverse-crunch
+name: Reverse Crunch
+human_readable_ids:
+- ReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

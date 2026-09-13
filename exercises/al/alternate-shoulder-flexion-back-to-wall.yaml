@@ -1,0 +1,14 @@
+id: '4394'
+slug: alternate-shoulder-flexion-back-to-wall
+name: Alternate Shoulder Flexion Back to Wall
+human_readable_ids:
+- AlternateShoulderFlexionBacktoWall
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

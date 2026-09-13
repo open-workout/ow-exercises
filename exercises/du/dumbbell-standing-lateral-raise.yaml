@@ -1,0 +1,15 @@
+id: '2234'
+slug: dumbbell-standing-lateral-raise
+name: Dumbbell Standing Lateral Raise
+human_readable_ids:
+- DumbbellStandingLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

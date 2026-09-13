@@ -1,0 +1,15 @@
+id: '2919'
+slug: smith-hex-press
+name: Smith Hex Press
+human_readable_ids:
+- SmithHexPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '2843'
+slug: double-leg-stretch
+name: Double Leg Stretch
+human_readable_ids:
+- DoubleLegStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

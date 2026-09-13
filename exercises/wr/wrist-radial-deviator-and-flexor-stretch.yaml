@@ -1,0 +1,14 @@
+id: '1824'
+slug: wrist-radial-deviator-and-flexor-stretch
+name: Wrist Radial Deviator And Flexor Stretch
+human_readable_ids:
+- WristRadialDeviatorAndFlexorStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '9611'
+slug: bodyweight-overhead-forward-lunge
+name: Bodyweight Overhead Forward Lunge
+human_readable_ids:
+- BodyweightOverheadForwardLunge
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

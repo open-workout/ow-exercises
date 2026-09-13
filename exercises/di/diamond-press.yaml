@@ -1,0 +1,16 @@
+id: '4539'
+slug: diamond-press
+name: Diamond Press
+human_readable_ids:
+- DiamondPress
+primary_muscles:
+- back
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '2100'
+slug: seated-quadriceps-stretch
+name: Seated Quadriceps Stretch
+human_readable_ids:
+- SeatedQuadricepsStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

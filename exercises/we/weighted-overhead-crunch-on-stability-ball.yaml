@@ -1,0 +1,15 @@
+id: 0840
+slug: weighted-overhead-crunch-on-stability-ball
+name: Weighted Overhead Crunch (on stability ball)
+human_readable_ids:
+- WeightedOverheadCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

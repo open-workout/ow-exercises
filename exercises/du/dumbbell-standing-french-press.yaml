@@ -1,0 +1,15 @@
+id: '6221'
+slug: dumbbell-standing-french-press
+name: Dumbbell Standing French Press
+human_readable_ids:
+- DumbbellStandingFrenchPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

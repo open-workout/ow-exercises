@@ -1,0 +1,15 @@
+id: '4898'
+slug: kick-side-jump
+name: Kick Side Jump
+human_readable_ids:
+- KickSideJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

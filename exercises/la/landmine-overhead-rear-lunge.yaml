@@ -1,0 +1,15 @@
+id: '7627'
+slug: landmine-overhead-rear-lunge
+name: Landmine Overhead Rear Lunge
+human_readable_ids:
+- LandmineOverheadRearLunge
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

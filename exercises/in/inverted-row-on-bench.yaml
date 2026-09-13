@@ -1,0 +1,15 @@
+id: '2298'
+slug: inverted-row-on-bench
+name: Inverted Row on Bench
+human_readable_ids:
+- InvertedRowonBench
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

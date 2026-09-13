@@ -1,0 +1,15 @@
+id: 0208
+slug: cable-reverse-grip-straight-back-seated-high-row
+name: Cable Reverse-grip Straight Back Seated High Row
+human_readable_ids:
+- CableReversegripStraightBackSeatedHighRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

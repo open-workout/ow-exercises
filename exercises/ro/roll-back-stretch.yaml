@@ -1,0 +1,14 @@
+id: '2208'
+slug: roll-back-stretch
+name: Roll Back Stretch
+human_readable_ids:
+- RollBackStretch
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

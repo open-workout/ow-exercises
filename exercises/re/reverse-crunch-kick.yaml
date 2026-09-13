@@ -1,0 +1,15 @@
+id: '4330'
+slug: reverse-crunch-kick
+name: Reverse Crunch Kick
+human_readable_ids:
+- ReverseCrunchKick
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1012'
+slug: band-twisting-overhead-press
+name: Band twisting overhead press
+human_readable_ids:
+- Bandtwistingoverheadpress
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

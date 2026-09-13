@@ -1,0 +1,15 @@
+id: '7469'
+slug: dumbbell-goblet-squat-with-calf-raise
+name: Dumbbell Goblet Squat with Calf Raise
+human_readable_ids:
+- DumbbellGobletSquatwithCalfRaise
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

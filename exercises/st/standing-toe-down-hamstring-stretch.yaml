@@ -1,0 +1,14 @@
+id: '1908'
+slug: standing-toe-down-hamstring-stretch
+name: Standing Toe Down Hamstring Stretch
+human_readable_ids:
+- StandingToeDownHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

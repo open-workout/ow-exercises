@@ -1,0 +1,15 @@
+id: '0434'
+slug: dumbbell-straight-leg-deadlift
+name: Dumbbell Straight Leg Deadlift
+human_readable_ids:
+- DumbbellStraightLegDeadlift
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

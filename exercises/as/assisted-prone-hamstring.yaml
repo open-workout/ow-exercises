@@ -1,0 +1,15 @@
+id: '0016'
+slug: assisted-prone-hamstring
+name: Assisted Prone Hamstring
+human_readable_ids:
+- AssistedProneHamstring
+primary_muscles:
+- hamstrings
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,14 @@
+id: '1054'
+slug: lunging-straight-leg-calf-stretch
+name: Lunging Straight Leg Calf Stretch
+human_readable_ids:
+- LungingStraightLegCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

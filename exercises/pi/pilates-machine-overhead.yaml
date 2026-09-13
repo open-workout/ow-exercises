@@ -1,0 +1,14 @@
+id: '10856'
+slug: pilates-machine-overhead
+name: Pilates Machine Overhead
+human_readable_ids:
+- PilatesMachineOverhead
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

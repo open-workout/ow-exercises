@@ -1,0 +1,15 @@
+id: '1861'
+slug: cable-curl-with-multipurpose-v-bar
+name: Cable Curl with Multipurpose V bar
+human_readable_ids:
+- CableCurlwithMultipurposeVbar
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

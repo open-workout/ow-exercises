@@ -1,0 +1,15 @@
+id: '7582'
+slug: kettlebell-ipsilateral-reverse-lunge
+name: Kettlebell Ipsilateral Reverse Lunge
+human_readable_ids:
+- KettlebellIpsilateralReverseLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1658'
+slug: dumbbell-lunge-with-bicep-curl
+name: Dumbbell Lunge with Bicep Curl
+human_readable_ids:
+- DumbbellLungewithBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

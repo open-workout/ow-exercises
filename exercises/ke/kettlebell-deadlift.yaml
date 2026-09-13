@@ -1,0 +1,16 @@
+id: '3322'
+slug: kettlebell-deadlift
+name: Kettlebell deadlift
+human_readable_ids:
+- Kettlebelldeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

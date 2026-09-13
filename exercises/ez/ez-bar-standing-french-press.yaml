@@ -1,0 +1,15 @@
+id: '1749'
+slug: ez-bar-standing-french-press
+name: EZ Bar Standing French Press
+human_readable_ids:
+- EZBarStandingFrenchPress
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

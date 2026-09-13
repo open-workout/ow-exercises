@@ -1,0 +1,14 @@
+id: '3217'
+slug: modified-hindu-push-up
+name: Modified Hindu Push-up
+human_readable_ids:
+- ModifiedHinduPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

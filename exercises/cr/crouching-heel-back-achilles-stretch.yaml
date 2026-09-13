@@ -1,0 +1,14 @@
+id: '1890'
+slug: crouching-heel-back-achilles-stretch
+name: Crouching Heel Back Achilles Stretch
+human_readable_ids:
+- CrouchingHeelBackAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

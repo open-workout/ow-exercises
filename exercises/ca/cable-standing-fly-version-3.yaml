@@ -1,0 +1,15 @@
+id: '11250'
+slug: cable-standing-fly-version-3
+name: Cable Standing Fly (VERSION 3)
+human_readable_ids:
+- CableStandingFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

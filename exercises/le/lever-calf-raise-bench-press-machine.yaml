@@ -1,0 +1,15 @@
+id: '1220'
+slug: lever-calf-raise-bench-press-machine
+name: Lever Calf Raise (bench press machine)
+human_readable_ids:
+- LeverCalfRaise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

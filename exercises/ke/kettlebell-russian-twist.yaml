@@ -1,0 +1,15 @@
+id: '4393'
+slug: kettlebell-russian-twist
+name: Kettlebell Russian Twist
+human_readable_ids:
+- KettlebellRussianTwist
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

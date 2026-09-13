@@ -1,0 +1,15 @@
+id: '2415'
+slug: dumbbell-single-arm-leaning-lateral-raise
+name: Dumbbell Single-arm Leaning Lateral Raise
+human_readable_ids:
+- DumbbellSinglearmLeaningLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

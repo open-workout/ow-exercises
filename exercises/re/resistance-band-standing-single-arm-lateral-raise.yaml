@@ -1,0 +1,15 @@
+id: '8362'
+slug: resistance-band-standing-single-arm-lateral-raise
+name: Resistance Band Standing Single Arm Lateral Raise
+human_readable_ids:
+- ResistanceBandStandingSingleArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

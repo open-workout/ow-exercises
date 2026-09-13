@@ -1,0 +1,15 @@
+id: '6748'
+slug: kneeling-single-hamstring-curl
+name: Kneeling Single Hamstring Curl
+human_readable_ids:
+- KneelingSingleHamstringCurl
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

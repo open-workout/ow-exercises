@@ -1,0 +1,16 @@
+id: '2115'
+slug: hip-extension-on-knees
+name: Hip Extension On Knees
+human_readable_ids:
+- HipExtensionOnKnees
+primary_muscles:
+- back
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

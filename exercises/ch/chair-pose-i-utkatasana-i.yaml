@@ -1,0 +1,14 @@
+id: 0944
+slug: chair-pose-i-utkatasana-i
+name: Chair Pose I Utkatasana I
+human_readable_ids:
+- ChairPoseIUtkatasanaI
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6137'
+slug: bodyweight-standing-scapula-row
+name: Bodyweight Standing Scapula Row
+human_readable_ids:
+- BodyweightStandingScapulaRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

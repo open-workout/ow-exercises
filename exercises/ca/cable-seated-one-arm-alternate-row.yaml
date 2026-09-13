@@ -1,0 +1,15 @@
+id: '0214'
+slug: cable-seated-one-arm-alternate-row
+name: Cable Seated One Arm Alternate Row
+human_readable_ids:
+- CableSeatedOneArmAlternateRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

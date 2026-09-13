@@ -1,0 +1,15 @@
+id: '3706'
+slug: squat-tuck-jump
+name: Squat Tuck Jump
+human_readable_ids:
+- SquatTuckJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

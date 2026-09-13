@@ -1,0 +1,14 @@
+id: '1979'
+slug: shoulder-adductor-elevator-and-protractor-stretch
+name: Shoulder Adductor Elevator And Protractor Stretch
+human_readable_ids:
+- ShoulderAdductorElevatorAndProtractorStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

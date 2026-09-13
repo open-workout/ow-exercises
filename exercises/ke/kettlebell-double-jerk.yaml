@@ -1,0 +1,15 @@
+id: '0527'
+slug: kettlebell-double-jerk
+name: Kettlebell Double Jerk
+human_readable_ids:
+- KettlebellDoubleJerk
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

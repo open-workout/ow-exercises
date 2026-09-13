@@ -1,0 +1,15 @@
+id: '3550'
+slug: seated-pull-up-between-chairs
+name: Seated Pull-up between Chairs
+human_readable_ids:
+- SeatedPullupbetweenChairs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

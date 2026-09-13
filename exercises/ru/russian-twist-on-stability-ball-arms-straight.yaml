@@ -1,0 +1,15 @@
+id: 0686
+slug: russian-twist-on-stability-ball-arms-straight
+name: Russian Twist (on stability ball arms straight)
+human_readable_ids:
+- RussianTwist
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

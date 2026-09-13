@@ -1,0 +1,17 @@
+id: '3328'
+slug: barbell-complex-stiff-leg-deadlift-clean-step
+name: Barbell Complex - Stiff Leg Deadlift - Clean - Step
+human_readable_ids:
+- BarbellComplexStiffLegDeadliftCleanStep
+primary_muscles:
+- glutes
+- shoulders
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

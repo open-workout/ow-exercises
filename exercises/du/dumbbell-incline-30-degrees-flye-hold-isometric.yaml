@@ -1,0 +1,14 @@
+id: '1449'
+slug: dumbbell-incline-30-degrees-flye-hold-isometric
+name: Dumbbell Incline 30 degrees Flye Hold Isometric
+human_readable_ids:
+- DumbbellIncline30degreesFlyeHoldIsometric
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

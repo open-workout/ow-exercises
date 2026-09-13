@@ -1,0 +1,15 @@
+id: '0050'
+slug: barbell-incline-shoulder-raise
+name: Barbell Incline Shoulder Raise
+human_readable_ids:
+- BarbellInclineShoulderRaise
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

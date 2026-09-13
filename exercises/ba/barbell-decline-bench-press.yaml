@@ -1,0 +1,15 @@
+id: '0033'
+slug: barbell-decline-bench-press
+name: Barbell Decline Bench Press
+human_readable_ids:
+- BarbellDeclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

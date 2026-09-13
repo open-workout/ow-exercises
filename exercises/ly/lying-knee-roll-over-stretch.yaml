@@ -1,0 +1,15 @@
+id: '2116'
+slug: lying-knee-roll-over-stretch
+name: Lying Knee Roll Over Stretch
+human_readable_ids:
+- LyingKneeRollOverStretch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3873'
+slug: barbell-hip-thrust-with-resistance-band
+name: Barbell Hip Thrust with Resistance Band
+human_readable_ids:
+- BarbellHipThrustwithResistanceBand
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1313'
+slug: lever-unilateral-row
+name: Lever Unilateral Row
+human_readable_ids:
+- LeverUnilateralRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

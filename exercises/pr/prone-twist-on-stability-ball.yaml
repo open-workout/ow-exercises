@@ -1,0 +1,15 @@
+id: '1707'
+slug: prone-twist-on-stability-ball
+name: Prone Twist On Stability Ball
+human_readable_ids:
+- ProneTwistOnStabilityBall
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

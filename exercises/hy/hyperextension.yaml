@@ -1,0 +1,15 @@
+id: 0489
+slug: hyperextension
+name: Hyperextension
+human_readable_ids:
+- Hyperextension
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

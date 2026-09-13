@@ -1,0 +1,15 @@
+id: '2142'
+slug: ski-ergometer
+name: Ski Ergometer
+human_readable_ids:
+- SkiErgometer
+primary_muscles:
+- plyometrics
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

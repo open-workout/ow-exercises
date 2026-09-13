@@ -1,0 +1,15 @@
+id: 0089
+slug: barbell-seated-close-grip-concentration-curl
+name: Barbell Seated Close-grip Concentration Curl
+human_readable_ids:
+- BarbellSeatedClosegripConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

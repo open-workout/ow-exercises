@@ -1,0 +1,15 @@
+id: '9047'
+slug: straight-hip-single-leg-curl-on-stability-ball
+name: Straight Hip Single Leg Curl on Stability Ball
+human_readable_ids:
+- StraightHipSingleLegCurlonStabilityBall
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

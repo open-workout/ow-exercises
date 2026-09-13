@@ -1,0 +1,15 @@
+id: 0807
+slug: suspended-reverse-crunch
+name: Suspended Reverse Crunch
+human_readable_ids:
+- SuspendedReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

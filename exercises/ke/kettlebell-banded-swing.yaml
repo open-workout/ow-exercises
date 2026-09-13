@@ -1,0 +1,15 @@
+id: '4167'
+slug: kettlebell-banded-swing
+name: Kettlebell Banded Swing
+human_readable_ids:
+- KettlebellBandedSwing
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

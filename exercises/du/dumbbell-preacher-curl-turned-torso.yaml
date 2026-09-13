@@ -1,0 +1,15 @@
+id: '5298'
+slug: dumbbell-preacher-curl-turned-torso
+name: Dumbbell Preacher Curl (Turned Torso)
+human_readable_ids:
+- DumbbellPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

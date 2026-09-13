@@ -1,0 +1,15 @@
+id: '1426'
+slug: smith-seated-wrist-curl
+name: Smith Seated Wrist Curl
+human_readable_ids:
+- SmithSeatedWristCurl
+primary_muscles:
+- forearms
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: 0963
+slug: warrior-pose-ii-virabhadrasana-ii
+name: Warrior Pose II Virabhadrasana II
+human_readable_ids:
+- WarriorPoseIIVirabhadrasanaII
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2120'
+slug: standing-side-stretch-with-stick
+name: Standing Side Stretch With Stick
+human_readable_ids:
+- StandingSideStretchWithStick
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

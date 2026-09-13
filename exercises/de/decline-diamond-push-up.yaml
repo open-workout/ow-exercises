@@ -1,0 +1,15 @@
+id: '5866'
+slug: decline-diamond-push-up
+name: Decline Diamond Push-up
+human_readable_ids:
+- DeclineDiamondPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

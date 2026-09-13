@@ -1,0 +1,15 @@
+id: '8655'
+slug: seated-underhand-arm-circle-on-a-chair
+name: Seated Underhand Arm Circle on a Chair
+human_readable_ids:
+- SeatedUnderhandArmCircleonaChair
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

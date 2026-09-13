@@ -1,0 +1,15 @@
+id: '2337'
+slug: chest-fly-arms-wrong-right
+name: Chest Fly - Arms (WRONG-RIGHT)
+human_readable_ids:
+- ChestFlyArms
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

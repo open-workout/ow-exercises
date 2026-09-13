@@ -1,0 +1,15 @@
+id: '11260'
+slug: cable-kneeling-military-press-version-3
+name: Cable Kneeling Military Press (VERSION 3)
+human_readable_ids:
+- CableKneelingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

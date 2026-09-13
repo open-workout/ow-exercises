@@ -1,0 +1,15 @@
+id: '6032'
+slug: cable-low-seated-row-with-v-bar
+name: Cable Low Seated Row with V bar
+human_readable_ids:
+- CableLowSeatedRowwithVbar
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

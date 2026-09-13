@@ -1,0 +1,14 @@
+id: '5387'
+slug: roll-erector-spinae-lying-on-floor
+name: Roll Erector Spinae Lying on Floor
+human_readable_ids:
+- RollErectorSpinaeLyingonFloor
+primary_muscles:
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

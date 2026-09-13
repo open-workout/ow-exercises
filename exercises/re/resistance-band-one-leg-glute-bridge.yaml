@@ -1,0 +1,15 @@
+id: '2159'
+slug: resistance-band-one-leg-glute-bridge
+name: Resistance Band One Leg Glute Bridge
+human_readable_ids:
+- ResistanceBandOneLegGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

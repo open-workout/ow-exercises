@@ -1,0 +1,15 @@
+id: '7884'
+slug: lever-push-up-with-towels
+name: Lever Push-up with Towels
+human_readable_ids:
+- LeverPushupwithTowels
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

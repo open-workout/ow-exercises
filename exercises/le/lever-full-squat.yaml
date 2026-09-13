@@ -1,0 +1,15 @@
+id: '1039'
+slug: lever-full-squat
+name: Lever Full Squat
+human_readable_ids:
+- LeverFullSquat
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

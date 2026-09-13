@@ -1,0 +1,15 @@
+id: '4915'
+slug: wide-chin-up
+name: Wide Chin-Up
+human_readable_ids:
+- WideChinUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

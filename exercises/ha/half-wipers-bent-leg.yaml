@@ -1,0 +1,15 @@
+id: '1248'
+slug: half-wipers-bent-leg
+name: Half Wipers (bent leg)
+human_readable_ids:
+- HalfWipers
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

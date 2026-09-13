@@ -1,0 +1,15 @@
+id: '6195'
+slug: band-standing-reverse-curl
+name: Band Standing Reverse Curl
+human_readable_ids:
+- BandStandingReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10109'
+slug: medicine-ball-backward-overhead-toss
+name: Medicine Ball Backward Overhead Toss
+human_readable_ids:
+- MedicineBallBackwardOverheadToss
+primary_muscles:
+- glutes
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

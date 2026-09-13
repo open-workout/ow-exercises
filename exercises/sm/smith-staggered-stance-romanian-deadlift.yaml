@@ -1,0 +1,15 @@
+id: '8800'
+slug: smith-staggered-stance-romanian-deadlift
+name: Smith Staggered Stance Romanian Deadlift
+human_readable_ids:
+- SmithStaggeredStanceRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

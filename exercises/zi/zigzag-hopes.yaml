@@ -1,0 +1,15 @@
+id: '3198'
+slug: zigzag-hopes
+name: ZigZag Hopes
+human_readable_ids:
+- ZigZagHopes
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

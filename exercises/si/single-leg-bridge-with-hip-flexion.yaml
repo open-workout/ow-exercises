@@ -1,0 +1,17 @@
+id: '3583'
+slug: single-leg-bridge-with-hip-flexion
+name: Single Leg Bridge with Hip Flexion
+human_readable_ids:
+- SingleLegBridgewithHipFlexion
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

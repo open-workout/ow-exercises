@@ -1,0 +1,15 @@
+id: '4665'
+slug: overhead-clap
+name: Overhead Clap
+human_readable_ids:
+- OverheadClap
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

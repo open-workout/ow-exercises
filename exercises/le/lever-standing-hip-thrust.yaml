@@ -1,0 +1,15 @@
+id: '9848'
+slug: lever-standing-hip-thrust
+name: Lever Standing Hip Thrust
+human_readable_ids:
+- LeverStandingHipThrust
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

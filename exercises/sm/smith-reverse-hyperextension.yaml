@@ -1,0 +1,15 @@
+id: '2745'
+slug: smith-reverse-hyperextension
+name: Smith Reverse Hyperextension
+human_readable_ids:
+- SmithReverseHyperextension
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1429'
+slug: wide-grip-pull-up-1429
+name: Wide Grip Pull-Up
+human_readable_ids:
+- WideGripPullUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

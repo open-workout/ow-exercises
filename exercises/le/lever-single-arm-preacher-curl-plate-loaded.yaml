@@ -1,0 +1,15 @@
+id: '9862'
+slug: lever-single-arm-preacher-curl-plate-loaded
+name: Lever Single Arm Preacher Curl (plate loaded)
+human_readable_ids:
+- LeverSingleArmPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

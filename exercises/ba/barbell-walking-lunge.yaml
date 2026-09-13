@@ -1,0 +1,15 @@
+id: '5823'
+slug: barbell-walking-lunge
+name: Barbell Walking Lunge
+human_readable_ids:
+- BarbellWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

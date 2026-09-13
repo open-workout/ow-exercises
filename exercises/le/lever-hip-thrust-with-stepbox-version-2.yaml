@@ -1,0 +1,15 @@
+id: '2742'
+slug: lever-hip-thrust-with-stepbox-version-2
+name: Lever Hip Thrust (with stepbox) (VERSION 2)
+human_readable_ids:
+- LeverHipThrust
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

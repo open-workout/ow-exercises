@@ -1,0 +1,15 @@
+id: '5142'
+slug: smith-hang-clean
+name: Smith Hang Clean
+human_readable_ids:
+- SmithHangClean
+primary_muscles:
+- weightlifting
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

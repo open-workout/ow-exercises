@@ -1,0 +1,16 @@
+id: '3003'
+slug: briskly-walking
+name: Briskly Walking
+human_readable_ids:
+- BrisklyWalking
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

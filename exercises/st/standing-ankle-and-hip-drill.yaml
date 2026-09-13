@@ -1,0 +1,14 @@
+id: '11289'
+slug: standing-ankle-and-hip-drill
+name: Standing Ankle and Hip Drill
+human_readable_ids:
+- StandingAnkleandHipDrill
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

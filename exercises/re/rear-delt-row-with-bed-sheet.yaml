@@ -1,0 +1,15 @@
+id: '3746'
+slug: rear-delt-row-with-bed-sheet
+name: Rear Delt Row with Bed Sheet
+human_readable_ids:
+- RearDeltRowwithBedSheet
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

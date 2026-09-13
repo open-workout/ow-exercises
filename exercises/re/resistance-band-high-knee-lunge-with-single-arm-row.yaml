@@ -1,0 +1,15 @@
+id: '3788'
+slug: resistance-band-high-knee-lunge-with-single-arm-row
+name: Resistance Band High Knee Lunge with Single Arm Row
+human_readable_ids:
+- ResistanceBandHighKneeLungewithSingleArmRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

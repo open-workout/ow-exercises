@@ -1,0 +1,14 @@
+id: '2991'
+slug: rollball-seated-single-leg-shoulder-flexor-depresor-retractor
+name: Rollball Seated Single Leg Shoulder Flexor Depresor Retractor
+human_readable_ids:
+- RollballSeatedSingleLegShoulderFlexorDepresorRetractor
+primary_muscles:
+- chest
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

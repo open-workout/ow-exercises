@@ -1,0 +1,17 @@
+id: '2968'
+slug: dumbbell-thruster
+name: Dumbbell Thruster
+human_readable_ids:
+- DumbbellThruster
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

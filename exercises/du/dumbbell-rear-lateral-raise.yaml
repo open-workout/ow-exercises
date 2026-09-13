@@ -1,0 +1,15 @@
+id: 0380
+slug: dumbbell-rear-lateral-raise
+name: Dumbbell Rear Lateral Raise
+human_readable_ids:
+- DumbbellRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

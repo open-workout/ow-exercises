@@ -1,0 +1,14 @@
+id: '1780'
+slug: bent-arm-chest-stretch
+name: Bent Arm Chest Stretch
+human_readable_ids:
+- BentArmChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

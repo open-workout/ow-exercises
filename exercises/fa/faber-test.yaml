@@ -1,0 +1,14 @@
+id: '6786'
+slug: faber-test
+name: Faber test
+human_readable_ids:
+- Fabertest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

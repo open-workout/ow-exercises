@@ -1,0 +1,14 @@
+id: '1342'
+slug: exercise-ball-lying-side-lat-stretch
+name: Exercise Ball Lying Side Lat Stretch
+human_readable_ids:
+- ExerciseBallLyingSideLatStretch
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

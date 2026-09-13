@@ -1,0 +1,15 @@
+id: '5853'
+slug: barbell-incline-rear-delt-row
+name: Barbell Incline Rear Delt Row
+human_readable_ids:
+- BarbellInclineRearDeltRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

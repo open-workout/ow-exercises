@@ -1,0 +1,15 @@
+id: '3557'
+slug: kneeling-wide-hand-push-up
+name: Kneeling Wide Hand Push-Up
+human_readable_ids:
+- KneelingWideHandPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

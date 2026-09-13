@@ -1,0 +1,15 @@
+id: 0835
+slug: weighted-hyperextension-on-stability-ball
+name: Weighted Hyperextension (on stability ball)
+human_readable_ids:
+- WeightedHyperextension
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

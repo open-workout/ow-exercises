@@ -1,0 +1,14 @@
+id: '1929'
+slug: tibial-stretch-with-semi-flexed-knee
+name: Tibial Stretch With Semi Flexed Knee
+human_readable_ids:
+- TibialStretchWithSemiFlexedKnee
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

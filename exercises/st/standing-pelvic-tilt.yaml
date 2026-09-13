@@ -1,0 +1,14 @@
+id: '1364'
+slug: standing-pelvic-tilt
+name: Standing Pelvic Tilt
+human_readable_ids:
+- StandingPelvicTilt
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

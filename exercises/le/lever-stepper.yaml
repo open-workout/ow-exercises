@@ -1,0 +1,16 @@
+id: 0938
+slug: lever-stepper
+name: Lever stepper
+human_readable_ids:
+- Leverstepper
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: 0381
+slug: dumbbell-rear-lunge
+name: Dumbbell Rear Lunge
+human_readable_ids:
+- DumbbellRearLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5165'
+slug: plank-pike-slide-with-towel
+name: Plank Pike Slide with Towel
+human_readable_ids:
+- PlankPikeSlidewithTowel
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

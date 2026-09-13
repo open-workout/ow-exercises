@@ -1,0 +1,15 @@
+id: '3205'
+slug: floor-t-raise-3205
+name: Floor T-Raise
+human_readable_ids:
+- FloorTRaise
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

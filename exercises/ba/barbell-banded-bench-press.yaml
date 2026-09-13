@@ -1,0 +1,15 @@
+id: '7620'
+slug: barbell-banded-bench-press
+name: Barbell Banded Bench Press
+human_readable_ids:
+- BarbellBandedBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

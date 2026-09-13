@@ -1,0 +1,15 @@
+id: '0133'
+slug: bent-knee-side-plank
+name: Bent-Knee Side Plank
+human_readable_ids:
+- BentKneeSidePlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

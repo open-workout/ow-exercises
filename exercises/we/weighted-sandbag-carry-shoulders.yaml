@@ -1,0 +1,15 @@
+id: '10386'
+slug: weighted-sandbag-carry-shoulders
+name: Weighted Sandbag Carry (Shoulders)
+human_readable_ids:
+- WeightedSandbagCarry
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

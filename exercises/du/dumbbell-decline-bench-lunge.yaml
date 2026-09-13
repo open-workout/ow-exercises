@@ -1,0 +1,15 @@
+id: '1551'
+slug: dumbbell-decline-bench-lunge
+name: Dumbbell Decline Bench Lunge
+human_readable_ids:
+- DumbbellDeclineBenchLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0599
+slug: lever-seated-leg-curl
+name: Lever Seated Leg Curl
+human_readable_ids:
+- LeverSeatedLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

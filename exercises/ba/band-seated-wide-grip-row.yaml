@@ -1,0 +1,15 @@
+id: '4454'
+slug: band-seated-wide-grip-row
+name: Band Seated Wide Grip Row
+human_readable_ids:
+- BandSeatedWideGripRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

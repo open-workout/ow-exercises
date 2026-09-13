@@ -1,0 +1,15 @@
+id: '5129'
+slug: seated-upper-body-rotation
+name: Seated Upper Body Rotation
+human_readable_ids:
+- SeatedUpperBodyRotation
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

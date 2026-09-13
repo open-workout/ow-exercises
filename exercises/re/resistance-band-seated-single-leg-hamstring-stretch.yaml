@@ -1,0 +1,14 @@
+id: '10744'
+slug: resistance-band-seated-single-leg-hamstring-stretch
+name: Resistance Band Seated Single Leg Hamstring Stretch
+human_readable_ids:
+- ResistanceBandSeatedSingleLegHamstringStretch
+primary_muscles:
+- stretching
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

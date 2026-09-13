@@ -1,0 +1,15 @@
+id: '1081'
+slug: suspension-jack-knife-pike
+name: Suspension Jack knife Pike
+human_readable_ids:
+- SuspensionJackknifePike
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

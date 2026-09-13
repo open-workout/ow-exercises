@@ -1,0 +1,15 @@
+id: '10093'
+slug: dumbbell-half-kneeling-thor-lift
+name: Dumbbell Half Kneeling Thor Lift
+human_readable_ids:
+- DumbbellHalfKneelingThorLift
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

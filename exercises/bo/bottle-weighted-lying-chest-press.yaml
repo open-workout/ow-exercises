@@ -1,0 +1,15 @@
+id: '6057'
+slug: bottle-weighted-lying-chest-press
+name: Bottle Weighted Lying Chest Press
+human_readable_ids:
+- BottleWeightedLyingChestPress
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

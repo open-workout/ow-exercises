@@ -1,0 +1,15 @@
+id: '0404'
+slug: dumbbell-seated-shoulder-press-parallel-grip
+name: Dumbbell Seated Shoulder Press (parallel grip)
+human_readable_ids:
+- DumbbellSeatedShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

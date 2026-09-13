@@ -1,0 +1,14 @@
+id: '10906'
+slug: bodyweight-split-squat-hold
+name: Bodyweight Split Squat Hold
+human_readable_ids:
+- BodyweightSplitSquatHold
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

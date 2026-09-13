@@ -1,0 +1,15 @@
+id: '6014'
+slug: arm-raise-step-in-place
+name: Arm Raise Step in Place
+human_readable_ids:
+- ArmRaiseStepinPlace
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

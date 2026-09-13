@@ -1,0 +1,15 @@
+id: '9878'
+slug: cable-zercher-squat
+name: Cable Zercher Squat
+human_readable_ids:
+- CableZercherSquat
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4172'
+slug: bodyweight-bent-over-rear-delt-fly
+name: Bodyweight Bent Over Rear Delt Fly
+human_readable_ids:
+- BodyweightBentOverRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

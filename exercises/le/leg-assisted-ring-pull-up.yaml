@@ -1,0 +1,15 @@
+id: '4920'
+slug: leg-assisted-ring-pull-up
+name: Leg Assisted Ring Pull-up
+human_readable_ids:
+- LegAssistedRingPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,16 @@
+id: 0899
+slug: band-hip-abduction
+name: Band hip abduction
+human_readable_ids:
+- Bandhipabduction
+primary_muscles:
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '4221'
+slug: tiger-tail-hamstring
+name: Tiger Tail Hamstring
+human_readable_ids:
+- TigerTailHamstring
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

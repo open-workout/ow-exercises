@@ -1,0 +1,15 @@
+id: '5046'
+slug: v-sit-toe-tap
+name: V Sit Toe Tap
+human_readable_ids:
+- VSitToeTap
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,17 @@
+id: '1917'
+slug: standing-reach-down-hamstring-crossed-legs-stretch
+name: Standing Reach Down Hamstring Crossed Legs Stretch
+human_readable_ids:
+- StandingReachDownHamstringCrossedLegsStretch
+primary_muscles:
+- calves
+- glutes
+- hamstrings
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

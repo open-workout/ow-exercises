@@ -1,0 +1,16 @@
+id: '1557'
+slug: dumbbell-walking-lunges
+name: Dumbbell Walking Lunges
+human_readable_ids:
+- DumbbellWalkingLunges
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

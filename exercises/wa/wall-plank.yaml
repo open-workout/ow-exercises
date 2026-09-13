@@ -1,0 +1,15 @@
+id: '7389'
+slug: wall-plank
+name: Wall Plank
+human_readable_ids:
+- WallPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

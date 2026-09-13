@@ -1,0 +1,14 @@
+id: '6832'
+slug: back-stretch-on-stability-ball
+name: Back Stretch on Stability Ball
+human_readable_ids:
+- BackStretchonStabilityBall
+primary_muscles:
+- stretching
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

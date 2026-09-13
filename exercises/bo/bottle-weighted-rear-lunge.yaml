@@ -1,0 +1,15 @@
+id: '6048'
+slug: bottle-weighted-rear-lunge
+name: Bottle Weighted Rear Lunge
+human_readable_ids:
+- BottleWeightedRearLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

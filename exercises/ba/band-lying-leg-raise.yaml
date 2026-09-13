@@ -1,0 +1,15 @@
+id: 0912
+slug: band-lying-leg-raise
+name: Band lying leg raise
+human_readable_ids:
+- Bandlyinglegraise
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

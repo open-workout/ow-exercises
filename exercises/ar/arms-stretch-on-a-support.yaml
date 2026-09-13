@@ -1,0 +1,14 @@
+id: '1817'
+slug: arms-stretch-on-a-support
+name: Arms Stretch On A Support
+human_readable_ids:
+- ArmsStretchOnASupport
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

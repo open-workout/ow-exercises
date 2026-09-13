@@ -1,0 +1,14 @@
+id: '1925'
+slug: single-heel-drop-calf-stretch
+name: Single Heel Drop Calf Stretch
+human_readable_ids:
+- SingleHeelDropCalfStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

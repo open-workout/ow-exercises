@@ -1,0 +1,15 @@
+id: '4968'
+slug: quadruped-leg-curl
+name: Quadruped Leg Curl
+human_readable_ids:
+- QuadrupedLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

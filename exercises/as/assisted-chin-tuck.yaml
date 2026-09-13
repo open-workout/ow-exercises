@@ -1,0 +1,15 @@
+id: '3150'
+slug: assisted-chin-tuck
+name: Assisted Chin Tuck
+human_readable_ids:
+- AssistedChinTuck
+primary_muscles:
+- neck
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

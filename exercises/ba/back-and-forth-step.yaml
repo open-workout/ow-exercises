@@ -1,0 +1,16 @@
+id: '3672'
+slug: back-and-forth-step
+name: Back And Forth Step
+human_readable_ids:
+- BackAndForthStep
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

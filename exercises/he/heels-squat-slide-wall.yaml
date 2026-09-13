@@ -1,0 +1,15 @@
+id: '8956'
+slug: heels-squat-slide-wall
+name: Heels Squat Slide Wall
+human_readable_ids:
+- HeelsSquatSlideWall
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

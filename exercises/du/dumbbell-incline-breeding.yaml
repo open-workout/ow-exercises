@@ -1,0 +1,15 @@
+id: '0316'
+slug: dumbbell-incline-breeding
+name: Dumbbell Incline Breeding
+human_readable_ids:
+- DumbbellInclineBreeding
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

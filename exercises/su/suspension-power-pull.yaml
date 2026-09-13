@@ -1,0 +1,15 @@
+id: '1086'
+slug: suspension-power-pull
+name: Suspension Power Pull
+human_readable_ids:
+- SuspensionPowerPull
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

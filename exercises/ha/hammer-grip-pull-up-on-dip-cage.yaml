@@ -1,0 +1,15 @@
+id: '1865'
+slug: hammer-grip-pull-up-on-dip-cage
+name: Hammer Grip Pull-up on Dip Cage
+human_readable_ids:
+- HammerGripPulluponDipCage
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

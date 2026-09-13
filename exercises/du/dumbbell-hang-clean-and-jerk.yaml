@@ -1,0 +1,15 @@
+id: '4377'
+slug: dumbbell-hang-clean-and-jerk
+name: Dumbbell Hang Clean and Jerk
+human_readable_ids:
+- DumbbellHangCleanandJerk
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

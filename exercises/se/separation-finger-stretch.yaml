@@ -1,0 +1,14 @@
+id: '2097'
+slug: separation-finger-stretch
+name: Separation Finger Stretch
+human_readable_ids:
+- SeparationFingerStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

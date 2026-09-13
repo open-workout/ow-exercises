@@ -1,0 +1,14 @@
+id: '1945'
+slug: lying-leg-tuck-hip-stretch
+name: Lying Leg Tuck Hip Stretch
+human_readable_ids:
+- LyingLegTuckHipStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

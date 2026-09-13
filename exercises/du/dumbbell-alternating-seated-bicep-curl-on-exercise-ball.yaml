@@ -1,0 +1,15 @@
+id: '1650'
+slug: dumbbell-alternating-seated-bicep-curl-on-exercise-ball
+name: Dumbbell Alternating Seated Bicep Curl on Exercise Ball
+human_readable_ids:
+- DumbbellAlternatingSeatedBicepCurlonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

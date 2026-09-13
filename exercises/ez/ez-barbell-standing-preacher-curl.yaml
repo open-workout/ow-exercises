@@ -1,0 +1,15 @@
+id: '2900'
+slug: ez-barbell-standing-preacher-curl
+name: EZ-Barbell Standing Preacher Curl
+human_readable_ids:
+- EZBarbellStandingPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

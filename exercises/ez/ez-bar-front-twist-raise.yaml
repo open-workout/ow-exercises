@@ -1,0 +1,15 @@
+id: '3986'
+slug: ez-bar-front-twist-raise
+name: EZ-bar Front Twist Raise
+human_readable_ids:
+- EZbarFrontTwistRaise
+primary_muscles:
+- shoulders
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

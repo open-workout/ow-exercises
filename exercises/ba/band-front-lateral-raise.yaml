@@ -1,0 +1,15 @@
+id: 0977
+slug: band-front-lateral-raise
+name: Band front lateral raise
+human_readable_ids:
+- Bandfrontlateralraise
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3224'
+slug: jack-jump
+name: Jack Jump
+human_readable_ids:
+- JackJump
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

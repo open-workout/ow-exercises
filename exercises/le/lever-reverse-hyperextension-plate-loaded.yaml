@@ -1,0 +1,15 @@
+id: 0593
+slug: lever-reverse-hyperextension-plate-loaded
+name: Lever Reverse Hyperextension (plate loaded)
+human_readable_ids:
+- LeverReverseHyperextension
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

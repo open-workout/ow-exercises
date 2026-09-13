@@ -1,0 +1,15 @@
+id: '5236'
+slug: bent-arms-chin-up
+name: Bent Arms Chin-up
+human_readable_ids:
+- BentArmsChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

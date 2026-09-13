@@ -1,0 +1,15 @@
+id: '1451'
+slug: lever-seated-dip
+name: Lever Seated Dip
+human_readable_ids:
+- LeverSeatedDip
+primary_muscles:
+- triceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

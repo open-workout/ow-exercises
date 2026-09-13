@@ -1,0 +1,17 @@
+id: '2152'
+slug: resistance-band-front-plank-with-kicked-leg
+name: Resistance Band Front Plank With Kicked Leg
+human_readable_ids:
+- ResistanceBandFrontPlankWithKickedLeg
+primary_muscles:
+- glutes
+- chest
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

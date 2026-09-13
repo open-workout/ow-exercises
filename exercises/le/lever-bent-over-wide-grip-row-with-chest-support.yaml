@@ -1,0 +1,15 @@
+id: '6516'
+slug: lever-bent-over-wide-grip-row-with-chest-support
+name: Lever Bent Over Wide Grip Row (with chest support)
+human_readable_ids:
+- LeverBentOverWideGripRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

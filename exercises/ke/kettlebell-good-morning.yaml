@@ -1,0 +1,15 @@
+id: '4817'
+slug: kettlebell-good-morning
+name: Kettlebell Good Morning
+human_readable_ids:
+- KettlebellGoodMorning
+primary_muscles:
+- hamstrings
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

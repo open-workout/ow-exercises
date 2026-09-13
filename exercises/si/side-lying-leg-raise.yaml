@@ -1,0 +1,15 @@
+id: '4051'
+slug: side-lying-leg-raise
+name: Side Lying Leg Raise
+human_readable_ids:
+- SideLyingLegRaise
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

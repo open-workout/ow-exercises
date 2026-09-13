@@ -1,0 +1,15 @@
+id: '3621'
+slug: twisting-crunch-straight-arms
+name: Twisting Crunch (Straight Arms)
+human_readable_ids:
+- TwistingCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

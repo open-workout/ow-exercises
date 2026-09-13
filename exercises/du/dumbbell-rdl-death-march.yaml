@@ -1,0 +1,16 @@
+id: '3651'
+slug: dumbbell-rdl-death-march
+name: Dumbbell RDL Death March
+human_readable_ids:
+- DumbbellRDLDeathMarch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

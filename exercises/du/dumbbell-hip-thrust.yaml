@@ -1,0 +1,15 @@
+id: '4742'
+slug: dumbbell-hip-thrust
+name: Dumbbell Hip Thrust
+human_readable_ids:
+- DumbbellHipThrust
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

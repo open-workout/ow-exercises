@@ -1,0 +1,14 @@
+id: '2771'
+slug: hip-lateral-rotation-external-rotation-articulations
+name: Hip - Lateral Rotation (External Rotation) - Articulations
+human_readable_ids:
+- HipLateralRotationArticulations
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

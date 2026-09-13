@@ -1,0 +1,15 @@
+id: '10114'
+slug: weighted-plate-lu-raise
+name: Weighted Plate LU Raise
+human_readable_ids:
+- WeightedPlateLURaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

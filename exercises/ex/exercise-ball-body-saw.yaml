@@ -1,0 +1,15 @@
+id: '3861'
+slug: exercise-ball-body-saw
+name: Exercise Ball Body Saw
+human_readable_ids:
+- ExerciseBallBodySaw
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10866'
+slug: lever-bent-over-single-arm-lats-focused-row
+name: Lever Bent Over Single Arm Lats Focused Row
+human_readable_ids:
+- LeverBentOverSingleArmLatsFocusedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

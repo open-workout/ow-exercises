@@ -1,0 +1,15 @@
+id: '3908'
+slug: bodyweight-windmill
+name: Bodyweight Windmill
+human_readable_ids:
+- BodyweightWindmill
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

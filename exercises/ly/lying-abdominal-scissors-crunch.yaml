@@ -1,0 +1,15 @@
+id: '9024'
+slug: lying-abdominal-scissors-crunch
+name: Lying Abdominal Scissors Crunch
+human_readable_ids:
+- LyingAbdominalScissorsCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

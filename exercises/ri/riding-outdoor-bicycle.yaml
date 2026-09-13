@@ -1,0 +1,16 @@
+id: '5214'
+slug: riding-outdoor-bicycle
+name: Riding Outdoor Bicycle
+human_readable_ids:
+- RidingOutdoorBicycle
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

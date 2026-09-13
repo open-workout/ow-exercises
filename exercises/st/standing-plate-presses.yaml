@@ -1,0 +1,15 @@
+id: '1225'
+slug: standing-plate-presses
+name: Standing Plate Presses
+human_readable_ids:
+- StandingPlatePresses
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

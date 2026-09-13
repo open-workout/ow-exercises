@@ -1,0 +1,15 @@
+id: '4988'
+slug: inverse-leg-curl-with-bench-pads
+name: Inverse Leg Curl with Bench Pads
+human_readable_ids:
+- InverseLegCurlwithBenchPads
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

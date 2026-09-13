@@ -1,0 +1,15 @@
+id: '1393'
+slug: smith-one-leg-floor-calf-raise
+name: Smith One Leg Floor Calf Raise
+human_readable_ids:
+- SmithOneLegFloorCalfRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

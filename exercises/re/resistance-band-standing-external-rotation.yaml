@@ -1,0 +1,15 @@
+id: '6441'
+slug: resistance-band-standing-external-rotation
+name: Resistance Band Standing External Rotation
+human_readable_ids:
+- ResistanceBandStandingExternalRotation
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

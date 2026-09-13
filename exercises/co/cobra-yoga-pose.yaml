@@ -1,0 +1,14 @@
+id: '1482'
+slug: cobra-yoga-pose
+name: Cobra Yoga Pose
+human_readable_ids:
+- CobraYogaPose
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

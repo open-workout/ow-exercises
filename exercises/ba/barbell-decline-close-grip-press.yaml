@@ -1,0 +1,15 @@
+id: '10115'
+slug: barbell-decline-close-grip-press
+name: Barbell Decline Close grip Press
+human_readable_ids:
+- BarbellDeclineClosegripPress
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

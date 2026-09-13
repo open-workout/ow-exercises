@@ -1,0 +1,15 @@
+id: '3720'
+slug: stair-jump
+name: Stair Jump
+human_readable_ids:
+- StairJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

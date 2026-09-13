@@ -1,0 +1,15 @@
+id: '3859'
+slug: cable-bent-over-row
+name: Cable Bent Over Row
+human_readable_ids:
+- CableBentOverRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

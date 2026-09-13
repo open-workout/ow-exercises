@@ -1,0 +1,15 @@
+id: '0634'
+slug: negative-crunch
+name: Negative Crunch
+human_readable_ids:
+- NegativeCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

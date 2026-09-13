@@ -1,0 +1,15 @@
+id: '0574'
+slug: lever-bent-over-row-plate-loaded
+name: Lever Bent over Row (plate loaded)
+human_readable_ids:
+- LeverBentoverRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

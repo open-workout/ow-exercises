@@ -1,0 +1,16 @@
+id: '3454'
+slug: dumbbell-superman
+name: Dumbbell Superman
+human_readable_ids:
+- DumbbellSuperman
+primary_muscles:
+- back
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

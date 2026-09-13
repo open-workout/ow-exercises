@@ -1,0 +1,15 @@
+id: '4085'
+slug: band-kneeling-preacher-curl
+name: Band Kneeling Preacher Curl
+human_readable_ids:
+- BandKneelingPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4361'
+slug: bodyweight-shrug
+name: Bodyweight Shrug
+human_readable_ids:
+- BodyweightShrug
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

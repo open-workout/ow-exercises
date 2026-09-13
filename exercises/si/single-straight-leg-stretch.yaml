@@ -1,0 +1,14 @@
+id: '2867'
+slug: single-straight-leg-stretch
+name: Single Straight Leg Stretch
+human_readable_ids:
+- SingleStraightLegStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7538'
+slug: lying-floor-slide
+name: Lying Floor Slide
+human_readable_ids:
+- LyingFloorSlide
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

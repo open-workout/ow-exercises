@@ -1,0 +1,15 @@
+id: '2827'
+slug: battling-ropes-side-raise
+name: Battling Ropes Side Raise
+human_readable_ids:
+- BattlingRopesSideRaise
+primary_muscles:
+- plyometrics
+equipment:
+- rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

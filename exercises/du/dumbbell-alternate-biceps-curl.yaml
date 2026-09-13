@@ -1,0 +1,15 @@
+id: 0285
+slug: dumbbell-alternate-biceps-curl
+name: Dumbbell Alternate Biceps Curl
+human_readable_ids:
+- DumbbellAlternateBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

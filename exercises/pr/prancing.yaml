@@ -1,0 +1,15 @@
+id: '3197'
+slug: prancing
+name: Prancing
+human_readable_ids:
+- Prancing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

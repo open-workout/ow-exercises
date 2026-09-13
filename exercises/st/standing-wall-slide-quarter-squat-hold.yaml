@@ -1,0 +1,14 @@
+id: '10926'
+slug: standing-wall-slide-quarter-squat-hold
+name: Standing Wall Slide Quarter Squat Hold
+human_readable_ids:
+- StandingWallSlideQuarterSquatHold
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

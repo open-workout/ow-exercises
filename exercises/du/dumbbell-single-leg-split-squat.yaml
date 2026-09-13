@@ -1,0 +1,16 @@
+id: '0410'
+slug: dumbbell-single-leg-split-squat
+name: Dumbbell Single Leg Split Squat
+human_readable_ids:
+- DumbbellSingleLegSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

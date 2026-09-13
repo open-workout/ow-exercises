@@ -1,0 +1,15 @@
+id: '5173'
+slug: bodyweight-standing-fly
+name: Bodyweight Standing Fly
+human_readable_ids:
+- BodyweightStandingFly
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

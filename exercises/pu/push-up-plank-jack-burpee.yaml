@@ -1,0 +1,15 @@
+id: '8627'
+slug: push-up-plank-jack-burpee
+name: Push-up Plank Jack Burpee
+human_readable_ids:
+- PushupPlankJackBurpee
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

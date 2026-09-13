@@ -1,0 +1,15 @@
+id: '9398'
+slug: lever-standing-pec-fly
+name: Lever Standing Pec Fly
+human_readable_ids:
+- LeverStandingPecFly
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

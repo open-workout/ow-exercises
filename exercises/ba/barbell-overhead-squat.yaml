@@ -1,0 +1,15 @@
+id: 0069
+slug: barbell-overhead-squat
+name: Barbell Overhead Squat
+human_readable_ids:
+- BarbellOverheadSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

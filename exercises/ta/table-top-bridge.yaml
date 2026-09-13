@@ -1,0 +1,20 @@
+id: '4800'
+slug: table-top-bridge
+name: Table Top Bridge
+human_readable_ids:
+- TableTopBridge
+primary_muscles:
+- shoulders
+- glutes
+- hamstrings
+- quads
+- abs
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

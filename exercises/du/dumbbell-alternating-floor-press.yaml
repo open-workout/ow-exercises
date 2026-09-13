@@ -1,0 +1,15 @@
+id: '2982'
+slug: dumbbell-alternating-floor-press
+name: Dumbbell Alternating Floor Press
+human_readable_ids:
+- DumbbellAlternatingFloorPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3218'
+slug: hands-clasped-circular-toe-touch
+name: Hands Clasped Circular Toe Touch
+human_readable_ids:
+- HandsClaspedCircularToeTouch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

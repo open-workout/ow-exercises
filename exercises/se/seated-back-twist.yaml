@@ -1,0 +1,15 @@
+id: '5130'
+slug: seated-back-twist
+name: Seated Back Twist
+human_readable_ids:
+- SeatedBackTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

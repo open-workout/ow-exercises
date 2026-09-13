@@ -1,0 +1,15 @@
+id: 0189
+slug: cable-one-arm-bent-over-row
+name: Cable One Arm Bent over Row
+human_readable_ids:
+- CableOneArmBentoverRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

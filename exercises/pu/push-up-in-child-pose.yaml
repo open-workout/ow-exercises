@@ -1,0 +1,15 @@
+id: '4830'
+slug: push-up-in-child-pose
+name: Push-up in Child Pose
+human_readable_ids:
+- PushupinChildPose
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5029'
+slug: kneeling-back-rotation
+name: Kneeling Back Rotation
+human_readable_ids:
+- KneelingBackRotation
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

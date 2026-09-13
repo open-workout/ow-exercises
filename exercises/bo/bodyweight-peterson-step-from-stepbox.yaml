@@ -1,0 +1,15 @@
+id: '9605'
+slug: bodyweight-peterson-step-from-stepbox
+name: Bodyweight Peterson Step from StepBox
+human_readable_ids:
+- BodyweightPetersonStepfromStepBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

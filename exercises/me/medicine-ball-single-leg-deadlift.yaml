@@ -1,0 +1,15 @@
+id: '1693'
+slug: medicine-ball-single-leg-deadlift
+name: Medicine Ball Single Leg Deadlift
+human_readable_ids:
+- MedicineBallSingleLegDeadlift
+primary_muscles:
+- glutes
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

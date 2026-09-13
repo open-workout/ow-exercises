@@ -1,0 +1,14 @@
+id: '4875'
+slug: bodyweight-standing-back-stretch
+name: Bodyweight Standing Back Stretch
+human_readable_ids:
+- BodyweightStandingBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

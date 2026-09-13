@@ -1,0 +1,15 @@
+id: '4865'
+slug: dumbbell-overhead-walking-lunge
+name: Dumbbell Overhead Walking Lunge
+human_readable_ids:
+- DumbbellOverheadWalkingLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

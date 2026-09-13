@@ -1,0 +1,14 @@
+id: '9600'
+slug: coner-wall-chest-stretch
+name: Coner Wall Chest Stretch
+human_readable_ids:
+- ConerWallChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

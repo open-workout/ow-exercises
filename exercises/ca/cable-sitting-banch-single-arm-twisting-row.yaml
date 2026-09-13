@@ -1,0 +1,15 @@
+id: '9875'
+slug: cable-sitting-banch-single-arm-twisting-row
+name: Cable Sitting Banch Single Arm Twisting Row
+human_readable_ids:
+- CableSittingBanchSingleArmTwistingRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

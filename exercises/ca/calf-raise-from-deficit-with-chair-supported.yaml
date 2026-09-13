@@ -1,0 +1,15 @@
+id: '3390'
+slug: calf-raise-from-deficit-with-chair-supported
+name: Calf Raise from Deficit with Chair Supported
+human_readable_ids:
+- CalfRaisefromDeficitwithChairSupported
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

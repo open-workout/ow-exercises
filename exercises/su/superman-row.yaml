@@ -1,0 +1,15 @@
+id: '4939'
+slug: superman-row
+name: Superman Row
+human_readable_ids:
+- SupermanRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

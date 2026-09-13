@@ -1,0 +1,15 @@
+id: '0075'
+slug: barbell-rear-delt-raise
+name: Barbell Rear Delt Raise
+human_readable_ids:
+- BarbellRearDeltRaise
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

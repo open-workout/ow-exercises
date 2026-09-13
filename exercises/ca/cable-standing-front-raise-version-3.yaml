@@ -1,0 +1,15 @@
+id: '11277'
+slug: cable-standing-front-raise-version-3
+name: Cable Standing Front Raise (VERSION 3)
+human_readable_ids:
+- CableStandingFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

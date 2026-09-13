@@ -1,0 +1,15 @@
+id: '0172'
+slug: cable-incline-pushdown
+name: Cable Incline Pushdown
+human_readable_ids:
+- CableInclinePushdown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

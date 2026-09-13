@@ -1,0 +1,15 @@
+id: '7198'
+slug: resistance-band-glute-bridge-abduction
+name: Resistance Band Glute Bridge Abduction
+human_readable_ids:
+- ResistanceBandGluteBridgeAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

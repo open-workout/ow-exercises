@@ -1,0 +1,16 @@
+id: '0642'
+slug: outside-leg-kick-push-up
+name: Outside Leg Kick Push-Up
+human_readable_ids:
+- OutsideLegKickPushUp
+primary_muscles:
+- glutes
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

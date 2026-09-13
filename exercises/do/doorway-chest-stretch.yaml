@@ -1,0 +1,14 @@
+id: '7553'
+slug: doorway-chest-stretch
+name: Doorway Chest Stretch
+human_readable_ids:
+- DoorwayChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

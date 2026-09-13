@@ -1,0 +1,15 @@
+id: '1672'
+slug: dumbbell-one-arm-zottman-preacher-curl
+name: Dumbbell One Arm Zottman Preacher Curl
+human_readable_ids:
+- DumbbellOneArmZottmanPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6800'
+slug: dumbbell-military-press-russian-twist-with-legs-floor-off
+name: Dumbbell Military Press Russian Twist with Legs Floor Off
+human_readable_ids:
+- DumbbellMilitaryPressRussianTwistwithLegsFloorOff
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

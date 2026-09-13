@@ -1,0 +1,17 @@
+id: '3305'
+slug: barbell-thruster
+name: Barbell Thruster
+human_readable_ids:
+- BarbellThruster
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1928'
+slug: tibial-flexion-stretch-on-wall-bar
+name: Tibial Flexion Stretch On Wall Bar
+human_readable_ids:
+- TibialFlexionStretchOnWallBar
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

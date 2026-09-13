@@ -1,0 +1,14 @@
+id: '2776'
+slug: shoulder-adduction-articulations
+name: Shoulder - Adduction - Articulations
+human_readable_ids:
+- ShoulderAdductionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

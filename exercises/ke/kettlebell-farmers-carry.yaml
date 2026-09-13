@@ -1,0 +1,16 @@
+id: '3576'
+slug: kettlebell-farmers-carry
+name: Kettlebell Farmers Carry
+human_readable_ids:
+- KettlebellFarmersCarry
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

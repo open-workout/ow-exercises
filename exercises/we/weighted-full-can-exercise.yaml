@@ -1,0 +1,15 @@
+id: '5818'
+slug: weighted-full-can-exercise
+name: Weighted Full Can Exercise
+human_readable_ids:
+- WeightedFullCanExercise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

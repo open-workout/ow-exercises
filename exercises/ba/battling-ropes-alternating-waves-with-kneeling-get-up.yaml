@@ -1,0 +1,16 @@
+id: '4131'
+slug: battling-ropes-alternating-waves-with-kneeling-get-up
+name: Battling Ropes Alternating Waves with Kneeling Get-Up
+human_readable_ids:
+- BattlingRopesAlternatingWaveswithKneelingGetUp
+primary_muscles:
+- cardio
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

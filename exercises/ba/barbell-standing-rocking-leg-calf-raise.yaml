@@ -1,0 +1,15 @@
+id: '0111'
+slug: barbell-standing-rocking-leg-calf-raise
+name: Barbell Standing Rocking Leg Calf Raise
+human_readable_ids:
+- BarbellStandingRockingLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

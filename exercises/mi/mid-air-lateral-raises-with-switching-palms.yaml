@@ -1,0 +1,15 @@
+id: '3825'
+slug: mid-air-lateral-raises-with-switching-palms
+name: Mid Air Lateral Raises With Switching Palms
+human_readable_ids:
+- MidAirLateralRaisesWithSwitchingPalms
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

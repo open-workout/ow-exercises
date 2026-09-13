@@ -1,0 +1,15 @@
+id: '10056'
+slug: landmine-banded-press
+name: Landmine Banded Press
+human_readable_ids:
+- LandmineBandedPress
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

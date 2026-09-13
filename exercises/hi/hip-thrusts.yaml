@@ -1,0 +1,15 @@
+id: '2072'
+slug: hip-thrusts
+name: Hip Thrusts
+human_readable_ids:
+- HipThrusts
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

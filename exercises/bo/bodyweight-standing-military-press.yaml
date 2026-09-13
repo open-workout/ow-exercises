@@ -1,0 +1,15 @@
+id: '4346'
+slug: bodyweight-standing-military-press
+name: Bodyweight Standing Military Press
+human_readable_ids:
+- BodyweightStandingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

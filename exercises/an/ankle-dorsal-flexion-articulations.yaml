@@ -1,0 +1,14 @@
+id: '2761'
+slug: ankle-dorsal-flexion-articulations
+name: Ankle - Dorsal Flexion - Articulations
+human_readable_ids:
+- AnkleDorsalFlexionArticulations
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

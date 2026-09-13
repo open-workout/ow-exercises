@@ -1,0 +1,15 @@
+id: '11307'
+slug: lever-lying-t-bar-row-11307
+name: Lever Lying T bar Row
+human_readable_ids:
+- LeverLyingTbarRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

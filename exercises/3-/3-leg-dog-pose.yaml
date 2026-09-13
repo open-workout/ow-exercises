@@ -1,0 +1,14 @@
+id: '5887'
+slug: 3-leg-dog-pose
+name: 3 Leg Dog Pose
+human_readable_ids:
+- 3LegDogPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

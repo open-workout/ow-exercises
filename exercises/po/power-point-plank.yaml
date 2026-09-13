@@ -1,0 +1,16 @@
+id: '3665'
+slug: power-point-plank
+name: Power Point Plank
+human_readable_ids:
+- PowerPointPlank
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

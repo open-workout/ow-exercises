@@ -1,0 +1,15 @@
+id: '2814'
+slug: one-arm-twisted-clean-and-press
+name: One Arm Twisted Clean and Press
+human_readable_ids:
+- OneArmTwistedCleanandPress
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

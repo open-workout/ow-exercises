@@ -1,0 +1,14 @@
+id: '6618'
+slug: low-lunge-yoga-pose-anjaneyasana-i
+name: Low Lunge Yoga Pose Anjaneyasana I
+human_readable_ids:
+- LowLungeYogaPoseAnjaneyasanaI
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1875'
+slug: lever-squat-plate-loaded
+name: Lever Squat (plate loaded)
+human_readable_ids:
+- LeverSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

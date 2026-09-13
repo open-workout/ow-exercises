@@ -1,0 +1,17 @@
+id: '3669'
+slug: standing-archer
+name: Standing Archer
+human_readable_ids:
+- StandingArcher
+primary_muscles:
+- back
+- chest
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

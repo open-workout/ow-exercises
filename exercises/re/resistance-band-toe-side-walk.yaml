@@ -1,0 +1,15 @@
+id: '10761'
+slug: resistance-band-toe-side-walk
+name: Resistance Band Toe Side Walk
+human_readable_ids:
+- ResistanceBandToeSideWalk
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

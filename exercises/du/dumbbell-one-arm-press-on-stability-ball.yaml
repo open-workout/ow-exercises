@@ -1,0 +1,15 @@
+id: '0357'
+slug: dumbbell-one-arm-press-on-stability-ball
+name: Dumbbell One Arm Press (on stability ball)
+human_readable_ids:
+- DumbbellOneArmPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

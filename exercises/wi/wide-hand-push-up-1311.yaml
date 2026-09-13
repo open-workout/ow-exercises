@@ -1,0 +1,15 @@
+id: '1311'
+slug: wide-hand-push-up-1311
+name: Wide Hand Push up
+human_readable_ids:
+- WideHandPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

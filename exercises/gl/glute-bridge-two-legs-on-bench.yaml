@@ -1,0 +1,15 @@
+id: '2472'
+slug: glute-bridge-two-legs-on-bench
+name: Glute Bridge Two Legs on Bench
+human_readable_ids:
+- GluteBridgeTwoLegsonBench
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

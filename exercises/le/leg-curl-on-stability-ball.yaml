@@ -1,0 +1,15 @@
+id: 0569
+slug: leg-curl-on-stability-ball
+name: Leg Curl (on stability ball)
+human_readable_ids:
+- LegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

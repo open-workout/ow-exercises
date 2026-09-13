@@ -1,0 +1,14 @@
+id: '10438'
+slug: alternating-dead-hang
+name: Alternating Dead Hang
+human_readable_ids:
+- AlternatingDeadHang
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

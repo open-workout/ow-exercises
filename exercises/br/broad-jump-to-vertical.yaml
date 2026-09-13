@@ -1,0 +1,15 @@
+id: '4242'
+slug: broad-jump-to-vertical
+name: Broad Jump to Vertical
+human_readable_ids:
+- BroadJumptoVertical
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

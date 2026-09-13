@@ -1,0 +1,15 @@
+id: '2913'
+slug: dumbbell-overhead-carry
+name: Dumbbell Overhead Carry
+human_readable_ids:
+- DumbbellOverheadCarry
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

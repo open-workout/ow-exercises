@@ -1,0 +1,15 @@
+id: '9873'
+slug: cable-lying-bench-single-arm-cross-lateral-raise
+name: Cable Lying Bench Single Arm Cross Lateral Raise
+human_readable_ids:
+- CableLyingBenchSingleArmCrossLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

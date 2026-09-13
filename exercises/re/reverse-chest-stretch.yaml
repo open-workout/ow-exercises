@@ -1,0 +1,14 @@
+id: '1782'
+slug: reverse-chest-stretch
+name: Reverse Chest Stretch
+human_readable_ids:
+- ReverseChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

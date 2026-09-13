@@ -1,0 +1,15 @@
+id: '2841'
+slug: corkscrew
+name: Corkscrew
+human_readable_ids:
+- Corkscrew
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

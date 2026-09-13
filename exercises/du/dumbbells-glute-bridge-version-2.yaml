@@ -1,0 +1,15 @@
+id: '4887'
+slug: dumbbells-glute-bridge-version-2
+name: Dumbbells Glute Bridge (VERSION 2)
+human_readable_ids:
+- DumbbellsGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3219'
+slug: scissor-jumps
+name: Scissor Jumps
+human_readable_ids:
+- ScissorJumps
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

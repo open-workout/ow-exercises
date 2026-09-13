@@ -1,0 +1,15 @@
+id: '0011'
+slug: assisted-hanging-knee-raise
+name: Assisted Hanging Knee Raise
+human_readable_ids:
+- AssistedHangingKneeRaise
+primary_muscles:
+- abs
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

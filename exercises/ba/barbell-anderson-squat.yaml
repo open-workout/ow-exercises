@@ -1,0 +1,15 @@
+id: '5659'
+slug: barbell-anderson-squat
+name: Barbell Anderson Squat
+human_readable_ids:
+- BarbellAndersonSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

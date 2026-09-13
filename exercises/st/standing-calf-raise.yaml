@@ -1,0 +1,15 @@
+id: '3018'
+slug: standing-calf-raise
+name: Standing Calf Raise
+human_readable_ids:
+- StandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

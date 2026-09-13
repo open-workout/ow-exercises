@@ -1,0 +1,15 @@
+id: '1733'
+slug: dumbbell-incline-two-arm-extension
+name: Dumbbell Incline Two Arm Extension
+human_readable_ids:
+- DumbbellInclineTwoArmExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

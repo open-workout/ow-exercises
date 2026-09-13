@@ -1,0 +1,15 @@
+id: '0562'
+slug: landmine-180
+name: Landmine 180
+human_readable_ids:
+- Landmine180
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

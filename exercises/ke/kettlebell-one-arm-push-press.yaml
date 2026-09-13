@@ -1,0 +1,15 @@
+id: '0540'
+slug: kettlebell-one-arm-push-press
+name: Kettlebell One Arm Push Press
+human_readable_ids:
+- KettlebellOneArmPushPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

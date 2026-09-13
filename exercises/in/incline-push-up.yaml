@@ -1,0 +1,15 @@
+id: 0493
+slug: incline-push-up
+name: Incline Push-up
+human_readable_ids:
+- InclinePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

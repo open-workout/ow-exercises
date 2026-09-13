@@ -1,0 +1,15 @@
+id: '7109'
+slug: lever-seated-single-leg-squat-calf-raise-on-leg-press-machine
+name: Lever Seated Single Leg Squat Calf Raise on Leg Press Machine
+human_readable_ids:
+- LeverSeatedSingleLegSquatCalfRaiseonLegPressMachine
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

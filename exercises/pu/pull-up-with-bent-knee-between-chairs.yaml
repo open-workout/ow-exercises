@@ -1,0 +1,15 @@
+id: '3487'
+slug: pull-up-with-bent-knee-between-chairs
+name: Pull-up with Bent Knee between Chairs
+human_readable_ids:
+- PullupwithBentKneebetweenChairs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

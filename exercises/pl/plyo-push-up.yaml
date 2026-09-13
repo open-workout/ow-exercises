@@ -1,0 +1,15 @@
+id: '1306'
+slug: plyo-push-up
+name: Plyo Push Up
+human_readable_ids:
+- PlyoPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

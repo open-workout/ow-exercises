@@ -1,0 +1,17 @@
+id: '3514'
+slug: single-leg-sliding-floor-bridge-curl-on-towel
+name: Single Leg Sliding Floor Bridge Curl on Towel
+human_readable_ids:
+- SingleLegSlidingFloorBridgeCurlonTowel
+primary_muscles:
+- glutes
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

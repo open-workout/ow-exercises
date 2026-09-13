@@ -1,0 +1,15 @@
+id: '1324'
+slug: cable-upper-row
+name: Cable Upper Row
+human_readable_ids:
+- CableUpperRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

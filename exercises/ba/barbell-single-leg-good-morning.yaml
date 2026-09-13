@@ -1,0 +1,15 @@
+id: '4850'
+slug: barbell-single-leg-good-morning
+name: Barbell Single Leg Good Morning
+human_readable_ids:
+- BarbellSingleLegGoodMorning
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0414'
+slug: dumbbell-standing-alternate-overhead-press
+name: Dumbbell Standing Alternate Overhead Press
+human_readable_ids:
+- DumbbellStandingAlternateOverheadPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

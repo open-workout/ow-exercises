@@ -1,0 +1,15 @@
+id: 0218
+slug: cable-seated-wide-grip-row-0218
+name: Cable Seated Wide-grip Row
+human_readable_ids:
+- CableSeatedWidegripRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

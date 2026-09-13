@@ -1,0 +1,15 @@
+id: '10517'
+slug: standing-single-leg-hip-swirl-with-chair-support
+name: Standing Single Leg Hip Swirl with Chair Support
+human_readable_ids:
+- StandingSingleLegHipSwirlwithChairSupport
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

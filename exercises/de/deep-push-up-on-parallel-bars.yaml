@@ -1,0 +1,15 @@
+id: '6910'
+slug: deep-push-up-on-parallel-bars
+name: Deep Push-up on Parallel Bars
+human_readable_ids:
+- DeepPushuponParallelBars
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

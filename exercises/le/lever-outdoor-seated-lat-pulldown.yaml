@@ -1,0 +1,15 @@
+id: '6356'
+slug: lever-outdoor-seated-lat-pulldown
+name: Lever Outdoor Seated Lat Pulldown
+human_readable_ids:
+- LeverOutdoorSeatedLatPulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

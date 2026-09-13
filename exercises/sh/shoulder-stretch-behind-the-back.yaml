@@ -1,0 +1,14 @@
+id: '1488'
+slug: shoulder-stretch-behind-the-back
+name: Shoulder Stretch Behind the Back
+human_readable_ids:
+- ShoulderStretchBehindtheBack
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

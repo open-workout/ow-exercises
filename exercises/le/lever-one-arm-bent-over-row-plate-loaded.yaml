@@ -1,0 +1,15 @@
+id: 0589
+slug: lever-one-arm-bent-over-row-plate-loaded
+name: Lever One Arm Bent over Row (plate loaded)
+human_readable_ids:
+- LeverOneArmBentoverRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

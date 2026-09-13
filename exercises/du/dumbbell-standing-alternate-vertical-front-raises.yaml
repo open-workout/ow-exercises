@@ -1,0 +1,15 @@
+id: '1230'
+slug: dumbbell-standing-alternate-vertical-front-raises
+name: Dumbbell Standing Alternate Vertical Front Raises
+human_readable_ids:
+- DumbbellStandingAlternateVerticalFrontRaises
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

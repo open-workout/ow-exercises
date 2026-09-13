@@ -1,0 +1,15 @@
+id: '4917'
+slug: high-bar-inverted-row
+name: High Bar Inverted Row
+human_readable_ids:
+- HighBarInvertedRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

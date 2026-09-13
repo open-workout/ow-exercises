@@ -1,0 +1,15 @@
+id: '6755'
+slug: cable-kneeling-shoulder-external-rotation
+name: Cable Kneeling Shoulder External Rotation
+human_readable_ids:
+- CableKneelingShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

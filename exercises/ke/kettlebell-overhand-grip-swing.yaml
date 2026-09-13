@@ -1,0 +1,17 @@
+id: '3680'
+slug: kettlebell-overhand-grip-swing
+name: Kettlebell Overhand Grip Swing
+human_readable_ids:
+- KettlebellOverhandGripSwing
+primary_muscles:
+- shoulders
+- glutes
+- hamstrings
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

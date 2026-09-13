@@ -1,0 +1,15 @@
+id: '10905'
+slug: hamstring-bridge-leg-kick-version-2
+name: Hamstring Bridge Leg Kick (VERSION 2)
+human_readable_ids:
+- HamstringBridgeLegKick
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

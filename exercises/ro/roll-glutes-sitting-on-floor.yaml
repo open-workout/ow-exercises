@@ -1,0 +1,14 @@
+id: '5390'
+slug: roll-glutes-sitting-on-floor
+name: Roll Glutes Sitting on Floor
+human_readable_ids:
+- RollGlutesSittingonFloor
+primary_muscles:
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

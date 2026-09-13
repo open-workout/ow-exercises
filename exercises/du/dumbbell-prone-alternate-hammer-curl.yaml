@@ -1,0 +1,15 @@
+id: '6264'
+slug: dumbbell-prone-alternate-hammer-curl
+name: Dumbbell Prone Alternate Hammer Curl
+human_readable_ids:
+- DumbbellProneAlternateHammerCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

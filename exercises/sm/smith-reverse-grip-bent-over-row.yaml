@@ -1,0 +1,15 @@
+id: '1361'
+slug: smith-reverse-grip-bent-over-row
+name: Smith Reverse Grip Bent Over Row
+human_readable_ids:
+- SmithReverseGripBentOverRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

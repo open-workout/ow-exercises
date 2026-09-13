@@ -1,0 +1,16 @@
+id: '2424'
+slug: resistance-band-lunge
+name: Resistance Band Lunge
+human_readable_ids:
+- ResistanceBandLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

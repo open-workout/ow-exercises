@@ -1,0 +1,15 @@
+id: '4663'
+slug: backhand-raise
+name: Backhand Raise
+human_readable_ids:
+- BackhandRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

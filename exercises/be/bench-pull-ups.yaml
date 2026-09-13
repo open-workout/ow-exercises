@@ -1,0 +1,15 @@
+id: '3019'
+slug: bench-pull-ups
+name: Bench Pull-ups
+human_readable_ids:
+- BenchPullups
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

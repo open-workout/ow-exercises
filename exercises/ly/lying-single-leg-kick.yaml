@@ -1,0 +1,15 @@
+id: '2855'
+slug: lying-single-leg-kick
+name: Lying Single Leg Kick
+human_readable_ids:
+- LyingSingleLegKick
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

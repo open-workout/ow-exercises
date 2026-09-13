@@ -1,0 +1,15 @@
+id: '1279'
+slug: dumbbell-incline-one-arm-fly
+name: Dumbbell Incline One Arm Fly
+human_readable_ids:
+- DumbbellInclineOneArmFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

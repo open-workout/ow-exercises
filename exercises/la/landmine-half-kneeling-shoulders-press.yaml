@@ -1,0 +1,15 @@
+id: '9695'
+slug: landmine-half-kneeling-shoulders-press
+name: Landmine Half Kneeling Shoulders Press
+human_readable_ids:
+- LandmineHalfKneelingShouldersPress
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

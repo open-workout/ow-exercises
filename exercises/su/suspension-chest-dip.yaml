@@ -1,0 +1,15 @@
+id: '1072'
+slug: suspension-chest-dip
+name: Suspension Chest Dip
+human_readable_ids:
+- SuspensionChestDip
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

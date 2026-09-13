@@ -1,0 +1,14 @@
+id: '5392'
+slug: roll-hamstrings-and-glute-sitting-on-floor
+name: Roll Hamstrings and Glute Sitting on Floor
+human_readable_ids:
+- RollHamstringsandGluteSittingonFloor
+primary_muscles:
+- quads
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

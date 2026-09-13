@@ -1,0 +1,15 @@
+id: '0460'
+slug: frog-hops
+name: Frog Hops
+human_readable_ids:
+- FrogHops
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3338'
+slug: dumbbell-single-stiff-leg-deadlift
+name: Dumbbell Single Stiff Leg Deadlift
+human_readable_ids:
+- DumbbellSingleStiffLegDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

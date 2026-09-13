@@ -1,0 +1,16 @@
+id: '1434'
+slug: smith-low-bar-squat
+name: Smith Low Bar Squat
+human_readable_ids:
+- SmithLowBarSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

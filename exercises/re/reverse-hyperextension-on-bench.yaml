@@ -1,0 +1,15 @@
+id: '5803'
+slug: reverse-hyperextension-on-bench
+name: Reverse Hyperextension on Bench
+human_readable_ids:
+- ReverseHyperextensiononBench
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

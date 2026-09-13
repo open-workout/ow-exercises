@@ -1,0 +1,15 @@
+id: '1285'
+slug: dumbbell-one-arm-bench-fly
+name: Dumbbell One Arm Bench Fly
+human_readable_ids:
+- DumbbellOneArmBenchFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8744'
+slug: seated-alternate-knee-extension-on-chair
+name: Seated Alternate Knee Extension on Chair
+human_readable_ids:
+- SeatedAlternateKneeExtensiononChair
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

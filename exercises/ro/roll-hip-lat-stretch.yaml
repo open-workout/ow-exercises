@@ -1,0 +1,15 @@
+id: '2205'
+slug: roll-hip-lat-stretch
+name: Roll Hip Lat Stretch
+human_readable_ids:
+- RollHipLatStretch
+primary_muscles:
+- back
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

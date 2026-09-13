@@ -1,0 +1,15 @@
+id: '2689'
+slug: cable-one-arm-front-raise
+name: Cable One Arm Front Raise
+human_readable_ids:
+- CableOneArmFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

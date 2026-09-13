@@ -1,0 +1,15 @@
+id: '8702'
+slug: torque-tank-push
+name: Torque Tank Push
+human_readable_ids:
+- TorqueTankPush
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

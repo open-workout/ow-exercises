@@ -1,0 +1,14 @@
+id: '2110'
+slug: standing-abs-rotation-stretch
+name: Standing Abs Rotation Stretch
+human_readable_ids:
+- StandingAbsRotationStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

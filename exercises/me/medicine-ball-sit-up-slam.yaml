@@ -1,0 +1,15 @@
+id: '10558'
+slug: medicine-ball-sit-up-slam
+name: Medicine Ball Sit-up Slam
+human_readable_ids:
+- MedicineBallSitupSlam
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

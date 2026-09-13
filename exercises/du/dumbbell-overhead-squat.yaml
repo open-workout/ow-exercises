@@ -1,0 +1,16 @@
+id: '3709'
+slug: dumbbell-overhead-squat
+name: Dumbbell Overhead Squat
+human_readable_ids:
+- DumbbellOverheadSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

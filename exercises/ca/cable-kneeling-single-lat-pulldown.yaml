@@ -1,0 +1,15 @@
+id: '5581'
+slug: cable-kneeling-single-lat-pulldown
+name: Cable Kneeling Single Lat Pulldown
+human_readable_ids:
+- CableKneelingSingleLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

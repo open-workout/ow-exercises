@@ -1,0 +1,15 @@
+id: '4126'
+slug: barbell-deadstop-row-with-rack
+name: Barbell Deadstop Row with Rack
+human_readable_ids:
+- BarbellDeadstopRowwithRack
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

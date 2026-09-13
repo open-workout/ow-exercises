@@ -1,0 +1,15 @@
+id: '4378'
+slug: lever-reverse-grip-high-row-plate-loaded
+name: Lever Reverse Grip High Row (plate loaded)
+human_readable_ids:
+- LeverReverseGripHighRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

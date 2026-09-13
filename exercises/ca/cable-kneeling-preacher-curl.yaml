@@ -1,0 +1,15 @@
+id: '5297'
+slug: cable-kneeling-preacher-curl
+name: Cable Kneeling Preacher Curl
+human_readable_ids:
+- CableKneelingPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

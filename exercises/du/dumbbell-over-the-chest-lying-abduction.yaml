@@ -1,0 +1,15 @@
+id: '11077'
+slug: dumbbell-over-the-chest-lying-abduction
+name: Dumbbell Over the Chest Lying Abduction
+human_readable_ids:
+- DumbbellOvertheChestLyingAbduction
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

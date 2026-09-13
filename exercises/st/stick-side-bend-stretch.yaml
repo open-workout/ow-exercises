@@ -1,0 +1,14 @@
+id: '5405'
+slug: stick-side-bend-stretch
+name: Stick Side Bend Stretch
+human_readable_ids:
+- StickSideBendStretch
+primary_muscles:
+- abs
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

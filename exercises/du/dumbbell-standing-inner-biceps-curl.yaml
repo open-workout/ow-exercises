@@ -1,0 +1,15 @@
+id: '1228'
+slug: dumbbell-standing-inner-biceps-curl
+name: Dumbbell Standing Inner Biceps Curl
+human_readable_ids:
+- DumbbellStandingInnerBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

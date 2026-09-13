@@ -1,0 +1,15 @@
+id: '7561'
+slug: bodyweight-single-leg-squat-with-support
+name: Bodyweight Single Leg Squat with Support
+human_readable_ids:
+- BodyweightSingleLegSquatwithSupport
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

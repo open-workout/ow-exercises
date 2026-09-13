@@ -1,0 +1,15 @@
+id: '4142'
+slug: band-lying-reverse-grip-pressdown
+name: Band Lying Reverse Grip Pressdown
+human_readable_ids:
+- BandLyingReverseGripPressdown
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

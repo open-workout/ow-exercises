@@ -1,0 +1,15 @@
+id: '3795'
+slug: resistance-band-skier
+name: Resistance Band Skier
+human_readable_ids:
+- ResistanceBandSkier
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

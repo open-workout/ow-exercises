@@ -1,0 +1,15 @@
+id: '7597'
+slug: cable-high-row-with-chest-support
+name: Cable High Row with Chest Support
+human_readable_ids:
+- CableHighRowwithChestSupport
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

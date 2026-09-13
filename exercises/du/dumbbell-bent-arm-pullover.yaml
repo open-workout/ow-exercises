@@ -1,0 +1,15 @@
+id: '4326'
+slug: dumbbell-bent-arm-pullover
+name: Dumbbell Bent Arm Pullover
+human_readable_ids:
+- DumbbellBentArmPullover
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

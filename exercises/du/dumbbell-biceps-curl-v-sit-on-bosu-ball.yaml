@@ -1,0 +1,15 @@
+id: '1656'
+slug: dumbbell-biceps-curl-v-sit-on-bosu-ball
+name: Dumbbell Biceps Curl V Sit on Bosu Ball
+human_readable_ids:
+- DumbbellBicepsCurlVSitonBosuBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

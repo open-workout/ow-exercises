@@ -1,0 +1,15 @@
+id: '4729'
+slug: dumbbell-bench-dip-with-legs-elevated
+name: Dumbbell Bench Dip with Legs Elevated
+human_readable_ids:
+- DumbbellBenchDipwithLegsElevated
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

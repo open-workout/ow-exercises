@@ -1,0 +1,15 @@
+id: '1622'
+slug: dumbbell-one-arm-reverse-grip-press
+name: Dumbbell One Arm Reverse Grip Press
+human_readable_ids:
+- DumbbellOneArmReverseGripPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

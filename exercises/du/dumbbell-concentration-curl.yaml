@@ -1,0 +1,15 @@
+id: 0297
+slug: dumbbell-concentration-curl
+name: Dumbbell Concentration Curl
+human_readable_ids:
+- DumbbellConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

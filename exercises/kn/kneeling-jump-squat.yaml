@@ -1,0 +1,16 @@
+id: '1420'
+slug: kneeling-jump-squat
+name: Kneeling Jump Squat
+human_readable_ids:
+- KneelingJumpSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

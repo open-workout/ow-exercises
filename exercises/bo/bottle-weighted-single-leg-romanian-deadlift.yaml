@@ -1,0 +1,15 @@
+id: '6042'
+slug: bottle-weighted-single-leg-romanian-deadlift
+name: Bottle Weighted Single Leg Romanian Deadlift
+human_readable_ids:
+- BottleWeightedSingleLegRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

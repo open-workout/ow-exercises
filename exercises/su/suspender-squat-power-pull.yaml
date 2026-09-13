@@ -1,0 +1,15 @@
+id: '7279'
+slug: suspender-squat-power-pull
+name: Suspender Squat Power Pull
+human_readable_ids:
+- SuspenderSquatPowerPull
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

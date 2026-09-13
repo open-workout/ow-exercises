@@ -1,0 +1,15 @@
+id: '1591'
+slug: single-leg-push-off
+name: Single Leg Push Off
+human_readable_ids:
+- SingleLegPushOff
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

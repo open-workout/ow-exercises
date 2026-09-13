@@ -1,0 +1,15 @@
+id: '0110'
+slug: barbell-standing-reverse-grip-curl
+name: Barbell Standing Reverse Grip Curl
+human_readable_ids:
+- BarbellStandingReverseGripCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

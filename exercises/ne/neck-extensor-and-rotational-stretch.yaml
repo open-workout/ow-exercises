@@ -1,0 +1,14 @@
+id: '1838'
+slug: neck-extensor-and-rotational-stretch
+name: Neck Extensor And Rotational Stretch
+human_readable_ids:
+- NeckExtensorAndRotationalStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

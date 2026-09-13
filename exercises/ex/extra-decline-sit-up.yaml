@@ -1,0 +1,15 @@
+id: '1864'
+slug: extra-decline-sit-up
+name: Extra Decline Sit-up
+human_readable_ids:
+- ExtraDeclineSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

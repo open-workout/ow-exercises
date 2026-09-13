@@ -1,0 +1,15 @@
+id: '8342'
+slug: bodyweight-standing-scapular-external-rotation
+name: Bodyweight Standing Scapular External Rotation
+human_readable_ids:
+- BodyweightStandingScapularExternalRotation
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

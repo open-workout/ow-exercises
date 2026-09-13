@@ -1,0 +1,16 @@
+id: '0336'
+slug: dumbbell-lunge
+name: Dumbbell Lunge
+human_readable_ids:
+- DumbbellLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

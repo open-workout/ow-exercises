@@ -1,0 +1,17 @@
+id: '3474'
+slug: lying-leg-tuck-hip-stretch-wth-overhead-hands
+name: Lying Leg Tuck Hip Stretch wth Overhead Hands
+human_readable_ids:
+- LyingLegTuckHipStretchwthOverheadHands
+primary_muscles:
+- back
+- glutes
+- shoulders
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1756'
+slug: barbell-single-leg-deadlift
+name: Barbell Single Leg Deadlift
+human_readable_ids:
+- BarbellSingleLegDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

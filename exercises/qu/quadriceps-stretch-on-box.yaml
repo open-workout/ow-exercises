@@ -1,0 +1,14 @@
+id: '1954'
+slug: quadriceps-stretch-on-box
+name: Quadriceps Stretch On Box
+human_readable_ids:
+- QuadricepsStretchOnBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

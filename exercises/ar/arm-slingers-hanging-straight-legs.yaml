@@ -1,0 +1,15 @@
+id: '2333'
+slug: arm-slingers-hanging-straight-legs
+name: Arm slingers Hanging Straight Legs
+human_readable_ids:
+- ArmslingersHangingStraightLegs
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

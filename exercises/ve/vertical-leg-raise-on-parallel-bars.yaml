@@ -1,0 +1,15 @@
+id: 0826
+slug: vertical-leg-raise-on-parallel-bars
+name: Vertical Leg Raise (on parallel bars)
+human_readable_ids:
+- VerticalLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

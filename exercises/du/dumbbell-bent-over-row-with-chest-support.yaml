@@ -1,0 +1,15 @@
+id: '5661'
+slug: dumbbell-bent-over-row-with-chest-support
+name: Dumbbell Bent Over Row with Chest Support
+human_readable_ids:
+- DumbbellBentOverRowwithChestSupport
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

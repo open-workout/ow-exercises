@@ -1,0 +1,17 @@
+id: '3489'
+slug: kneeling-cobra-push-up
+name: Kneeling Cobra Push-up
+human_readable_ids:
+- KneelingCobraPushup
+primary_muscles:
+- chest
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

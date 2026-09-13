@@ -1,0 +1,15 @@
+id: '3748'
+slug: biceps-curl-with-bed-sheet
+name: Biceps Curl with Bed Sheet
+human_readable_ids:
+- BicepsCurlwithBedSheet
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

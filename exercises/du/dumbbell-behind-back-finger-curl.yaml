@@ -1,0 +1,15 @@
+id: '1611'
+slug: dumbbell-behind-back-finger-curl
+name: Dumbbell Behind Back Finger Curl
+human_readable_ids:
+- DumbbellBehindBackFingerCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

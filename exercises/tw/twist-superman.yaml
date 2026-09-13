@@ -1,0 +1,17 @@
+id: '4091'
+slug: twist-superman
+name: Twist Superman
+human_readable_ids:
+- TwistSuperman
+primary_muscles:
+- back
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

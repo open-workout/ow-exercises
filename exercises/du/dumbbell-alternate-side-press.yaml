@@ -1,0 +1,15 @@
+id: 0286
+slug: dumbbell-alternate-side-press
+name: Dumbbell Alternate Side Press
+human_readable_ids:
+- DumbbellAlternateSidePress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

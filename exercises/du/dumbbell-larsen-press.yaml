@@ -1,0 +1,15 @@
+id: '6272'
+slug: dumbbell-larsen-press
+name: Dumbbell Larsen Press
+human_readable_ids:
+- DumbbellLarsenPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0485
+slug: hip-raise-bridge-version-2
+name: Hip Raise Bridge (version 2)
+human_readable_ids:
+- HipRaiseBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

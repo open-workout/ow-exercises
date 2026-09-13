@@ -1,0 +1,15 @@
+id: '4171'
+slug: smith-rack-pull
+name: Smith Rack Pull
+human_readable_ids:
+- SmithRackPull
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

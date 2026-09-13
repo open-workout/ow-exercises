@@ -1,0 +1,15 @@
+id: '1670'
+slug: dumbbell-one-arm-standing-curl
+name: Dumbbell One Arm Standing Curl
+human_readable_ids:
+- DumbbellOneArmStandingCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

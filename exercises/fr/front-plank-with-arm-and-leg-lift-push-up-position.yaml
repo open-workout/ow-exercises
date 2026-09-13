@@ -1,0 +1,15 @@
+id: '2897'
+slug: front-plank-with-arm-and-leg-lift-push-up-position
+name: Front Plank with Arm and Leg Lift (push-up position)
+human_readable_ids:
+- FrontPlankwithArmandLegLift
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

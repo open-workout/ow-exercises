@@ -1,0 +1,15 @@
+id: '3965'
+slug: side-bear-crawl
+name: Side Bear Crawl
+human_readable_ids:
+- SideBearCrawl
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

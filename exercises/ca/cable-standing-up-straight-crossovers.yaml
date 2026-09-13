@@ -1,0 +1,15 @@
+id: '1269'
+slug: cable-standing-up-straight-crossovers
+name: Cable Standing Up Straight Crossovers
+human_readable_ids:
+- CableStandingUpStraightCrossovers
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4531'
+slug: kettlebell-single-arm-clean-and-press
+name: Kettlebell Single Arm Clean and Press
+human_readable_ids:
+- KettlebellSingleArmCleanandPress
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

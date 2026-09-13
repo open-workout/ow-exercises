@@ -1,0 +1,15 @@
+id: '10535'
+slug: seated-single-leg-tibialis-press
+name: Seated Single Leg Tibialis Press
+human_readable_ids:
+- SeatedSingleLegTibialisPress
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

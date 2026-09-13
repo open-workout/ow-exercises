@@ -1,0 +1,15 @@
+id: '7418'
+slug: staggered-leg-glute-bridge
+name: Staggered Leg Glute Bridge
+human_readable_ids:
+- StaggeredLegGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7556'
+slug: squat-jack
+name: Squat Jack
+human_readable_ids:
+- SquatJack
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

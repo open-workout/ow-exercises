@@ -1,0 +1,16 @@
+id: 0683
+slug: rotational-jacks
+name: Rotational Jacks
+human_readable_ids:
+- RotationalJacks
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

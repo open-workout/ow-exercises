@@ -1,0 +1,15 @@
+id: '4236'
+slug: dumbbell-incline-two-front-raise-with-chest-support
+name: Dumbbell Incline Two Front Raise with Chest Support
+human_readable_ids:
+- DumbbellInclineTwoFrontRaisewithChestSupport
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3013'
+slug: low-glute-bridge-on-floor
+name: Low Glute Bridge on floor
+human_readable_ids:
+- LowGluteBridgeonfloor
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

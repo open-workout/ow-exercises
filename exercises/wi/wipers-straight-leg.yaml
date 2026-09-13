@@ -1,0 +1,15 @@
+id: '1249'
+slug: wipers-straight-leg
+name: Wipers (straight leg)
+human_readable_ids:
+- Wipers
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

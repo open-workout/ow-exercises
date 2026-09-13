@@ -1,0 +1,15 @@
+id: '5820'
+slug: dumbbell-prone-full-can-exercise
+name: Dumbbell Prone Full Can Exercise
+human_readable_ids:
+- DumbbellProneFullCanExercise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

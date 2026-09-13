@@ -1,0 +1,15 @@
+id: '5484'
+slug: weighted-seated-single-calf-raise-version-2
+name: Weighted Seated Single Calf Raise (VERSION 2)
+human_readable_ids:
+- WeightedSeatedSingleCalfRaise
+primary_muscles:
+- calves
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

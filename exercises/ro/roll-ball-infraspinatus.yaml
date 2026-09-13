@@ -1,0 +1,14 @@
+id: '4485'
+slug: roll-ball-infraspinatus
+name: Roll Ball Infraspinatus
+human_readable_ids:
+- RollBallInfraspinatus
+primary_muscles:
+- back
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

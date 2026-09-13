@@ -1,0 +1,15 @@
+id: '2915'
+slug: barbell-zercher-carry
+name: Barbell Zercher Carry
+human_readable_ids:
+- BarbellZercherCarry
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

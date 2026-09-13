@@ -1,0 +1,15 @@
+id: '0601'
+slug: lever-seated-reverse-fly-parallel-grip
+name: Lever Seated Reverse Fly (parallel grip)
+human_readable_ids:
+- LeverSeatedReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

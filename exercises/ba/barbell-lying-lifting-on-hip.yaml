@@ -1,0 +1,15 @@
+id: 0058
+slug: barbell-lying-lifting-on-hip
+name: Barbell Lying Lifting (on hip)
+human_readable_ids:
+- BarbellLyingLifting
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

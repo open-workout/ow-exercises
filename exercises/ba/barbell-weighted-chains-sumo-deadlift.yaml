@@ -1,0 +1,15 @@
+id: '5912'
+slug: barbell-weighted-chains-sumo-deadlift
+name: Barbell Weighted Chains Sumo Deadlift
+human_readable_ids:
+- BarbellWeightedChainsSumoDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3356'
+slug: cable-forward-lunge
+name: Cable Forward Lunge
+human_readable_ids:
+- CableForwardLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

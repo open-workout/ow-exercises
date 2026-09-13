@@ -1,0 +1,15 @@
+id: '4248'
+slug: dumbbell-straight-arm-crunch
+name: Dumbbell Straight Arm Crunch
+human_readable_ids:
+- DumbbellStraightArmCrunch
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

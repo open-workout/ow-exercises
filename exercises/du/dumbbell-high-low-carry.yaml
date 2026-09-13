@@ -1,0 +1,15 @@
+id: '2911'
+slug: dumbbell-high-low-carry
+name: Dumbbell High Low Carry
+human_readable_ids:
+- DumbbellHighLowCarry
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

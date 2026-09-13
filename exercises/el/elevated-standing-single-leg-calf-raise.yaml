@@ -1,0 +1,15 @@
+id: '4761'
+slug: elevated-standing-single-leg-calf-raise
+name: Elevated Standing Single Leg Calf Raise
+human_readable_ids:
+- ElevatedStandingSingleLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

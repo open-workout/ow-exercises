@@ -1,0 +1,15 @@
+id: '4930'
+slug: lunge-stretch
+name: Lunge Stretch
+human_readable_ids:
+- LungeStretch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4802'
+slug: toe-walk
+name: Toe Walk
+human_readable_ids:
+- ToeWalk
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

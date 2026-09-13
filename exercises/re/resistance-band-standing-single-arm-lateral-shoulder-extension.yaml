@@ -1,0 +1,15 @@
+id: '6440'
+slug: resistance-band-standing-single-arm-lateral-shoulder-extension
+name: Resistance Band Standing Single Arm Lateral Shoulder Extension
+human_readable_ids:
+- ResistanceBandStandingSingleArmLateralShoulderExtension
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

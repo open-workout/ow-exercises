@@ -1,0 +1,14 @@
+id: '11786'
+slug: seated-radial-nerve-mobilization
+name: Seated Radial Nerve Mobilization
+human_readable_ids:
+- SeatedRadialNerveMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

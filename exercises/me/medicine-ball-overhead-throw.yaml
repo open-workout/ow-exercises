@@ -1,0 +1,15 @@
+id: '4243'
+slug: medicine-ball-overhead-throw
+name: Medicine Ball Overhead Throw
+human_readable_ids:
+- MedicineBallOverheadThrow
+primary_muscles:
+- plyometrics
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

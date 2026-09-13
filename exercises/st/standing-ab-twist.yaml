@@ -1,0 +1,15 @@
+id: '5085'
+slug: standing-ab-twist
+name: Standing Ab Twist
+human_readable_ids:
+- StandingAbTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

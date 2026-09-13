@@ -1,0 +1,16 @@
+id: '3311'
+slug: barbell-front-squat-from-blocks
+name: Barbell Front Squat (from blocks)
+human_readable_ids:
+- BarbellFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

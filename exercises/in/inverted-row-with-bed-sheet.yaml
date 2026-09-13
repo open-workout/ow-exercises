@@ -1,0 +1,15 @@
+id: '3749'
+slug: inverted-row-with-bed-sheet
+name: Inverted Row with Bed Sheet
+human_readable_ids:
+- InvertedRowwithBedSheet
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

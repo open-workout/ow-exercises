@@ -1,0 +1,15 @@
+id: '2942'
+slug: kettlebell-angled-press
+name: Kettlebell Angled Press
+human_readable_ids:
+- KettlebellAngledPress
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '4600'
+slug: roll-ball-lower-back
+name: Roll Ball Lower Back
+human_readable_ids:
+- RollBallLowerBack
+primary_muscles:
+- back
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

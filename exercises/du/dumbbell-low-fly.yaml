@@ -1,0 +1,15 @@
+id: '3911'
+slug: dumbbell-low-fly
+name: Dumbbell Low Fly
+human_readable_ids:
+- DumbbellLowFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

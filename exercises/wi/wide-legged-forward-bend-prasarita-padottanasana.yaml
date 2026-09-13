@@ -1,0 +1,14 @@
+id: 0965
+slug: wide-legged-forward-bend-prasarita-padottanasana
+name: Wide legged Forward Bend Prasarita Padottanasana
+human_readable_ids:
+- WideleggedForwardBendPrasaritaPadottanasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

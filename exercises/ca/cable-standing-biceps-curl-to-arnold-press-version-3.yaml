@@ -1,0 +1,15 @@
+id: '11272'
+slug: cable-standing-biceps-curl-to-arnold-press-version-3
+name: Cable Standing Biceps Curl to Arnold Press (VERSION 3)
+human_readable_ids:
+- CableStandingBicepsCurltoArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

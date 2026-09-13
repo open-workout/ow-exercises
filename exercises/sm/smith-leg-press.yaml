@@ -1,0 +1,16 @@
+id: '0760'
+slug: smith-leg-press
+name: Smith Leg Press
+human_readable_ids:
+- SmithLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

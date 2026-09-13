@@ -1,0 +1,17 @@
+id: '1919'
+slug: seated-hip-stretch-with-opposite-leg-from-behind
+name: Seated Hip Stretch With Opposite Leg From Behind
+human_readable_ids:
+- SeatedHipStretchWithOppositeLegFromBehind
+primary_muscles:
+- back
+- calves
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

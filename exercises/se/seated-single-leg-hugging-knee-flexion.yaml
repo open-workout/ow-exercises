@@ -1,0 +1,15 @@
+id: '10541'
+slug: seated-single-leg-hugging-knee-flexion
+name: Seated Single Leg Hugging Knee Flexion
+human_readable_ids:
+- SeatedSingleLegHuggingKneeFlexion
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '11452'
+slug: calves-stretch-version-2
+name: Calves Stretch (VERSION 2)
+human_readable_ids:
+- CalvesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5882'
+slug: bodyweight-wood-chop-squat
+name: Bodyweight Wood Chop Squat
+human_readable_ids:
+- BodyweightWoodChopSquat
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

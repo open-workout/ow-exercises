@@ -1,0 +1,14 @@
+id: '9486'
+slug: dish-hold
+name: Dish Hold
+human_readable_ids:
+- DishHold
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

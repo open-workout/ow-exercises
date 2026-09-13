@@ -1,0 +1,14 @@
+id: '3517'
+slug: spine-backbend-stretch
+name: Spine Backbend Stretch
+human_readable_ids:
+- SpineBackbendStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

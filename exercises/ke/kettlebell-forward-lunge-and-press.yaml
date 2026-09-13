@@ -1,0 +1,15 @@
+id: '4533'
+slug: kettlebell-forward-lunge-and-press
+name: Kettlebell Forward Lunge and Press
+human_readable_ids:
+- KettlebellForwardLungeandPress
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

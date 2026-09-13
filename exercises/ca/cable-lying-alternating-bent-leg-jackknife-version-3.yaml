@@ -1,0 +1,15 @@
+id: '11262'
+slug: cable-lying-alternating-bent-leg-jackknife-version-3
+name: Cable Lying Alternating Bent Leg Jackknife (VERSION 3)
+human_readable_ids:
+- CableLyingAlternatingBentLegJackknife
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

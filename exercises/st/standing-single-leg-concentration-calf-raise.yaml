@@ -1,0 +1,15 @@
+id: '10548'
+slug: standing-single-leg-concentration-calf-raise
+name: Standing Single Leg Concentration Calf Raise
+human_readable_ids:
+- StandingSingleLegConcentrationCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

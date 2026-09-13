@@ -1,0 +1,15 @@
+id: '1176'
+slug: dumbbell-incline-front-raise
+name: Dumbbell Incline Front Raise
+human_readable_ids:
+- DumbbellInclineFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

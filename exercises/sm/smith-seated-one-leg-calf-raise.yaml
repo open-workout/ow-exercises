@@ -1,0 +1,15 @@
+id: '1395'
+slug: smith-seated-one-leg-calf-raise
+name: Smith Seated One Leg Calf Raise
+human_readable_ids:
+- SmithSeatedOneLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

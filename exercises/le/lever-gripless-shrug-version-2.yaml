@@ -1,0 +1,15 @@
+id: '1439'
+slug: lever-gripless-shrug-version-2
+name: Lever Gripless Shrug (VERSION 2)
+human_readable_ids:
+- LeverGriplessShrug
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5967'
+slug: agility-ball-drill
+name: Agility Ball Drill
+human_readable_ids:
+- AgilityBallDrill
+primary_muscles:
+- plyometrics
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

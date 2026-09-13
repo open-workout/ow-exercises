@@ -1,0 +1,15 @@
+id: '3490'
+slug: decline-kneeling-push-up-on-box
+name: Decline Kneeling Push-up on Box
+human_readable_ids:
+- DeclineKneelingPushuponBox
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

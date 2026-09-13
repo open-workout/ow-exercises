@@ -1,0 +1,15 @@
+id: '4583'
+slug: boxing-right-cross-with-boxing-bag
+name: Boxing Right Cross (with boxing bag)
+human_readable_ids:
+- BoxingRightCross
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

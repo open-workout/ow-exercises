@@ -1,0 +1,15 @@
+id: '10113'
+slug: lever-isometric-squat-hip-abduction
+name: Lever Isometric Squat Hip Abduction
+human_readable_ids:
+- LeverIsometricSquatHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

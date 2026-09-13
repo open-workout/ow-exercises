@@ -1,0 +1,14 @@
+id: '3264'
+slug: side-plank-leg-raise
+name: Side Plank Leg raise
+human_readable_ids:
+- SidePlankLegraise
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

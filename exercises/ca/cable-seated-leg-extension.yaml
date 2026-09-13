@@ -1,0 +1,15 @@
+id: '5664'
+slug: cable-seated-leg-extension
+name: Cable Seated Leg Extension
+human_readable_ids:
+- CableSeatedLegExtension
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

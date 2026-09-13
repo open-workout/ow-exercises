@@ -1,0 +1,15 @@
+id: '5065'
+slug: dumbbell-shoulder-internal-rotation-at-90-abduction
+name: Dumbbell Shoulder Internal Rotation at 90 Abduction
+human_readable_ids:
+- DumbbellShoulderInternalRotationat90Abduction
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

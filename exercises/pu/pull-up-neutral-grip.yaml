@@ -1,0 +1,15 @@
+id: '0651'
+slug: pull-up-neutral-grip
+name: Pull up (neutral grip)
+human_readable_ids:
+- Pullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

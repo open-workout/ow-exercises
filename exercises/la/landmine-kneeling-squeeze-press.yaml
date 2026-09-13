@@ -1,0 +1,15 @@
+id: '3921'
+slug: landmine-kneeling-squeeze-press
+name: Landmine Kneeling Squeeze Press
+human_readable_ids:
+- LandmineKneelingSqueezePress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

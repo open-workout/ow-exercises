@@ -1,0 +1,15 @@
+id: '7232'
+slug: standing-scapular-rotation
+name: Standing Scapular Rotation
+human_readable_ids:
+- StandingScapularRotation
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

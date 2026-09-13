@@ -1,0 +1,15 @@
+id: '5060'
+slug: prone-cervical-extension
+name: Prone Cervical Extension
+human_readable_ids:
+- ProneCervicalExtension
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

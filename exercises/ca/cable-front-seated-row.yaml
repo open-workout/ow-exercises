@@ -1,0 +1,15 @@
+id: '0163'
+slug: cable-front-seated-row
+name: Cable Front Seated Row
+human_readable_ids:
+- CableFrontSeatedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

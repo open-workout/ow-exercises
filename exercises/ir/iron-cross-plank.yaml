@@ -1,0 +1,15 @@
+id: '1193'
+slug: iron-cross-plank
+name: Iron Cross Plank
+human_readable_ids:
+- IronCrossPlank
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

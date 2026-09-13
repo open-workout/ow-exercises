@@ -1,0 +1,16 @@
+id: '2835'
+slug: cable-narrow-chair-stand-up
+name: Cable Narrow Chair Stand Up
+human_readable_ids:
+- CableNarrowChairStandUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

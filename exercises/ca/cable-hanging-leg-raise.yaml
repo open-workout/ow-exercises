@@ -1,0 +1,15 @@
+id: '2886'
+slug: cable-hanging-leg-raise
+name: Cable Hanging Leg Raise
+human_readable_ids:
+- CableHangingLegRaise
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

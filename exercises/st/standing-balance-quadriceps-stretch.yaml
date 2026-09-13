@@ -1,0 +1,14 @@
+id: '3504'
+slug: standing-balance-quadriceps-stretch
+name: Standing Balance Quadriceps Stretch
+human_readable_ids:
+- StandingBalanceQuadricepsStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

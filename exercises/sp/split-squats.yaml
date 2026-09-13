@@ -1,0 +1,16 @@
+id: '2368'
+slug: split-squats
+name: Split Squats
+human_readable_ids:
+- SplitSquats
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

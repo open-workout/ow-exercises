@@ -1,0 +1,15 @@
+id: 0866
+slug: weighted-hanging-leg-hip-raise-0866
+name: Weighted Hanging leg-hip raise
+human_readable_ids:
+- WeightedHangingleghipraise
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

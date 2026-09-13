@@ -1,0 +1,15 @@
+id: '8536'
+slug: bodyweight-tibialias-raise-wall-supported
+name: Bodyweight Tibialias Raise Wall Supported
+human_readable_ids:
+- BodyweightTibialiasRaiseWallSupported
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

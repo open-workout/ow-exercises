@@ -1,0 +1,15 @@
+id: '4709'
+slug: basketball-shot-jump
+name: Basketball Shot Jump
+human_readable_ids:
+- BasketballShotJump
+primary_muscles:
+- plyometrics
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

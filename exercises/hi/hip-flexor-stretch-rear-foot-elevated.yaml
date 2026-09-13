@@ -1,0 +1,14 @@
+id: '2568'
+slug: hip-flexor-stretch-rear-foot-elevated
+name: Hip Flexor Stretch Rear foot elevated
+human_readable_ids:
+- HipFlexorStretchRearfootelevated
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1573'
+slug: lever-seated-one-leg-squat
+name: Lever Seated One Leg Squat
+human_readable_ids:
+- LeverSeatedOneLegSquat
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

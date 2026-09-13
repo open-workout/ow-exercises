@@ -1,0 +1,16 @@
+id: '1427'
+slug: straight-leg-outer-hip-abductor
+name: Straight Leg Outer Hip Abductor
+human_readable_ids:
+- StraightLegOuterHipAbductor
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

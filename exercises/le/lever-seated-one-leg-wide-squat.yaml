@@ -1,0 +1,15 @@
+id: '1572'
+slug: lever-seated-one-leg-wide-squat
+name: Lever Seated One Leg Wide Squat
+human_readable_ids:
+- LeverSeatedOneLegWideSquat
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

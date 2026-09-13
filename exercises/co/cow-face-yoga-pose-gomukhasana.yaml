@@ -1,0 +1,14 @@
+id: '6902'
+slug: cow-face-yoga-pose-gomukhasana
+name: Cow Face Yoga Pose Gomukhasana
+human_readable_ids:
+- CowFaceYogaPoseGomukhasana
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

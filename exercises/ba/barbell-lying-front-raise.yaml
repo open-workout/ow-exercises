@@ -1,0 +1,15 @@
+id: '10588'
+slug: barbell-lying-front-raise
+name: Barbell Lying Front Raise
+human_readable_ids:
+- BarbellLyingFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

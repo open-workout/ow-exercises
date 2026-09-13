@@ -1,0 +1,14 @@
+id: '1548'
+slug: chair-leg-extended-stretch
+name: Chair Leg Extended Stretch
+human_readable_ids:
+- ChairLegExtendedStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

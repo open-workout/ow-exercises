@@ -1,0 +1,14 @@
+id: '10740'
+slug: stick-lying-single-arm-triceps-stretch
+name: Stick Lying Single Arm Triceps Stretch
+human_readable_ids:
+- StickLyingSingleArmTricepsStretch
+primary_muscles:
+- stretching
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

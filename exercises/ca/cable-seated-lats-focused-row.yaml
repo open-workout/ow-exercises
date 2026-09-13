@@ -1,0 +1,15 @@
+id: '5553'
+slug: cable-seated-lats-focused-row
+name: Cable Seated Lats Focused Row
+human_readable_ids:
+- CableSeatedLatsFocusedRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

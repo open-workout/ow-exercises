@@ -1,0 +1,16 @@
+id: '4422'
+slug: ez-bar-drag-bicep-curl
+name: EZ-bar Drag Bicep Curl
+human_readable_ids:
+- EZbarDragBicepCurl
+primary_muscles:
+- shoulders
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

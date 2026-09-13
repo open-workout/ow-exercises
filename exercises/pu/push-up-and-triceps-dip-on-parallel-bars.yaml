@@ -1,0 +1,15 @@
+id: '4775'
+slug: push-up-and-triceps-dip-on-parallel-bars
+name: Push-up and Triceps Dip on Parallel Bars
+human_readable_ids:
+- PushupandTricepsDiponParallelBars
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

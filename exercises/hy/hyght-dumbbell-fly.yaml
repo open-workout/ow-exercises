@@ -1,0 +1,15 @@
+id: '3234'
+slug: hyght-dumbbell-fly
+name: Hyght Dumbbell Fly
+human_readable_ids:
+- HyghtDumbbellFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

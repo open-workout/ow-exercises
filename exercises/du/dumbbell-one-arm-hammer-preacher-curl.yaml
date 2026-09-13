@@ -1,0 +1,15 @@
+id: '1663'
+slug: dumbbell-one-arm-hammer-preacher-curl
+name: Dumbbell One Arm Hammer Preacher Curl
+human_readable_ids:
+- DumbbellOneArmHammerPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

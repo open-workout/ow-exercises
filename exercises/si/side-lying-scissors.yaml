@@ -1,0 +1,15 @@
+id: '4655'
+slug: side-lying-scissors
+name: Side Lying Scissors
+human_readable_ids:
+- SideLyingScissors
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

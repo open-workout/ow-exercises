@@ -1,0 +1,15 @@
+id: 0893
+slug: band-bent-over-rear-lateral-raise
+name: Band bent-over rear lateral raise
+human_readable_ids:
+- Bandbentoverrearlateralraise
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

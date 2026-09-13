@@ -1,0 +1,16 @@
+id: '3553'
+slug: rotational-push-up
+name: Rotational Push-Up
+human_readable_ids:
+- RotationalPushUp
+primary_muscles:
+- chest
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

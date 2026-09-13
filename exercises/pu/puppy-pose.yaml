@@ -1,0 +1,14 @@
+id: '5897'
+slug: puppy-pose
+name: Puppy Pose
+human_readable_ids:
+- PuppyPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

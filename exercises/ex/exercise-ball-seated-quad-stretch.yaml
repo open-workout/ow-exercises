@@ -1,0 +1,14 @@
+id: '1561'
+slug: exercise-ball-seated-quad-stretch
+name: Exercise Ball Seated Quad Stretch
+human_readable_ids:
+- ExerciseBallSeatedQuadStretch
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

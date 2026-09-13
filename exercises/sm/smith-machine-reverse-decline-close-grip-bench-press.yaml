@@ -1,0 +1,15 @@
+id: '1626'
+slug: smith-machine-reverse-decline-close-grip-bench-press
+name: Smith Machine Reverse Decline Close Grip Bench Press
+human_readable_ids:
+- SmithMachineReverseDeclineCloseGripBenchPress
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

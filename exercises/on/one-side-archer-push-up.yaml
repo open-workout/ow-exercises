@@ -1,0 +1,15 @@
+id: '4153'
+slug: one-side-archer-push-up
+name: One Side Archer Push-up
+human_readable_ids:
+- OneSideArcherPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

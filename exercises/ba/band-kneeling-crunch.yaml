@@ -1,0 +1,15 @@
+id: 0904
+slug: band-kneeling-crunch
+name: Band kneeling crunch
+human_readable_ids:
+- Bandkneelingcrunch
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

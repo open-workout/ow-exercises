@@ -1,0 +1,16 @@
+id: '0371'
+slug: dumbbell-plyo-squat
+name: Dumbbell Plyo Squat
+human_readable_ids:
+- DumbbellPlyoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

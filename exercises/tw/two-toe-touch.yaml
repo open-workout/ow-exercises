@@ -1,0 +1,15 @@
+id: '3231'
+slug: two-toe-touch
+name: Two Toe Touch
+human_readable_ids:
+- TwoToeTouch
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

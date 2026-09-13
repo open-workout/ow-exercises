@@ -1,0 +1,15 @@
+id: '2943'
+slug: resistance-band-spider-crawls
+name: Resistance Band Spider Crawls
+human_readable_ids:
+- ResistanceBandSpiderCrawls
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

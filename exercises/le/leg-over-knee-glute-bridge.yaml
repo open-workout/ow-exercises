@@ -1,0 +1,15 @@
+id: '4670'
+slug: leg-over-knee-glute-bridge
+name: Leg Over Knee Glute Bridge
+human_readable_ids:
+- LegOverKneeGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

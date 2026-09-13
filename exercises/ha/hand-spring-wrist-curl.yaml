@@ -1,0 +1,15 @@
+id: '3345'
+slug: hand-spring-wrist-curl
+name: Hand Spring Wrist Curl
+human_readable_ids:
+- HandSpringWristCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

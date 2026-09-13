@@ -1,0 +1,15 @@
+id: '4570'
+slug: resistance-band-bent-over-neutral-grip-row
+name: Resistance Band Bent Over Neutral Grip Row
+human_readable_ids:
+- ResistanceBandBentOverNeutralGripRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

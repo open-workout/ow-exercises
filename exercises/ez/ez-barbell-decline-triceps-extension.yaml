@@ -1,0 +1,15 @@
+id: '2186'
+slug: ez-barbell-decline-triceps-extension
+name: EZ Barbell Decline Triceps Extension
+human_readable_ids:
+- EZBarbellDeclineTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '3995'
+slug: back-slaps-wrap-arround-stretch
+name: Back Slaps Wrap Arround Stretch
+human_readable_ids:
+- BackSlapsWrapArroundStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

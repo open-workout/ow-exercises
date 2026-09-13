@@ -1,0 +1,15 @@
+id: '9318'
+slug: lying-floor-negative-dragon-flag
+name: Lying Floor Negative Dragon Flag
+human_readable_ids:
+- LyingFloorNegativeDragonFlag
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1370'
+slug: barbell-floor-calf-raise
+name: Barbell Floor Calf Raise
+human_readable_ids:
+- BarbellFloorCalfRaise
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

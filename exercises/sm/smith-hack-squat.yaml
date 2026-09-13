@@ -1,0 +1,16 @@
+id: '0755'
+slug: smith-hack-squat
+name: Smith Hack Squat
+human_readable_ids:
+- SmithHackSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

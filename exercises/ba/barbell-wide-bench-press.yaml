@@ -1,0 +1,15 @@
+id: '0122'
+slug: barbell-wide-bench-press
+name: Barbell Wide Bench Press
+human_readable_ids:
+- BarbellWideBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

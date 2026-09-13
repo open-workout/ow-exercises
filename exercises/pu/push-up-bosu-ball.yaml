@@ -1,0 +1,15 @@
+id: '0653'
+slug: push-up-bosu-ball
+name: Push-up (bosu ball)
+human_readable_ids:
+- Pushup
+primary_muscles:
+- chest
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

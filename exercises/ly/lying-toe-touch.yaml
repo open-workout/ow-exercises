@@ -1,0 +1,15 @@
+id: '5275'
+slug: lying-toe-touch
+name: Lying Toe Touch
+human_readable_ids:
+- LyingToeTouch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

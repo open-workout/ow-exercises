@@ -1,0 +1,14 @@
+id: '1828'
+slug: reaching-down-triceps-stretch
+name: Reaching Down Triceps Stretch
+human_readable_ids:
+- ReachingDownTricepsStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '0440'
+slug: dynamic-back-stretch
+name: Dynamic Back Stretch
+human_readable_ids:
+- DynamicBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

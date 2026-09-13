@@ -1,0 +1,15 @@
+id: '4724'
+slug: chin-up-in-squatting-position
+name: Chin-up (in squatting position)
+human_readable_ids:
+- Chinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

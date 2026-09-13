@@ -1,0 +1,15 @@
+id: '6142'
+slug: dumbbell-seated-reverse-arnold-press
+name: Dumbbell Seated Reverse Arnold Press
+human_readable_ids:
+- DumbbellSeatedReverseArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

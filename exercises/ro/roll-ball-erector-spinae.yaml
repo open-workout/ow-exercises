@@ -1,0 +1,14 @@
+id: '4480'
+slug: roll-ball-erector-spinae
+name: Roll Ball Erector Spinae
+human_readable_ids:
+- RollBallErectorSpinae
+primary_muscles:
+- glutes
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

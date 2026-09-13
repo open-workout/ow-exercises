@@ -1,0 +1,15 @@
+id: '2162'
+slug: resistance-band-plank-march
+name: Resistance Band Plank March
+human_readable_ids:
+- ResistanceBandPlankMarch
+primary_muscles:
+- hamstrings
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

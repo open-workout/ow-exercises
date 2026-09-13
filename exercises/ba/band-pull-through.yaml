@@ -1,0 +1,15 @@
+id: 0991
+slug: band-pull-through
+name: Band pull through
+human_readable_ids:
+- Bandpullthrough
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

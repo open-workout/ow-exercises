@@ -1,0 +1,14 @@
+id: '2571'
+slug: rocking-frog-stretch
+name: Rocking Frog Stretch
+human_readable_ids:
+- RockingFrogStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

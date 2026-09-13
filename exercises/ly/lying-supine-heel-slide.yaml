@@ -1,0 +1,15 @@
+id: '9969'
+slug: lying-supine-heel-slide
+name: Lying Supine Heel Slide
+human_readable_ids:
+- LyingSupineHeelSlide
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

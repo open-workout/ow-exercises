@@ -1,0 +1,16 @@
+id: '3527'
+slug: downward-facing-dog-toe-touch
+name: Downward Facing Dog Toe Touch
+human_readable_ids:
+- DownwardFacingDogToeTouch
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

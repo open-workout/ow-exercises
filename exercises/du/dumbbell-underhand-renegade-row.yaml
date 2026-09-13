@@ -1,0 +1,15 @@
+id: '8222'
+slug: dumbbell-underhand-renegade-row
+name: Dumbbell Underhand Renegade Row
+human_readable_ids:
+- DumbbellUnderhandRenegadeRow
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

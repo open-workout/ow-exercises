@@ -1,0 +1,15 @@
+id: '9509'
+slug: lever-sitting-toe-raise
+name: Lever Sitting Toe Raise
+human_readable_ids:
+- LeverSittingToeRaise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

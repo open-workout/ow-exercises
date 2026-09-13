@@ -1,0 +1,15 @@
+id: '8877'
+slug: resistance-band-fingers-extension
+name: Resistance Band Fingers Extension
+human_readable_ids:
+- ResistanceBandFingersExtension
+primary_muscles:
+- hands
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

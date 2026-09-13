@@ -1,0 +1,22 @@
+id: '2141'
+slug: walk-elliptical-cross-trainer
+name: Walk Elliptical Cross Trainer
+human_readable_ids:
+- WalkEllipticalCrossTrainer
+primary_muscles:
+- biceps
+- shoulders
+- calves
+- glutes
+- hamstrings
+- back
+- chest
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5819'
+slug: dumbbell-empty-can-exercise
+name: Dumbbell Empty Can Exercise
+human_readable_ids:
+- DumbbellEmptyCanExercise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

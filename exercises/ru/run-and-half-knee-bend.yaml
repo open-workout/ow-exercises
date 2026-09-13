@@ -1,0 +1,16 @@
+id: '3271'
+slug: run-and-half-knee-bend
+name: Run and Half Knee Bend
+human_readable_ids:
+- RunandHalfKneeBend
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

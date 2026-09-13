@@ -1,0 +1,15 @@
+id: '4027'
+slug: resistance-band-standing-back-warming-up
+name: Resistance Band Standing Back Warming-up
+human_readable_ids:
+- ResistanceBandStandingBackWarmingup
+primary_muscles:
+- chest
+- glutes
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

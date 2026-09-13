@@ -1,0 +1,15 @@
+id: '1703'
+slug: single-leg-transverse-bend
+name: Single Leg Transverse Bend
+human_readable_ids:
+- SingleLegTransverseBend
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

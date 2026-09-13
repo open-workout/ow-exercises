@@ -1,0 +1,15 @@
+id: '4821'
+slug: dumbbell-single-leg-step-up-on-bench
+name: Dumbbell Single Leg Step-up on Bench
+human_readable_ids:
+- DumbbellSingleLegStepuponBench
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

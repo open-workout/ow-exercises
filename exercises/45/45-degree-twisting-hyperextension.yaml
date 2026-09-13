@@ -1,0 +1,17 @@
+id: '1171'
+slug: 45-degree-twisting-hyperextension
+name: 45 degree twisting hyperextension
+human_readable_ids:
+- 45degreetwistinghyperextension
+primary_muscles:
+- back
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

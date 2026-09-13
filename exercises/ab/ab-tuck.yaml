@@ -1,0 +1,15 @@
+id: '6033'
+slug: ab-tuck
+name: Ab Tuck
+human_readable_ids:
+- AbTuck
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

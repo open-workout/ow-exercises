@@ -1,0 +1,15 @@
+id: '4343'
+slug: dumbbell-one-arm-triceps-extension
+name: Dumbbell One Arm Triceps Extension
+human_readable_ids:
+- DumbbellOneArmTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

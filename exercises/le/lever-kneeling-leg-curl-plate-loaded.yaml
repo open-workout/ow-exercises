@@ -1,0 +1,15 @@
+id: 0582
+slug: lever-kneeling-leg-curl-plate-loaded
+name: Lever Kneeling Leg Curl (plate loaded)
+human_readable_ids:
+- LeverKneelingLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0627'
+slug: mixed-grip-chin-up
+name: Mixed Grip Chin-up
+human_readable_ids:
+- MixedGripChinup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4855'
+slug: bodyweight-standing-oblique-twist
+name: Bodyweight Standing Oblique Twist
+human_readable_ids:
+- BodyweightStandingObliqueTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

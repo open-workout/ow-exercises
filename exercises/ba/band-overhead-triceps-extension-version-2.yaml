@@ -1,0 +1,15 @@
+id: '4139'
+slug: band-overhead-triceps-extension-version-2
+name: Band Overhead Triceps Extension (VERSION 2)
+human_readable_ids:
+- BandOverheadTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

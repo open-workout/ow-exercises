@@ -1,0 +1,16 @@
+id: '1543'
+slug: barbell-stiff-legged-deadlift
+name: Barbell Stiff Legged Deadlift
+human_readable_ids:
+- BarbellStiffLeggedDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

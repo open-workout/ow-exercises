@@ -1,0 +1,17 @@
+id: '4822'
+slug: dumbbell-rdl-to-jump-shrug
+name: Dumbbell RDL to Jump Shrug
+human_readable_ids:
+- DumbbellRDLtoJumpShrug
+primary_muscles:
+- back
+- hamstrings
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

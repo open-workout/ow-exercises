@@ -1,0 +1,15 @@
+id: '11269'
+slug: cable-bent-over-single-arm-row-version-3
+name: Cable Bent Over Single Arm Row (VERSION 3)
+human_readable_ids:
+- CableBentOverSingleArmRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

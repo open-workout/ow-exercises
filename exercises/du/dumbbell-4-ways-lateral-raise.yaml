@@ -1,0 +1,15 @@
+id: '4211'
+slug: dumbbell-4-ways-lateral-raise
+name: Dumbbell 4 Ways Lateral Raise
+human_readable_ids:
+- Dumbbell4WaysLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

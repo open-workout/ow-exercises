@@ -1,0 +1,16 @@
+id: '3360'
+slug: bear-crawl
+name: Bear Crawl
+human_readable_ids:
+- BearCrawl
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

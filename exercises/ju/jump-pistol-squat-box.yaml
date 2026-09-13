@@ -1,0 +1,15 @@
+id: '4168'
+slug: jump-pistol-squat-box
+name: Jump Pistol Squat Box
+human_readable_ids:
+- JumpPistolSquatBox
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

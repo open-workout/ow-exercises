@@ -1,0 +1,15 @@
+id: '1640'
+slug: cable-rope-one-arm-hammer-preacher-curl
+name: Cable Rope One Arm Hammer Preacher Curl
+human_readable_ids:
+- CableRopeOneArmHammerPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

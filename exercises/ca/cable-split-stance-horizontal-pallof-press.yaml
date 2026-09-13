@@ -1,0 +1,15 @@
+id: '4106'
+slug: cable-split-stance-horizontal-pallof-press
+name: Cable Split Stance Horizontal Pallof Press
+human_readable_ids:
+- CableSplitStanceHorizontalPallofPress
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

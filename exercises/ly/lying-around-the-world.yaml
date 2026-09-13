@@ -1,0 +1,15 @@
+id: '3826'
+slug: lying-around-the-world
+name: Lying Around the World
+human_readable_ids:
+- LyingAroundtheWorld
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

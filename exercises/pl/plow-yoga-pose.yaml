@@ -1,0 +1,14 @@
+id: '1485'
+slug: plow-yoga-pose
+name: Plow Yoga Pose
+human_readable_ids:
+- PlowYogaPose
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5943'
+slug: cable-single-arm-neutral-grip-front-raise
+name: Cable Single Arm Neutral Grip Front Raise
+human_readable_ids:
+- CableSingleArmNeutralGripFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

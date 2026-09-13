@@ -1,0 +1,17 @@
+id: '2563'
+slug: power-sled-pull-row
+name: Power Sled Pull Row
+human_readable_ids:
+- PowerSledPullRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

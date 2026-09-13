@@ -1,0 +1,16 @@
+id: 0480
+slug: high-knee-twist
+name: High Knee Twist
+human_readable_ids:
+- HighKneeTwist
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4586'
+slug: front-kick-kickboxing-with-boxing-bag
+name: Front Kick Kickboxing (with boxing bag)
+human_readable_ids:
+- FrontKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

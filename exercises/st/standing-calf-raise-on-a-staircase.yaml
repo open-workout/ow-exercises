@@ -1,0 +1,15 @@
+id: '1490'
+slug: standing-calf-raise-on-a-staircase
+name: Standing Calf Raise (On a staircase)
+human_readable_ids:
+- StandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

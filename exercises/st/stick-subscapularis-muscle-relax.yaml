@@ -1,0 +1,14 @@
+id: '6811'
+slug: stick-subscapularis-muscle-relax
+name: Stick Subscapularis Muscle Relax
+human_readable_ids:
+- StickSubscapularisMuscleRelax
+primary_muscles:
+- stretching
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

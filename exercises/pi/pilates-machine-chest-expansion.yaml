@@ -1,0 +1,14 @@
+id: '10855'
+slug: pilates-machine-chest-expansion
+name: Pilates Machine Chest Expansion
+human_readable_ids:
+- PilatesMachineChestExpansion
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

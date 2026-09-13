@@ -1,0 +1,15 @@
+id: 0901
+slug: band-hip-extension
+name: Band hip extension
+human_readable_ids:
+- Bandhipextension
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

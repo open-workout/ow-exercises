@@ -1,0 +1,14 @@
+id: '2125'
+slug: lateral-stretch-on-floor-lying-down
+name: Lateral Stretch On Floor Lying Down
+human_readable_ids:
+- LateralStretchOnFloorLyingDown
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

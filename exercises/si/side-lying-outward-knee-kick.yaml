@@ -1,0 +1,16 @@
+id: '4884'
+slug: side-lying-outward-knee-kick
+name: Side Lying Outward Knee Kick
+human_readable_ids:
+- SideLyingOutwardKneeKick
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

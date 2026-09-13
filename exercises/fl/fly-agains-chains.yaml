@@ -1,0 +1,15 @@
+id: '4200'
+slug: fly-agains-chains
+name: Fly agains Chains
+human_readable_ids:
+- FlyagainsChains
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

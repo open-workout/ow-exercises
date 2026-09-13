@@ -1,0 +1,16 @@
+id: '0612'
+slug: lunge
+name: Lunge
+human_readable_ids:
+- Lunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0417'
+slug: dumbbell-standing-calf-raise
+name: Dumbbell Standing Calf Raise
+human_readable_ids:
+- DumbbellStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

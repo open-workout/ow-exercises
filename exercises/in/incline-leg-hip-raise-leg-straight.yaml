@@ -1,0 +1,15 @@
+id: 0491
+slug: incline-leg-hip-raise-leg-straight
+name: Incline Leg Hip Raise (leg straight)
+human_readable_ids:
+- InclineLegHipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4706'
+slug: jump-step-jump
+name: Jump Step Jump
+human_readable_ids:
+- JumpStepJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

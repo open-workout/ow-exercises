@@ -1,0 +1,15 @@
+id: '1540'
+slug: barbell-squat-to-shoulder-press
+name: Barbell Squat to Shoulder Press
+human_readable_ids:
+- BarbellSquattoShoulderPress
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,17 @@
+id: '3771'
+slug: band-deadlift-with-single-arm-row
+name: Band Deadlift with Single Arm Row
+human_readable_ids:
+- BandDeadliftwithSingleArmRow
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

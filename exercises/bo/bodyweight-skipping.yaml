@@ -1,0 +1,15 @@
+id: '6100'
+slug: bodyweight-skipping
+name: Bodyweight Skipping
+human_readable_ids:
+- BodyweightSkipping
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

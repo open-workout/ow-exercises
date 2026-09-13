@@ -1,0 +1,14 @@
+id: '5403'
+slug: stick-standing-twist-stretch
+name: Stick Standing Twist Stretch
+human_readable_ids:
+- StickStandingTwistStretch
+primary_muscles:
+- abs
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

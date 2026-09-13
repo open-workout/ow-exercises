@@ -1,0 +1,14 @@
+id: '3129'
+slug: scapula-retraction-protraction
+name: Scapula Retraction Protraction
+human_readable_ids:
+- ScapulaRetractionProtraction
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

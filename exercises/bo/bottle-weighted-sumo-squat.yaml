@@ -1,0 +1,15 @@
+id: '6045'
+slug: bottle-weighted-sumo-squat
+name: Bottle Weighted Sumo Squat
+human_readable_ids:
+- BottleWeightedSumoSquat
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

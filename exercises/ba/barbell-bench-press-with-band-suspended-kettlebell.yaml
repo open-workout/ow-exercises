@@ -1,0 +1,15 @@
+id: '4414'
+slug: barbell-bench-press-with-band-suspended-kettlebell
+name: Barbell Bench Press with Band Suspended Kettlebell
+human_readable_ids:
+- BarbellBenchPresswithBandSuspendedKettlebell
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

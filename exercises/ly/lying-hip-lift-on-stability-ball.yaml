@@ -1,0 +1,15 @@
+id: 0618
+slug: lying-hip-lift-on-stability-ball
+name: Lying Hip Lift (on stability ball)
+human_readable_ids:
+- LyingHipLift
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

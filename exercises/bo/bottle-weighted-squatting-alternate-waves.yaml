@@ -1,0 +1,15 @@
+id: '6056'
+slug: bottle-weighted-squatting-alternate-waves
+name: Bottle Weighted Squatting Alternate Waves
+human_readable_ids:
+- BottleWeightedSquattingAlternateWaves
+primary_muscles:
+- plyometrics
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3744'
+slug: rear-delt-fly-with-bed-sheet
+name: Rear Delt Fly with Bed Sheet
+human_readable_ids:
+- RearDeltFlywithBedSheet
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7207'
+slug: resistance-band-bulgarian-squat
+name: Resistance Band Bulgarian Squat
+human_readable_ids:
+- ResistanceBandBulgarianSquat
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

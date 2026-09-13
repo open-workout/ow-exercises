@@ -1,0 +1,15 @@
+id: '11315'
+slug: incline-close-grip-push-up-with-chair-against-wall
+name: Incline Close Grip Push-up with Chair against Wall
+human_readable_ids:
+- InclineCloseGripPushupwithChairagainstWall
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

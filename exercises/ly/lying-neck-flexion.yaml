@@ -1,0 +1,15 @@
+id: '10780'
+slug: lying-neck-flexion
+name: Lying Neck Flexion
+human_readable_ids:
+- LyingNeckFlexion
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

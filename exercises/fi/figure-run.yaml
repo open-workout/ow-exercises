@@ -1,0 +1,15 @@
+id: '5989'
+slug: figure-run
+name: Figure Run
+human_readable_ids:
+- FigureRun
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

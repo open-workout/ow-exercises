@@ -1,0 +1,15 @@
+id: '0346'
+slug: dumbbell-lying-one-arm-supinated-triceps-extension
+name: Dumbbell Lying One Arm Supinated Triceps Extension
+human_readable_ids:
+- DumbbellLyingOneArmSupinatedTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

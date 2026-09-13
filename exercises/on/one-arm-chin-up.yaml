@@ -1,0 +1,15 @@
+id: 0638
+slug: one-arm-chin-up
+name: One Arm Chin-Up
+human_readable_ids:
+- OneArmChinUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

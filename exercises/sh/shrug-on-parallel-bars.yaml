@@ -1,0 +1,15 @@
+id: '4176'
+slug: shrug-on-parallel-bars
+name: Shrug (on parallel bars)
+human_readable_ids:
+- Shrug
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

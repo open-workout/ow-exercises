@@ -1,0 +1,15 @@
+id: '10052'
+slug: landmine-cossack-squat
+name: Landmine Cossack Squat
+human_readable_ids:
+- LandmineCossackSquat
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

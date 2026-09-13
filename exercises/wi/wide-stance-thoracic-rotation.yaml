@@ -1,0 +1,15 @@
+id: '9246'
+slug: wide-stance-thoracic-rotation
+name: Wide Stance Thoracic Rotation
+human_readable_ids:
+- WideStanceThoracicRotation
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

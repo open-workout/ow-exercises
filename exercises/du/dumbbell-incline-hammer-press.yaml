@@ -1,0 +1,15 @@
+id: '0321'
+slug: dumbbell-incline-hammer-press
+name: Dumbbell Incline Hammer Press
+human_readable_ids:
+- DumbbellInclineHammerPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

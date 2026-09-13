@@ -1,0 +1,15 @@
+id: '4763'
+slug: glute-ham-developer-sit-up-and-russian-twist
+name: Glute Ham Developer Sit-up and Russian Twist
+human_readable_ids:
+- GluteHamDeveloperSitupandRussianTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

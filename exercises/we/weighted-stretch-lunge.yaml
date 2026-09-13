@@ -1,0 +1,16 @@
+id: '3642'
+slug: weighted-stretch-lunge
+name: Weighted Stretch Lunge
+human_readable_ids:
+- WeightedStretchLunge
+primary_muscles:
+- glutes
+- hamstrings
+- quads
+equipment:
+- weighted
+modalities:
+- time
+load:
+  required: true
+  direction: added

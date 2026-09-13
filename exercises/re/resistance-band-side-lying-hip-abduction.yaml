@@ -1,0 +1,15 @@
+id: '11644'
+slug: resistance-band-side-lying-hip-abduction
+name: Resistance Band Side Lying Hip Abduction
+human_readable_ids:
+- ResistanceBandSideLyingHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

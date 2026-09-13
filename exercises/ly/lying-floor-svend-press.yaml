@@ -1,0 +1,15 @@
+id: '10550'
+slug: lying-floor-svend-press
+name: Lying Floor Svend Press
+human_readable_ids:
+- LyingFloorSvendPress
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: 0099
+slug: barbell-single-leg-split-squat
+name: Barbell Single Leg Split Squat
+human_readable_ids:
+- BarbellSingleLegSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

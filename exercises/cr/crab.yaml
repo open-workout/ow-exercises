@@ -1,0 +1,14 @@
+id: '2842'
+slug: crab
+name: Crab
+human_readable_ids:
+- Crab
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

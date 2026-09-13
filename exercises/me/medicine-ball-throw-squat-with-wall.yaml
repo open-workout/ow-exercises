@@ -1,0 +1,15 @@
+id: '5161'
+slug: medicine-ball-throw-squat-with-wall
+name: Medicine Ball Throw Squat with Wall
+human_readable_ids:
+- MedicineBallThrowSquatwithWall
+primary_muscles:
+- shoulders
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

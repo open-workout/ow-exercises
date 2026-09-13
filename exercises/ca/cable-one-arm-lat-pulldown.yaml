@@ -1,0 +1,15 @@
+id: '1204'
+slug: cable-one-arm-lat-pulldown
+name: Cable one arm lat pulldown
+human_readable_ids:
+- Cableonearmlatpulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

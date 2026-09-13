@@ -1,0 +1,15 @@
+id: '0425'
+slug: dumbbell-standing-one-arm-reverse-curl
+name: Dumbbell Standing One Arm Reverse Curl
+human_readable_ids:
+- DumbbellStandingOneArmReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

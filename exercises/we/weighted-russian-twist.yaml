@@ -1,0 +1,15 @@
+id: 0846
+slug: weighted-russian-twist
+name: Weighted Russian Twist
+human_readable_ids:
+- WeightedRussianTwist
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

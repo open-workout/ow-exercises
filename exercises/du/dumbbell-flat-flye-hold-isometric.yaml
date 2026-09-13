@@ -1,0 +1,14 @@
+id: '1450'
+slug: dumbbell-flat-flye-hold-isometric
+name: Dumbbell Flat Flye Hold Isometric
+human_readable_ids:
+- DumbbellFlatFlyeHoldIsometric
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '9606'
+slug: box-drop-jump
+name: Box Drop Jump
+human_readable_ids:
+- BoxDropJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

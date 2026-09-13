@@ -1,0 +1,15 @@
+id: '0773'
+slug: smith-standing-leg-calf-raise
+name: Smith Standing Leg Calf Raise
+human_readable_ids:
+- SmithStandingLegCalfRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

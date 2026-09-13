@@ -1,0 +1,15 @@
+id: 0088
+slug: barbell-seated-calf-raise
+name: Barbell Seated Calf Raise
+human_readable_ids:
+- BarbellSeatedCalfRaise
+primary_muscles:
+- calves
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

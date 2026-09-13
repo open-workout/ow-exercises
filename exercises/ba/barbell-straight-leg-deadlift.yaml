@@ -1,0 +1,16 @@
+id: '0116'
+slug: barbell-straight-leg-deadlift
+name: Barbell Straight Leg Deadlift
+human_readable_ids:
+- BarbellStraightLegDeadlift
+primary_muscles:
+- back
+- hamstrings
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

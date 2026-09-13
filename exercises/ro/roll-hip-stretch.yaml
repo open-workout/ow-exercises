@@ -1,0 +1,14 @@
+id: '2202'
+slug: roll-hip-stretch
+name: Roll Hip Stretch
+human_readable_ids:
+- RollHipStretch
+primary_muscles:
+- glutes
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

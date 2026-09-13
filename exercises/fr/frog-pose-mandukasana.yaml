@@ -1,0 +1,14 @@
+id: '6292'
+slug: frog-pose-mandukasana
+name: Frog Pose Mandukasana
+human_readable_ids:
+- FrogPoseMandukasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

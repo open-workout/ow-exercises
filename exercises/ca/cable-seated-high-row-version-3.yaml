@@ -1,0 +1,15 @@
+id: '11257'
+slug: cable-seated-high-row-version-3
+name: Cable Seated High Row (VERSION 3)
+human_readable_ids:
+- CableSeatedHighRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

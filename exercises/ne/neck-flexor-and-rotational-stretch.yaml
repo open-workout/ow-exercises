@@ -1,0 +1,14 @@
+id: '1840'
+slug: neck-flexor-and-rotational-stretch
+name: Neck Flexor And Rotational Stretch
+human_readable_ids:
+- NeckFlexorAndRotationalStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '3261'
+slug: quarter-sit-up-3261
+name: Quarter Sit up
+human_readable_ids:
+- QuarterSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

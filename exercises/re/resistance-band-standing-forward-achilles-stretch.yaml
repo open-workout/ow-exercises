@@ -1,0 +1,14 @@
+id: '3000'
+slug: resistance-band-standing-forward-achilles-stretch
+name: Resistance Band Standing Forward Achilles Stretch
+human_readable_ids:
+- ResistanceBandStandingForwardAchillesStretch
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

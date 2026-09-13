@@ -1,0 +1,15 @@
+id: '1006'
+slug: band-rear-delt-row
+name: Band rear delt row
+human_readable_ids:
+- Bandreardeltrow
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

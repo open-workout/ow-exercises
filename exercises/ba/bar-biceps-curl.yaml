@@ -1,0 +1,15 @@
+id: '4721'
+slug: bar-biceps-curl
+name: Bar Biceps Curl
+human_readable_ids:
+- BarBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

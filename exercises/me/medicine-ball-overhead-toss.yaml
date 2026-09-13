@@ -1,0 +1,15 @@
+id: '10108'
+slug: medicine-ball-overhead-toss
+name: Medicine Ball Overhead Toss
+human_readable_ids:
+- MedicineBallOverheadToss
+primary_muscles:
+- glutes
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

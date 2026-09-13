@@ -1,0 +1,15 @@
+id: '10188'
+slug: standing-bend-alternating-toe-touch
+name: Standing Bend Alternating Toe Touch
+human_readable_ids:
+- StandingBendAlternatingToeTouch
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

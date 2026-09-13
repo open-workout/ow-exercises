@@ -1,0 +1,15 @@
+id: '7586'
+slug: cable-ipsilateral-glute-dominant-step-up
+name: Cable Ipsilateral Glute Dominant Step-up
+human_readable_ids:
+- CableIpsilateralGluteDominantStepup
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

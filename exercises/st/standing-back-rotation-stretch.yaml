@@ -1,0 +1,14 @@
+id: '1813'
+slug: standing-back-rotation-stretch
+name: Standing Back Rotation Stretch
+human_readable_ids:
+- StandingBackRotationStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

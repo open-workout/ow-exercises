@@ -1,0 +1,15 @@
+id: '4183'
+slug: dumbbell-seated-cuban-press
+name: Dumbbell Seated Cuban Press
+human_readable_ids:
+- DumbbellSeatedCubanPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

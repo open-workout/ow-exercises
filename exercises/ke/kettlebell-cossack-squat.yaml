@@ -1,0 +1,15 @@
+id: '6193'
+slug: kettlebell-cossack-squat
+name: Kettlebell Cossack Squat
+human_readable_ids:
+- KettlebellCossackSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

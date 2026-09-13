@@ -1,0 +1,15 @@
+id: 0298
+slug: dumbbell-cross-body-hammer-curl
+name: Dumbbell Cross Body Hammer Curl
+human_readable_ids:
+- DumbbellCrossBodyHammerCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,18 @@
+id: '3467'
+slug: warming-up-in-lunge-seven
+name: Warming-up in Lunge (seven)
+human_readable_ids:
+- WarmingupinLunge
+primary_muscles:
+- back
+- glutes
+- shoulders
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4385'
+slug: hip-roll-plank
+name: Hip Roll Plank
+human_readable_ids:
+- HipRollPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,22 @@
+id: '0776'
+slug: snatch-pull
+name: Snatch Pull
+human_readable_ids:
+- SnatchPull
+primary_muscles:
+- adductors
+- biceps
+- shoulders
+- calves
+- glutes
+- hamstrings
+- chest
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

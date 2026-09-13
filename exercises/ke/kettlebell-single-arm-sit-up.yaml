@@ -1,0 +1,15 @@
+id: '4535'
+slug: kettlebell-single-arm-sit-up
+name: Kettlebell Single Arm Sit-Up
+human_readable_ids:
+- KettlebellSingleArmSitUp
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

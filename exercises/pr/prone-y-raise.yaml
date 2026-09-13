@@ -1,0 +1,15 @@
+id: '5822'
+slug: prone-y-raise
+name: Prone Y Raise
+human_readable_ids:
+- ProneYRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

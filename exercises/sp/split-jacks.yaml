@@ -1,0 +1,16 @@
+id: 0780
+slug: split-jacks
+name: Split Jacks
+human_readable_ids:
+- SplitJacks
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

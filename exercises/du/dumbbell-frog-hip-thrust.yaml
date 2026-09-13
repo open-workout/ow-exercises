@@ -1,0 +1,15 @@
+id: '6160'
+slug: dumbbell-frog-hip-thrust
+name: Dumbbell Frog Hip Thrust
+human_readable_ids:
+- DumbbellFrogHipThrust
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

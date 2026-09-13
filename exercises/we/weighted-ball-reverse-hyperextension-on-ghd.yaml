@@ -1,0 +1,15 @@
+id: '10861'
+slug: weighted-ball-reverse-hyperextension-on-ghd
+name: Weighted Ball Reverse Hyperextension on GHD
+human_readable_ids:
+- WeightedBallReverseHyperextensiononGHD
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

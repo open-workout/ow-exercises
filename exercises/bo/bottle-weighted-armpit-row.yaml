@@ -1,0 +1,15 @@
+id: '6072'
+slug: bottle-weighted-armpit-row
+name: Bottle Weighted Armpit Row
+human_readable_ids:
+- BottleWeightedArmpitRow
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

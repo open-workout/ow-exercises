@@ -1,0 +1,15 @@
+id: '0171'
+slug: cable-incline-fly
+name: Cable Incline Fly
+human_readable_ids:
+- CableInclineFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

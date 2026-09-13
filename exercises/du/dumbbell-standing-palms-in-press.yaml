@@ -1,0 +1,15 @@
+id: '0427'
+slug: dumbbell-standing-palms-in-press
+name: Dumbbell Standing Palms In Press
+human_readable_ids:
+- DumbbellStandingPalmsInPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

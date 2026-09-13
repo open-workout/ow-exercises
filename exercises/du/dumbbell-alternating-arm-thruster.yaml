@@ -1,0 +1,15 @@
+id: '9693'
+slug: dumbbell-alternating-arm-thruster
+name: Dumbbell Alternating Arm Thruster
+human_readable_ids:
+- DumbbellAlternatingArmThruster
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '0744'
+slug: sled-lying-squat
+name: Sled Lying Squat
+human_readable_ids:
+- SledLyingSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

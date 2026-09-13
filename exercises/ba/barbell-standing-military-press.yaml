@@ -1,0 +1,15 @@
+id: '1162'
+slug: barbell-standing-military-press
+name: Barbell Standing Military Press
+human_readable_ids:
+- BarbellStandingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

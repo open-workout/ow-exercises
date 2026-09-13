@@ -1,0 +1,16 @@
+id: '5277'
+slug: bodyweight-glute-dominant-step-up
+name: Bodyweight Glute Dominant Step-Up
+human_readable_ids:
+- BodyweightGluteDominantStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

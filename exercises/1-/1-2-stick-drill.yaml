@@ -1,0 +1,15 @@
+id: '5965'
+slug: 1-2-stick-drill
+name: 1 2 Stick Drill
+human_readable_ids:
+- 12StickDrill
+primary_muscles:
+- plyometrics
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

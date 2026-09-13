@@ -1,0 +1,15 @@
+id: 0396
+slug: dumbbell-seated-lateral-raise
+name: Dumbbell Seated Lateral Raise
+human_readable_ids:
+- DumbbellSeatedLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

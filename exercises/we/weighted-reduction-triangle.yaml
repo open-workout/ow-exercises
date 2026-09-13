@@ -1,0 +1,16 @@
+id: 0843
+slug: weighted-reduction-triangle
+name: Weighted Reduction Triangle
+human_readable_ids:
+- WeightedReductionTriangle
+primary_muscles:
+- glutes
+- hamstrings
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

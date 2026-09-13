@@ -1,0 +1,15 @@
+id: '1253'
+slug: lever-donkey-calf-raise
+name: Lever Donkey Calf Raise
+human_readable_ids:
+- LeverDonkeyCalfRaise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

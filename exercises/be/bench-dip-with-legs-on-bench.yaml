@@ -1,0 +1,15 @@
+id: '4360'
+slug: bench-dip-with-legs-on-bench
+name: Bench Dip with legs on bench
+human_readable_ids:
+- BenchDipwithlegsonbench
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

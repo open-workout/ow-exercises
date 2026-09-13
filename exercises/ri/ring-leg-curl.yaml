@@ -1,0 +1,15 @@
+id: '4819'
+slug: ring-leg-curl
+name: Ring Leg Curl
+human_readable_ids:
+- RingLegCurl
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

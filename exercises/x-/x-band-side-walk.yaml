@@ -1,0 +1,15 @@
+id: '2926'
+slug: x-band-side-walk
+name: X Band Side Walk
+human_readable_ids:
+- XBandSideWalk
+primary_muscles:
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

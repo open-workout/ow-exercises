@@ -1,0 +1,16 @@
+id: '0646'
+slug: plyo-side-lunge-stretch
+name: Plyo Side Lunge Stretch
+human_readable_ids:
+- PlyoSideLungeStretch
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

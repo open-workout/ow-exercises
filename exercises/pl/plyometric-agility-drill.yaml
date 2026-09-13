@@ -1,0 +1,15 @@
+id: '5974'
+slug: plyometric-agility-drill
+name: Plyometric Agility Drill
+human_readable_ids:
+- PlyometricAgilityDrill
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

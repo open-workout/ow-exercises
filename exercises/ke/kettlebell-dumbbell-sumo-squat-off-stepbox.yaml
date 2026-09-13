@@ -1,0 +1,15 @@
+id: '2751'
+slug: kettlebell-dumbbell-sumo-squat-off-stepbox
+name: Kettlebell Dumbbell Sumo Squat off Stepbox
+human_readable_ids:
+- KettlebellDumbbellSumoSquatoffStepbox
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

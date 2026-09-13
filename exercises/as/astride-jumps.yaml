@@ -1,0 +1,16 @@
+id: '3220'
+slug: astride-jumps
+name: Astride Jumps
+human_readable_ids:
+- AstrideJumps
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

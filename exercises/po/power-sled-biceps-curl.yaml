@@ -1,0 +1,15 @@
+id: '2901'
+slug: power-sled-biceps-curl
+name: Power Sled Biceps Curl
+human_readable_ids:
+- PowerSledBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

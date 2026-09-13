@@ -1,0 +1,15 @@
+id: '4909'
+slug: side-to-wide-squat
+name: Side to Wide Squat
+human_readable_ids:
+- SidetoWideSquat
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

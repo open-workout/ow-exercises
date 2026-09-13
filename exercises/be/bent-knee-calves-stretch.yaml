@@ -1,0 +1,14 @@
+id: '11649'
+slug: bent-knee-calves-stretch
+name: Bent Knee Calves Stretch
+human_readable_ids:
+- BentKneeCalvesStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

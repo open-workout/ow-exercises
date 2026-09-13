@@ -1,0 +1,19 @@
+id: '1535'
+slug: barbell-snatch-deadlift
+name: Barbell Snatch Deadlift
+human_readable_ids:
+- BarbellSnatchDeadlift
+primary_muscles:
+- adductors
+- calves
+- glutes
+- hamstrings
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

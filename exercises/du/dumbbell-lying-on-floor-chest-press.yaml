@@ -1,0 +1,15 @@
+id: '3668'
+slug: dumbbell-lying-on-floor-chest-press
+name: Dumbbell Lying on Floor Chest Press
+human_readable_ids:
+- DumbbellLyingonFloorChestPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

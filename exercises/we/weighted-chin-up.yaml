@@ -1,0 +1,15 @@
+id: '4102'
+slug: weighted-chin-up
+name: Weighted Chin-Up
+human_readable_ids:
+- WeightedChinUp
+primary_muscles:
+- back
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1694'
+slug: dumbbell-overhead-side-lunge
+name: Dumbbell Overhead Side Lunge
+human_readable_ids:
+- DumbbellOverheadSideLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

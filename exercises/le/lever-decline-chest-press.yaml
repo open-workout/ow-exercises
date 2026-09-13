@@ -1,0 +1,15 @@
+id: '1300'
+slug: lever-decline-chest-press
+name: Lever Decline Chest Press
+human_readable_ids:
+- LeverDeclineChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

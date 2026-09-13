@@ -1,0 +1,15 @@
+id: '5481'
+slug: seated-foot-slide
+name: Seated Foot Slide
+human_readable_ids:
+- SeatedFootSlide
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1809'
+slug: sitting-feet-together-reach-forward-stretch
+name: Sitting Feet Together Reach Forward Stretch
+human_readable_ids:
+- SittingFeetTogetherReachForwardStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

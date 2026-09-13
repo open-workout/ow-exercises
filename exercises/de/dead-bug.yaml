@@ -1,0 +1,15 @@
+id: '0276'
+slug: dead-bug
+name: Dead Bug
+human_readable_ids:
+- DeadBug
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

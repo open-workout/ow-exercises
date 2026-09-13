@@ -1,0 +1,17 @@
+id: '1916'
+slug: standing-reach-down-hamstring-stretch
+name: Standing Reach Down Hamstring Stretch
+human_readable_ids:
+- StandingReachDownHamstringStretch
+primary_muscles:
+- back
+- calves
+- glutes
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

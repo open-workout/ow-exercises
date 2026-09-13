@@ -1,0 +1,15 @@
+id: '4141'
+slug: band-overhead-single-arm-triceps-extension-version-2
+name: Band Overhead Single Arm Triceps Extension (VERSION 2)
+human_readable_ids:
+- BandOverheadSingleArmTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

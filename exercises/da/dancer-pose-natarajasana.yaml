@@ -1,0 +1,14 @@
+id: '6304'
+slug: dancer-pose-natarajasana
+name: Dancer Pose Natarajasana
+human_readable_ids:
+- DancerPoseNatarajasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

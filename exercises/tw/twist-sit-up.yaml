@@ -1,0 +1,15 @@
+id: 0821
+slug: twist-sit-up
+name: Twist Sit-up
+human_readable_ids:
+- TwistSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

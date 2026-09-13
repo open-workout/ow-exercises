@@ -1,0 +1,15 @@
+id: '1112'
+slug: suspension-crunch
+name: Suspension Crunch
+human_readable_ids:
+- SuspensionCrunch
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

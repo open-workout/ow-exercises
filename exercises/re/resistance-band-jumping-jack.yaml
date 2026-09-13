@@ -1,0 +1,15 @@
+id: '2465'
+slug: resistance-band-jumping-jack
+name: Resistance Band Jumping Jack
+human_readable_ids:
+- ResistanceBandJumpingJack
+primary_muscles:
+- plyometrics
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

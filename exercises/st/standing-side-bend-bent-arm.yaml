@@ -1,0 +1,14 @@
+id: '3255'
+slug: standing-side-bend-bent-arm
+name: Standing Side Bend (bent arm)
+human_readable_ids:
+- StandingSideBend
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

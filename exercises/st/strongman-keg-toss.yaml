@@ -1,0 +1,17 @@
+id: '3307'
+slug: strongman-keg-toss
+name: StrongMan Keg Toss
+human_readable_ids:
+- StrongManKegToss
+primary_muscles:
+- back
+- glutes
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

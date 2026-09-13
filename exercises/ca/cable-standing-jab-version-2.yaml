@@ -1,0 +1,15 @@
+id: '8900'
+slug: cable-standing-jab-version-2
+name: Cable Standing Jab (VERSION 2)
+human_readable_ids:
+- CableStandingJab
+primary_muscles:
+- plyometrics
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

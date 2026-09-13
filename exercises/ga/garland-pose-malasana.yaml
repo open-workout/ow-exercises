@@ -1,0 +1,14 @@
+id: 0951
+slug: garland-pose-malasana
+name: Garland Pose Malasana
+human_readable_ids:
+- GarlandPoseMalasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

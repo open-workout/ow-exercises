@@ -1,0 +1,16 @@
+id: '2367'
+slug: dumbbell-rear-lunge-from-step
+name: Dumbbell Rear Lunge from Step
+human_readable_ids:
+- DumbbellRearLungefromStep
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '4631'
+slug: scorpion-stretch
+name: Scorpion Stretch
+human_readable_ids:
+- ScorpionStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

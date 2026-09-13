@@ -1,0 +1,15 @@
+id: '0201'
+slug: cable-pushdown
+name: Cable Pushdown
+human_readable_ids:
+- CablePushdown
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

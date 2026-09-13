@@ -1,0 +1,15 @@
+id: '8612'
+slug: resistance-band-seated-inversion-foot
+name: Resistance Band Seated Inversion Foot
+human_readable_ids:
+- ResistanceBandSeatedInversionFoot
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

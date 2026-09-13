@@ -1,0 +1,16 @@
+id: '2573'
+slug: back-forward-leg-swings
+name: Back Forward Leg Swings
+human_readable_ids:
+- BackForwardLegSwings
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

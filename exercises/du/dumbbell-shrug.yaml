@@ -1,0 +1,15 @@
+id: '0406'
+slug: dumbbell-shrug
+name: Dumbbell Shrug
+human_readable_ids:
+- DumbbellShrug
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

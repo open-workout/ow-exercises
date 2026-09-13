@@ -1,0 +1,15 @@
+id: '9602'
+slug: bodyweight-patrick-step-from-stepbox
+name: Bodyweight Patrick Step from StepBox
+human_readable_ids:
+- BodyweightPatrickStepfromStepBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

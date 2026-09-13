@@ -1,0 +1,14 @@
+id: '1158'
+slug: suspension-side-stretch
+name: Suspension Side Stretch
+human_readable_ids:
+- SuspensionSideStretch
+primary_muscles:
+- quads
+equipment:
+- suspension
+modalities:
+- time
+load:
+  required: false
+  direction: added

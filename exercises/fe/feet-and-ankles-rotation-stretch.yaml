@@ -1,0 +1,14 @@
+id: '3246'
+slug: feet-and-ankles-rotation-stretch
+name: Feet and Ankles Rotation Stretch
+human_readable_ids:
+- FeetandAnklesRotationStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

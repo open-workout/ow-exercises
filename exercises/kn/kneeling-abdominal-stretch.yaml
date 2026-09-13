@@ -1,0 +1,14 @@
+id: '2109'
+slug: kneeling-abdominal-stretch
+name: Kneeling Abdominal Stretch
+human_readable_ids:
+- KneelingAbdominalStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

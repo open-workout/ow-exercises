@@ -1,0 +1,15 @@
+id: '2308'
+slug: roundhouse-kick-kickboxing
+name: Roundhouse Kick. Kickboxing
+human_readable_ids:
+- RoundhouseKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

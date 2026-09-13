@@ -1,0 +1,15 @@
+id: '7230'
+slug: kettlebell-gorilla-row
+name: Kettlebell Gorilla Row
+human_readable_ids:
+- KettlebellGorillaRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

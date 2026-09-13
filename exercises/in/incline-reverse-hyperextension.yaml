@@ -1,0 +1,16 @@
+id: '3180'
+slug: incline-reverse-hyperextension
+name: Incline Reverse Hyperextension
+human_readable_ids:
+- InclineReverseHyperextension
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

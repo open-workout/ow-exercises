@@ -1,0 +1,17 @@
+id: '2153'
+slug: resistance-band-full-squat
+name: Resistance Band Full Squat
+human_readable_ids:
+- ResistanceBandFullSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1245'
+slug: lying-leg-raise-and-hold
+name: Lying Leg Raise and Hold
+human_readable_ids:
+- LyingLegRaiseandHold
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4557'
+slug: couch-stretch
+name: Couch Stretch
+human_readable_ids:
+- CouchStretch
+primary_muscles:
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

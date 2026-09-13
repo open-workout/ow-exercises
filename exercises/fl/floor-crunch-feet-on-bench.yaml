@@ -1,0 +1,15 @@
+id: '3279'
+slug: floor-crunch-feet-on-bench
+name: Floor Crunch Feet on Bench
+human_readable_ids:
+- FloorCrunchFeetonBench
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3725'
+slug: barbell-overhead-lunge
+name: Barbell Overhead Lunge
+human_readable_ids:
+- BarbellOverheadLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

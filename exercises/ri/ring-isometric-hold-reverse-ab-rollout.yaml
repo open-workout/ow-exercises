@@ -1,0 +1,15 @@
+id: '9313'
+slug: ring-isometric-hold-reverse-ab-rollout
+name: Ring Isometric Hold Reverse Ab Rollout
+human_readable_ids:
+- RingIsometricHoldReverseAbRollout
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

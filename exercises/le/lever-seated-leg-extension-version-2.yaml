@@ -1,0 +1,15 @@
+id: '3386'
+slug: lever-seated-leg-extension-version-2
+name: Lever Seated Leg Extension (VERSION 2)
+human_readable_ids:
+- LeverSeatedLegExtension
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

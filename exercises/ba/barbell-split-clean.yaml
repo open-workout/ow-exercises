@@ -1,0 +1,15 @@
+id: '1537'
+slug: barbell-split-clean
+name: Barbell Split Clean
+human_readable_ids:
+- BarbellSplitClean
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

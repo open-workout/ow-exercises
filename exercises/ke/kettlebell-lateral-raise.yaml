@@ -1,0 +1,15 @@
+id: '3740'
+slug: kettlebell-lateral-raise
+name: Kettlebell Lateral Raise
+human_readable_ids:
+- KettlebellLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

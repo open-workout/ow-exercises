@@ -1,0 +1,14 @@
+id: '2135'
+slug: weighted-front-plank
+name: Weighted Front Plank
+human_readable_ids:
+- WeightedFrontPlank
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- time
+load:
+  required: true
+  direction: added

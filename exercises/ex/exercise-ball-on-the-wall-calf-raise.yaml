@@ -1,0 +1,15 @@
+id: '1382'
+slug: exercise-ball-on-the-wall-calf-raise
+name: Exercise Ball on the Wall Calf Raise
+human_readable_ids:
+- ExerciseBallontheWallCalfRaise
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

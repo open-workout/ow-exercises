@@ -1,0 +1,15 @@
+id: '10540'
+slug: lying-bent-knee-tibialis-press
+name: Lying Bent Knee Tibialis Press
+human_readable_ids:
+- LyingBentKneeTibialisPress
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

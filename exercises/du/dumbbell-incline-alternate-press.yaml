@@ -1,0 +1,15 @@
+id: '3545'
+slug: dumbbell-incline-alternate-press
+name: Dumbbell Incline Alternate Press
+human_readable_ids:
+- DumbbellInclineAlternatePress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5128'
+slug: seated-back-squeeze
+name: Seated Back Squeeze
+human_readable_ids:
+- SeatedBackSqueeze
+primary_muscles:
+- back
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

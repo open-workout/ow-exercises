@@ -1,0 +1,15 @@
+id: '4902'
+slug: elevated-single-leg-hip-thrust
+name: Elevated Single Leg Hip Thrust
+human_readable_ids:
+- ElevatedSingleLegHipThrust
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

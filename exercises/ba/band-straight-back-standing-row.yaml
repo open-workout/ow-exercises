@@ -1,0 +1,15 @@
+id: 0930
+slug: band-straight-back-standing-row
+name: Band straight-back standing row
+human_readable_ids:
+- Bandstraightbackstandingrow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

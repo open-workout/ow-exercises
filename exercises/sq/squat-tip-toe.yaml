@@ -1,0 +1,16 @@
+id: '3927'
+slug: squat-tip-toe
+name: Squat Tip Toe
+human_readable_ids:
+- SquatTipToe
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

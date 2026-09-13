@@ -1,0 +1,17 @@
+id: '2732'
+slug: strongman-dumbbell-one-arm-clean-and-jerk
+name: StrongMan Dumbbell One Arm Clean and Jerk
+human_readable_ids:
+- StrongManDumbbellOneArmCleanandJerk
+primary_muscles:
+- glutes
+- shoulders
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

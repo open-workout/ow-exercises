@@ -1,0 +1,15 @@
+id: '1992'
+slug: sled-full-hack-squat
+name: Sled Full Hack Squat
+human_readable_ids:
+- SledFullHackSquat
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

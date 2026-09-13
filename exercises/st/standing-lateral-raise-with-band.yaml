@@ -1,0 +1,15 @@
+id: 0793
+slug: standing-lateral-raise-with-band
+name: Standing Lateral Raise (with band)
+human_readable_ids:
+- StandingLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

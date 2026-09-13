@@ -1,0 +1,15 @@
+id: '8608'
+slug: resistance-band-sumo-squat
+name: Resistance Band Sumo Squat
+human_readable_ids:
+- ResistanceBandSumoSquat
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

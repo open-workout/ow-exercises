@@ -1,0 +1,15 @@
+id: '1613'
+slug: alternate-leg-raise
+name: Alternate Leg Raise
+human_readable_ids:
+- AlternateLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

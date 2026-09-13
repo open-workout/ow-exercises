@@ -1,0 +1,15 @@
+id: '3910'
+slug: weighted-push-up-with-vest
+name: Weighted Push-up with Vest
+human_readable_ids:
+- WeightedPushupwithVest
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

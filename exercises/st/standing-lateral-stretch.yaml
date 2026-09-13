@@ -1,0 +1,14 @@
+id: 0794
+slug: standing-lateral-stretch
+name: Standing Lateral Stretch
+human_readable_ids:
+- StandingLateralStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

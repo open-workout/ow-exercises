@@ -1,0 +1,14 @@
+id: '1378'
+slug: calf-stretch-with-rope
+name: Calf Stretch with Rope
+human_readable_ids:
+- CalfStretchwithRope
+primary_muscles:
+- calves
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

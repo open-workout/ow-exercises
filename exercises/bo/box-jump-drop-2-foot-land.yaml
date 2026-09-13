@@ -1,0 +1,15 @@
+id: '10160'
+slug: box-jump-drop-2-foot-land
+name: Box Jump Drop 2 Foot Land
+human_readable_ids:
+- BoxJumpDrop2FootLand
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

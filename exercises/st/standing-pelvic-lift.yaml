@@ -1,0 +1,15 @@
+id: '9890'
+slug: standing-pelvic-lift
+name: Standing Pelvic Lift
+human_readable_ids:
+- StandingPelvicLift
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

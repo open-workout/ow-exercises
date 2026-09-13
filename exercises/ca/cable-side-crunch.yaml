@@ -1,0 +1,15 @@
+id: '0223'
+slug: cable-side-crunch
+name: Cable Side Crunch
+human_readable_ids:
+- CableSideCrunch
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6464'
+slug: bodyweight-frog-hip-thrust
+name: Bodyweight Frog Hip Thrust
+human_readable_ids:
+- BodyweightFrogHipThrust
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

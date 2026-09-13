@@ -1,0 +1,15 @@
+id: '1123'
+slug: suspension-one-arm-biceps-curl
+name: Suspension One Arm Biceps Curl
+human_readable_ids:
+- SuspensionOneArmBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

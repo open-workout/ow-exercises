@@ -1,0 +1,15 @@
+id: '6161'
+slug: dumbbell-lying-leg-curl
+name: Dumbbell Lying Leg Curl
+human_readable_ids:
+- DumbbellLyingLegCurl
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

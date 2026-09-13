@@ -1,0 +1,16 @@
+id: '3375'
+slug: battling-ropes-fly
+name: Battling Ropes Fly
+human_readable_ids:
+- BattlingRopesFly
+primary_muscles:
+- chest
+- shoulders
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4228'
+slug: cable-half-kneeling-push-pull
+name: Cable Half Kneeling Push Pull
+human_readable_ids:
+- CableHalfKneelingPushPull
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

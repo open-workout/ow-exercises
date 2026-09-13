@@ -1,0 +1,15 @@
+id: 0028
+slug: barbell-clean-and-press
+name: Barbell Clean and Press
+human_readable_ids:
+- BarbellCleanandPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

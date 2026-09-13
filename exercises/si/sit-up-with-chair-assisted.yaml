@@ -1,0 +1,15 @@
+id: '3389'
+slug: sit-up-with-chair-assisted
+name: Sit up with Chair Assisted
+human_readable_ids:
+- SitupwithChairAssisted
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

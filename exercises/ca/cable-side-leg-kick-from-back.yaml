@@ -1,0 +1,15 @@
+id: '10860'
+slug: cable-side-leg-kick-from-back
+name: Cable Side Leg Kick from Back
+human_readable_ids:
+- CableSideLegKickfromBack
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

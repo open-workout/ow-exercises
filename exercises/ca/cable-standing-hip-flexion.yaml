@@ -1,0 +1,15 @@
+id: '8191'
+slug: cable-standing-hip-flexion
+name: Cable Standing Hip Flexion
+human_readable_ids:
+- CableStandingHipFlexion
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

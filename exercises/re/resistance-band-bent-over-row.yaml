@@ -1,0 +1,15 @@
+id: '3858'
+slug: resistance-band-bent-over-row
+name: Resistance Band Bent Over Row
+human_readable_ids:
+- ResistanceBandBentOverRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

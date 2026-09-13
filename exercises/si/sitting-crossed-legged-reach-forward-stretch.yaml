@@ -1,0 +1,14 @@
+id: '1807'
+slug: sitting-crossed-legged-reach-forward-stretch
+name: Sitting Crossed Legged Reach Forward Stretch
+human_readable_ids:
+- SittingCrossedLeggedReachForwardStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0436'
+slug: dumbbell-tate-press
+name: Dumbbell Tate Press
+human_readable_ids:
+- DumbbellTatePress
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

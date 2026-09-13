@@ -1,0 +1,15 @@
+id: '2366'
+slug: barbell-shoulder-grip-upright-row
+name: Barbell Shoulder Grip Upright Row
+human_readable_ids:
+- BarbellShoulderGripUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

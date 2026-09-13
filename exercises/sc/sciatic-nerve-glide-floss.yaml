@@ -1,0 +1,14 @@
+id: '11652'
+slug: sciatic-nerve-glide-floss
+name: Sciatic Nerve Glide Floss
+human_readable_ids:
+- SciaticNerveGlideFloss
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

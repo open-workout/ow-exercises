@@ -1,0 +1,14 @@
+id: '11797'
+slug: forward-press-shoulders-mobilization
+name: Forward Press Shoulders Mobilization
+human_readable_ids:
+- ForwardPressShouldersMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

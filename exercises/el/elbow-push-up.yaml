@@ -1,0 +1,14 @@
+id: '3266'
+slug: elbow-push-up
+name: Elbow Push up
+human_readable_ids:
+- ElbowPushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

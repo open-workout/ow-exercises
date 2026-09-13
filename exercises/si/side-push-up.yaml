@@ -1,0 +1,15 @@
+id: '0717'
+slug: side-push-up
+name: Side Push-up
+human_readable_ids:
+- SidePushup
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

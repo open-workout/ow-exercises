@@ -1,0 +1,15 @@
+id: '9517'
+slug: weighted-kettlebell-dead-bug
+name: Weighted Kettlebell Dead Bug
+human_readable_ids:
+- WeightedKettlebellDeadBug
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2934'
+slug: kettlebell-half-kneeling-shoulder-press
+name: Kettlebell Half Kneeling Shoulder Press
+human_readable_ids:
+- KettlebellHalfKneelingShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

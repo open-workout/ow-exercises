@@ -1,0 +1,15 @@
+id: '5522'
+slug: ring-pull-up
+name: Ring Pull Up
+human_readable_ids:
+- RingPullUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

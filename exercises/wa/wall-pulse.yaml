@@ -1,0 +1,15 @@
+id: '5174'
+slug: wall-pulse
+name: Wall Pulse
+human_readable_ids:
+- WallPulse
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

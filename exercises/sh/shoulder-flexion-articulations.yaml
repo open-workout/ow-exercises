@@ -1,0 +1,14 @@
+id: '2778'
+slug: shoulder-flexion-articulations
+name: Shoulder - Flexion - Articulations
+human_readable_ids:
+- ShoulderFlexionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

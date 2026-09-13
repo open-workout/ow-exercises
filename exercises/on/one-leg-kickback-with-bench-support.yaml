@@ -1,0 +1,15 @@
+id: '1049'
+slug: one-leg-kickback-with-bench-support
+name: One leg kickback (with bench support)
+human_readable_ids:
+- Onelegkickback
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

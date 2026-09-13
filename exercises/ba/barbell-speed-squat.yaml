@@ -1,0 +1,16 @@
+id: '0101'
+slug: barbell-speed-squat
+name: Barbell Speed Squat
+human_readable_ids:
+- BarbellSpeedSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

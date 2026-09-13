@@ -1,0 +1,15 @@
+id: '5179'
+slug: cable-standing-close-grip-row
+name: Cable Standing Close Grip Row
+human_readable_ids:
+- CableStandingCloseGripRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

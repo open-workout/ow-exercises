@@ -1,0 +1,16 @@
+id: '2959'
+slug: dumbbell-split-squat
+name: Dumbbell Split Squat
+human_readable_ids:
+- DumbbellSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

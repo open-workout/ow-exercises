@@ -1,0 +1,15 @@
+id: '1028'
+slug: assisted-standing-triceps-dip
+name: Assisted Standing Triceps Dip
+human_readable_ids:
+- AssistedStandingTricepsDip
+primary_muscles:
+- biceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

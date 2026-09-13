@@ -1,0 +1,16 @@
+id: '6890'
+slug: dumbbell-z-press-6890
+name: Dumbbell Z-Press
+human_readable_ids:
+- DumbbellZPress
+primary_muscles:
+- shoulders
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1689'
+slug: push-and-pull-bodyweight
+name: Push and Pull Bodyweight
+human_readable_ids:
+- PushandPullBodyweight
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

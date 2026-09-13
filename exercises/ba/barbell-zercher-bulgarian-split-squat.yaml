@@ -1,0 +1,15 @@
+id: '7552'
+slug: barbell-zercher-bulgarian-split-squat
+name: Barbell Zercher Bulgarian Split Squat
+human_readable_ids:
+- BarbellZercherBulgarianSplitSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3863'
+slug: bulgarian-jump-squat
+name: Bulgarian Jump Squat
+human_readable_ids:
+- BulgarianJumpSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

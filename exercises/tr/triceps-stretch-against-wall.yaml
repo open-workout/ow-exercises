@@ -1,0 +1,14 @@
+id: '1829'
+slug: triceps-stretch-against-wall
+name: Triceps Stretch Against Wall
+human_readable_ids:
+- TricepsStretchAgainstWall
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

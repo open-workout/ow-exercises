@@ -1,0 +1,15 @@
+id: '1242'
+slug: crunch-on-bosu-ball
+name: Crunch (on bosu ball)
+human_readable_ids:
+- Crunch
+primary_muscles:
+- abs
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

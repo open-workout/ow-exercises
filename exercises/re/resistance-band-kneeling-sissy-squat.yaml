@@ -1,0 +1,15 @@
+id: '9988'
+slug: resistance-band-kneeling-sissy-squat
+name: Resistance Band Kneeling Sissy Squat
+human_readable_ids:
+- ResistanceBandKneelingSissySquat
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

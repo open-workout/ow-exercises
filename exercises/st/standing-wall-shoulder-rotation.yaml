@@ -1,0 +1,15 @@
+id: '10937'
+slug: standing-wall-shoulder-rotation
+name: Standing Wall Shoulder Rotation
+human_readable_ids:
+- StandingWallShoulderRotation
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

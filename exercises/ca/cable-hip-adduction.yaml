@@ -1,0 +1,15 @@
+id: 0168
+slug: cable-hip-adduction
+name: Cable Hip Adduction
+human_readable_ids:
+- CableHipAdduction
+primary_muscles:
+- adductors
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

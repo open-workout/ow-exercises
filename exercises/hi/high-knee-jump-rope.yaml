@@ -1,0 +1,16 @@
+id: '3677'
+slug: high-knee-jump-rope
+name: High Knee Jump Rope
+human_readable_ids:
+- HighKneeJumpRope
+primary_muscles:
+- cardio
+equipment:
+- rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

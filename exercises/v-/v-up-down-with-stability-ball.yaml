@@ -1,0 +1,15 @@
+id: '2815'
+slug: v-up-down-with-stability-ball
+name: V-Up Down (with Stability ball)
+human_readable_ids:
+- VUpDown
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

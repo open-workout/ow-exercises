@@ -1,0 +1,14 @@
+id: '1712'
+slug: assisted-side-lying-adductor-stretch
+name: Assisted Side Lying Adductor Stretch
+human_readable_ids:
+- AssistedSideLyingAdductorStretch
+primary_muscles:
+- glutes
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

@@ -1,0 +1,15 @@
+id: 0079
+slug: barbell-revers-wrist-curl-version-2
+name: Barbell Revers Wrist Curl (version 2)
+human_readable_ids:
+- BarbellReversWristCurl
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

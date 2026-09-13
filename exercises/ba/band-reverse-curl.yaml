@@ -1,0 +1,15 @@
+id: 0917
+slug: band-reverse-curl
+name: Band reverse curl
+human_readable_ids:
+- Bandreversecurl
+primary_muscles:
+- forearms
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

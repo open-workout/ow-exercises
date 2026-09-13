@@ -1,0 +1,15 @@
+id: '1270'
+slug: cable-upper-chest-crossovers
+name: Cable Upper Chest Crossovers
+human_readable_ids:
+- CableUpperChestCrossovers
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

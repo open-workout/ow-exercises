@@ -1,0 +1,15 @@
+id: '6698'
+slug: weighted-plate-standing-biceps-curl
+name: Weighted Plate Standing Biceps Curl
+human_readable_ids:
+- WeightedPlateStandingBicepsCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10639'
+slug: glute-ham-developer-full-sit-up
+name: Glute Ham Developer Full Sit up
+human_readable_ids:
+- GluteHamDeveloperFullSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

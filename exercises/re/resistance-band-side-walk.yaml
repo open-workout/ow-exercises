@@ -1,0 +1,15 @@
+id: '2165'
+slug: resistance-band-side-walk
+name: Resistance Band Side Walk
+human_readable_ids:
+- ResistanceBandSideWalk
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

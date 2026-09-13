@@ -1,0 +1,15 @@
+id: '9928'
+slug: cable-lying-incline-single-leg-kickback
+name: Cable Lying Incline Single Leg Kickback
+human_readable_ids:
+- CableLyingInclineSingleLegKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

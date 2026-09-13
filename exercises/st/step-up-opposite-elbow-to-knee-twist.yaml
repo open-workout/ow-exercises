@@ -1,0 +1,16 @@
+id: 0800
+slug: step-up-opposite-elbow-to-knee-twist
+name: Step-up opposite elbow to knee twist
+human_readable_ids:
+- Stepupoppositeelbowtokneetwist
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

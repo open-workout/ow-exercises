@@ -1,0 +1,15 @@
+id: '2107'
+slug: cow-stretch
+name: Cow Stretch
+human_readable_ids:
+- CowStretch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

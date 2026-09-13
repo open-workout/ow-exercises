@@ -1,0 +1,15 @@
+id: '2509'
+slug: barbell-reverse-grip-incline-row
+name: Barbell Reverse Grip Incline Row
+human_readable_ids:
+- BarbellReverseGripInclineRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

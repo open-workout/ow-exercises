@@ -1,0 +1,15 @@
+id: '5237'
+slug: single-dumbbell-decline-overhead-sit-up
+name: Single Dumbbell Decline Overhead Sit-up
+human_readable_ids:
+- SingleDumbbellDeclineOverheadSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

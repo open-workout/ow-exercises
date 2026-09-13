@@ -1,0 +1,15 @@
+id: '7994'
+slug: dumbbell-glute-bridge-chest-press
+name: Dumbbell Glute Bridge Chest Press
+human_readable_ids:
+- DumbbellGluteBridgeChestPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

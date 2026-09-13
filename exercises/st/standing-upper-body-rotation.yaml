@@ -1,0 +1,14 @@
+id: '3408'
+slug: standing-upper-body-rotation
+name: Standing Upper Body Rotation
+human_readable_ids:
+- StandingUpperBodyRotation
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

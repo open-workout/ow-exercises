@@ -1,0 +1,15 @@
+id: '6693'
+slug: cable-kneeling-side-crunch
+name: Cable Kneeling Side Crunch
+human_readable_ids:
+- CableKneelingSideCrunch
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

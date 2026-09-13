@@ -1,0 +1,14 @@
+id: '4495'
+slug: roll-ball-forearm-supinator
+name: Roll Ball Forearm Supinator
+human_readable_ids:
+- RollBallForearmSupinator
+primary_muscles:
+- forearms
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

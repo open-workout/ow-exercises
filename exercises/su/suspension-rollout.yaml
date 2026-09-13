@@ -1,0 +1,15 @@
+id: '1091'
+slug: suspension-rollout
+name: Suspension Rollout
+human_readable_ids:
+- SuspensionRollout
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

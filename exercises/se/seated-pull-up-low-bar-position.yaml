@@ -1,0 +1,15 @@
+id: '4784'
+slug: seated-pull-up-low-bar-position
+name: Seated Pull-up (low bar position)
+human_readable_ids:
+- SeatedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

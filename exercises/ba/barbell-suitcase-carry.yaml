@@ -1,0 +1,15 @@
+id: '2918'
+slug: barbell-suitcase-carry
+name: Barbell Suitcase Carry
+human_readable_ids:
+- BarbellSuitcaseCarry
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

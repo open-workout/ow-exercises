@@ -1,0 +1,15 @@
+id: '2921'
+slug: pike-push-up-2921
+name: Pike Push up
+human_readable_ids:
+- PikePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

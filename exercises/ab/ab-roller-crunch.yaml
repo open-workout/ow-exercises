@@ -1,0 +1,15 @@
+id: '2269'
+slug: ab-roller-crunch
+name: Ab Roller Crunch
+human_readable_ids:
+- AbRollerCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

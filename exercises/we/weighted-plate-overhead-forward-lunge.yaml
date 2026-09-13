@@ -1,0 +1,15 @@
+id: '9610'
+slug: weighted-plate-overhead-forward-lunge
+name: Weighted Plate Overhead Forward Lunge
+human_readable_ids:
+- WeightedPlateOverheadForwardLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

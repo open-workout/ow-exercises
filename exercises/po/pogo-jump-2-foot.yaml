@@ -1,0 +1,15 @@
+id: '9070'
+slug: pogo-jump-2-foot
+name: Pogo Jump 2 Foot
+human_readable_ids:
+- PogoJump2Foot
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

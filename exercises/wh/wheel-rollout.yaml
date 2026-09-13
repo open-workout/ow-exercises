@@ -1,0 +1,15 @@
+id: 0857
+slug: wheel-rollout
+name: Wheel Rollout
+human_readable_ids:
+- WheelRollout
+primary_muscles:
+- back
+equipment:
+- wheel-roller
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2459'
+slug: tire-flip
+name: Tire Flip
+human_readable_ids:
+- TireFlip
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

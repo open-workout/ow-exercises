@@ -1,0 +1,15 @@
+id: '4798'
+slug: suspender-alternate-superman
+name: Suspender Alternate Superman
+human_readable_ids:
+- SuspenderAlternateSuperman
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

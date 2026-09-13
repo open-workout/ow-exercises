@@ -1,0 +1,15 @@
+id: '2974'
+slug: lever-one-arm-chest-press-plate-loaded
+name: Lever One Arm Chest Press (plate loaded)
+human_readable_ids:
+- LeverOneArmChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

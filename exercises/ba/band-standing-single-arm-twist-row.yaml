@@ -1,0 +1,15 @@
+id: '4146'
+slug: band-standing-single-arm-twist-row
+name: Band Standing Single Arm Twist Row
+human_readable_ids:
+- BandStandingSingleArmTwistRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

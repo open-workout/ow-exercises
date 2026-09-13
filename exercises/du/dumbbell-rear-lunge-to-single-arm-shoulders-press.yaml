@@ -1,0 +1,15 @@
+id: '10096'
+slug: dumbbell-rear-lunge-to-single-arm-shoulders-press
+name: Dumbbell Rear Lunge to Single Arm Shoulders Press
+human_readable_ids:
+- DumbbellRearLungetoSingleArmShouldersPress
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

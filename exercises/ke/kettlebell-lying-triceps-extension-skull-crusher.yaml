@@ -1,0 +1,15 @@
+id: '5861'
+slug: kettlebell-lying-triceps-extension-skull-crusher
+name: Kettlebell Lying Triceps Extension Skull Crusher
+human_readable_ids:
+- KettlebellLyingTricepsExtensionSkullCrusher
+primary_muscles:
+- biceps
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

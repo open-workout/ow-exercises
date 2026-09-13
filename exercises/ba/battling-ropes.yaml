@@ -1,0 +1,15 @@
+id: 0128
+slug: battling-ropes
+name: Battling Ropes
+human_readable_ids:
+- BattlingRopes
+primary_muscles:
+- shoulders
+equipment:
+- rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

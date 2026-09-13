@@ -1,0 +1,14 @@
+id: '1358'
+slug: side-lying-floor-stretch
+name: Side Lying Floor Stretch
+human_readable_ids:
+- SideLyingFloorStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1129'
+slug: suspension-rear-lunge
+name: Suspension Rear Lunge
+human_readable_ids:
+- SuspensionRearLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

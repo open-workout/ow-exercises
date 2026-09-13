@@ -1,0 +1,15 @@
+id: '10660'
+slug: resistance-band-assisted-single-arm-pull-up
+name: Resistance Band Assisted Single Arm Pull-up
+human_readable_ids:
+- ResistanceBandAssistedSingleArmPullup
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

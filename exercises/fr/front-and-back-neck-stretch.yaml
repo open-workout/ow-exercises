@@ -1,0 +1,14 @@
+id: '0462'
+slug: front-and-back-neck-stretch
+name: Front and Back Neck Stretch
+human_readable_ids:
+- FrontandBackNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

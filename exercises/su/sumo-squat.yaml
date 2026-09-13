@@ -1,0 +1,16 @@
+id: 0802
+slug: sumo-squat
+name: Sumo Squat
+human_readable_ids:
+- SumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0284
+slug: donkey-calf-raise
+name: Donkey Calf Raise
+human_readable_ids:
+- DonkeyCalfRaise
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

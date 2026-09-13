@@ -1,0 +1,15 @@
+id: '1629'
+slug: barbell-standing-wide-grip-biceps-curl
+name: Barbell Standing Wide Grip Biceps Curl
+human_readable_ids:
+- BarbellStandingWideGripBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

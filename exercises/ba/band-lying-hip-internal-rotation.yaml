@@ -1,0 +1,16 @@
+id: 0984
+slug: band-lying-hip-internal-rotation
+name: Band Lying Hip Internal Rotation
+human_readable_ids:
+- BandLyingHipInternalRotation
+primary_muscles:
+- glutes
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

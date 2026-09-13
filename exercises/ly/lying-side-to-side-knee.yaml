@@ -1,0 +1,17 @@
+id: '4609'
+slug: lying-side-to-side-knee
+name: Lying Side to Side Knee
+human_readable_ids:
+- LyingSidetoSideKnee
+primary_muscles:
+- adductors
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0169
+slug: cable-incline-bench-press
+name: Cable Incline Bench Press
+human_readable_ids:
+- CableInclineBenchPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10820'
+slug: resistance-band-standing-balance-bent-leg-hip-abduction
+name: Resistance Band Standing Balance Bent Leg Hip Abduction
+human_readable_ids:
+- ResistanceBandStandingBalanceBentLegHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

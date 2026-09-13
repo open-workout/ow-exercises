@@ -1,0 +1,15 @@
+id: '4182'
+slug: resistance-band-rear-delt-row
+name: Resistance Band Rear Delt Row
+human_readable_ids:
+- ResistanceBandRearDeltRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10925'
+slug: two-to-one-leg-jump
+name: Two to One Leg Jump
+human_readable_ids:
+- TwotoOneLegJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

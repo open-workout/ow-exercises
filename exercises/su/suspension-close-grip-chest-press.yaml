@@ -1,0 +1,15 @@
+id: '1111'
+slug: suspension-close-grip-chest-press
+name: Suspension Close-grip Chest Press
+human_readable_ids:
+- SuspensionClosegripChestPress
+primary_muscles:
+- chest
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

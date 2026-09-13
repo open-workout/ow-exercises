@@ -1,0 +1,16 @@
+id: '4962'
+slug: barbell-box-squat
+name: Barbell Box Squat
+human_readable_ids:
+- BarbellBoxSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

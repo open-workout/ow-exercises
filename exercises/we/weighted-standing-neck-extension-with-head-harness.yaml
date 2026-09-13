@@ -1,0 +1,15 @@
+id: '2410'
+slug: weighted-standing-neck-extension-with-head-harness
+name: Weighted Standing Neck Extension (with head harness)
+human_readable_ids:
+- WeightedStandingNeckExtension
+primary_muscles:
+- neck
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1312'
+slug: medicine-ball-chest-push-with-run-release
+name: Medicine Ball Chest Push with Run Release
+human_readable_ids:
+- MedicineBallChestPushwithRunRelease
+primary_muscles:
+- chest
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

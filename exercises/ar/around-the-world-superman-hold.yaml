@@ -1,0 +1,16 @@
+id: '3483'
+slug: around-the-world-superman-hold
+name: Around the World Superman Hold
+human_readable_ids:
+- AroundtheWorldSupermanHold
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

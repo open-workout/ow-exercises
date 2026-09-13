@@ -1,0 +1,16 @@
+id: 0799
+slug: step-up-crossover
+name: Step up Crossover
+human_readable_ids:
+- StepupCrossover
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

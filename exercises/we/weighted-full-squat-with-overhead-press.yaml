@@ -1,0 +1,17 @@
+id: '5529'
+slug: weighted-full-squat-with-overhead-press
+name: Weighted Full Squat with Overhead Press
+human_readable_ids:
+- WeightedFullSquatwithOverheadPress
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4960'
+slug: cable-high-triceps-extension
+name: Cable High Triceps Extension
+human_readable_ids:
+- CableHighTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1216'
+slug: lever-seated-one-leg-calf-raise
+name: Lever seated one leg calf raise
+human_readable_ids:
+- Leverseatedonelegcalfraise
+primary_muscles:
+- calves
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

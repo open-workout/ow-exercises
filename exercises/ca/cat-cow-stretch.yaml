@@ -1,0 +1,14 @@
+id: '4580'
+slug: cat-cow-stretch
+name: Cat Cow Stretch
+human_readable_ids:
+- CatCowStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1015'
+slug: band-vertical-pallof-press
+name: Band vertical Pallof Press
+human_readable_ids:
+- BandverticalPallofPress
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

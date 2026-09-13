@@ -1,0 +1,17 @@
+id: '3653'
+slug: band-assisted-sprinter-run
+name: Band Assisted Sprinter Run
+human_readable_ids:
+- BandAssistedSprinterRun
+primary_muscles:
+- cardio
+equipment:
+- assisted
+- band
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: assisted

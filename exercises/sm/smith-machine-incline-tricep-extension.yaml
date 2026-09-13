@@ -1,0 +1,15 @@
+id: '1752'
+slug: smith-machine-incline-tricep-extension
+name: Smith Machine Incline Tricep Extension
+human_readable_ids:
+- SmithMachineInclineTricepExtension
+primary_muscles:
+- biceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

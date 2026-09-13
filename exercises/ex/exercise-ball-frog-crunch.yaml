@@ -1,0 +1,15 @@
+id: '2469'
+slug: exercise-ball-frog-crunch
+name: Exercise Ball Frog Crunch
+human_readable_ids:
+- ExerciseBallFrogCrunch
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

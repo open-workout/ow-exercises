@@ -1,0 +1,15 @@
+id: '0270'
+slug: crunch-on-bench
+name: Crunch (on bench)
+human_readable_ids:
+- Crunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

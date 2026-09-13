@@ -1,0 +1,15 @@
+id: '9604'
+slug: bodyweight-poliquin-step-from-stepbox
+name: Bodyweight Poliquin Step from StepBox
+human_readable_ids:
+- BodyweightPoliquinStepfromStepBox
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '2339'
+slug: chest-bench-press-grip-width-wrong-right
+name: Chest Bench Press - Grip Width (WRONG-RIGHT)
+human_readable_ids:
+- ChestBenchPressGripWidth
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

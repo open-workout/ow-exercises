@@ -1,0 +1,16 @@
+id: '3456'
+slug: burpee-with-push-up
+name: Burpee with Push-up
+human_readable_ids:
+- BurpeewithPushup
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

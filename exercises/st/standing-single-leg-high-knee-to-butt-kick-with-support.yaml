@@ -1,0 +1,17 @@
+id: '4653'
+slug: standing-single-leg-high-knee-to-butt-kick-with-support
+name: Standing Single Leg High Knee to Butt Kick With Support
+human_readable_ids:
+- StandingSingleLegHighKneetoButtKickWithSupport
+primary_muscles:
+- glutes
+- hamstrings
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

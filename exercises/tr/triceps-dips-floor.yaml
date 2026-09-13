@@ -1,0 +1,15 @@
+id: 0815
+slug: triceps-dips-floor
+name: Triceps Dips Floor
+human_readable_ids:
+- TricepsDipsFloor
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

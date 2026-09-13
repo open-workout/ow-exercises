@@ -1,0 +1,15 @@
+id: '3484'
+slug: elbow-to-knee-sit-up
+name: Elbow to Knee Sit-up
+human_readable_ids:
+- ElbowtoKneeSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

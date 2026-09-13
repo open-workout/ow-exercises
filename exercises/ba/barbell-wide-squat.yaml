@@ -1,0 +1,15 @@
+id: '0124'
+slug: barbell-wide-squat
+name: Barbell Wide Squat
+human_readable_ids:
+- BarbellWideSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

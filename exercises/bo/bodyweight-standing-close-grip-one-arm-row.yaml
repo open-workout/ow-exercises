@@ -1,0 +1,15 @@
+id: '3155'
+slug: bodyweight-standing-close-grip-one-arm-row
+name: Bodyweight Standing Close-grip One Arm Row
+human_readable_ids:
+- BodyweightStandingClosegripOneArmRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

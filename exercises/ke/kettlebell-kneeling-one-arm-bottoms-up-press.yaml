@@ -1,0 +1,15 @@
+id: '2927'
+slug: kettlebell-kneeling-one-arm-bottoms-up-press
+name: Kettlebell Kneeling One Arm Bottoms Up Press
+human_readable_ids:
+- KettlebellKneelingOneArmBottomsUpPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

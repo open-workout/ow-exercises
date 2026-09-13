@@ -1,0 +1,14 @@
+id: '2998'
+slug: seated-ankle-stretch
+name: Seated Ankle Stretch
+human_readable_ids:
+- SeatedAnkleStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

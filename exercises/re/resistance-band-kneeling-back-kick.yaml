@@ -1,0 +1,15 @@
+id: '7208'
+slug: resistance-band-kneeling-back-kick
+name: Resistance Band Kneeling Back Kick
+human_readable_ids:
+- ResistanceBandKneelingBackKick
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

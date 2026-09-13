@@ -1,0 +1,15 @@
+id: '7107'
+slug: lever-seated-single-leg-press-version-2
+name: Lever Seated Single Leg Press (VERSION 2)
+human_readable_ids:
+- LeverSeatedSingleLegPress
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

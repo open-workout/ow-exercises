@@ -1,0 +1,15 @@
+id: '5766'
+slug: stepback-pulldown
+name: Stepback Pulldown
+human_readable_ids:
+- StepbackPulldown
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

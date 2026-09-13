@@ -1,0 +1,15 @@
+id: '8611'
+slug: resistance-band-seated-eversion-foot
+name: Resistance Band Seated Eversion Foot
+human_readable_ids:
+- ResistanceBandSeatedEversionFoot
+primary_muscles:
+- calves
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

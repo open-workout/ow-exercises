@@ -1,0 +1,16 @@
+id: '3086'
+slug: elbow-to-knee-twists-3086
+name: Elbow To Knee Twists
+human_readable_ids:
+- ElbowToKneeTwists
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

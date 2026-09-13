@@ -1,0 +1,15 @@
+id: '4191'
+slug: dumbbell-partials-lateral-raise
+name: Dumbbell Partials Lateral Raise
+human_readable_ids:
+- DumbbellPartialsLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

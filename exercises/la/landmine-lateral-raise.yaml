@@ -1,0 +1,15 @@
+id: '3237'
+slug: landmine-lateral-raise
+name: Landmine Lateral Raise
+human_readable_ids:
+- LandmineLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

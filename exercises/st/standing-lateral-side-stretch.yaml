@@ -1,0 +1,14 @@
+id: '2117'
+slug: standing-lateral-side-stretch
+name: Standing Lateral Side Stretch
+human_readable_ids:
+- StandingLateralSideStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4942'
+slug: stationary-arms-throw
+name: Stationary Arms Throw
+human_readable_ids:
+- StationaryArmsThrow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

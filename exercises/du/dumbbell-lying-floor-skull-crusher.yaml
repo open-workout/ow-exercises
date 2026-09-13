@@ -1,0 +1,15 @@
+id: '4151'
+slug: dumbbell-lying-floor-skull-crusher
+name: Dumbbell Lying Floor Skull Crusher
+human_readable_ids:
+- DumbbellLyingFloorSkullCrusher
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

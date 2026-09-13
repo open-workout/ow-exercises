@@ -1,0 +1,17 @@
+id: '0115'
+slug: barbell-stiff-leg-good-morning
+name: Barbell Stiff Leg Good Morning
+human_readable_ids:
+- BarbellStiffLegGoodMorning
+primary_muscles:
+- back
+- glutes
+- hamstrings
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

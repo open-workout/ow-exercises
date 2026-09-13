@@ -1,0 +1,16 @@
+id: '3392'
+slug: narrow-squat-from-deficit
+name: Narrow Squat from Deficit
+human_readable_ids:
+- NarrowSquatfromDeficit
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

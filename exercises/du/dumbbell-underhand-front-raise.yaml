@@ -1,0 +1,15 @@
+id: '11014'
+slug: dumbbell-underhand-front-raise
+name: Dumbbell Underhand Front Raise
+human_readable_ids:
+- DumbbellUnderhandFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

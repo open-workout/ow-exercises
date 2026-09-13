@@ -1,0 +1,14 @@
+id: '4395'
+slug: shoulder-circle
+name: Shoulder Circle
+human_readable_ids:
+- ShoulderCircle
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

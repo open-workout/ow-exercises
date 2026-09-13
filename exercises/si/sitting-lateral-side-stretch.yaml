@@ -1,0 +1,14 @@
+id: '2118'
+slug: sitting-lateral-side-stretch
+name: Sitting Lateral Side Stretch
+human_readable_ids:
+- SittingLateralSideStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

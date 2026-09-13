@@ -1,0 +1,15 @@
+id: '10139'
+slug: sitting-isometric-hamstring-curl-hold-with-exercise-ball
+name: Sitting Isometric Hamstring Curl Hold with Exercise Ball
+human_readable_ids:
+- SittingIsometricHamstringCurlHoldwithExerciseBall
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

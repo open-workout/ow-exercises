@@ -1,0 +1,15 @@
+id: '0232'
+slug: cable-standing-pulldown-with-rope
+name: Cable Standing Pulldown (with rope)
+human_readable_ids:
+- CableStandingPulldown
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

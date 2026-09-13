@@ -1,0 +1,18 @@
+id: '3372'
+slug: battling-ropes-alternate-arms-side-lunge
+name: Battling Ropes Alternate Arms Side Lunge
+human_readable_ids:
+- BattlingRopesAlternateArmsSideLunge
+primary_muscles:
+- back
+- chest
+- glutes
+- quads
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

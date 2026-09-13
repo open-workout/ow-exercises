@@ -1,0 +1,15 @@
+id: '4061'
+slug: barbell-banded-bench-squat
+name: Barbell Banded Bench Squat
+human_readable_ids:
+- BarbellBandedBenchSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3182'
+slug: weighted-frog-pump
+name: Weighted Frog Pump
+human_readable_ids:
+- WeightedFrogPump
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

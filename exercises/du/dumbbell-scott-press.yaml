@@ -1,0 +1,15 @@
+id: '2397'
+slug: dumbbell-scott-press
+name: Dumbbell Scott Press
+human_readable_ids:
+- DumbbellScottPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3741'
+slug: lateral-raise-with-towel
+name: Lateral Raise with Towel
+human_readable_ids:
+- LateralRaisewithTowel
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

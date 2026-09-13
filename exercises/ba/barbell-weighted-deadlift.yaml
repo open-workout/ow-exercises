@@ -1,0 +1,16 @@
+id: '3308'
+slug: barbell-weighted-deadlift
+name: Barbell Weighted Deadlift
+human_readable_ids:
+- BarbellWeightedDeadlift
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

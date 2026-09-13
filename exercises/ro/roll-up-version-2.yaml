@@ -1,0 +1,14 @@
+id: '2858'
+slug: roll-up-version-2
+name: Roll Up (VERSION 2)
+human_readable_ids:
+- RollUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

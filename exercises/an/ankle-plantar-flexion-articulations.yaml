@@ -1,0 +1,14 @@
+id: '2762'
+slug: ankle-plantar-flexion-articulations
+name: Ankle - Plantar Flexion - Articulations
+human_readable_ids:
+- AnklePlantarFlexionArticulations
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

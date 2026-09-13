@@ -1,0 +1,15 @@
+id: '5243'
+slug: cable-lying-triceps-extension-low
+name: Cable Lying Triceps Extension (Low)
+human_readable_ids:
+- CableLyingTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

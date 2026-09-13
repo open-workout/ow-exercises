@@ -1,0 +1,15 @@
+id: '4044'
+slug: single-leg-glute-bridge-with-knee-to-chest
+name: Single Leg Glute Bridge with Knee to Chest
+human_readable_ids:
+- SingleLegGluteBridgewithKneetoChest
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

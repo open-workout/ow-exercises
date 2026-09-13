@@ -1,0 +1,15 @@
+id: '0311'
+slug: dumbbell-full-can-lateral-raise
+name: Dumbbell Full Can Lateral Raise
+human_readable_ids:
+- DumbbellFullCanLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

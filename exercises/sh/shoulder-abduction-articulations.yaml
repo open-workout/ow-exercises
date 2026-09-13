@@ -1,0 +1,14 @@
+id: '2775'
+slug: shoulder-abduction-articulations
+name: Shoulder - Abduction - Articulations
+human_readable_ids:
+- ShoulderAbductionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

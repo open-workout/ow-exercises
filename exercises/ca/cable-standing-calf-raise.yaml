@@ -1,0 +1,15 @@
+id: '1375'
+slug: cable-standing-calf-raise
+name: Cable Standing Calf Raise
+human_readable_ids:
+- CableStandingCalfRaise
+primary_muscles:
+- calves
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

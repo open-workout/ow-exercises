@@ -1,0 +1,15 @@
+id: '1154'
+slug: suspension-calf-raise
+name: Suspension Calf Raise
+human_readable_ids:
+- SuspensionCalfRaise
+primary_muscles:
+- calves
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

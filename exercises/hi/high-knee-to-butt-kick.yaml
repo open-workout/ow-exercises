@@ -1,0 +1,16 @@
+id: '4634'
+slug: high-knee-to-butt-kick
+name: High Knee to Butt Kick
+human_readable_ids:
+- HighKneetoButtKick
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

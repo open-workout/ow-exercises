@@ -1,0 +1,14 @@
+id: '1055'
+slug: lying-prone-abdominal-stretch
+name: Lying (prone) Abdominal Stretch
+human_readable_ids:
+- LyingAbdominalStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

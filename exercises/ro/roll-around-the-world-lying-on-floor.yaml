@@ -1,0 +1,14 @@
+id: '5386'
+slug: roll-around-the-world-lying-on-floor
+name: Roll Around the World Lying on Floor
+human_readable_ids:
+- RollAroundtheWorldLyingonFloor
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

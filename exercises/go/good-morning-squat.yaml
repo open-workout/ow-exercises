@@ -1,0 +1,15 @@
+id: '4547'
+slug: good-morning-squat
+name: Good Morning Squat
+human_readable_ids:
+- GoodMorningSquat
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

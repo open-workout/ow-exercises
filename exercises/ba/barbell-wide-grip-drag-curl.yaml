@@ -1,0 +1,15 @@
+id: '2413'
+slug: barbell-wide-grip-drag-curl
+name: Barbell Wide-grip Drag Curl
+human_readable_ids:
+- BarbellWidegripDragCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

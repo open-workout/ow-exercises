@@ -1,0 +1,14 @@
+id: '6560'
+slug: 90-to-90-stretch
+name: 90 to 90 Stretch
+human_readable_ids:
+- 90to90Stretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

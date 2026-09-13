@@ -1,0 +1,16 @@
+id: '3387'
+slug: dips-between-chairs
+name: Dips between Chairs
+human_readable_ids:
+- DipsbetweenChairs
+primary_muscles:
+- chest
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

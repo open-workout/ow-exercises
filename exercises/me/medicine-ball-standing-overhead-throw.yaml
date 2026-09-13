@@ -1,0 +1,16 @@
+id: '3442'
+slug: medicine-ball-standing-overhead-throw
+name: Medicine Ball Standing Overhead Throw
+human_readable_ids:
+- MedicineBallStandingOverheadThrow
+primary_muscles:
+- chest
+- biceps
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

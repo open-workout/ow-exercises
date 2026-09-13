@@ -1,0 +1,14 @@
+id: '5385'
+slug: roll-shoulder-blade-reach-lying-on-floor
+name: Roll Shoulder Blade Reach Lying on Floor
+human_readable_ids:
+- RollShoulderBladeReachLyingonFloor
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '8873'
+slug: weighted-dumbbell-lying-knee-raise
+name: Weighted Dumbbell Lying Knee Raise
+human_readable_ids:
+- WeightedDumbbellLyingKneeRaise
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

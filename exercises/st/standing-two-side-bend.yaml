@@ -1,0 +1,14 @@
+id: '3254'
+slug: standing-two-side-bend
+name: Standing Two Side Bend
+human_readable_ids:
+- StandingTwoSideBend
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3985'
+slug: push-up-hand-by-hand
+name: Push-up Hand by Hand
+human_readable_ids:
+- PushupHandbyHand
+primary_muscles:
+- chest
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

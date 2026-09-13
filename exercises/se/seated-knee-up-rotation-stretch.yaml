@@ -1,0 +1,14 @@
+id: '1933'
+slug: seated-knee-up-rotation-stretch
+name: Seated Knee Up Rotation Stretch
+human_readable_ids:
+- SeatedKneeUpRotationStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

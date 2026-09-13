@@ -1,0 +1,15 @@
+id: '9312'
+slug: high-bar-incline-push-up
+name: High Bar Incline Push-up
+human_readable_ids:
+- HighBarInclinePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

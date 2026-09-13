@@ -1,0 +1,16 @@
+id: '2287'
+slug: lever-alternate-leg-press-plate-loaded
+name: Lever Alternate Leg Press (plate loaded)
+human_readable_ids:
+- LeverAlternateLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

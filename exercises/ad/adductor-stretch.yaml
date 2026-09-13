@@ -1,0 +1,15 @@
+id: 0936
+slug: adductor-stretch
+name: Adductor stretch
+human_readable_ids:
+- Adductorstretch
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

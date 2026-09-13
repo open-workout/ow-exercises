@@ -1,0 +1,15 @@
+id: '7175'
+slug: inline-skating
+name: Inline Skating
+human_readable_ids:
+- InlineSkating
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

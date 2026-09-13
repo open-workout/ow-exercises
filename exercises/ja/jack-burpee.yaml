@@ -1,0 +1,16 @@
+id: '0501'
+slug: jack-burpee
+name: Jack Burpee
+human_readable_ids:
+- JackBurpee
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

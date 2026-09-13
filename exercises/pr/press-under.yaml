@@ -1,0 +1,15 @@
+id: '4966'
+slug: press-under
+name: Press Under
+human_readable_ids:
+- PressUnder
+primary_muscles:
+- weightlifting
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

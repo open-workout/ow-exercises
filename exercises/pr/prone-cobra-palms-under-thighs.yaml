@@ -1,0 +1,15 @@
+id: '3206'
+slug: prone-cobra-palms-under-thighs
+name: Prone Cobra Palms Under Thighs
+human_readable_ids:
+- ProneCobraPalmsUnderThighs
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

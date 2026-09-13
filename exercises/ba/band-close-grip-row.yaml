@@ -1,0 +1,15 @@
+id: '4145'
+slug: band-close-grip-row
+name: Band Close Grip Row
+human_readable_ids:
+- BandCloseGripRow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6268'
+slug: ez-barbell-standing-single-arm-neutral-wrist-curl
+name: EZ Barbell Standing Single Arm Neutral Wrist Curl
+human_readable_ids:
+- EZBarbellStandingSingleArmNeutralWristCurl
+primary_muscles:
+- forearms
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

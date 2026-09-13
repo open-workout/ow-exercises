@@ -1,0 +1,15 @@
+id: '4911'
+slug: inverted-wide-to-narrow-row
+name: Inverted Wide to Narrow Row
+human_readable_ids:
+- InvertedWidetoNarrowRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '6444'
+slug: yoga-vajrasana-thunderbolt-diamond-pose
+name: Yoga Vajrasana Thunderbolt Diamond Pose
+human_readable_ids:
+- YogaVajrasanaThunderboltDiamondPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

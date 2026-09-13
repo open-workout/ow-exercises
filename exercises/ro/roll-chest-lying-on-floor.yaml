@@ -1,0 +1,14 @@
+id: '5377'
+slug: roll-chest-lying-on-floor
+name: Roll Chest Lying on Floor
+human_readable_ids:
+- RollChestLyingonFloor
+primary_muscles:
+- chest
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

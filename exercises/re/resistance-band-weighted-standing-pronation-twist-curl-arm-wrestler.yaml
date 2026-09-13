@@ -1,0 +1,15 @@
+id: '10331'
+slug: resistance-band-weighted-standing-pronation-twist-curl-arm-wrestler
+name: Resistance Band Weighted Standing Pronation Twist Curl (Arm Wrestler)
+human_readable_ids:
+- ResistanceBandWeightedStandingPronationTwistCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10054'
+slug: barbell-static-lunge
+name: Barbell Static Lunge
+human_readable_ids:
+- BarbellStaticLunge
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

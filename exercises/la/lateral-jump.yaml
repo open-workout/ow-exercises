@@ -1,0 +1,15 @@
+id: '11782'
+slug: lateral-jump
+name: Lateral Jump
+human_readable_ids:
+- LateralJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

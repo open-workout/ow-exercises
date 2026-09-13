@@ -1,0 +1,15 @@
+id: 0696
+slug: self-assisted-inverse-leg-curl-on-floor
+name: Self assisted Inverse Leg Curl (on floor)
+human_readable_ids:
+- SelfassistedInverseLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

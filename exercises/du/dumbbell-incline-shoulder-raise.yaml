@@ -1,0 +1,15 @@
+id: 0328
+slug: dumbbell-incline-shoulder-raise
+name: Dumbbell Incline Shoulder Raise
+human_readable_ids:
+- DumbbellInclineShoulderRaise
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

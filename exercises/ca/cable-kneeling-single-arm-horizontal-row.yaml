@@ -1,0 +1,15 @@
+id: '10667'
+slug: cable-kneeling-single-arm-horizontal-row
+name: Cable Kneeling Single Arm Horizontal Row
+human_readable_ids:
+- CableKneelingSingleArmHorizontalRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

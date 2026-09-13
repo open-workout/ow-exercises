@@ -1,0 +1,15 @@
+id: '1224'
+slug: smith-standing-shoulder-press
+name: Smith Standing Shoulder Press
+human_readable_ids:
+- SmithStandingShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

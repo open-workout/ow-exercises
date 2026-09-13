@@ -1,0 +1,15 @@
+id: '2268'
+slug: lever-seated-crunch-hands-pad
+name: Lever Seated Crunch (hands pad)
+human_readable_ids:
+- LeverSeatedCrunch
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

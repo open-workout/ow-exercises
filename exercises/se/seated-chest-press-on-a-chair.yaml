@@ -1,0 +1,15 @@
+id: '8618'
+slug: seated-chest-press-on-a-chair
+name: Seated Chest Press on a Chair
+human_readable_ids:
+- SeatedChestPressonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

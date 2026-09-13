@@ -1,0 +1,15 @@
+id: '1021'
+slug: band-standing-leg-raise
+name: Band Standing Leg Raise
+human_readable_ids:
+- BandStandingLegRaise
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

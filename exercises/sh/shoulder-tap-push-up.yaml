@@ -1,0 +1,15 @@
+id: 0699
+slug: shoulder-tap-push-up
+name: Shoulder Tap Push-up
+human_readable_ids:
+- ShoulderTapPushup
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

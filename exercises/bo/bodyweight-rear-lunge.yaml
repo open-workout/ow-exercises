@@ -1,0 +1,16 @@
+id: '1581'
+slug: bodyweight-rear-lunge
+name: Bodyweight Rear Lunge
+human_readable_ids:
+- BodyweightRearLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

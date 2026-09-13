@@ -1,0 +1,15 @@
+id: '6162'
+slug: dumbbell-incline-low-fly
+name: Dumbbell Incline Low Fly
+human_readable_ids:
+- DumbbellInclineLowFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

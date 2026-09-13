@@ -1,0 +1,15 @@
+id: '1491'
+slug: supine-spinal-twist-yoga-pose
+name: Supine Spinal Twist Yoga Pose
+human_readable_ids:
+- SupineSpinalTwistYogaPose
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

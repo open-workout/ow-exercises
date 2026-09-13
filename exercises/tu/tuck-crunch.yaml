@@ -1,0 +1,15 @@
+id: 0871
+slug: tuck-crunch
+name: Tuck Crunch
+human_readable_ids:
+- TuckCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

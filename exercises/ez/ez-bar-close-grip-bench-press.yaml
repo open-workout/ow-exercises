@@ -1,0 +1,15 @@
+id: '2432'
+slug: ez-bar-close-grip-bench-press
+name: EZ-bar Close-Grip Bench Press
+human_readable_ids:
+- EZbarCloseGripBenchPress
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

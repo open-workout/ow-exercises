@@ -1,0 +1,15 @@
+id: '2848'
+slug: leg-pull-side
+name: Leg Pull Side
+human_readable_ids:
+- LegPullSide
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

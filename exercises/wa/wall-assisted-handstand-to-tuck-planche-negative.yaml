@@ -1,0 +1,15 @@
+id: '10997'
+slug: wall-assisted-handstand-to-tuck-planche-negative
+name: Wall Assisted Handstand to Tuck Planche Negative
+human_readable_ids:
+- WallAssistedHandstandtoTuckPlancheNegative
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

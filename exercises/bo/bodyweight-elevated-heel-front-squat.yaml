@@ -1,0 +1,15 @@
+id: '9691'
+slug: bodyweight-elevated-heel-front-squat
+name: Bodyweight Elevated Heel Front Squat
+human_readable_ids:
+- BodyweightElevatedHeelFrontSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

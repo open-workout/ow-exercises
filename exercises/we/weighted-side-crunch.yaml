@@ -1,0 +1,15 @@
+id: '4158'
+slug: weighted-side-crunch
+name: Weighted Side Crunch
+human_readable_ids:
+- WeightedSideCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

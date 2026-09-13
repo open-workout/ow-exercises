@@ -1,0 +1,17 @@
+id: '3707'
+slug: dumbbell-press-squat
+name: Dumbbell Press Squat
+human_readable_ids:
+- DumbbellPressSquat
+primary_muscles:
+- chest
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0995
+slug: band-seated-hip-external-rotation
+name: Band Seated Hip External Rotation
+human_readable_ids:
+- BandSeatedHipExternalRotation
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

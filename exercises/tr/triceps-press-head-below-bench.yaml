@@ -1,0 +1,15 @@
+id: '1191'
+slug: triceps-press-head-below-bench
+name: Triceps Press (Head Below Bench)
+human_readable_ids:
+- TricepsPress
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

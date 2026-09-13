@@ -1,0 +1,15 @@
+id: '9451'
+slug: lying-floor-6-inch-hold
+name: Lying Floor 6 Inch Hold
+human_readable_ids:
+- LyingFloor6InchHold
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

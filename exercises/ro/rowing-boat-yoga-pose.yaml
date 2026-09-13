@@ -1,0 +1,14 @@
+id: '4392'
+slug: rowing-boat-yoga-pose
+name: Rowing Boat Yoga Pose
+human_readable_ids:
+- RowingBoatYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

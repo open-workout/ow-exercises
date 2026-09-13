@@ -1,0 +1,15 @@
+id: '5225'
+slug: smith-back-wide-shrug
+name: Smith Back Wide Shrug
+human_readable_ids:
+- SmithBackWideShrug
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

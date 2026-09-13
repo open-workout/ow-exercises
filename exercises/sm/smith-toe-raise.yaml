@@ -1,0 +1,15 @@
+id: '1396'
+slug: smith-toe-raise
+name: Smith Toe Raise
+human_readable_ids:
+- SmithToeRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

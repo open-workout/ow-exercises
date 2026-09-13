@@ -1,0 +1,15 @@
+id: '3935'
+slug: decline-push-up-kneeling
+name: Decline Push-up (Kneeling)
+human_readable_ids:
+- DeclinePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

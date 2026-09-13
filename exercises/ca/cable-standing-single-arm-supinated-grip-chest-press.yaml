@@ -1,0 +1,15 @@
+id: '11764'
+slug: cable-standing-single-arm-supinated-grip-chest-press
+name: Cable Standing Single Arm Supinated Grip Chest Press
+human_readable_ids:
+- CableStandingSingleArmSupinatedGripChestPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

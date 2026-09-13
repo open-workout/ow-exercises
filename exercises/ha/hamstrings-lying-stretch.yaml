@@ -1,0 +1,14 @@
+id: '1406'
+slug: hamstrings-lying-stretch
+name: Hamstrings Lying Stretch
+human_readable_ids:
+- HamstringsLyingStretch
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

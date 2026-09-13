@@ -1,0 +1,15 @@
+id: '4807'
+slug: wide-to-narrow-push-up
+name: Wide to Narrow Push-up
+human_readable_ids:
+- WidetoNarrowPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

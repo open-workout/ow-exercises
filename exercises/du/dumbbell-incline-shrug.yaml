@@ -1,0 +1,15 @@
+id: 0329
+slug: dumbbell-incline-shrug
+name: Dumbbell Incline Shrug
+human_readable_ids:
+- DumbbellInclineShrug
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3983'
+slug: one-arm-front-plank
+name: One Arm Front Plank
+human_readable_ids:
+- OneArmFrontPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

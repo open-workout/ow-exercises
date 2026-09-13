@@ -1,0 +1,15 @@
+id: '2912'
+slug: trap-bar-farmers-carry
+name: Trap Bar Farmers Carry
+human_readable_ids:
+- TrapBarFarmersCarry
+primary_muscles:
+- quads
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

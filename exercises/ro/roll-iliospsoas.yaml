@@ -1,0 +1,14 @@
+id: '4599'
+slug: roll-iliospsoas
+name: Roll Iliospsoas
+human_readable_ids:
+- RollIliospsoas
+primary_muscles:
+- abs
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

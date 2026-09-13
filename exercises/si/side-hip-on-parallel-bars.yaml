@@ -1,0 +1,15 @@
+id: 0709
+slug: side-hip-on-parallel-bars
+name: Side Hip (on parallel bars)
+human_readable_ids:
+- SideHip
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

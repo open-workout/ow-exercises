@@ -1,0 +1,15 @@
+id: '1019'
+slug: band-side-bend
+name: Band side bend
+human_readable_ids:
+- Bandsidebend
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

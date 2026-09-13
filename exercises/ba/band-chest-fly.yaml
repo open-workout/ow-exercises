@@ -1,0 +1,15 @@
+id: '4075'
+slug: band-chest-fly
+name: Band Chest Fly
+human_readable_ids:
+- BandChestFly
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

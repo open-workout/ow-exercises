@@ -1,0 +1,15 @@
+id: '5527'
+slug: lever-seated-bent-over-rear-delt-fly
+name: Lever Seated Bent Over Rear Delt Fly
+human_readable_ids:
+- LeverSeatedBentOverRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

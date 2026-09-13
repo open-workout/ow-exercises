@@ -1,0 +1,15 @@
+id: '4206'
+slug: band-assisted-chin-up-from-knee
+name: Band Assisted Chin-Up (From Knee)
+human_readable_ids:
+- BandAssistedChinUp
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

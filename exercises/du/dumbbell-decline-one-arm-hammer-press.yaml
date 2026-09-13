@@ -1,0 +1,15 @@
+id: '1617'
+slug: dumbbell-decline-one-arm-hammer-press
+name: Dumbbell Decline One Arm Hammer Press
+human_readable_ids:
+- DumbbellDeclineOneArmHammerPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

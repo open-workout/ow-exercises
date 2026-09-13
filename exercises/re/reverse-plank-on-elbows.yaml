@@ -1,0 +1,15 @@
+id: '5045'
+slug: reverse-plank-on-elbows
+name: Reverse Plank on Elbows
+human_readable_ids:
+- ReversePlankonElbows
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

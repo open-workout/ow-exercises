@@ -1,0 +1,15 @@
+id: '0524'
+slug: kettlebell-bent-press
+name: Kettlebell Bent Press
+human_readable_ids:
+- KettlebellBentPress
+primary_muscles:
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10045'
+slug: snow-angel-face-to-floor
+name: Snow Angel Face to Floor
+human_readable_ids:
+- SnowAngelFacetoFloor
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

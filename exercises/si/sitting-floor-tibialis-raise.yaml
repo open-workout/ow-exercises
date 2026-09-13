@@ -1,0 +1,14 @@
+id: '9272'
+slug: sitting-floor-tibialis-raise
+name: Sitting Floor Tibialis Raise
+human_readable_ids:
+- SittingFloorTibialisRaise
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4039'
+slug: landmine-one-arm-bent-over-bench-row
+name: Landmine One Arm Bent-Over Bench Row
+human_readable_ids:
+- LandmineOneArmBentOverBenchRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

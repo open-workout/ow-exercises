@@ -1,0 +1,15 @@
+id: '0571'
+slug: lever-single-arm-neutral-grip-seated-row-plate-loaded
+name: Lever Single Arm Neutral Grip Seated Row (plate loaded)
+human_readable_ids:
+- LeverSingleArmNeutralGripSeatedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

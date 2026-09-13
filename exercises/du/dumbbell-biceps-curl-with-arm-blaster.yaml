@@ -1,0 +1,15 @@
+id: '2401'
+slug: dumbbell-biceps-curl-with-arm-blaster
+name: Dumbbell Biceps Curl (with arm blaster)
+human_readable_ids:
+- DumbbellBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

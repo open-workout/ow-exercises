@@ -1,0 +1,15 @@
+id: '7859'
+slug: explosive-dynamic-plank
+name: Explosive Dynamic Plank
+human_readable_ids:
+- ExplosiveDynamicPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

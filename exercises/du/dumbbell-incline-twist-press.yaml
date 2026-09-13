@@ -1,0 +1,15 @@
+id: '6218'
+slug: dumbbell-incline-twist-press
+name: Dumbbell Incline Twist Press
+human_readable_ids:
+- DumbbellInclineTwistPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

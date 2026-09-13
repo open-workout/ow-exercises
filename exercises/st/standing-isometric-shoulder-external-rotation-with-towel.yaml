@@ -1,0 +1,15 @@
+id: '10126'
+slug: standing-isometric-shoulder-external-rotation-with-towel
+name: Standing Isometric Shoulder External Rotation with Towel
+human_readable_ids:
+- StandingIsometricShoulderExternalRotationwithTowel
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

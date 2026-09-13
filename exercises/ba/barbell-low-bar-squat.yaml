@@ -1,0 +1,16 @@
+id: '1435'
+slug: barbell-low-bar-squat
+name: Barbell Low Bar Squat
+human_readable_ids:
+- BarbellLowBarSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

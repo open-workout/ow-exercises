@@ -1,0 +1,15 @@
+id: '9009'
+slug: reverse-hyperextension-on-stability-ball
+name: Reverse Hyperextension on Stability Ball
+human_readable_ids:
+- ReverseHyperextensiononStabilityBall
+primary_muscles:
+- glutes
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '2846'
+slug: hundred
+name: Hundred
+human_readable_ids:
+- Hundred
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

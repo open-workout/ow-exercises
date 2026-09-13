@@ -1,0 +1,15 @@
+id: '0010'
+slug: assisted-hanging-knee-raise-with-throw-down
+name: Assisted Hanging Knee Raise With Throw Down
+human_readable_ids:
+- AssistedHangingKneeRaiseWithThrowDown
+primary_muscles:
+- abs
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

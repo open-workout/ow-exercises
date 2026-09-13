@@ -1,0 +1,15 @@
+id: '6537'
+slug: push-up-pull
+name: Push-up Pull
+human_readable_ids:
+- PushupPull
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

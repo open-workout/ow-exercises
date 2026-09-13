@@ -1,0 +1,15 @@
+id: 0138
+slug: bottoms-up-0138
+name: Bottoms-Up
+human_readable_ids:
+- BottomsUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

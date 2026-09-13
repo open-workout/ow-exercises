@@ -1,0 +1,15 @@
+id: '10738'
+slug: box-jump-through-the-arms
+name: Box Jump Through the Arms
+human_readable_ids:
+- BoxJumpThroughtheArms
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

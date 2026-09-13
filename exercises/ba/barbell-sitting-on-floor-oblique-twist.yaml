@@ -1,0 +1,15 @@
+id: '4854'
+slug: barbell-sitting-on-floor-oblique-twist
+name: Barbell Sitting on Floor Oblique Twist
+human_readable_ids:
+- BarbellSittingonFloorObliqueTwist
+primary_muscles:
+- abs
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

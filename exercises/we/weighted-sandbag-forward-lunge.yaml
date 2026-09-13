@@ -1,0 +1,15 @@
+id: '9940'
+slug: weighted-sandbag-forward-lunge
+name: Weighted Sandbag Forward Lunge
+human_readable_ids:
+- WeightedSandbagForwardLunge
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

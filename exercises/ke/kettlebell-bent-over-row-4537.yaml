@@ -1,0 +1,15 @@
+id: '4537'
+slug: kettlebell-bent-over-row-4537
+name: Kettlebell Bent-Over Row
+human_readable_ids:
+- KettlebellBentOverRow
+primary_muscles:
+- back
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

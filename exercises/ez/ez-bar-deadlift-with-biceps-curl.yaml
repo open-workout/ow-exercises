@@ -1,0 +1,17 @@
+id: '5240'
+slug: ez-bar-deadlift-with-biceps-curl
+name: EZ-bar Deadlift with Biceps Curl
+human_readable_ids:
+- EZbarDeadliftwithBicepsCurl
+primary_muscles:
+- biceps
+- glutes
+- quads
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

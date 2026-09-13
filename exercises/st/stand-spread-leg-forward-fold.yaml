@@ -1,0 +1,14 @@
+id: 0960
+slug: stand-spread-leg-forward-fold
+name: Stand Spread Leg Forward Fold
+human_readable_ids:
+- StandSpreadLegForwardFold
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

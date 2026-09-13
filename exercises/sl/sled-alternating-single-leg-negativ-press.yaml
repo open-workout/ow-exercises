@@ -1,0 +1,15 @@
+id: '10198'
+slug: sled-alternating-single-leg-negativ-press
+name: Sled Alternating Single Leg Negativ Press
+human_readable_ids:
+- SledAlternatingSingleLegNegativPress
+primary_muscles:
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

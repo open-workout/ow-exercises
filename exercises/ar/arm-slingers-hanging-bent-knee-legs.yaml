@@ -1,0 +1,15 @@
+id: '2355'
+slug: arm-slingers-hanging-bent-knee-legs
+name: Arm slingers Hanging Bent Knee Legs
+human_readable_ids:
+- ArmslingersHangingBentKneeLegs
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

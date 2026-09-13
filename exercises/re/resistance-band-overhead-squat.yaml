@@ -1,0 +1,15 @@
+id: '4186'
+slug: resistance-band-overhead-squat
+name: Resistance Band Overhead Squat
+human_readable_ids:
+- ResistanceBandOverheadSquat
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

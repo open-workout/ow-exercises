@@ -1,0 +1,15 @@
+id: '1318'
+slug: cable-incline-bench-row
+name: Cable Incline Bench Row
+human_readable_ids:
+- CableInclineBenchRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

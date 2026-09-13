@@ -1,0 +1,15 @@
+id: '1567'
+slug: kettlebell-open-palm-clean
+name: Kettlebell Open Palm Clean
+human_readable_ids:
+- KettlebellOpenPalmClean
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

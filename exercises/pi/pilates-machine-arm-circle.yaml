@@ -1,0 +1,14 @@
+id: '10854'
+slug: pilates-machine-arm-circle
+name: Pilates Machine Arm Circle
+human_readable_ids:
+- PilatesMachineArmCircle
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1098'
+slug: suspension-side-bridge
+name: Suspension Side Bridge
+human_readable_ids:
+- SuspensionSideBridge
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

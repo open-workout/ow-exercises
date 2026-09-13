@@ -1,0 +1,15 @@
+id: 0349
+slug: dumbbell-lying-supination
+name: Dumbbell Lying Supination
+human_readable_ids:
+- DumbbellLyingSupination
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

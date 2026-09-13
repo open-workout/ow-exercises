@@ -1,0 +1,15 @@
+id: '1851'
+slug: incline-push-press
+name: Incline Push Press
+human_readable_ids:
+- InclinePushPress
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

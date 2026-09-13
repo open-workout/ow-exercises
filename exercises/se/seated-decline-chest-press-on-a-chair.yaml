@@ -1,0 +1,15 @@
+id: '8620'
+slug: seated-decline-chest-press-on-a-chair
+name: Seated Decline Chest Press on a Chair
+human_readable_ids:
+- SeatedDeclineChestPressonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

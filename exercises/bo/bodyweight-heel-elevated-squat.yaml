@@ -1,0 +1,15 @@
+id: '7577'
+slug: bodyweight-heel-elevated-squat
+name: Bodyweight Heel Elevated Squat
+human_readable_ids:
+- BodyweightHeelElevatedSquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

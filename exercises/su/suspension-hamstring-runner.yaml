@@ -1,0 +1,15 @@
+id: '1076'
+slug: suspension-hamstring-runner
+name: Suspension Hamstring Runner
+human_readable_ids:
+- SuspensionHamstringRunner
+primary_muscles:
+- hamstrings
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

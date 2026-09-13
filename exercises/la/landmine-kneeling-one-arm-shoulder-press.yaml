@@ -1,0 +1,15 @@
+id: '3525'
+slug: landmine-kneeling-one-arm-shoulder-press
+name: Landmine Kneeling One Arm Shoulder Press
+human_readable_ids:
+- LandmineKneelingOneArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

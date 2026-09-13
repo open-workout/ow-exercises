@@ -1,0 +1,15 @@
+id: '5684'
+slug: crossed-arms-front-leg-kick
+name: Crossed Arms Front Leg Kick
+human_readable_ids:
+- CrossedArmsFrontLegKick
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

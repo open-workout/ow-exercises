@@ -1,0 +1,15 @@
+id: '1278'
+slug: dumbbell-incline-fly-on-exercise-ball
+name: Dumbbell Incline Fly on Exercise Ball
+human_readable_ids:
+- DumbbellInclineFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

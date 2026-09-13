@@ -1,0 +1,16 @@
+id: '3766'
+slug: dumbbell-single-leg-squat-version-2
+name: Dumbbell Single Leg Squat (VERSION 2)
+human_readable_ids:
+- DumbbellSingleLegSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

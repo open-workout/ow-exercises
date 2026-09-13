@@ -1,0 +1,15 @@
+id: '0670'
+slug: rear-pull-up
+name: Rear Pull-up
+human_readable_ids:
+- RearPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

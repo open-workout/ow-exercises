@@ -1,0 +1,15 @@
+id: '10185'
+slug: dumbbell-bear-plank-alternating-row
+name: Dumbbell Bear Plank Alternating Row
+human_readable_ids:
+- DumbbellBearPlankAlternatingRow
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

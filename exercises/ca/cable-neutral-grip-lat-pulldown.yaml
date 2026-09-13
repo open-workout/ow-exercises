@@ -1,0 +1,15 @@
+id: '7583'
+slug: cable-neutral-grip-lat-pulldown
+name: Cable Neutral Grip Lat Pulldown
+human_readable_ids:
+- CableNeutralGripLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

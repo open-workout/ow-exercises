@@ -1,0 +1,15 @@
+id: '5030'
+slug: push-up-jack
+name: Push-up Jack
+human_readable_ids:
+- PushupJack
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

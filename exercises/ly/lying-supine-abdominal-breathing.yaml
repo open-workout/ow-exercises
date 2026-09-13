@@ -1,0 +1,15 @@
+id: '9977'
+slug: lying-supine-abdominal-breathing
+name: Lying Supine Abdominal Breathing
+human_readable_ids:
+- LyingSupineAbdominalBreathing
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5844'
+slug: single-arm-side-straight-arm-lat-pulldown
+name: Single Arm Side Straight Arm Lat Pulldown
+human_readable_ids:
+- SingleArmSideStraightArmLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

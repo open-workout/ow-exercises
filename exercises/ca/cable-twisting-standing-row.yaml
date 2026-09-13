@@ -1,0 +1,15 @@
+id: '1212'
+slug: cable-twisting-standing-row
+name: Cable Twisting Standing Row
+human_readable_ids:
+- CableTwistingStandingRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6820'
+slug: kettlebell-incline-fly
+name: Kettlebell Incline Fly
+human_readable_ids:
+- KettlebellInclineFly
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

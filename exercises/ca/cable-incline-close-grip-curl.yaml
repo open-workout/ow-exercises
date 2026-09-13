@@ -1,0 +1,15 @@
+id: '4345'
+slug: cable-incline-close-grip-curl
+name: Cable Incline Close grip Curl
+human_readable_ids:
+- CableInclineClosegripCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

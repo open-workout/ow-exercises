@@ -1,0 +1,15 @@
+id: '1380'
+slug: dumbbell-seated-one-leg-calf-raise-hammer-grip
+name: Dumbbell Seated One Leg Calf Raise - Hammer Grip
+human_readable_ids:
+- DumbbellSeatedOneLegCalfRaiseHammerGrip
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

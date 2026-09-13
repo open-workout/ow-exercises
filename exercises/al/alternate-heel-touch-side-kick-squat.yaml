@@ -1,0 +1,16 @@
+id: '3479'
+slug: alternate-heel-touch-side-kick-squat
+name: Alternate Heel Touch Side Kick Squat
+human_readable_ids:
+- AlternateHeelTouchSideKickSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0118
+slug: barbell-reverse-grip-bent-over-row
+name: Barbell Reverse Grip Bent over Row
+human_readable_ids:
+- BarbellReverseGripBentoverRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3952'
+slug: high-knees-lunge
+name: High Knees Lunge
+human_readable_ids:
+- HighKneesLunge
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

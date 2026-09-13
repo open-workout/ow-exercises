@@ -1,0 +1,15 @@
+id: '0363'
+slug: dumbbell-one-arm-upright-row
+name: Dumbbell One Arm Upright Row
+human_readable_ids:
+- DumbbellOneArmUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4446'
+slug: kettlebell-half-kneeling-one-arm-bottoms-up-press
+name: Kettlebell Half Kneeling One Arm Bottoms-Up Press
+human_readable_ids:
+- KettlebellHalfKneelingOneArmBottomsUpPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

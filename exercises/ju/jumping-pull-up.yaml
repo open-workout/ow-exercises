@@ -1,0 +1,15 @@
+id: '1198'
+slug: jumping-pull-up
+name: Jumping Pull-up
+human_readable_ids:
+- JumpingPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

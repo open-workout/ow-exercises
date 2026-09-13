@@ -1,0 +1,15 @@
+id: '5094'
+slug: landmine-single-arm-press
+name: Landmine Single Arm Press
+human_readable_ids:
+- LandmineSingleArmPress
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

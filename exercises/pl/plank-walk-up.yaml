@@ -1,0 +1,16 @@
+id: '2793'
+slug: plank-walk-up
+name: Plank Walk-Up
+human_readable_ids:
+- PlankWalkUp
+primary_muscles:
+- chest
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

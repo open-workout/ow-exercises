@@ -1,0 +1,15 @@
+id: '2664'
+slug: lever-seated-row-plate-loaded
+name: Lever Seated Row (plate loaded)
+human_readable_ids:
+- LeverSeatedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

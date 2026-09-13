@@ -1,0 +1,16 @@
+id: '3194'
+slug: frankenstein-squat
+name: Frankenstein squat
+human_readable_ids:
+- Frankensteinsquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

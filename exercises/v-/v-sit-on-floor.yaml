@@ -1,0 +1,17 @@
+id: '3420'
+slug: v-sit-on-floor
+name: V-Sit on Floor
+human_readable_ids:
+- VSitonFloor
+primary_muscles:
+- back
+- shoulders
+- biceps
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

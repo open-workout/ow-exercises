@@ -1,0 +1,15 @@
+id: '0307'
+slug: dumbbell-decline-twist-fly
+name: Dumbbell Decline Twist Fly
+human_readable_ids:
+- DumbbellDeclineTwistFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

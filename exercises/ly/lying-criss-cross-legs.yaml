@@ -1,0 +1,16 @@
+id: '4880'
+slug: lying-criss-cross-legs
+name: Lying Criss-Cross Legs
+human_readable_ids:
+- LyingCrissCrossLegs
+primary_muscles:
+- adductors
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

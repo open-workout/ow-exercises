@@ -1,0 +1,15 @@
+id: '3507'
+slug: self-assisted-inverse-leg-curl-version-2
+name: Self-Assisted Inverse Leg Curl (VERSION 2)
+human_readable_ids:
+- SelfAssistedInverseLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

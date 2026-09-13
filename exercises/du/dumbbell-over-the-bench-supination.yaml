@@ -1,0 +1,15 @@
+id: '6758'
+slug: dumbbell-over-the-bench-supination
+name: Dumbbell Over the Bench Supination
+human_readable_ids:
+- DumbbellOvertheBenchSupination
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

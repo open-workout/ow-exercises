@@ -1,0 +1,14 @@
+id: '1830'
+slug: elbow-extensor-anconeus-stretch
+name: Elbow Extensor Anconeus Stretch
+human_readable_ids:
+- ElbowExtensorAnconeusStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

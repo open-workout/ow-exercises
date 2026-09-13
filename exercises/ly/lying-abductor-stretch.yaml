@@ -1,0 +1,16 @@
+id: '1882'
+slug: lying-abductor-stretch
+name: Lying Abductor Stretch
+human_readable_ids:
+- LyingAbductorStretch
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4856'
+slug: barbell-pin-close-grip-bench-press
+name: Barbell Pin Close Grip Bench Press
+human_readable_ids:
+- BarbellPinCloseGripBenchPress
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

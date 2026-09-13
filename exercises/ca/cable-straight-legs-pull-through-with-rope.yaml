@@ -1,0 +1,15 @@
+id: '2324'
+slug: cable-straight-legs-pull-through-with-rope
+name: Cable Straight Legs Pull Through (with rope)
+human_readable_ids:
+- CableStraightLegsPullThrough
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

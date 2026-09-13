@@ -1,0 +1,15 @@
+id: '4251'
+slug: dumbbell-straight-arm-twisting-sit-up
+name: Dumbbell Straight Arm Twisting Sit-up
+human_readable_ids:
+- DumbbellStraightArmTwistingSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

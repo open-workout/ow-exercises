@@ -1,0 +1,15 @@
+id: 0008
+slug: alternate-lying-floor-leg-raise
+name: Alternate Lying Floor Leg Raise
+human_readable_ids:
+- AlternateLyingFloorLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

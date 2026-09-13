@@ -1,0 +1,14 @@
+id: '3569'
+slug: roll-ball-pectorial-release
+name: Roll Ball Pectorial Release
+human_readable_ids:
+- RollBallPectorialRelease
+primary_muscles:
+- chest
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

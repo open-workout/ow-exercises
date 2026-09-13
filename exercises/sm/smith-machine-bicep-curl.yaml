@@ -1,0 +1,15 @@
+id: '1683'
+slug: smith-machine-bicep-curl
+name: Smith Machine Bicep Curl
+human_readable_ids:
+- SmithMachineBicepCurl
+primary_muscles:
+- biceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

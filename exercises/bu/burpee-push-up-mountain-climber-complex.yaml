@@ -1,0 +1,15 @@
+id: '5337'
+slug: burpee-push-up-mountain-climber-complex
+name: Burpee Push-up Mountain Climber Complex
+human_readable_ids:
+- BurpeePushupMountainClimberComplex
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

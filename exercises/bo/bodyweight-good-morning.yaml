@@ -1,0 +1,15 @@
+id: '5555'
+slug: bodyweight-good-morning
+name: Bodyweight Good Morning
+human_readable_ids:
+- BodyweightGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

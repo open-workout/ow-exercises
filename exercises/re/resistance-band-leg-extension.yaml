@@ -1,0 +1,15 @@
+id: '3007'
+slug: resistance-band-leg-extension
+name: Resistance Band Leg Extension
+human_readable_ids:
+- ResistanceBandLegExtension
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

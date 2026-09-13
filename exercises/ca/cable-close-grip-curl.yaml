@@ -1,0 +1,15 @@
+id: '1630'
+slug: cable-close-grip-curl
+name: Cable Close Grip Curl
+human_readable_ids:
+- CableCloseGripCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10921'
+slug: resistance-band-seated-single-leg-knee-extension-hold
+name: Resistance Band Seated Single Leg Knee Extension Hold
+human_readable_ids:
+- ResistanceBandSeatedSingleLegKneeExtensionHold
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

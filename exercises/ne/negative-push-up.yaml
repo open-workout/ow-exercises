@@ -1,0 +1,15 @@
+id: '5556'
+slug: negative-push-up
+name: Negative Push-up
+human_readable_ids:
+- NegativePushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

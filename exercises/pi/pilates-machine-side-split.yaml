@@ -1,0 +1,14 @@
+id: '10850'
+slug: pilates-machine-side-split
+name: Pilates Machine Side Split
+human_readable_ids:
+- PilatesMachineSideSplit
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

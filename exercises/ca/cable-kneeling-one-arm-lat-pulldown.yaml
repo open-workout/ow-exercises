@@ -1,0 +1,15 @@
+id: '4948'
+slug: cable-kneeling-one-arm-lat-pulldown
+name: Cable Kneeling One Arm Lat Pulldown
+human_readable_ids:
+- CableKneelingOneArmLatPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

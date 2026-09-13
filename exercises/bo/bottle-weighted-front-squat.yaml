@@ -1,0 +1,15 @@
+id: '6044'
+slug: bottle-weighted-front-squat
+name: Bottle Weighted Front Squat
+human_readable_ids:
+- BottleWeightedFrontSquat
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

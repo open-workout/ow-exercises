@@ -1,0 +1,15 @@
+id: '10044'
+slug: dumbbell-hang-snatch
+name: Dumbbell Hang Snatch
+human_readable_ids:
+- DumbbellHangSnatch
+primary_muscles:
+- weightlifting
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

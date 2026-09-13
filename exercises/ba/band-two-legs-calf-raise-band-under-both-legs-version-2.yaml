@@ -1,0 +1,15 @@
+id: '1369'
+slug: band-two-legs-calf-raise-band-under-both-legs-version-2
+name: Band Two Legs Calf Raise - (Band under both legs) VERSION 2
+human_readable_ids:
+- BandTwoLegsCalfRaiseVERSION2
+primary_muscles:
+- calves
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

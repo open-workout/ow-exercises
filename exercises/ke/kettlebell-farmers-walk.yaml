@@ -1,0 +1,15 @@
+id: '4528'
+slug: kettlebell-farmers-walk
+name: Kettlebell Farmers Walk
+human_readable_ids:
+- KettlebellFarmersWalk
+primary_muscles:
+- plyometrics
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

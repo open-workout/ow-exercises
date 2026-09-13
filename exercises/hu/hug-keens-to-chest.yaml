@@ -1,0 +1,14 @@
+id: '1418'
+slug: hug-keens-to-chest
+name: Hug keens to chest
+human_readable_ids:
+- Hugkeenstochest
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

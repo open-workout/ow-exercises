@@ -1,0 +1,15 @@
+id: '1210'
+slug: cable-twisting-standing-high-row
+name: Cable Twisting Standing high Row
+human_readable_ids:
+- CableTwistingStandinghighRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

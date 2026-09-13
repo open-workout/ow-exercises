@@ -1,0 +1,16 @@
+id: '3968'
+slug: dumbbell-flat-around-the-world
+name: Dumbbell Flat Around the World
+human_readable_ids:
+- DumbbellFlatAroundtheWorld
+primary_muscles:
+- chest
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

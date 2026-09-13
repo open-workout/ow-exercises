@@ -1,0 +1,16 @@
+id: '0750'
+slug: smith-chair-squat
+name: Smith Chair Squat
+human_readable_ids:
+- SmithChairSquat
+primary_muscles:
+- quads
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

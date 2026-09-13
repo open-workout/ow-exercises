@@ -1,0 +1,14 @@
+id: '5055'
+slug: dead-hang-stretch
+name: Dead Hang Stretch
+human_readable_ids:
+- DeadHangStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

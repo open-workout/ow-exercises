@@ -1,0 +1,15 @@
+id: '7228'
+slug: ring-wide-pull-up
+name: Ring Wide Pull-up
+human_readable_ids:
+- RingWidePullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

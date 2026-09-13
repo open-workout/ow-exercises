@@ -1,0 +1,16 @@
+id: '3410'
+slug: standing-wring-the-towel
+name: Standing Wring the Towel
+human_readable_ids:
+- StandingWringtheTowel
+primary_muscles:
+- neck
+- shoulders
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

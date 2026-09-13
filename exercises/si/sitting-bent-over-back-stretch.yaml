@@ -1,0 +1,14 @@
+id: '1805'
+slug: sitting-bent-over-back-stretch
+name: Sitting Bent Over Back Stretch
+human_readable_ids:
+- SittingBentOverBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

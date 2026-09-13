@@ -1,0 +1,15 @@
+id: '4936'
+slug: sumo-air-squat
+name: Sumo Air Squat
+human_readable_ids:
+- SumoAirSquat
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

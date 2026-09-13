@@ -1,0 +1,15 @@
+id: '8311'
+slug: seated-side-bend-on-a-chair
+name: Seated Side Bend on a Chair
+human_readable_ids:
+- SeatedSideBendonaChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

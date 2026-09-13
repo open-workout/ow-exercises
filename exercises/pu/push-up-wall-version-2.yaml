@@ -1,0 +1,15 @@
+id: 0658
+slug: push-up-wall-version-2
+name: Push-up (wall) (version 2)
+human_readable_ids:
+- Pushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

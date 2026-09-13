@@ -1,0 +1,15 @@
+id: '11252'
+slug: cable-overhead-squat-version-3
+name: Cable Overhead Squat (VERSION 3)
+human_readable_ids:
+- CableOverheadSquat
+primary_muscles:
+- quads
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

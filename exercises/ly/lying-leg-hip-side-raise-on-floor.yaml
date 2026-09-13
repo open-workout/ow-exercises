@@ -1,0 +1,15 @@
+id: '4156'
+slug: lying-leg-hip-side-raise-on-floor
+name: Lying Leg Hip Side Raise on Floor
+human_readable_ids:
+- LyingLegHipSideRaiseonFloor
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

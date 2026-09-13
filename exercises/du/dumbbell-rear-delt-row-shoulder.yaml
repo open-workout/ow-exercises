@@ -1,0 +1,15 @@
+id: '0377'
+slug: dumbbell-rear-delt-row-shoulder
+name: Dumbbell Rear Delt Row_shoulder
+human_readable_ids:
+- DumbbellRearDeltRowshoulder
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

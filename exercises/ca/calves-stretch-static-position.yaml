@@ -1,0 +1,14 @@
+id: '1848'
+slug: calves-stretch-static-position
+name: Calves Stretch Static Position
+human_readable_ids:
+- CalvesStretchStaticPosition
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

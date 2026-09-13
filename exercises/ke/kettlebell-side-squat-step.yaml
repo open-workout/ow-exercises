@@ -1,0 +1,15 @@
+id: '4524'
+slug: kettlebell-side-squat-step
+name: Kettlebell Side Squat Step
+human_readable_ids:
+- KettlebellSideSquatStep
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

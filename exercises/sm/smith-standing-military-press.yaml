@@ -1,0 +1,15 @@
+id: '0774'
+slug: smith-standing-military-press
+name: Smith Standing Military Press
+human_readable_ids:
+- SmithStandingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

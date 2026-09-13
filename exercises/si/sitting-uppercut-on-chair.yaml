@@ -1,0 +1,15 @@
+id: '7263'
+slug: sitting-uppercut-on-chair
+name: Sitting Uppercut on Chair
+human_readable_ids:
+- SittingUppercutonChair
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

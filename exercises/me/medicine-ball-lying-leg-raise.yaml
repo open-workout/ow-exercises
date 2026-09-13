@@ -1,0 +1,15 @@
+id: '5031'
+slug: medicine-ball-lying-leg-raise
+name: Medicine Ball Lying Leg Raise
+human_readable_ids:
+- MedicineBallLyingLegRaise
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4840'
+slug: straight-leg-dead-bug
+name: Straight Leg Dead Bug
+human_readable_ids:
+- StraightLegDeadBug
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

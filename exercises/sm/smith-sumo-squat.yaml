@@ -1,0 +1,16 @@
+id: '3142'
+slug: smith-sumo-squat
+name: Smith Sumo Squat
+human_readable_ids:
+- SmithSumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2346'
+slug: bench-dip-back-arms-wrong-right
+name: Bench Dip - Back Arms (WRONG-RIGHT)
+human_readable_ids:
+- BenchDipBackArms
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

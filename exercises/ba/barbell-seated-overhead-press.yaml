@@ -1,0 +1,15 @@
+id: 0091
+slug: barbell-seated-overhead-press
+name: Barbell Seated Overhead Press
+human_readable_ids:
+- BarbellSeatedOverheadPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

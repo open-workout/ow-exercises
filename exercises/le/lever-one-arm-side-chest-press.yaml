@@ -1,0 +1,15 @@
+id: '5815'
+slug: lever-one-arm-side-chest-press
+name: Lever One Arm Side Chest Press
+human_readable_ids:
+- LeverOneArmSideChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

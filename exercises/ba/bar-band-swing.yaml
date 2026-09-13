@@ -1,0 +1,17 @@
+id: '4678'
+slug: bar-band-swing
+name: Bar Band Swing
+human_readable_ids:
+- BarBandSwing
+primary_muscles:
+- shoulders
+- back
+- glutes
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1811'
+slug: standing-knee-to-chest-stretch
+name: Standing Knee To Chest Stretch
+human_readable_ids:
+- StandingKneeToChestStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

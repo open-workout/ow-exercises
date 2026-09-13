@@ -1,0 +1,15 @@
+id: '0354'
+slug: dumbbell-one-arm-kickback
+name: Dumbbell One Arm Kickback
+human_readable_ids:
+- DumbbellOneArmKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

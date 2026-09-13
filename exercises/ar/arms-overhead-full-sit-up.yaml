@@ -1,0 +1,15 @@
+id: '3204'
+slug: arms-overhead-full-sit-up
+name: Arms Overhead Full Sit-up
+human_readable_ids:
+- ArmsOverheadFullSitup
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

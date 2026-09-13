@@ -1,0 +1,15 @@
+id: '0660'
+slug: push-up-close-grip-off-dumbbell
+name: Push-Up Close-grip off Dumbbell
+human_readable_ids:
+- PushUpClosegripoffDumbbell
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

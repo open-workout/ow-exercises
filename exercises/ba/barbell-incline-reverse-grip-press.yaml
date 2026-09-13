@@ -1,0 +1,15 @@
+id: 0048
+slug: barbell-incline-reverse-grip-press
+name: Barbell Incline Reverse-grip Press
+human_readable_ids:
+- BarbellInclineReversegripPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

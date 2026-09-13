@@ -1,0 +1,16 @@
+id: 0749
+slug: smith-bent-knee-good-morning
+name: Smith Bent Knee Good morning
+human_readable_ids:
+- SmithBentKneeGoodmorning
+primary_muscles:
+- back
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

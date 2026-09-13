@@ -1,0 +1,14 @@
+id: '10462'
+slug: seated-hamstring-stretch-on-a-chair
+name: Seated Hamstring Stretch on a Chair
+human_readable_ids:
+- SeatedHamstringStretchonaChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

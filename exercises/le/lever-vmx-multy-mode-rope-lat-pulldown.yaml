@@ -1,0 +1,15 @@
+id: '5326'
+slug: lever-vmx-multy-mode-rope-lat-pulldown
+name: Lever VMX Multy Mode Rope Lat Pulldown
+human_readable_ids:
+- LeverVMXMultyModeRopeLatPulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '9212'
+slug: sleepers-stretch
+name: Sleepers Stretch
+human_readable_ids:
+- SleepersStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

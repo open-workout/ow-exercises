@@ -1,0 +1,14 @@
+id: '3403'
+slug: standing-y-raise
+name: Standing Y-raise
+human_readable_ids:
+- StandingYraise
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3630'
+slug: standing-hamstrings-and-back-stretch
+name: Standing Hamstrings and Back Stretch
+human_readable_ids:
+- StandingHamstringsandBackStretch
+primary_muscles:
+- back
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

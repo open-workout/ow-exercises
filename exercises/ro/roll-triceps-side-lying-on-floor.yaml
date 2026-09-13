@@ -1,0 +1,14 @@
+id: '5375'
+slug: roll-triceps-side-lying-on-floor
+name: Roll Triceps Side Lying on Floor
+human_readable_ids:
+- RollTricepsSideLyingonFloor
+primary_muscles:
+- biceps
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

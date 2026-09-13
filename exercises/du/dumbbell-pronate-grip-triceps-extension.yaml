@@ -1,0 +1,15 @@
+id: '0373'
+slug: dumbbell-pronate-grip-triceps-extension
+name: Dumbbell Pronate-grip Triceps Extension
+human_readable_ids:
+- DumbbellPronategripTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5042'
+slug: lying-prone-w
+name: Lying Prone W
+human_readable_ids:
+- LyingProneW
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

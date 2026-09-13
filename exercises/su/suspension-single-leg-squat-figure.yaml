@@ -1,0 +1,16 @@
+id: '1136'
+slug: suspension-single-leg-squat-figure
+name: Suspension Single Leg Squat (figure)
+human_readable_ids:
+- SuspensionSingleLegSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

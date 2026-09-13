@@ -1,0 +1,15 @@
+id: '2161'
+slug: resistance-band-one-leg-kickback
+name: Resistance Band One Leg Kickback
+human_readable_ids:
+- ResistanceBandOneLegKickback
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

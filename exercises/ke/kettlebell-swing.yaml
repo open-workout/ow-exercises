@@ -1,0 +1,17 @@
+id: 0549
+slug: kettlebell-swing
+name: Kettlebell Swing
+human_readable_ids:
+- KettlebellSwing
+primary_muscles:
+- shoulders
+- glutes
+- hamstrings
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '0437'
+slug: dumbbell-upright-row
+name: Dumbbell Upright Row
+human_readable_ids:
+- DumbbellUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

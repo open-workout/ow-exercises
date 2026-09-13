@@ -1,0 +1,16 @@
+id: '3957'
+slug: high-knee-squat-version-2
+name: High Knee Squat (VERSION 2)
+human_readable_ids:
+- HighKneeSquat
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

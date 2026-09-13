@@ -1,0 +1,15 @@
+id: '9510'
+slug: partner-assisted-pull-up
+name: Partner Assisted Pull-up
+human_readable_ids:
+- PartnerAssistedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

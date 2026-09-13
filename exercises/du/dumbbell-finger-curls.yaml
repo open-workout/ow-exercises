@@ -1,0 +1,15 @@
+id: '1437'
+slug: dumbbell-finger-curls
+name: Dumbbell finger curls
+human_readable_ids:
+- Dumbbellfingercurls
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

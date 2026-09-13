@@ -1,0 +1,16 @@
+id: '1170'
+slug: 45-degree-one-leg-hyperextension-arms-in-front-of-chest
+name: 45 degree one leg hyperextension (arms in front of chest)
+human_readable_ids:
+- 45degreeoneleghyperextension
+primary_muscles:
+- back
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4910'
+slug: dumbbell-bent-arm-iso-hold
+name: Dumbbell Bent Arm Iso Hold
+human_readable_ids:
+- DumbbellBentArmIsoHold
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

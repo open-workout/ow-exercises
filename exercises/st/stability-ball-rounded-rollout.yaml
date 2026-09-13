@@ -1,0 +1,15 @@
+id: '2937'
+slug: stability-ball-rounded-rollout
+name: Stability Ball Rounded Rollout
+human_readable_ids:
+- StabilityBallRoundedRollout
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

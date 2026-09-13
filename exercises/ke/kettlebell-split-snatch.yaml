@@ -1,0 +1,15 @@
+id: '4210'
+slug: kettlebell-split-snatch
+name: Kettlebell Split Snatch
+human_readable_ids:
+- KettlebellSplitSnatch
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

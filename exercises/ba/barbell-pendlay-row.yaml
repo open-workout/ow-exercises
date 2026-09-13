@@ -1,0 +1,15 @@
+id: '3017'
+slug: barbell-pendlay-row
+name: Barbell Pendlay Row
+human_readable_ids:
+- BarbellPendlayRow
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

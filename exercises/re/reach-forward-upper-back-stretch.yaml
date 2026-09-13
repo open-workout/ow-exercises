@@ -1,0 +1,14 @@
+id: '1794'
+slug: reach-forward-upper-back-stretch
+name: Reach forward upper back stretch
+human_readable_ids:
+- Reachforwardupperbackstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

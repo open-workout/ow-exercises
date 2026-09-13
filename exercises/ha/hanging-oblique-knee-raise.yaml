@@ -1,0 +1,15 @@
+id: '1761'
+slug: hanging-oblique-knee-raise
+name: Hanging Oblique Knee Raise
+human_readable_ids:
+- HangingObliqueKneeRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

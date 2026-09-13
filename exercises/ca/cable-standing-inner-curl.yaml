@@ -1,0 +1,15 @@
+id: 0229
+slug: cable-standing-inner-curl
+name: Cable Standing Inner Curl
+human_readable_ids:
+- CableStandingInnerCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

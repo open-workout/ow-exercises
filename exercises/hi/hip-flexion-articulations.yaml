@@ -1,0 +1,15 @@
+id: '2770'
+slug: hip-flexion-articulations
+name: Hip - Flexion - Articulations
+human_readable_ids:
+- HipFlexionArticulations
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

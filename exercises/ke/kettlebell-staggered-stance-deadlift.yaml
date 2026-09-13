@@ -1,0 +1,15 @@
+id: '8892'
+slug: kettlebell-staggered-stance-deadlift
+name: Kettlebell Staggered Stance Deadlift
+human_readable_ids:
+- KettlebellStaggeredStanceDeadlift
+primary_muscles:
+- glutes
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

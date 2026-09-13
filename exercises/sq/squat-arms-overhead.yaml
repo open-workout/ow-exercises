@@ -1,0 +1,16 @@
+id: 0783
+slug: squat-arms-overhead
+name: Squat (arms overhead)
+human_readable_ids:
+- Squat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

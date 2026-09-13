@@ -1,0 +1,15 @@
+id: '9692'
+slug: kettlebell-alternating-arm-thruster
+name: Kettlebell Alternating Arm Thruster
+human_readable_ids:
+- KettlebellAlternatingArmThruster
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

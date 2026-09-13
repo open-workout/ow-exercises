@@ -1,0 +1,15 @@
+id: '1529'
+slug: barbell-power-jerk
+name: Barbell Power Jerk
+human_readable_ids:
+- BarbellPowerJerk
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10383'
+slug: weighted-sandbag-deadlift
+name: Weighted Sandbag Deadlift
+human_readable_ids:
+- WeightedSandbagDeadlift
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

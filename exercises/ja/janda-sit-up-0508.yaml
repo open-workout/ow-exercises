@@ -1,0 +1,15 @@
+id: 0508
+slug: janda-sit-up-0508
+name: Janda Sit-up
+human_readable_ids:
+- JandaSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

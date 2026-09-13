@@ -1,0 +1,15 @@
+id: '1595'
+slug: smith-front-squat
+name: Smith Front Squat
+human_readable_ids:
+- SmithFrontSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

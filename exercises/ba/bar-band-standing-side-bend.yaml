@@ -1,0 +1,15 @@
+id: '4685'
+slug: bar-band-standing-side-bend
+name: Bar Band Standing Side Bend
+human_readable_ids:
+- BarBandStandingSideBend
+primary_muscles:
+- abs
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

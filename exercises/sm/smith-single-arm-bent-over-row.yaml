@@ -1,0 +1,15 @@
+id: '3945'
+slug: smith-single-arm-bent-over-row
+name: Smith Single Arm Bent-Over Row
+human_readable_ids:
+- SmithSingleArmBentOverRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

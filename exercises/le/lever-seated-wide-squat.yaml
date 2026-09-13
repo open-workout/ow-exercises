@@ -1,0 +1,15 @@
+id: '1574'
+slug: lever-seated-wide-squat
+name: Lever Seated Wide Squat
+human_readable_ids:
+- LeverSeatedWideSquat
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

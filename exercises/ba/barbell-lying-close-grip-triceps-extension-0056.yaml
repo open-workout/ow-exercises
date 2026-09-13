@@ -1,0 +1,15 @@
+id: '0056'
+slug: barbell-lying-close-grip-triceps-extension-0056
+name: Barbell Lying Close-grip Triceps Extension
+human_readable_ids:
+- BarbellLyingClosegripTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

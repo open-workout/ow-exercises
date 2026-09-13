@@ -1,0 +1,15 @@
+id: '5062'
+slug: lying-chin-tucks
+name: Lying Chin Tucks
+human_readable_ids:
+- LyingChinTucks
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

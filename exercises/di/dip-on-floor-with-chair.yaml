@@ -1,0 +1,16 @@
+id: '3443'
+slug: dip-on-floor-with-chair
+name: Dip on Floor with Chair
+human_readable_ids:
+- DiponFloorwithChair
+primary_muscles:
+- chest
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

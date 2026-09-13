@@ -1,0 +1,15 @@
+id: '4066'
+slug: dumbbell-seated-bent-over-alternate-rear-delt-fly
+name: Dumbbell Seated Bent Over Alternate Rear Delt Fly
+human_readable_ids:
+- DumbbellSeatedBentOverAlternateRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

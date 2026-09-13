@@ -1,0 +1,14 @@
+id: '4463'
+slug: roll-ball-peroneus
+name: Roll Ball Peroneus
+human_readable_ids:
+- RollBallPeroneus
+primary_muscles:
+- calves
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

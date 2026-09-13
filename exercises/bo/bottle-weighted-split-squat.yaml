@@ -1,0 +1,15 @@
+id: '6046'
+slug: bottle-weighted-split-squat
+name: Bottle Weighted Split Squat
+human_readable_ids:
+- BottleWeightedSplitSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

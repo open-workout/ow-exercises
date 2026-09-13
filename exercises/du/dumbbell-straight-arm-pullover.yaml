@@ -1,0 +1,15 @@
+id: '0433'
+slug: dumbbell-straight-arm-pullover
+name: Dumbbell Straight Arm Pullover
+human_readable_ids:
+- DumbbellStraightArmPullover
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

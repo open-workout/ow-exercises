@@ -1,0 +1,15 @@
+id: '8423'
+slug: seated-lean-back-on-a-chair
+name: Seated Lean Back on a Chair
+human_readable_ids:
+- SeatedLeanBackonaChair
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

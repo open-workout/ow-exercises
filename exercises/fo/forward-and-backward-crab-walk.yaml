@@ -1,0 +1,15 @@
+id: '10995'
+slug: forward-and-backward-crab-walk
+name: Forward and Backward Crab Walk
+human_readable_ids:
+- ForwardandBackwardCrabWalk
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

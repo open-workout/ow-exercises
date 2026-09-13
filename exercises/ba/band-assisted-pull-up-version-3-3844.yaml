@@ -1,0 +1,15 @@
+id: '3844'
+slug: band-assisted-pull-up-version-3-3844
+name: Band Assisted Pull Up (VERSION 3)
+human_readable_ids:
+- BandAssistedPullUp
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

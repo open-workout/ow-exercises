@@ -1,0 +1,15 @@
+id: '5092'
+slug: dumbbell-single-arm-underhand-front-raise
+name: Dumbbell Single Arm Underhand Front Raise
+human_readable_ids:
+- DumbbellSingleArmUnderhandFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1255'
+slug: barbell-decline-pullover
+name: Barbell Decline Pullover
+human_readable_ids:
+- BarbellDeclinePullover
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

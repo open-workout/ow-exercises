@@ -1,0 +1,15 @@
+id: '10329'
+slug: dumbbell-kroc-row
+name: Dumbbell Kroc Row
+human_readable_ids:
+- DumbbellKrocRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

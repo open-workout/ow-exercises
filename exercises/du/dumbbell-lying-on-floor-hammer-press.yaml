@@ -1,0 +1,15 @@
+id: '3319'
+slug: dumbbell-lying-on-floor-hammer-press
+name: Dumbbell Lying on Floor Hammer Press
+human_readable_ids:
+- DumbbellLyingonFloorHammerPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4559'
+slug: kneeling-lat-stretch-on-bench
+name: Kneeling Lat Stretch on Bench
+human_readable_ids:
+- KneelingLatStretchonBench
+primary_muscles:
+- back
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

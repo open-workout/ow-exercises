@@ -1,0 +1,14 @@
+id: '0615'
+slug: lying-crossover-stretch
+name: Lying Crossover Stretch
+human_readable_ids:
+- LyingCrossoverStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

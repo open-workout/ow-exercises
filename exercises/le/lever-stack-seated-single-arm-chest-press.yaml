@@ -1,0 +1,15 @@
+id: '10672'
+slug: lever-stack-seated-single-arm-chest-press
+name: Lever Stack Seated Single Arm Chest Press
+human_readable_ids:
+- LeverStackSeatedSingleArmChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

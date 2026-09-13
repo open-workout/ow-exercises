@@ -1,0 +1,15 @@
+id: '2893'
+slug: scissors-advanced
+name: Scissors (advanced)
+human_readable_ids:
+- Scissors
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

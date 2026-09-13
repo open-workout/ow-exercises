@@ -1,0 +1,14 @@
+id: '1587'
+slug: seated-wide-angle-pose-sequence
+name: Seated Wide Angle Pose Sequence
+human_readable_ids:
+- SeatedWideAnglePoseSequence
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

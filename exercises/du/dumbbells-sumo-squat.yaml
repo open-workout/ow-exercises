@@ -1,0 +1,16 @@
+id: '2323'
+slug: dumbbells-sumo-squat
+name: Dumbbells Sumo Squat
+human_readable_ids:
+- DumbbellsSumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

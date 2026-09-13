@@ -1,0 +1,15 @@
+id: '10927'
+slug: standing-forward-slide-press-with-towel
+name: Standing Forward Slide Press with Towel
+human_readable_ids:
+- StandingForwardSlidePresswithTowel
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

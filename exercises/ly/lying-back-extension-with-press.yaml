@@ -1,0 +1,15 @@
+id: '3209'
+slug: lying-back-extension-with-press
+name: Lying Back Extension with Press
+human_readable_ids:
+- LyingBackExtensionwithPress
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

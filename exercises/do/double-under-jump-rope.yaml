@@ -1,0 +1,16 @@
+id: '3885'
+slug: double-under-jump-rope
+name: Double Under Jump Rope
+human_readable_ids:
+- DoubleUnderJumpRope
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

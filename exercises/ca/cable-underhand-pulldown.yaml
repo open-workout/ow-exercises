@@ -1,0 +1,15 @@
+id: '0245'
+slug: cable-underhand-pulldown
+name: Cable Underhand Pulldown
+human_readable_ids:
+- CableUnderhandPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

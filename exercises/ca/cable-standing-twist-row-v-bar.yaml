@@ -1,0 +1,15 @@
+id: '0236'
+slug: cable-standing-twist-row-v-bar
+name: Cable Standing Twist Row (V-bar)
+human_readable_ids:
+- CableStandingTwistRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

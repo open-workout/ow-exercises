@@ -1,0 +1,15 @@
+id: '2905'
+slug: power-sled-rear-fly
+name: Power Sled Rear Fly
+human_readable_ids:
+- PowerSledRearFly
+primary_muscles:
+- shoulders
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

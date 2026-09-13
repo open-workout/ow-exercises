@@ -1,0 +1,15 @@
+id: '1734'
+slug: dumbbell-kickbacks-on-exercise-ball
+name: Dumbbell Kickbacks on Exercise Ball
+human_readable_ids:
+- DumbbellKickbacksonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

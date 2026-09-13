@@ -1,0 +1,15 @@
+id: '5008'
+slug: suspension-chin-up
+name: Suspension Chin up
+human_readable_ids:
+- SuspensionChinup
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

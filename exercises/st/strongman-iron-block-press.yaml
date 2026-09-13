@@ -1,0 +1,15 @@
+id: '2713'
+slug: strongman-iron-block-press
+name: StrongMan Iron Block Press
+human_readable_ids:
+- StrongManIronBlockPress
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

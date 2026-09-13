@@ -1,0 +1,17 @@
+id: '3718'
+slug: split-lateral-squat-with-roll
+name: Split Lateral Squat with Roll
+human_readable_ids:
+- SplitLateralSquatwithRoll
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

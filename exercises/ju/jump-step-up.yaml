@@ -1,0 +1,16 @@
+id: '0515'
+slug: jump-step-up
+name: Jump Step-Up
+human_readable_ids:
+- JumpStepUp
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

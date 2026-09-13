@@ -1,0 +1,15 @@
+id: '1871'
+slug: lever-triceps-dip-plate-loaded
+name: Lever Triceps Dip (plate loaded)
+human_readable_ids:
+- LeverTricepsDip
+primary_muscles:
+- triceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

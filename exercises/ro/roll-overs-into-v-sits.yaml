@@ -1,0 +1,14 @@
+id: '2572'
+slug: roll-overs-into-v-sits
+name: Roll overs into V sits
+human_readable_ids:
+- RolloversintoVsits
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

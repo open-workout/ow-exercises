@@ -1,0 +1,15 @@
+id: '1665'
+slug: dumbbell-one-arm-prone-curl
+name: Dumbbell One Arm Prone Curl
+human_readable_ids:
+- DumbbellOneArmProneCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

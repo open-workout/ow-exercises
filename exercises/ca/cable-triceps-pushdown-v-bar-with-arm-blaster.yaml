@@ -1,0 +1,15 @@
+id: '2405'
+slug: cable-triceps-pushdown-v-bar-with-arm-blaster
+name: Cable Triceps Pushdown (V-bar) (with arm blaster)
+human_readable_ids:
+- CableTricepsPushdown
+primary_muscles:
+- triceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

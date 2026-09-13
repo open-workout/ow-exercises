@@ -1,0 +1,15 @@
+id: 0682
+slug: rotate-push-up
+name: Rotate Push-up
+human_readable_ids:
+- RotatePushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

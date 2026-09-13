@@ -1,0 +1,15 @@
+id: 0386
+slug: dumbbell-rotation-reverse-fly
+name: Dumbbell Rotation Reverse Fly
+human_readable_ids:
+- DumbbellRotationReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

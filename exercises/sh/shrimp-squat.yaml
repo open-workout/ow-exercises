@@ -1,0 +1,16 @@
+id: '3366'
+slug: shrimp-squat
+name: Shrimp Squat
+human_readable_ids:
+- ShrimpSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

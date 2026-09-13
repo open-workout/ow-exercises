@@ -1,0 +1,15 @@
+id: '4779'
+slug: reverse-flutter-kick-on-floor-hand-under-head
+name: Reverse Flutter Kick on Floor (hand under head)
+human_readable_ids:
+- ReverseFlutterKickonFloor
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '8303'
+slug: seated-upright-twists-on-a-chair
+name: Seated Upright Twists on a Chair
+human_readable_ids:
+- SeatedUprightTwistsonaChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

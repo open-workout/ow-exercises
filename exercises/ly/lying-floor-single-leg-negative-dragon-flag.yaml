@@ -1,0 +1,15 @@
+id: '9322'
+slug: lying-floor-single-leg-negative-dragon-flag
+name: Lying Floor Single Leg Negative Dragon Flag
+human_readable_ids:
+- LyingFloorSingleLegNegativeDragonFlag
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0362'
+slug: dumbbell-one-arm-triceps-extension-on-bench
+name: Dumbbell One Arm Triceps Extension (on bench)
+human_readable_ids:
+- DumbbellOneArmTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4344'
+slug: barbell-incline-triceps-extension-skull-crusher
+name: Barbell Incline Triceps Extension Skull Crusher
+human_readable_ids:
+- BarbellInclineTricepsExtensionSkullCrusher
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

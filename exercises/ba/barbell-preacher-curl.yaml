@@ -1,0 +1,15 @@
+id: '0070'
+slug: barbell-preacher-curl
+name: Barbell Preacher Curl
+human_readable_ids:
+- BarbellPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

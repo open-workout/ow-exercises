@@ -1,0 +1,14 @@
+id: '1983'
+slug: reaching-up-shoulder-stretch
+name: Reaching Up Shoulder Stretch
+human_readable_ids:
+- ReachingUpShoulderStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

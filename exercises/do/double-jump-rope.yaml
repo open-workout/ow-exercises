@@ -1,0 +1,16 @@
+id: '5038'
+slug: double-jump-rope
+name: Double Jump Rope
+human_readable_ids:
+- DoubleJumpRope
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,13 @@
+id: '3138'
+slug: static-position-standing
+name: Static Position Standing
+human_readable_ids:
+- StaticPositionStanding
+primary_muscles: []
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

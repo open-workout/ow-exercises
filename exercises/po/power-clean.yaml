@@ -1,0 +1,23 @@
+id: 0648
+slug: power-clean
+name: Power Clean
+human_readable_ids:
+- PowerClean
+primary_muscles:
+- adductors
+- biceps
+- shoulders
+- calves
+- glutes
+- hamstrings
+- chest
+- quads
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

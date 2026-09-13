@@ -1,0 +1,14 @@
+id: '5899'
+slug: revolved-chair
+name: Revolved Chair
+human_readable_ids:
+- RevolvedChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

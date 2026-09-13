@@ -1,0 +1,16 @@
+id: '1470'
+slug: lateral-side-plank
+name: Lateral Side Plank
+human_readable_ids:
+- LateralSidePlank
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

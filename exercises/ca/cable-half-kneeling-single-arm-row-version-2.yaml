@@ -1,0 +1,15 @@
+id: '8299'
+slug: cable-half-kneeling-single-arm-row-version-2
+name: Cable Half Kneeling Single Arm Row (VERSION 2)
+human_readable_ids:
+- CableHalfKneelingSingleArmRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

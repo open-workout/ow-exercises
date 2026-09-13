@@ -1,0 +1,14 @@
+id: '4556'
+slug: push-through-reach
+name: Push Through Reach
+human_readable_ids:
+- PushThroughReach
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

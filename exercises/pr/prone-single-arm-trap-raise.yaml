@@ -1,0 +1,15 @@
+id: '2940'
+slug: prone-single-arm-trap-raise
+name: Prone Single Arm Trap Raise
+human_readable_ids:
+- ProneSingleArmTrapRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

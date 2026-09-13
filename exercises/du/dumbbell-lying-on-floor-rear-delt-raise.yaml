@@ -1,0 +1,15 @@
+id: '2470'
+slug: dumbbell-lying-on-floor-rear-delt-raise
+name: Dumbbell Lying on Floor Rear Delt Raise
+human_readable_ids:
+- DumbbellLyingonFloorRearDeltRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

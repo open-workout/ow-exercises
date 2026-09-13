@@ -1,0 +1,17 @@
+id: '5284'
+slug: dumbbell-sprinter-thrust-chest-press
+name: Dumbbell Sprinter Thrust Chest Press
+human_readable_ids:
+- DumbbellSprinterThrustChestPress
+primary_muscles:
+- chest
+- glutes
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

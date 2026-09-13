@@ -1,0 +1,15 @@
+id: 0978
+slug: band-front-raise
+name: Band front raise
+human_readable_ids:
+- Bandfrontraise
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0625'
+slug: medicine-ball-sit-up-wall
+name: Medicine Ball Sit up (wall)
+human_readable_ids:
+- MedicineBallSitup
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

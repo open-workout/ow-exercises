@@ -1,0 +1,15 @@
+id: '2296'
+slug: stability-ball-rollout
+name: Stability Ball Rollout
+human_readable_ids:
+- StabilityBallRollout
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

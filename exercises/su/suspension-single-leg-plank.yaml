@@ -1,0 +1,15 @@
+id: '1135'
+slug: suspension-single-leg-plank
+name: Suspension Single Leg Plank
+human_readable_ids:
+- SuspensionSingleLegPlank
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

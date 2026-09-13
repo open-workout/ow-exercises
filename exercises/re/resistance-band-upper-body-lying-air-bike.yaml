@@ -1,0 +1,15 @@
+id: '3792'
+slug: resistance-band-upper-body-lying-air-bike
+name: Resistance Band Upper Body Lying Air Bike
+human_readable_ids:
+- ResistanceBandUpperBodyLyingAirBike
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

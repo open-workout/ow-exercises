@@ -1,0 +1,15 @@
+id: 0891
+slug: band-back-extension
+name: Band back extension
+human_readable_ids:
+- Bandbackextension
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

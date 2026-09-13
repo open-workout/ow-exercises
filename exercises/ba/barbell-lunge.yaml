@@ -1,0 +1,16 @@
+id: '0054'
+slug: barbell-lunge
+name: Barbell Lunge
+human_readable_ids:
+- BarbellLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

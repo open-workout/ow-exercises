@@ -1,0 +1,15 @@
+id: '3930'
+slug: plank-jack
+name: Plank Jack
+human_readable_ids:
+- PlankJack
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

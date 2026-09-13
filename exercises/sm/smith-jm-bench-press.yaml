@@ -1,0 +1,15 @@
+id: '9385'
+slug: smith-jm-bench-press
+name: Smith JM Bench Press
+human_readable_ids:
+- SmithJMBenchPress
+primary_muscles:
+- biceps
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

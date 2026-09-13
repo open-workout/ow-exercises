@@ -1,0 +1,15 @@
+id: '4577'
+slug: dumbbell-half-kneeling-military-press
+name: Dumbbell Half Kneeling Military Press
+human_readable_ids:
+- DumbbellHalfKneelingMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

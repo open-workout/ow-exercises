@@ -1,0 +1,16 @@
+id: '3691'
+slug: dumbbell-goblet-split-squat
+name: Dumbbell Goblet Split Squat
+human_readable_ids:
+- DumbbellGobletSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

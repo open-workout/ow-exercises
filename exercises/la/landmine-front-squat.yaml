@@ -1,0 +1,16 @@
+id: '4246'
+slug: landmine-front-squat
+name: Landmine Front Squat
+human_readable_ids:
+- LandmineFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

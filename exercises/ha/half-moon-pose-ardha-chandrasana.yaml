@@ -1,0 +1,14 @@
+id: 0952
+slug: half-moon-pose-ardha-chandrasana
+name: Half Moon Pose Ardha Chandrasana
+human_readable_ids:
+- HalfMoonPoseArdhaChandrasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3122'
+slug: resistance-band-seated-shoulder-press
+name: Resistance Band Seated Shoulder Press
+human_readable_ids:
+- ResistanceBandSeatedShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

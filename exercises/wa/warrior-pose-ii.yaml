@@ -1,0 +1,14 @@
+id: '6291'
+slug: warrior-pose-ii
+name: Warrior Pose II
+human_readable_ids:
+- WarriorPoseII
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

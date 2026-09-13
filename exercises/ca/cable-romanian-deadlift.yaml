@@ -1,0 +1,15 @@
+id: '6552'
+slug: cable-romanian-deadlift
+name: Cable Romanian Deadlift
+human_readable_ids:
+- CableRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

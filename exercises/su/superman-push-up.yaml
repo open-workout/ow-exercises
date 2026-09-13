@@ -1,0 +1,15 @@
+id: 0803
+slug: superman-push-up
+name: Superman Push-up
+human_readable_ids:
+- SupermanPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

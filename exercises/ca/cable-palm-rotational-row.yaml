@@ -1,0 +1,15 @@
+id: '1319'
+slug: cable-palm-rotational-row
+name: Cable Palm Rotational Row
+human_readable_ids:
+- CablePalmRotationalRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

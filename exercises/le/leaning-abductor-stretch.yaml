@@ -1,0 +1,14 @@
+id: '1880'
+slug: leaning-abductor-stretch
+name: Leaning Abductor Stretch
+human_readable_ids:
+- LeaningAbductorStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

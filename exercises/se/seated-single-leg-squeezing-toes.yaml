@@ -1,0 +1,15 @@
+id: '10912'
+slug: seated-single-leg-squeezing-toes
+name: Seated Single Leg Squeezing Toes
+human_readable_ids:
+- SeatedSingleLegSqueezingToes
+primary_muscles:
+- feet
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

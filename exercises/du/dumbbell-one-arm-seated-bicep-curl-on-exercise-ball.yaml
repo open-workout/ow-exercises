@@ -1,0 +1,15 @@
+id: '1668'
+slug: dumbbell-one-arm-seated-bicep-curl-on-exercise-ball
+name: Dumbbell One Arm Seated Bicep Curl on Exercise Ball
+human_readable_ids:
+- DumbbellOneArmSeatedBicepCurlonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

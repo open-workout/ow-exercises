@@ -1,0 +1,15 @@
+id: '9803'
+slug: standing-tibialis-raise-wall-supported
+name: Standing Tibialis Raise Wall Supported
+human_readable_ids:
+- StandingTibialisRaiseWallSupported
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

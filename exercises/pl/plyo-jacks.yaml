@@ -1,0 +1,16 @@
+id: '0645'
+slug: plyo-jacks
+name: Plyo Jacks
+human_readable_ids:
+- PlyoJacks
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '4006'
+slug: backward-abdominal-stretch
+name: Backward Abdominal Stretch
+human_readable_ids:
+- BackwardAbdominalStretch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

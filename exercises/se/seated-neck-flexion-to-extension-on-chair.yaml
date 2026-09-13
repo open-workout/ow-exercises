@@ -1,0 +1,14 @@
+id: '10555'
+slug: seated-neck-flexion-to-extension-on-chair
+name: Seated Neck Flexion to Extension on Chair
+human_readable_ids:
+- SeatedNeckFlexiontoExtensiononChair
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

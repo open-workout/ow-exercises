@@ -1,0 +1,16 @@
+id: '4132'
+slug: kettlebell-sumo-deadlift-with-high-pull
+name: Kettlebell Sumo Deadlift with High Pull
+human_readable_ids:
+- KettlebellSumoDeadliftwithHighPull
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

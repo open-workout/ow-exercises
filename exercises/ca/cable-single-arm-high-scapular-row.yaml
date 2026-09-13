@@ -1,0 +1,15 @@
+id: '6511'
+slug: cable-single-arm-high-scapular-row
+name: Cable Single Arm High Scapular Row
+human_readable_ids:
+- CableSingleArmHighScapularRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

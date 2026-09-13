@@ -1,0 +1,15 @@
+id: '3554'
+slug: bottle-hammer-curl
+name: Bottle Hammer Curl
+human_readable_ids:
+- BottleHammerCurl
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

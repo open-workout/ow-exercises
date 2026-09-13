@@ -1,0 +1,15 @@
+id: '2106'
+slug: cat-stretch-version-2
+name: Cat Stretch (Version 2)
+human_readable_ids:
+- CatStretch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

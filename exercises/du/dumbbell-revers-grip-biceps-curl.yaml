@@ -1,0 +1,15 @@
+id: 0382
+slug: dumbbell-revers-grip-biceps-curl
+name: Dumbbell Revers grip Biceps Curl
+human_readable_ids:
+- DumbbellReversgripBicepsCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

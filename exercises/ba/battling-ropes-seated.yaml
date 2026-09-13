@@ -1,0 +1,16 @@
+id: '4112'
+slug: battling-ropes-seated
+name: Battling Ropes Seated
+human_readable_ids:
+- BattlingRopesSeated
+primary_muscles:
+- cardio
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

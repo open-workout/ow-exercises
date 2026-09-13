@@ -1,0 +1,15 @@
+id: '0577'
+slug: lever-chest-press
+name: Lever Chest Press
+human_readable_ids:
+- LeverChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

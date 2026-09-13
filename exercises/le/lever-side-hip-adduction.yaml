@@ -1,0 +1,15 @@
+id: '1035'
+slug: lever-side-hip-adduction
+name: Lever Side Hip Adduction
+human_readable_ids:
+- LeverSideHipAdduction
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

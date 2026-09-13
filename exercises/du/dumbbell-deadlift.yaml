@@ -1,0 +1,15 @@
+id: '0300'
+slug: dumbbell-deadlift
+name: Dumbbell Deadlift
+human_readable_ids:
+- DumbbellDeadlift
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

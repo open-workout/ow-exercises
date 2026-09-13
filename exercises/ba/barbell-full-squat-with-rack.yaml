@@ -1,0 +1,16 @@
+id: 0878
+slug: barbell-full-squat-with-rack
+name: Barbell Full squat (with rack)
+human_readable_ids:
+- BarbellFullsquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

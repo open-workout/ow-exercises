@@ -1,0 +1,15 @@
+id: '10553'
+slug: resistance-band-overhead-hit
+name: Resistance Band Overhead Hit
+human_readable_ids:
+- ResistanceBandOverheadHit
+primary_muscles:
+- chest
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

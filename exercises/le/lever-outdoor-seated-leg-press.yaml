@@ -1,0 +1,15 @@
+id: '6354'
+slug: lever-outdoor-seated-leg-press
+name: Lever Outdoor Seated Leg Press
+human_readable_ids:
+- LeverOutdoorSeatedLegPress
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

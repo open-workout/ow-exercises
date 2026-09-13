@@ -1,0 +1,16 @@
+id: '1175'
+slug: dumbbell-forward-leaning-lunge
+name: Dumbbell forward leaning lunge
+human_readable_ids:
+- Dumbbellforwardleaninglunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

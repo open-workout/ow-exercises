@@ -1,0 +1,15 @@
+id: '5472'
+slug: lying-bent-legs-raise
+name: Lying Bent Legs Raise
+human_readable_ids:
+- LyingBentLegsRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0244'
+slug: cable-twisting-pull
+name: Cable Twisting Pull
+human_readable_ids:
+- CableTwistingPull
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

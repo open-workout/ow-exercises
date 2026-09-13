@@ -1,0 +1,15 @@
+id: '4597'
+slug: hook-kick-kickboxing-with-partner
+name: Hook Kick Kickboxing (with partner)
+human_readable_ids:
+- HookKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

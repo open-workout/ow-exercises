@@ -1,0 +1,15 @@
+id: '1432'
+slug: assisted-standing-pull-up
+name: Assisted Standing Pull-up
+human_readable_ids:
+- AssistedStandingPullup
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

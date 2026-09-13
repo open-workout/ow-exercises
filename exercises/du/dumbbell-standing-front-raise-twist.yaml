@@ -1,0 +1,15 @@
+id: '10183'
+slug: dumbbell-standing-front-raise-twist
+name: Dumbbell Standing Front Raise Twist
+human_readable_ids:
+- DumbbellStandingFrontRaiseTwist
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

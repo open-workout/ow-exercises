@@ -1,0 +1,15 @@
+id: 0469
+slug: groin-crunch
+name: Groin Crunch
+human_readable_ids:
+- GroinCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

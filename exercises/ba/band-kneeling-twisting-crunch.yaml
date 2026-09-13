@@ -1,0 +1,15 @@
+id: 0985
+slug: band-kneeling-twisting-crunch
+name: Band Kneeling Twisting Crunch
+human_readable_ids:
+- BandKneelingTwistingCrunch
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

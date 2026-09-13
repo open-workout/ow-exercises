@@ -1,0 +1,15 @@
+id: '0372'
+slug: dumbbell-preacher-curl
+name: Dumbbell Preacher Curl
+human_readable_ids:
+- DumbbellPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

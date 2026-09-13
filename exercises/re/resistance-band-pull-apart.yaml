@@ -1,0 +1,15 @@
+id: '4568'
+slug: resistance-band-pull-apart
+name: Resistance Band Pull Apart
+human_readable_ids:
+- ResistanceBandPullApart
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

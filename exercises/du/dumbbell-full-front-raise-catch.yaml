@@ -1,0 +1,15 @@
+id: '10559'
+slug: dumbbell-full-front-raise-catch
+name: Dumbbell Full Front Raise Catch
+human_readable_ids:
+- DumbbellFullFrontRaiseCatch
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

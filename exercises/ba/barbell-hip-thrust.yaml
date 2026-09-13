@@ -1,0 +1,15 @@
+id: '1060'
+slug: barbell-hip-thrust
+name: Barbell Hip Thrust
+human_readable_ids:
+- BarbellHipThrust
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

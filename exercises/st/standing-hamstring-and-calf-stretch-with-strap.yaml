@@ -1,0 +1,15 @@
+id: '1599'
+slug: standing-hamstring-and-calf-stretch-with-strap
+name: Standing Hamstring and Calf Stretch with Strap
+human_readable_ids:
+- StandingHamstringandCalfStretchwithStrap
+primary_muscles:
+- calves
+- hamstrings
+equipment:
+- rope
+modalities:
+- time
+load:
+  required: false
+  direction: added

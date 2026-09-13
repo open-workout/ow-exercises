@@ -1,0 +1,14 @@
+id: '1991'
+slug: internal-shoulder-rotation-stretch
+name: Internal Shoulder Rotation Stretch
+human_readable_ids:
+- InternalShoulderRotationStretch
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

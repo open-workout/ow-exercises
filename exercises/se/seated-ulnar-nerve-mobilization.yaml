@@ -1,0 +1,14 @@
+id: '11788'
+slug: seated-ulnar-nerve-mobilization
+name: Seated Ulnar Nerve Mobilization
+human_readable_ids:
+- SeatedUlnarNerveMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5192'
+slug: cluster
+name: Cluster
+human_readable_ids:
+- Cluster
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3458'
+slug: side-split
+name: Side Split
+human_readable_ids:
+- SideSplit
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

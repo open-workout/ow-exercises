@@ -1,0 +1,15 @@
+id: '9821'
+slug: plank-leg-lift-mountain-climber
+name: Plank Leg Lift Mountain Climber
+human_readable_ids:
+- PlankLegLiftMountainClimber
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

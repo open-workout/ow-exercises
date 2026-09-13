@@ -1,0 +1,15 @@
+id: '10566'
+slug: half-kneeling-torso-twist
+name: Half Kneeling Torso Twist
+human_readable_ids:
+- HalfKneelingTorsoTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

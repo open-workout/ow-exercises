@@ -1,0 +1,15 @@
+id: '6011'
+slug: side-step-rear-delt-row
+name: Side Step Rear Delt Row
+human_readable_ids:
+- SideStepRearDeltRow
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

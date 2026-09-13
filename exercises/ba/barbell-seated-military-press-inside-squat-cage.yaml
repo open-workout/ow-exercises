@@ -1,0 +1,15 @@
+id: '1045'
+slug: barbell-seated-military-press-inside-squat-cage
+name: Barbell Seated Military Press (inside squat cage)
+human_readable_ids:
+- BarbellSeatedMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

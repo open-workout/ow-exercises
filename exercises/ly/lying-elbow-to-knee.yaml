@@ -1,0 +1,15 @@
+id: '2312'
+slug: lying-elbow-to-knee
+name: Lying Elbow to Knee
+human_readable_ids:
+- LyingElbowtoKnee
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

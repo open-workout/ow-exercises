@@ -1,0 +1,15 @@
+id: 0393
+slug: dumbbell-seated-inner-biceps-curl
+name: Dumbbell Seated Inner Biceps Curl
+human_readable_ids:
+- DumbbellSeatedInnerBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

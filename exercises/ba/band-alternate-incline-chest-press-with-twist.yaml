@@ -1,0 +1,15 @@
+id: '3324'
+slug: band-alternate-incline-chest-press-with-twist
+name: Band Alternate Incline Chest Press with Twist
+human_readable_ids:
+- BandAlternateInclineChestPresswithTwist
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

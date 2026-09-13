@@ -1,0 +1,16 @@
+id: '5314'
+slug: dumbbell-glute-dominant-step-up
+name: Dumbbell Glute Dominant Step-Up
+human_readable_ids:
+- DumbbellGluteDominantStepUp
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

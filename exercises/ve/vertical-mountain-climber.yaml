@@ -1,0 +1,16 @@
+id: 0827
+slug: vertical-mountain-climber
+name: Vertical Mountain Climber
+human_readable_ids:
+- VerticalMountainClimber
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3010'
+slug: ez-bar-lying-bent-arms-pullover
+name: EZ Bar Lying Bent Arms Pullover
+human_readable_ids:
+- EZBarLyingBentArmsPullover
+primary_muscles:
+- back
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

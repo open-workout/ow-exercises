@@ -1,0 +1,15 @@
+id: '11058'
+slug: dumbbell-hip-supported-romanian-deadlift
+name: Dumbbell Hip Supported Romanian Deadlift
+human_readable_ids:
+- DumbbellHipSupportedRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

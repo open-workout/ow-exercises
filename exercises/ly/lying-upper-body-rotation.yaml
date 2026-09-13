@@ -1,0 +1,16 @@
+id: '3414'
+slug: lying-upper-body-rotation
+name: Lying Upper Body Rotation
+human_readable_ids:
+- LyingUpperBodyRotation
+primary_muscles:
+- chest
+- shoulders
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

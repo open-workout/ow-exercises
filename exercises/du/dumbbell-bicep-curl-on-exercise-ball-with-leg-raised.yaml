@@ -1,0 +1,15 @@
+id: '1652'
+slug: dumbbell-bicep-curl-on-exercise-ball-with-leg-raised
+name: Dumbbell Bicep Curl on Exercise Ball with Leg Raised
+human_readable_ids:
+- DumbbellBicepCurlonExerciseBallwithLegRaised
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

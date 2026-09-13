@@ -1,0 +1,15 @@
+id: '9512'
+slug: box-single-leg-assisted-pull-up
+name: Box Single Leg Assisted Pull-up
+human_readable_ids:
+- BoxSingleLegAssistedPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

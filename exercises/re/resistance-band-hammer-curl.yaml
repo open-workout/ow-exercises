@@ -1,0 +1,15 @@
+id: '4687'
+slug: resistance-band-hammer-curl
+name: Resistance Band Hammer Curl
+human_readable_ids:
+- ResistanceBandHammerCurl
+primary_muscles:
+- forearms
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

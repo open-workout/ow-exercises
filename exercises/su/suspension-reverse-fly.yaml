@@ -1,0 +1,15 @@
+id: '1090'
+slug: suspension-reverse-fly
+name: Suspension Reverse Fly
+human_readable_ids:
+- SuspensionReverseFly
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1442'
+slug: dip-hold-isometric
+name: Dip Hold Isometric
+human_readable_ids:
+- DipHoldIsometric
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

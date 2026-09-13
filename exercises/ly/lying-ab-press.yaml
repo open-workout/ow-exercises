@@ -1,0 +1,15 @@
+id: '4459'
+slug: lying-ab-press
+name: Lying Ab Press
+human_readable_ids:
+- LyingAbPress
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

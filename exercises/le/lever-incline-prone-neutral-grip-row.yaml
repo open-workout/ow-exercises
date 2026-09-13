@@ -1,0 +1,15 @@
+id: '10867'
+slug: lever-incline-prone-neutral-grip-row
+name: Lever Incline Prone Neutral Grip Row
+human_readable_ids:
+- LeverInclineProneNeutralGripRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

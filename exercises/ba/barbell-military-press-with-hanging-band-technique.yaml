@@ -1,0 +1,15 @@
+id: '3186'
+slug: barbell-military-press-with-hanging-band-technique
+name: Barbell Military Press (with hanging band technique)
+human_readable_ids:
+- BarbellMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

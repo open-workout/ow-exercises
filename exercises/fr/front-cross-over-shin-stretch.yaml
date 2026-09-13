@@ -1,0 +1,14 @@
+id: '2101'
+slug: front-cross-over-shin-stretch
+name: Front Cross Over Shin Stretch
+human_readable_ids:
+- FrontCrossOverShinStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

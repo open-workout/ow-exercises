@@ -1,0 +1,15 @@
+id: '1332'
+slug: exercise-ball-alternating-arm-ups
+name: Exercise Ball Alternating Arm Ups
+human_readable_ids:
+- ExerciseBallAlternatingArmUps
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

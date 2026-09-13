@@ -1,0 +1,15 @@
+id: '1357'
+slug: one-handed-hang
+name: One Handed Hang
+human_readable_ids:
+- OneHandedHang
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '10187'
+slug: jump-up-side-jump
+name: Jump-up Side Jump
+human_readable_ids:
+- JumpupSideJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '4052'
+slug: battling-ropes-half-kneeling
+name: Battling Ropes Half Kneeling
+human_readable_ids:
+- BattlingRopesHalfKneeling
+primary_muscles:
+- cardio
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

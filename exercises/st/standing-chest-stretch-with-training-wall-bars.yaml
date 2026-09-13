@@ -1,0 +1,14 @@
+id: '1783'
+slug: standing-chest-stretch-with-training-wall-bars
+name: Standing Chest Stretch (with Training Wall Bars)
+human_readable_ids:
+- StandingChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

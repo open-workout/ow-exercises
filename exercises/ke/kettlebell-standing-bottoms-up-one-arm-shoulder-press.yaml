@@ -1,0 +1,15 @@
+id: '3736'
+slug: kettlebell-standing-bottoms-up-one-arm-shoulder-press
+name: Kettlebell Standing Bottoms Up One Arm Shoulder Press
+human_readable_ids:
+- KettlebellStandingBottomsUpOneArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

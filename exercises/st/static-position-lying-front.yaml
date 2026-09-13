@@ -1,0 +1,13 @@
+id: '3139'
+slug: static-position-lying-front
+name: Static Position Lying Front
+human_readable_ids:
+- StaticPositionLyingFront
+primary_muscles: []
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

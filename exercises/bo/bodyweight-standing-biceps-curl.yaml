@@ -1,0 +1,15 @@
+id: '2922'
+slug: bodyweight-standing-biceps-curl
+name: Bodyweight Standing Biceps Curl
+human_readable_ids:
+- BodyweightStandingBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

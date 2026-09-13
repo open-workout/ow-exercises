@@ -1,0 +1,15 @@
+id: '1106'
+slug: suspension-twisting-jack-knife
+name: Suspension Twisting Jack knife
+human_readable_ids:
+- SuspensionTwistingJackknife
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: 0954
+slug: hero-pose-virasana
+name: Hero Pose Virasana
+human_readable_ids:
+- HeroPoseVirasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

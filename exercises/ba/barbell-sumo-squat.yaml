@@ -1,0 +1,16 @@
+id: '1063'
+slug: barbell-sumo-squat
+name: Barbell sumo squat
+human_readable_ids:
+- Barbellsumosquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

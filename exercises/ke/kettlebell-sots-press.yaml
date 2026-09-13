@@ -1,0 +1,17 @@
+id: '3573'
+slug: kettlebell-sots-press
+name: Kettlebell Sots Press
+human_readable_ids:
+- KettlebellSotsPress
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

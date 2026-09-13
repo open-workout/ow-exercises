@@ -1,0 +1,15 @@
+id: '3407'
+slug: standing-low-body-rotation
+name: Standing Low Body Rotation
+human_readable_ids:
+- StandingLowBodyRotation
+primary_muscles:
+- back
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

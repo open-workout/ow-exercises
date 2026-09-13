@@ -1,0 +1,15 @@
+id: '4833'
+slug: dumbbell-standing-single-arm-arnold-press
+name: Dumbbell Standing Single Arm Arnold Press
+human_readable_ids:
+- DumbbellStandingSingleArmArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

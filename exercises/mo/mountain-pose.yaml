@@ -1,0 +1,14 @@
+id: '5896'
+slug: mountain-pose
+name: Mountain Pose
+human_readable_ids:
+- MountainPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

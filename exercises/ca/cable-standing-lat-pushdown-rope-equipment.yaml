@@ -1,0 +1,15 @@
+id: '1229'
+slug: cable-standing-lat-pushdown-rope-equipment
+name: Cable Standing Lat Pushdown (rope equipment)
+human_readable_ids:
+- CableStandingLatPushdown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

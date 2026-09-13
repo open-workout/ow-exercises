@@ -1,0 +1,15 @@
+id: '8633'
+slug: seated-shoulder-press-on-a-chair
+name: Seated Shoulder Press on a Chair
+human_readable_ids:
+- SeatedShoulderPressonaChair
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

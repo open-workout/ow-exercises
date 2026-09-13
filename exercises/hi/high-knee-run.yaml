@@ -1,0 +1,17 @@
+id: '3556'
+slug: high-knee-run
+name: High Knee Run
+human_readable_ids:
+- HighKneeRun
+primary_muscles:
+- calves
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

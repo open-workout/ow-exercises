@@ -1,0 +1,14 @@
+id: '10998'
+slug: wall-facing-single-leg-split-handstand-hold
+name: Wall Facing Single Leg Split Handstand Hold
+human_readable_ids:
+- WallFacingSingleLegSplitHandstandHold
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

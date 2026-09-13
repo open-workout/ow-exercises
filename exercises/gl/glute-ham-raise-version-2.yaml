@@ -1,0 +1,15 @@
+id: '4456'
+slug: glute-ham-raise-version-2
+name: Glute Ham Raise (VERSION 2)
+human_readable_ids:
+- GluteHamRaise
+primary_muscles:
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

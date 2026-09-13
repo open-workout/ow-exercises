@@ -1,0 +1,15 @@
+id: '2416'
+slug: resistance-band-walk
+name: Resistance Band walk
+human_readable_ids:
+- ResistanceBandwalk
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

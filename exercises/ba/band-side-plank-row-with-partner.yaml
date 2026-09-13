@@ -1,0 +1,15 @@
+id: '1501'
+slug: band-side-plank-row-with-partner
+name: Band Side Plank Row with Partner
+human_readable_ids:
+- BandSidePlankRowwithPartner
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

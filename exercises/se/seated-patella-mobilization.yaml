@@ -1,0 +1,14 @@
+id: '11651'
+slug: seated-patella-mobilization
+name: Seated Patella Mobilization
+human_readable_ids:
+- SeatedPatellaMobilization
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

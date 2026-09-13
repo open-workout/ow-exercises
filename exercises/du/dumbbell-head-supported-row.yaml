@@ -1,0 +1,15 @@
+id: '4741'
+slug: dumbbell-head-supported-row
+name: Dumbbell Head Supported Row
+human_readable_ids:
+- DumbbellHeadSupportedRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

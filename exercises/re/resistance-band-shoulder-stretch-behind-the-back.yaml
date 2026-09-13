@@ -1,0 +1,14 @@
+id: '3513'
+slug: resistance-band-shoulder-stretch-behind-the-back
+name: Resistance Band Shoulder Stretch Behind the Back
+human_readable_ids:
+- ResistanceBandShoulderStretchBehindtheBack
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

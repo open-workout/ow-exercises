@@ -1,0 +1,15 @@
+id: '11092'
+slug: landmine-kneeling-180s
+name: Landmine Kneeling 180s
+human_readable_ids:
+- LandmineKneeling180s
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

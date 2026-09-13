@@ -1,0 +1,15 @@
+id: '4804'
+slug: triceps-press-low-bar-position
+name: Triceps Press (low bar position)
+human_readable_ids:
+- TricepsPress
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

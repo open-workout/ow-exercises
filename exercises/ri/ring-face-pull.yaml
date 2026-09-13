@@ -1,0 +1,15 @@
+id: '6252'
+slug: ring-face-pull
+name: Ring Face Pull
+human_readable_ids:
+- RingFacePull
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

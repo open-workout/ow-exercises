@@ -1,0 +1,15 @@
+id: '0242'
+slug: cable-tuck-reverse-crunch
+name: Cable Tuck Reverse Crunch
+human_readable_ids:
+- CableTuckReverseCrunch
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

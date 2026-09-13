@@ -1,0 +1,15 @@
+id: '2755'
+slug: cable-hip-abduction-toe-out
+name: Cable Hip Abduction (toe out)
+human_readable_ids:
+- CableHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

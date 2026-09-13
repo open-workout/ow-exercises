@@ -1,0 +1,15 @@
+id: '2857'
+slug: rocking
+name: Rocking
+human_readable_ids:
+- Rocking
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

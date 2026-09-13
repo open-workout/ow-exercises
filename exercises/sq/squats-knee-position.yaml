@@ -1,0 +1,15 @@
+id: '3001'
+slug: squats-knee-position
+name: Squats - Knee Position
+human_readable_ids:
+- SquatsKneePosition
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

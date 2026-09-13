@@ -1,0 +1,15 @@
+id: '1860'
+slug: hyperextension-version-2
+name: Hyperextension (VERSION 2)
+human_readable_ids:
+- Hyperextension
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

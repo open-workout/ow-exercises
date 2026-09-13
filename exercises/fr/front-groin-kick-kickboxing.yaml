@@ -1,0 +1,15 @@
+id: '2303'
+slug: front-groin-kick-kickboxing
+name: Front Groin Kick. Kickboxing
+human_readable_ids:
+- FrontGroinKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

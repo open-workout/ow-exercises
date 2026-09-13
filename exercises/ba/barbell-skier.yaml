@@ -1,0 +1,15 @@
+id: '0100'
+slug: barbell-skier
+name: Barbell Skier
+human_readable_ids:
+- BarbellSkier
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

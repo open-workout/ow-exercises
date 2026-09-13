@@ -1,0 +1,20 @@
+id: '3317'
+slug: strongman-car-flip
+name: StrongMan Car Flip
+human_readable_ids:
+- StrongManCarFlip
+primary_muscles:
+- back
+- chest
+- glutes
+- quads
+- biceps
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

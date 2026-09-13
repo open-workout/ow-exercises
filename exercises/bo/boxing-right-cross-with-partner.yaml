@@ -1,0 +1,15 @@
+id: '4591'
+slug: boxing-right-cross-with-partner
+name: Boxing Right Cross (with partner)
+human_readable_ids:
+- BoxingRightCross
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

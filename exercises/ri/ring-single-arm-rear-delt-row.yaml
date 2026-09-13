@@ -1,0 +1,15 @@
+id: '6259'
+slug: ring-single-arm-rear-delt-row
+name: Ring Single Arm Rear Delt Row
+human_readable_ids:
+- RingSingleArmRearDeltRow
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

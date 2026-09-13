@@ -1,0 +1,15 @@
+id: '1078'
+slug: suspension-hip-bridge
+name: Suspension Hip Bridge
+human_readable_ids:
+- SuspensionHipBridge
+primary_muscles:
+- glutes
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

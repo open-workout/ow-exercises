@@ -1,0 +1,15 @@
+id: '5327'
+slug: lever-t-bar-romanian-deadlift
+name: Lever T-bar Romanian Deadlift
+human_readable_ids:
+- LeverTbarRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

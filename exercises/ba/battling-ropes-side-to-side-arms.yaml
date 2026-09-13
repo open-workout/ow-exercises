@@ -1,0 +1,17 @@
+id: '3371'
+slug: battling-ropes-side-to-side-arms
+name: Battling Ropes Side to Side Arms
+human_readable_ids:
+- BattlingRopesSidetoSideArms
+primary_muscles:
+- back
+- chest
+- abs
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

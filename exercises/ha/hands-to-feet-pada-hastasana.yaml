@@ -1,0 +1,14 @@
+id: 0953
+slug: hands-to-feet-pada-hastasana
+name: Hands to Feet Pada Hastasana
+human_readable_ids:
+- HandstoFeetPadaHastasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

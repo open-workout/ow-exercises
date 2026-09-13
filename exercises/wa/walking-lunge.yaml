@@ -1,0 +1,16 @@
+id: '1460'
+slug: walking-lunge
+name: Walking Lunge
+human_readable_ids:
+- WalkingLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

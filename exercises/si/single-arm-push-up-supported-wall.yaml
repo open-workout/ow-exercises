@@ -1,0 +1,15 @@
+id: '4617'
+slug: single-arm-push-up-supported-wall
+name: Single Arm Push-up Supported Wall
+human_readable_ids:
+- SingleArmPushupSupportedWall
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

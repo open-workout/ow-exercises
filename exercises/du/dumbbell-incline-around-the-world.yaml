@@ -1,0 +1,16 @@
+id: '3967'
+slug: dumbbell-incline-around-the-world
+name: Dumbbell Incline Around the World
+human_readable_ids:
+- DumbbellInclineAroundtheWorld
+primary_muscles:
+- chest
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

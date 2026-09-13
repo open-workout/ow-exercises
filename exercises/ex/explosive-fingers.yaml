@@ -1,0 +1,15 @@
+id: '11783'
+slug: explosive-fingers
+name: Explosive Fingers
+human_readable_ids:
+- ExplosiveFingers
+primary_muscles:
+- hands
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

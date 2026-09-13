@@ -1,0 +1,15 @@
+id: '1729'
+slug: dumbbell-lying-alternate-extension
+name: Dumbbell Lying Alternate Extension
+human_readable_ids:
+- DumbbellLyingAlternateExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

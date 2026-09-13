@@ -1,0 +1,15 @@
+id: '8360'
+slug: resistance-band-standing-shoulder-internal-rotation
+name: Resistance Band Standing Shoulder Internal Rotation
+human_readable_ids:
+- ResistanceBandStandingShoulderInternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

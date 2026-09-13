@@ -1,0 +1,16 @@
+id: '3652'
+slug: trap-bar-split-stance-rdl
+name: Trap Bar Split Stance RDL
+human_readable_ids:
+- TrapBarSplitStanceRDL
+primary_muscles:
+- glutes
+- quads
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

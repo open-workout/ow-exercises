@@ -1,0 +1,15 @@
+id: '4056'
+slug: dead-bug-with-stability-ball
+name: Dead Bug with Stability Ball
+human_readable_ids:
+- DeadBugwithStabilityBall
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

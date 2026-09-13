@@ -1,0 +1,15 @@
+id: '1621'
+slug: dumbbell-one-arm-hammer-press-on-exercise-ball
+name: Dumbbell One Arm Hammer Press on Exercise Ball
+human_readable_ids:
+- DumbbellOneArmHammerPressonExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

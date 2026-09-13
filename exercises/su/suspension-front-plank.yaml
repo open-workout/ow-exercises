@@ -1,0 +1,15 @@
+id: '1114'
+slug: suspension-front-plank
+name: Suspension Front Plank
+human_readable_ids:
+- SuspensionFrontPlank
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3486'
+slug: inverted-chin-curl-with-bent-knee-between-chairs
+name: Inverted Chin Curl with Bent Knee between Chairs
+human_readable_ids:
+- InvertedChinCurlwithBentKneebetweenChairs
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

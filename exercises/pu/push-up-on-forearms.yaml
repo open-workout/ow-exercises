@@ -1,0 +1,15 @@
+id: '1467'
+slug: push-up-on-forearms
+name: Push-up on Forearms
+human_readable_ids:
+- PushuponForearms
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

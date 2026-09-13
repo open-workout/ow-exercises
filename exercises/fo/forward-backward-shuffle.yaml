@@ -1,0 +1,15 @@
+id: '9248'
+slug: forward-backward-shuffle
+name: Forward Backward Shuffle
+human_readable_ids:
+- ForwardBackwardShuffle
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

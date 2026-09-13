@@ -1,0 +1,15 @@
+id: '9324'
+slug: long-lever-standing-hip-extension
+name: Long Lever Standing Hip Extension
+human_readable_ids:
+- LongLeverStandingHipExtension
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

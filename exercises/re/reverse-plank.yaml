@@ -1,0 +1,15 @@
+id: 0867
+slug: reverse-plank
+name: Reverse plank
+human_readable_ids:
+- Reverseplank
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

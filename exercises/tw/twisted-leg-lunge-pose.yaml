@@ -1,0 +1,14 @@
+id: '5906'
+slug: twisted-leg-lunge-pose
+name: Twisted Leg Lunge Pose
+human_readable_ids:
+- TwistedLegLungePose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

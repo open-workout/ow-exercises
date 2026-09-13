@@ -1,0 +1,14 @@
+id: '2791'
+slug: wrist-flexion-articulations
+name: Wrist - Flexion - Articulations
+human_readable_ids:
+- WristFlexionArticulations
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

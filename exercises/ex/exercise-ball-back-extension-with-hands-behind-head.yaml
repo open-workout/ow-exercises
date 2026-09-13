@@ -1,0 +1,15 @@
+id: '1334'
+slug: exercise-ball-back-extension-with-hands-behind-head
+name: Exercise Ball Back Extension With Hands Behind Head
+human_readable_ids:
+- ExerciseBallBackExtensionWithHandsBehindHead
+primary_muscles:
+- back
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

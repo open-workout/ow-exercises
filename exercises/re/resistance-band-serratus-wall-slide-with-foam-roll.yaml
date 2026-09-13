@@ -1,0 +1,15 @@
+id: '5026'
+slug: resistance-band-serratus-wall-slide-with-foam-roll
+name: Resistance Band Serratus Wall Slide with Foam Roll
+human_readable_ids:
+- ResistanceBandSerratusWallSlidewithFoamRoll
+primary_muscles:
+- back
+equipment:
+- resistance-band
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

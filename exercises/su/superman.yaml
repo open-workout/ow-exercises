@@ -1,0 +1,15 @@
+id: 0804
+slug: superman
+name: Superman
+human_readable_ids:
+- Superman
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

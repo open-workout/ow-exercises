@@ -1,0 +1,15 @@
+id: '4727'
+slug: crunch-arms-on-chest
+name: Crunch (arms on chest)
+human_readable_ids:
+- Crunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '7202'
+slug: resistance-band-side-lunge
+name: Resistance Band Side Lunge
+human_readable_ids:
+- ResistanceBandSideLunge
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

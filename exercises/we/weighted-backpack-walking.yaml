@@ -1,0 +1,15 @@
+id: '10676'
+slug: weighted-backpack-walking
+name: Weighted Backpack Walking
+human_readable_ids:
+- WeightedBackpackWalking
+primary_muscles:
+- plyometrics
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

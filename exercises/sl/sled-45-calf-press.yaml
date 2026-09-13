@@ -1,0 +1,15 @@
+id: 0738
+slug: sled-45-calf-press
+name: Sled 45┬░ Calf Press
+human_readable_ids:
+- Sled45CalfPress
+primary_muscles:
+- calves
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

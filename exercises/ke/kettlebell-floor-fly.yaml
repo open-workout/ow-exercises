@@ -1,0 +1,15 @@
+id: '5858'
+slug: kettlebell-floor-fly
+name: Kettlebell Floor Fly
+human_readable_ids:
+- KettlebellFloorFly
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

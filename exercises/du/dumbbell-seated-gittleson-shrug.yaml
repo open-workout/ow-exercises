@@ -1,0 +1,15 @@
+id: '4053'
+slug: dumbbell-seated-gittleson-shrug
+name: Dumbbell Seated Gittleson Shrug
+human_readable_ids:
+- DumbbellSeatedGittlesonShrug
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '7328'
+slug: dumbbell-hyperextension
+name: Dumbbell Hyperextension
+human_readable_ids:
+- DumbbellHyperextension
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

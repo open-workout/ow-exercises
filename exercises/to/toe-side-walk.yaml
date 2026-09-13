@@ -1,0 +1,15 @@
+id: '10762'
+slug: toe-side-walk
+name: Toe Side Walk
+human_readable_ids:
+- ToeSideWalk
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

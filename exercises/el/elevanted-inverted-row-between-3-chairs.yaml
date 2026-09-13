@@ -1,0 +1,15 @@
+id: '3536'
+slug: elevanted-inverted-row-between-3-chairs
+name: Elevanted Inverted Row between 3 Chairs
+human_readable_ids:
+- ElevantedInvertedRowbetween3Chairs
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

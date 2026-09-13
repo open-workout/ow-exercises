@@ -1,0 +1,15 @@
+id: '5088'
+slug: cable-shoulder-internal-rotation
+name: Cable Shoulder Internal Rotation
+human_readable_ids:
+- CableShoulderInternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

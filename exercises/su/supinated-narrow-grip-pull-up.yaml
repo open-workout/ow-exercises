@@ -1,0 +1,15 @@
+id: '5474'
+slug: supinated-narrow-grip-pull-up
+name: Supinated Narrow Grip Pull-up
+human_readable_ids:
+- SupinatedNarrowGripPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

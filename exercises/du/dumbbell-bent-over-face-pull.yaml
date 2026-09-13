@@ -1,0 +1,15 @@
+id: '5665'
+slug: dumbbell-bent-over-face-pull
+name: Dumbbell Bent Over Face Pull
+human_readable_ids:
+- DumbbellBentOverFacePull
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

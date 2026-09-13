@@ -1,0 +1,15 @@
+id: '1660'
+slug: dumbbell-kneeling-bicep-curl-exercise-ball
+name: Dumbbell Kneeling Bicep Curl Exercise Ball
+human_readable_ids:
+- DumbbellKneelingBicepCurlExerciseBall
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

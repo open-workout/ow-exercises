@@ -1,0 +1,16 @@
+id: '3471'
+slug: warrior-pose
+name: Warrior Pose
+human_readable_ids:
+- WarriorPose
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

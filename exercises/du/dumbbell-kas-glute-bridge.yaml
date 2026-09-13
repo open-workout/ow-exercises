@@ -1,0 +1,15 @@
+id: '5554'
+slug: dumbbell-kas-glute-bridge
+name: Dumbbell KAS Glute Bridge
+human_readable_ids:
+- DumbbellKASGluteBridge
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

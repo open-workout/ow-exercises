@@ -1,0 +1,15 @@
+id: '4756'
+slug: dumbbell-sit-up
+name: Dumbbell Sit-up
+human_readable_ids:
+- DumbbellSitup
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

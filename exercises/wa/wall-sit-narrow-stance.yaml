@@ -1,0 +1,15 @@
+id: '7557'
+slug: wall-sit-narrow-stance
+name: Wall sit (narrow stance)
+human_readable_ids:
+- Wallsit
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

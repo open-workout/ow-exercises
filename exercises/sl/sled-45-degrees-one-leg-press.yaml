@@ -1,0 +1,16 @@
+id: '1425'
+slug: sled-45-degrees-one-leg-press
+name: Sled 45 degrees One Leg Press
+human_readable_ids:
+- Sled45degreesOneLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- sled-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

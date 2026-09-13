@@ -1,0 +1,16 @@
+id: '0127'
+slug: barbell-zercher-squat
+name: Barbell Zercher Squat
+human_readable_ids:
+- BarbellZercherSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

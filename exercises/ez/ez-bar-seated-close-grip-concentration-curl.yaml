@@ -1,0 +1,15 @@
+id: '1682'
+slug: ez-bar-seated-close-grip-concentration-curl
+name: EZ Bar Seated Close Grip Concentration Curl
+human_readable_ids:
+- EZBarSeatedCloseGripConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

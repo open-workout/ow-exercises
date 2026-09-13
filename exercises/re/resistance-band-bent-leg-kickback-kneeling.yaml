@@ -1,0 +1,15 @@
+id: '2149'
+slug: resistance-band-bent-leg-kickback-kneeling
+name: Resistance Band Bent Leg Kickback (Kneeling)
+human_readable_ids:
+- ResistanceBandBentLegKickback
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

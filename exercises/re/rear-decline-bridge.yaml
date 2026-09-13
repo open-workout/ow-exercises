@@ -1,0 +1,15 @@
+id: 0668
+slug: rear-decline-bridge
+name: Rear Decline Bridge
+human_readable_ids:
+- RearDeclineBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

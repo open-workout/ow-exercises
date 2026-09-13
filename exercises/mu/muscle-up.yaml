@@ -1,0 +1,15 @@
+id: '0631'
+slug: muscle-up
+name: Muscle Up
+human_readable_ids:
+- MuscleUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

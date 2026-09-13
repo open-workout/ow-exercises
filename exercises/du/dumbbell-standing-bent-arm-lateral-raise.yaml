@@ -1,0 +1,15 @@
+id: '2316'
+slug: dumbbell-standing-bent-arm-lateral-raise
+name: Dumbbell Standing Bent Arm Lateral raise
+human_readable_ids:
+- DumbbellStandingBentArmLateralraise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

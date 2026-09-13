@@ -1,0 +1,15 @@
+id: '5582'
+slug: rear-shift-lunge-from-deficit
+name: Rear Shift Lunge from Deficit
+human_readable_ids:
+- RearShiftLungefromDeficit
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

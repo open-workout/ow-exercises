@@ -1,0 +1,15 @@
+id: '4196'
+slug: cable-half-kneeling-adductor-pallof-press
+name: Cable Half Kneeling Adductor Pallof Press
+human_readable_ids:
+- CableHalfKneelingAdductorPallofPress
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

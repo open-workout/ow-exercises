@@ -1,0 +1,14 @@
+id: '5376'
+slug: roll-chest-opener-lying-on-floor
+name: Roll Chest Opener Lying on Floor
+human_readable_ids:
+- RollChestOpenerLyingonFloor
+primary_muscles:
+- chest
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

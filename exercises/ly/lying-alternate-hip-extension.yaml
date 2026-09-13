@@ -1,0 +1,15 @@
+id: '0614'
+slug: lying-alternate-hip-extension
+name: Lying Alternate Hip Extension
+human_readable_ids:
+- LyingAlternateHipExtension
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

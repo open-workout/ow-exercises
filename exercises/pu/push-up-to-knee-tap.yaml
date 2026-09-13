@@ -1,0 +1,15 @@
+id: '4162'
+slug: push-up-to-knee-tap
+name: Push up to Knee Tap
+human_readable_ids:
+- PushuptoKneeTap
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

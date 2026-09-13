@@ -1,0 +1,15 @@
+id: 0915
+slug: band-push-up
+name: Band push-up
+human_readable_ids:
+- Bandpushup
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

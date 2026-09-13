@@ -1,0 +1,15 @@
+id: '5669'
+slug: barbell-srtict-curl
+name: Barbell Srtict Curl
+human_readable_ids:
+- BarbellSrtictCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

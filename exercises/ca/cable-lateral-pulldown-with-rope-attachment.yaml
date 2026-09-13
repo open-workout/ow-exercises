@@ -1,0 +1,15 @@
+id: '0177'
+slug: cable-lateral-pulldown-with-rope-attachment
+name: Cable Lateral Pulldown (with rope attachment)
+human_readable_ids:
+- CableLateralPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

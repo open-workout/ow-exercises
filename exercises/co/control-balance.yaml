@@ -1,0 +1,17 @@
+id: '2840'
+slug: control-balance
+name: Control Balance
+human_readable_ids:
+- ControlBalance
+primary_muscles:
+- back
+- glutes
+- hamstrings
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

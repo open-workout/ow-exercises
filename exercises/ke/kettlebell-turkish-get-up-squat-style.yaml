@@ -1,0 +1,16 @@
+id: '0551'
+slug: kettlebell-turkish-get-up-squat-style
+name: Kettlebell Turkish Get Up (Squat style)
+human_readable_ids:
+- KettlebellTurkishGetUp
+primary_muscles:
+- glutes
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

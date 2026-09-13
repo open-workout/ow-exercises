@@ -1,0 +1,16 @@
+id: '2980'
+slug: dumbbell-renegade-row
+name: Dumbbell Renegade Row
+human_readable_ids:
+- DumbbellRenegadeRow
+primary_muscles:
+- back
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

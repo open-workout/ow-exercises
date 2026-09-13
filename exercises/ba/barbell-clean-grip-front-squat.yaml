@@ -1,0 +1,16 @@
+id: 0029
+slug: barbell-clean-grip-front-squat
+name: Barbell Clean-grip Front Squat
+human_readable_ids:
+- BarbellCleangripFrontSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

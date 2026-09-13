@@ -1,0 +1,15 @@
+id: '3292'
+slug: elevator
+name: Elevator
+human_readable_ids:
+- Elevator
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

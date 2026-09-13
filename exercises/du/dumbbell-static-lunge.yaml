@@ -1,0 +1,16 @@
+id: '4290'
+slug: dumbbell-static-lunge
+name: Dumbbell Static Lunge
+human_readable_ids:
+- DumbbellStaticLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

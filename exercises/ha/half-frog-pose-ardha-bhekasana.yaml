@@ -1,0 +1,14 @@
+id: '6294'
+slug: half-frog-pose-ardha-bhekasana
+name: Half Frog Pose Ardha Bhekasana
+human_readable_ids:
+- HalfFrogPoseArdhaBhekasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4578'
+slug: cable-bent-over-neutral-grip-kickback-with-rope-attachment
+name: Cable Bent-Over Neutral Grip Kickback with Rope Attachment
+human_readable_ids:
+- CableBentOverNeutralGripKickbackwithRopeAttachment
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

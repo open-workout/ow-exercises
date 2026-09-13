@@ -1,0 +1,15 @@
+id: '1050'
+slug: smith-calf-raise-with-block
+name: Smith Calf Raise (with block)
+human_readable_ids:
+- SmithCalfRaise
+primary_muscles:
+- calves
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

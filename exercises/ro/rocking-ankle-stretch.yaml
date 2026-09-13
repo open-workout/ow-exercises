@@ -1,0 +1,14 @@
+id: '2936'
+slug: rocking-ankle-stretch
+name: Rocking Ankle Stretch
+human_readable_ids:
+- RockingAnkleStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

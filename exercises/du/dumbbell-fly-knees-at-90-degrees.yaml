@@ -1,0 +1,15 @@
+id: '3175'
+slug: dumbbell-fly-knees-at-90-degrees
+name: Dumbbell Fly (knees at 90 degrees)
+human_readable_ids:
+- DumbbellFly
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

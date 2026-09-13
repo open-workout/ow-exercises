@@ -1,0 +1,15 @@
+id: '2447'
+slug: lying-leg-hip-raise-2447
+name: Lying leg hip raise
+human_readable_ids:
+- Lyingleghipraise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

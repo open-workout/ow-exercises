@@ -1,0 +1,15 @@
+id: '7199'
+slug: resistance-band-lying-bent-knee-hip-abduction
+name: Resistance Band Lying Bent Knee Hip Abduction
+human_readable_ids:
+- ResistanceBandLyingBentKneeHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

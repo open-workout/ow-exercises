@@ -1,0 +1,15 @@
+id: '4596'
+slug: front-snap-kick-kickboxing-with-partner
+name: Front Snap Kick Kickboxing (with partner)
+human_readable_ids:
+- FrontSnapKickKickboxing
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

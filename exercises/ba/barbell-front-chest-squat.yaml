@@ -1,0 +1,16 @@
+id: 0039
+slug: barbell-front-chest-squat
+name: Barbell Front Chest Squat
+human_readable_ids:
+- BarbellFrontChestSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '11799'
+slug: dumbbell-bent-over-back-to-side-to-front-arms-raise
+name: Dumbbell Bent Over Back to Side to Front Arms Raise
+human_readable_ids:
+- DumbbellBentOverBacktoSidetoFrontArmsRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

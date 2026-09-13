@@ -1,0 +1,15 @@
+id: '4602'
+slug: pvc-external-rotation
+name: PVC External Rotation
+human_readable_ids:
+- PVCExternalRotation
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

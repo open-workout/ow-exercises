@@ -1,0 +1,14 @@
+id: '1912'
+slug: standing-high-leg-bent-knee-hamstring-stretch
+name: Standing High Leg Bent Knee Hamstring Stretch
+human_readable_ids:
+- StandingHighLegBentKneeHamstringStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

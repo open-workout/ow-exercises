@@ -1,0 +1,15 @@
+id: '0470'
+slug: hand-opposite-knee-crunch
+name: Hand Opposite Knee Crunch
+human_readable_ids:
+- HandOppositeKneeCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1061'
+slug: barbell-one-leg-hip-thrust
+name: Barbell one leg hip thrust
+human_readable_ids:
+- Barbelloneleghipthrust
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

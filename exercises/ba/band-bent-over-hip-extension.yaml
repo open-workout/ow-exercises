@@ -1,0 +1,15 @@
+id: 0980
+slug: band-bent-over-hip-extension
+name: Band bent-over hip extension
+human_readable_ids:
+- Bandbentoverhipextension
+primary_muscles:
+- glutes
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

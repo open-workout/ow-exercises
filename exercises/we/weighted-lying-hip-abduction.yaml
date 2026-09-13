@@ -1,0 +1,15 @@
+id: 0837
+slug: weighted-lying-hip-abduction
+name: Weighted Lying Hip Abduction
+human_readable_ids:
+- WeightedLyingHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

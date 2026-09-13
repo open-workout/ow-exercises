@@ -1,0 +1,15 @@
+id: '10294'
+slug: heel-walk
+name: Heel Walk
+human_readable_ids:
+- HeelWalk
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

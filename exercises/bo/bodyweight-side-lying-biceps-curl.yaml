@@ -1,0 +1,15 @@
+id: '1769'
+slug: bodyweight-side-lying-biceps-curl
+name: Bodyweight Side Lying Biceps Curl
+human_readable_ids:
+- BodyweightSideLyingBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

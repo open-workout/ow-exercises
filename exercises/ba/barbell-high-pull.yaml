@@ -1,0 +1,15 @@
+id: '10106'
+slug: barbell-high-pull
+name: Barbell High Pull
+human_readable_ids:
+- BarbellHighPull
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

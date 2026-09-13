@@ -1,0 +1,15 @@
+id: '6123'
+slug: dumbbell-unilateral-scapula-raise
+name: Dumbbell Unilateral Scapula Raise
+human_readable_ids:
+- DumbbellUnilateralScapulaRaise
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

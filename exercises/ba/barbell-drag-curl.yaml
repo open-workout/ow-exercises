@@ -1,0 +1,15 @@
+id: 0038
+slug: barbell-drag-curl
+name: Barbell Drag Curl
+human_readable_ids:
+- BarbellDragCurl
+primary_muscles:
+- biceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

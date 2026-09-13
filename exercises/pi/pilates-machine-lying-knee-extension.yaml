@@ -1,0 +1,14 @@
+id: '10655'
+slug: pilates-machine-lying-knee-extension
+name: Pilates Machine Lying Knee Extension
+human_readable_ids:
+- PilatesMachineLyingKneeExtension
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1016'
+slug: band-wrist-curl
+name: Band wrist curl
+human_readable_ids:
+- Bandwristcurl
+primary_muscles:
+- forearms
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

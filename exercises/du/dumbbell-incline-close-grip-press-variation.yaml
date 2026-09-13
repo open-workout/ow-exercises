@@ -1,0 +1,15 @@
+id: '4015'
+slug: dumbbell-incline-close-grip-press-variation
+name: Dumbbell Incline Close-grip Press Variation
+human_readable_ids:
+- DumbbellInclineClosegripPressVariation
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

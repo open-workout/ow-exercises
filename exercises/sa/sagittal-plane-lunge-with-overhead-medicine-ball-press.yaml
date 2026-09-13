@@ -1,0 +1,15 @@
+id: '1692'
+slug: sagittal-plane-lunge-with-overhead-medicine-ball-press
+name: Sagittal Plane Lunge With Overhead Medicine Ball Press
+human_readable_ids:
+- SagittalPlaneLungeWithOverheadMedicineBallPress
+primary_muscles:
+- quads
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

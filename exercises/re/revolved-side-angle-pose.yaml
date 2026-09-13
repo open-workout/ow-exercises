@@ -1,0 +1,14 @@
+id: '5900'
+slug: revolved-side-angle-pose
+name: Revolved Side Angle Pose
+human_readable_ids:
+- RevolvedSideAnglePose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

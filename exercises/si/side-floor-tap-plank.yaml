@@ -1,0 +1,15 @@
+id: '8399'
+slug: side-floor-tap-plank
+name: Side Floor Tap Plank
+human_readable_ids:
+- SideFloorTapPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

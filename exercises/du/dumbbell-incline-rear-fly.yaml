@@ -1,0 +1,15 @@
+id: '2500'
+slug: dumbbell-incline-rear-fly
+name: Dumbbell Incline Rear Fly
+human_readable_ids:
+- DumbbellInclineRearFly
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

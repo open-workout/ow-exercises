@@ -1,0 +1,17 @@
+id: '4161'
+slug: dumbbell-rear-lunge-front-raise
+name: Dumbbell Rear Lunge Front Raise
+human_readable_ids:
+- DumbbellRearLungeFrontRaise
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

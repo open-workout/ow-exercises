@@ -1,0 +1,15 @@
+id: '3922'
+slug: side-push-up-with-towel
+name: Side Push-up with Towel
+human_readable_ids:
+- SidePushupwithTowel
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

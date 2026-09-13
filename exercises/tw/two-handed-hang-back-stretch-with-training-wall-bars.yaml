@@ -1,0 +1,14 @@
+id: '1799'
+slug: two-handed-hang-back-stretch-with-training-wall-bars
+name: Two handed hang back stretch (with Training Wall Bars)
+human_readable_ids:
+- Twohandedhangbackstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

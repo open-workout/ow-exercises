@@ -1,0 +1,17 @@
+id: '3734'
+slug: kettlebell-kickstand-one-leg-deadlift
+name: Kettlebell Kickstand One Leg Deadlift
+human_readable_ids:
+- KettlebellKickstandOneLegDeadlift
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

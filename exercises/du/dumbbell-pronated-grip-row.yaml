@@ -1,0 +1,15 @@
+id: '2326'
+slug: dumbbell-pronated-grip-row
+name: Dumbbell Pronated Grip Row
+human_readable_ids:
+- DumbbellPronatedGripRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

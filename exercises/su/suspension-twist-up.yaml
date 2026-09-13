@@ -1,0 +1,15 @@
+id: '1152'
+slug: suspension-twist-up
+name: Suspension Twist-Up
+human_readable_ids:
+- SuspensionTwistUp
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

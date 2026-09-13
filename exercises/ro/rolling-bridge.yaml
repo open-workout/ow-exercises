@@ -1,0 +1,15 @@
+id: 0679
+slug: rolling-bridge
+name: Rolling Bridge
+human_readable_ids:
+- RollingBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '1443'
+slug: dumbbell-lying-pronated-grip-maltese-hold-isometric
+name: Dumbbell Lying Pronated Grip Maltese Hold Isometric
+human_readable_ids:
+- DumbbellLyingPronatedGripMalteseHoldIsometric
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

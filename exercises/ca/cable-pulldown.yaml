@@ -1,0 +1,15 @@
+id: 0198
+slug: cable-pulldown
+name: Cable Pulldown
+human_readable_ids:
+- CablePulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '2419'
+slug: resistance-band-leg-lift
+name: Resistance Band Leg Lift
+human_readable_ids:
+- ResistanceBandLegLift
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

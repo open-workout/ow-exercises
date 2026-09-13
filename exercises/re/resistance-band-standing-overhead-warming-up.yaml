@@ -1,0 +1,15 @@
+id: '4024'
+slug: resistance-band-standing-overhead-warming-up
+name: Resistance Band Standing Overhead Warming-up
+human_readable_ids:
+- ResistanceBandStandingOverheadWarmingup
+primary_muscles:
+- glutes
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- time
+load:
+  required: false
+  direction: added

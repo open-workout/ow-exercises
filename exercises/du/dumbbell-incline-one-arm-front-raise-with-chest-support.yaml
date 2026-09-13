@@ -1,0 +1,15 @@
+id: '4071'
+slug: dumbbell-incline-one-arm-front-raise-with-chest-support
+name: Dumbbell Incline One Arm Front Raise with Chest Support
+human_readable_ids:
+- DumbbellInclineOneArmFrontRaisewithChestSupport
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

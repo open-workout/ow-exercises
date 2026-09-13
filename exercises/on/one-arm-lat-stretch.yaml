@@ -1,0 +1,14 @@
+id: '1801'
+slug: one-arm-lat-stretch
+name: One arm Lat Stretch
+human_readable_ids:
+- OnearmLatStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

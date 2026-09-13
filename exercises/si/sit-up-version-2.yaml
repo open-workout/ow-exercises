@@ -1,0 +1,15 @@
+id: '0735'
+slug: sit-up-version-2
+name: Sit-Up (version 2)
+human_readable_ids:
+- SitUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

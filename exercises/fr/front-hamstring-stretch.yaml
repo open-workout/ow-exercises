@@ -1,0 +1,15 @@
+id: '3468'
+slug: front-hamstring-stretch
+name: Front Hamstring Stretch
+human_readable_ids:
+- FrontHamstringStretch
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0102'
+slug: barbell-squat-on-knees
+name: Barbell Squat (on knees)
+human_readable_ids:
+- BarbellSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

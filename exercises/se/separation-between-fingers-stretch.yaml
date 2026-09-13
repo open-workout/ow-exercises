@@ -1,0 +1,14 @@
+id: '2103'
+slug: separation-between-fingers-stretch
+name: Separation Between Fingers Stretch
+human_readable_ids:
+- SeparationBetweenFingersStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

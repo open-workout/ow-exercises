@@ -1,0 +1,14 @@
+id: '0716'
+slug: side-push-neck-stretch
+name: Side Push Neck Stretch
+human_readable_ids:
+- SidePushNeckStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '11050'
+slug: resistance-band-seated-bent-knee-abduction-feet-floor-off
+name: Resistance Band Seated Bent Knee Abduction Feet Floor Off
+human_readable_ids:
+- ResistanceBandSeatedBentKneeAbductionFeetFloorOff
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

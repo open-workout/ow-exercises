@@ -1,0 +1,16 @@
+id: '3511'
+slug: resistance-band-bird-dog
+name: Resistance Band Bird Dog
+human_readable_ids:
+- ResistanceBandBirdDog
+primary_muscles:
+- back
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

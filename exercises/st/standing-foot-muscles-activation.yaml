@@ -1,0 +1,15 @@
+id: '6775'
+slug: standing-foot-muscles-activation
+name: Standing Foot Muscles Activation
+human_readable_ids:
+- StandingFootMusclesActivation
+primary_muscles:
+- feet
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

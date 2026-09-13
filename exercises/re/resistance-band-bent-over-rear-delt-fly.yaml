@@ -1,0 +1,15 @@
+id: '4114'
+slug: resistance-band-bent-over-rear-delt-fly
+name: Resistance Band Bent Over Rear Delt Fly
+human_readable_ids:
+- ResistanceBandBentOverRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

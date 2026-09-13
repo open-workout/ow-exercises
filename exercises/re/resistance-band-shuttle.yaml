@@ -1,0 +1,15 @@
+id: '4241'
+slug: resistance-band-shuttle
+name: Resistance Band Shuttle
+human_readable_ids:
+- ResistanceBandShuttle
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

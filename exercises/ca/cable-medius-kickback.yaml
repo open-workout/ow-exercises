@@ -1,0 +1,15 @@
+id: '5470'
+slug: cable-medius-kickback
+name: Cable Medius Kickback
+human_readable_ids:
+- CableMediusKickback
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3297'
+slug: back-lever
+name: Back lever
+human_readable_ids:
+- Backlever
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6209'
+slug: kneeling-straight-leg-kickback-version-2-left
+name: Kneeling Straight Leg Kickback (VERSION 2) (left)
+human_readable_ids:
+- KneelingStraightLegKickback
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

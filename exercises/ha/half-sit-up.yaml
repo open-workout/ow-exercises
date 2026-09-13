@@ -1,0 +1,15 @@
+id: '3202'
+slug: half-sit-up
+name: Half Sit-up
+human_readable_ids:
+- HalfSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

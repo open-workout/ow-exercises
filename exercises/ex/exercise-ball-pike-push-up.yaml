@@ -1,0 +1,15 @@
+id: '1296'
+slug: exercise-ball-pike-push-up
+name: Exercise Ball Pike Push up
+human_readable_ids:
+- ExerciseBallPikePushup
+primary_muscles:
+- chest
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

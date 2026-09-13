@@ -1,0 +1,16 @@
+id: '3530'
+slug: barbell-banded-squat
+name: Barbell Banded Squat
+human_readable_ids:
+- BarbellBandedSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

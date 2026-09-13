@@ -1,0 +1,15 @@
+id: '9989'
+slug: stick-assisted-standing-shoulder-internal-rotation
+name: Stick Assisted Standing Shoulder Internal Rotation
+human_readable_ids:
+- StickAssistedStandingShoulderInternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

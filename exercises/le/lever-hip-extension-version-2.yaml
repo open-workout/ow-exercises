@@ -1,0 +1,15 @@
+id: '2286'
+slug: lever-hip-extension-version-2
+name: Lever Hip Extension (VERSION 2)
+human_readable_ids:
+- LeverHipExtension
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

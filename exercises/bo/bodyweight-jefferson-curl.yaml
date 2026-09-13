@@ -1,0 +1,15 @@
+id: '10752'
+slug: bodyweight-jefferson-curl
+name: Bodyweight Jefferson Curl
+human_readable_ids:
+- BodyweightJeffersonCurl
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

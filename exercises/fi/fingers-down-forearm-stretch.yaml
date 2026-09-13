@@ -1,0 +1,14 @@
+id: '2091'
+slug: fingers-down-forearm-stretch
+name: Fingers Down Forearm Stretch
+human_readable_ids:
+- FingersDownForearmStretch
+primary_muscles:
+- forearms
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

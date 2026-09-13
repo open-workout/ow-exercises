@@ -1,0 +1,15 @@
+id: '1263'
+slug: cable-one-arm-fly-on-exercise-ball
+name: Cable One Arm Fly on Exercise Ball
+human_readable_ids:
+- CableOneArmFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5497'
+slug: dumbbell-plank-pass-through
+name: Dumbbell Plank Pass Through
+human_readable_ids:
+- DumbbellPlankPassThrough
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

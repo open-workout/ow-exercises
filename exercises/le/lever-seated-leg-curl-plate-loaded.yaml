@@ -1,0 +1,15 @@
+id: '8604'
+slug: lever-seated-leg-curl-plate-loaded
+name: Lever Seated Leg Curl (plate loaded)
+human_readable_ids:
+- LeverSeatedLegCurl
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

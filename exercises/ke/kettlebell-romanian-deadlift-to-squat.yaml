@@ -1,0 +1,15 @@
+id: '9485'
+slug: kettlebell-romanian-deadlift-to-squat
+name: Kettlebell Romanian Deadlift to Squat
+human_readable_ids:
+- KettlebellRomanianDeadlifttoSquat
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

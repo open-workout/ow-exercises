@@ -1,0 +1,15 @@
+id: '3123'
+slug: resistance-band-seated-biceps-curl
+name: Resistance Band Seated Biceps Curl
+human_readable_ids:
+- ResistanceBandSeatedBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

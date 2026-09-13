@@ -1,0 +1,14 @@
+id: '1820'
+slug: ez-bar-preacher-arms-stretch
+name: Ez Bar Preacher Arms Stretch
+human_readable_ids:
+- EzBarPreacherArmsStretch
+primary_muscles:
+- biceps
+equipment:
+- ez-barbell
+modalities:
+- time
+load:
+  required: true
+  direction: added

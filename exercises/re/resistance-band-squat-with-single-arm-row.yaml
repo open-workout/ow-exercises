@@ -1,0 +1,15 @@
+id: '3786'
+slug: resistance-band-squat-with-single-arm-row
+name: Resistance Band Squat with Single Arm Row
+human_readable_ids:
+- ResistanceBandSquatwithSingleArmRow
+primary_muscles:
+- back
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

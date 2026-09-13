@@ -1,0 +1,14 @@
+id: '11646'
+slug: static-glutes-contraction-isometric
+name: Static Glutes Contraction (Isometric)
+human_readable_ids:
+- StaticGlutesContraction
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

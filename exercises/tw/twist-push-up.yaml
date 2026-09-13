@@ -1,0 +1,15 @@
+id: '3964'
+slug: twist-push-up
+name: Twist Push-up
+human_readable_ids:
+- TwistPushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

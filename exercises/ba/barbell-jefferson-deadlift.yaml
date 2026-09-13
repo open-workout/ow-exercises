@@ -1,0 +1,18 @@
+id: '5706'
+slug: barbell-jefferson-deadlift
+name: Barbell Jefferson Deadlift
+human_readable_ids:
+- BarbellJeffersonDeadlift
+primary_muscles:
+- adductors
+- back
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

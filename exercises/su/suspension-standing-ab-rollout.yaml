@@ -1,0 +1,15 @@
+id: '1144'
+slug: suspension-standing-ab-rollout
+name: Suspension Standing Ab Rollout
+human_readable_ids:
+- SuspensionStandingAbRollout
+primary_muscles:
+- abs
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

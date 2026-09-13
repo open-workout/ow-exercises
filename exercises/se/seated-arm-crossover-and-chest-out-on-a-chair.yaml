@@ -1,0 +1,15 @@
+id: '11006'
+slug: seated-arm-crossover-and-chest-out-on-a-chair
+name: Seated Arm Crossover and Chest Out on a Chair
+human_readable_ids:
+- SeatedArmCrossoverandChestOutonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

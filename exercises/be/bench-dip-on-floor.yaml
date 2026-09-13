@@ -1,0 +1,15 @@
+id: '1399'
+slug: bench-dip-on-floor
+name: Bench dip on floor
+human_readable_ids:
+- Benchdiponfloor
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

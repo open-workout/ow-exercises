@@ -1,0 +1,15 @@
+id: 0918
+slug: band-seated-row
+name: Band seated row
+human_readable_ids:
+- Bandseatedrow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

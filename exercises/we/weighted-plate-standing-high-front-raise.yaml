@@ -1,0 +1,15 @@
+id: '4847'
+slug: weighted-plate-standing-high-front-raise
+name: Weighted Plate Standing High Front Raise
+human_readable_ids:
+- WeightedPlateStandingHighFrontRaise
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

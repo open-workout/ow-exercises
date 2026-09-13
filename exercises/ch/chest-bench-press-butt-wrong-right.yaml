@@ -1,0 +1,15 @@
+id: '2338'
+slug: chest-bench-press-butt-wrong-right
+name: Chest Bench Press - Butt (WRONG-RIGHT)
+human_readable_ids:
+- ChestBenchPressButt
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

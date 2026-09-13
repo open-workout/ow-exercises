@@ -1,0 +1,15 @@
+id: '4974'
+slug: inverted-row-slide-on-floor
+name: Inverted Row Slide on Floor
+human_readable_ids:
+- InvertedRowSlideonFloor
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

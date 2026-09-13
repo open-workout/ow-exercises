@@ -1,0 +1,16 @@
+id: '1132'
+slug: suspension-side-lunge
+name: Suspension Side Lunge
+human_readable_ids:
+- SuspensionSideLunge
+primary_muscles:
+- adductors
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

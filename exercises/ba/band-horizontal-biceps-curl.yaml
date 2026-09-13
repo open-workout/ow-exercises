@@ -1,0 +1,15 @@
+id: '4084'
+slug: band-horizontal-biceps-curl
+name: Band Horizontal Biceps Curl
+human_readable_ids:
+- BandHorizontalBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

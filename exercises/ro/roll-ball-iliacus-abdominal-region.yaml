@@ -1,0 +1,14 @@
+id: '4477'
+slug: roll-ball-iliacus-abdominal-region
+name: Roll Ball Iliacus - Abdominal Region
+human_readable_ids:
+- RollBallIliacusAbdominalRegion
+primary_muscles:
+- glutes
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

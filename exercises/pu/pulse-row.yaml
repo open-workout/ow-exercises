@@ -1,0 +1,15 @@
+id: '2923'
+slug: pulse-row
+name: Pulse Row
+human_readable_ids:
+- PulseRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

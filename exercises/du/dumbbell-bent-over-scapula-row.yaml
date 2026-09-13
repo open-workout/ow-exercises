@@ -1,0 +1,15 @@
+id: '6136'
+slug: dumbbell-bent-over-scapula-row
+name: Dumbbell Bent-Over Scapula Row
+human_readable_ids:
+- DumbbellBentOverScapulaRow
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

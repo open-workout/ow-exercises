@@ -1,0 +1,14 @@
+id: '1969'
+slug: mobilization-of-ankle-stretch
+name: Mobilization Of Ankle Stretch
+human_readable_ids:
+- MobilizationOfAnkleStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

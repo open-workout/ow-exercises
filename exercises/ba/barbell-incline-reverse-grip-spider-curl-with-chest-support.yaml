@@ -1,0 +1,15 @@
+id: '3988'
+slug: barbell-incline-reverse-grip-spider-curl-with-chest-support
+name: Barbell Incline Reverse grip Spider Curl with Chest Support
+human_readable_ids:
+- BarbellInclineReversegripSpiderCurlwithChestSupport
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

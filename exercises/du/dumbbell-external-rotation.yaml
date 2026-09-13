@@ -1,0 +1,15 @@
+id: '3684'
+slug: dumbbell-external-rotation
+name: Dumbbell External Rotation
+human_readable_ids:
+- DumbbellExternalRotation
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

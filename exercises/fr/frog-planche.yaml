@@ -1,0 +1,14 @@
+id: '3301'
+slug: frog-planche
+name: Frog planche
+human_readable_ids:
+- Frogplanche
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

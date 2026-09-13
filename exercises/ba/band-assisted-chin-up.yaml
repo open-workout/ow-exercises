@@ -1,0 +1,15 @@
+id: '4718'
+slug: band-assisted-chin-up
+name: Band Assisted Chin-Up
+human_readable_ids:
+- BandAssistedChinUp
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

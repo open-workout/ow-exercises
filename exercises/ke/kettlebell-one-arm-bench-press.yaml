@@ -1,0 +1,15 @@
+id: '3738'
+slug: kettlebell-one-arm-bench-press
+name: Kettlebell One Arm Bench Press
+human_readable_ids:
+- KettlebellOneArmBenchPress
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

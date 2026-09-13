@@ -1,0 +1,15 @@
+id: '0344'
+slug: dumbbell-lying-one-arm-pronated-triceps-extension
+name: Dumbbell Lying One Arm Pronated Triceps Extension
+human_readable_ids:
+- DumbbellLyingOneArmPronatedTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1486'
+slug: push-up-with-push-up-handles
+name: Push-up (With push-up handles)
+human_readable_ids:
+- Pushup
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

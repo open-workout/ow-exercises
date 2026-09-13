@@ -1,0 +1,15 @@
+id: '7625'
+slug: dumbbell-bent-over-curl
+name: Dumbbell Bent Over Curl
+human_readable_ids:
+- DumbbellBentOverCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

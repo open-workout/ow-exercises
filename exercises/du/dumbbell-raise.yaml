@@ -1,0 +1,15 @@
+id: '0376'
+slug: dumbbell-raise
+name: Dumbbell Raise
+human_readable_ids:
+- DumbbellRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

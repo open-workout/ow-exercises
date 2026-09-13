@@ -1,0 +1,14 @@
+id: '1365'
+slug: upper-back-stretch
+name: Upper Back Stretch
+human_readable_ids:
+- UpperBackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

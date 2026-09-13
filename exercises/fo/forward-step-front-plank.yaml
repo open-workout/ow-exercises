@@ -1,0 +1,15 @@
+id: '3959'
+slug: forward-step-front-plank
+name: Forward Step Front Plank
+human_readable_ids:
+- ForwardStepFrontPlank
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

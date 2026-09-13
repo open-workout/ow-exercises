@@ -1,0 +1,15 @@
+id: '0303'
+slug: dumbbell-decline-hammer-press
+name: Dumbbell Decline Hammer Press
+human_readable_ids:
+- DumbbellDeclineHammerPress
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

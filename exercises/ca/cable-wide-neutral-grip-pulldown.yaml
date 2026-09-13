@@ -1,0 +1,15 @@
+id: '4217'
+slug: cable-wide-neutral-grip-pulldown
+name: Cable Wide Neutral Grip PullDown
+human_readable_ids:
+- CableWideNeutralGripPullDown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

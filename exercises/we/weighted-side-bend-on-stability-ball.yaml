@@ -1,0 +1,15 @@
+id: 0850
+slug: weighted-side-bend-on-stability-ball
+name: Weighted Side Bend (on stability ball)
+human_readable_ids:
+- WeightedSideBend
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

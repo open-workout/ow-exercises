@@ -1,0 +1,15 @@
+id: '3951'
+slug: cross-twisting-sit-up
+name: Cross Twisting Sit-Up
+human_readable_ids:
+- CrossTwistingSitUp
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

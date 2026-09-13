@@ -1,0 +1,14 @@
+id: '5557'
+slug: standing-chest-stretch-against-door
+name: Standing Chest Stretch against Door
+human_readable_ids:
+- StandingChestStretchagainstDoor
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

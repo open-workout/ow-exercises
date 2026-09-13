@@ -1,0 +1,15 @@
+id: '6486'
+slug: band-bent-over-rear-lateral-raise-version-2
+name: Band Bent over Rear Lateral Raise (VERSION 2)
+human_readable_ids:
+- BandBentoverRearLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

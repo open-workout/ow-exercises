@@ -1,0 +1,15 @@
+id: '1149'
+slug: suspension-triceps-extension-push-up
+name: Suspension Triceps Extension Push-up
+human_readable_ids:
+- SuspensionTricepsExtensionPushup
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

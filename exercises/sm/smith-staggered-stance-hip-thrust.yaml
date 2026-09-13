@@ -1,0 +1,15 @@
+id: '11053'
+slug: smith-staggered-stance-hip-thrust
+name: Smith Staggered Stance Hip Thrust
+human_readable_ids:
+- SmithStaggeredStanceHipThrust
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

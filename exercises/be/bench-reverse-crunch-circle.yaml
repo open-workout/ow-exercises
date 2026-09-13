@@ -1,0 +1,17 @@
+id: '4333'
+slug: bench-reverse-crunch-circle
+name: Bench Reverse Crunch Circle
+human_readable_ids:
+- BenchReverseCrunchCircle
+primary_muscles:
+- adductors
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

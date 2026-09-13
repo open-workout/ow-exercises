@@ -1,0 +1,15 @@
+id: '4984'
+slug: kneeling-modified-hindu-push-up
+name: Kneeling Modified Hindu Push-up
+human_readable_ids:
+- KneelingModifiedHinduPushup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

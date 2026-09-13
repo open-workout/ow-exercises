@@ -1,0 +1,15 @@
+id: '4424'
+slug: barbell-lying-close-grip-overhand-row-on-rack
+name: Barbell Lying Close-Grip Overhand Row on Rack
+human_readable_ids:
+- BarbellLyingCloseGripOverhandRowonRack
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

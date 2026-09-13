@@ -1,0 +1,14 @@
+id: '1793'
+slug: cross-over-shoulder-stretch
+name: Cross over shoulder stretch
+human_readable_ids:
+- Crossovershoulderstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

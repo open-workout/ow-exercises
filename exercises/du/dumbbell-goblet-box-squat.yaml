@@ -1,0 +1,16 @@
+id: '3692'
+slug: dumbbell-goblet-box-squat
+name: Dumbbell Goblet Box Squat
+human_readable_ids:
+- DumbbellGobletBoxSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

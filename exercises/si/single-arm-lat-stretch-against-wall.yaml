@@ -1,0 +1,14 @@
+id: '7623'
+slug: single-arm-lat-stretch-against-wall
+name: Single Arm Lat Stretch against Wall
+human_readable_ids:
+- SingleArmLatStretchagainstWall
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

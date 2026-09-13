@@ -1,0 +1,15 @@
+id: '3159'
+slug: bodyweight-standing-one-arm-row
+name: Bodyweight Standing One Arm Row
+human_readable_ids:
+- BodyweightStandingOneArmRow
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6018'
+slug: lying-hyperextension-hold
+name: Lying Hyperextension Hold
+human_readable_ids:
+- LyingHyperextensionHold
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

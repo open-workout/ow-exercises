@@ -1,0 +1,15 @@
+id: '3542'
+slug: dumbbell-incline-t-raise
+name: Dumbbell Incline T-Raise
+human_readable_ids:
+- DumbbellInclineTRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

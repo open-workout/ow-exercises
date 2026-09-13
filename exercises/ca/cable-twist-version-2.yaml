@@ -1,0 +1,15 @@
+id: '1069'
+slug: cable-twist-version-2
+name: Cable twist (version 2)
+human_readable_ids:
+- Cabletwist
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

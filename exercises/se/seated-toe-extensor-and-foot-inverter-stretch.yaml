@@ -1,0 +1,14 @@
+id: '1964'
+slug: seated-toe-extensor-and-foot-inverter-stretch
+name: Seated Toe Extensor And Foot Inverter Stretch
+human_readable_ids:
+- SeatedToeExtensorAndFootInverterStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

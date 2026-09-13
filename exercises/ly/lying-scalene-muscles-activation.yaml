@@ -1,0 +1,15 @@
+id: '6753'
+slug: lying-scalene-muscles-activation
+name: Lying Scalene Muscles Activation
+human_readable_ids:
+- LyingScaleneMusclesActivation
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '5145'
+slug: posterior-neck-isometric
+name: Posterior Neck Isometric
+human_readable_ids:
+- PosteriorNeckIsometric
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

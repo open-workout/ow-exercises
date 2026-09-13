@@ -1,0 +1,15 @@
+id: 0095
+slug: barbell-shrug
+name: Barbell Shrug
+human_readable_ids:
+- BarbellShrug
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

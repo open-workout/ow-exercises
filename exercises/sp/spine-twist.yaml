@@ -1,0 +1,15 @@
+id: '2329'
+slug: spine-twist
+name: Spine Twist
+human_readable_ids:
+- SpineTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

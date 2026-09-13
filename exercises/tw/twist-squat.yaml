@@ -1,0 +1,17 @@
+id: 0822
+slug: twist-squat
+name: Twist Squat
+human_readable_ids:
+- TwistSquat
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

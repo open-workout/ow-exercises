@@ -1,0 +1,16 @@
+id: '3281'
+slug: smith-full-squat
+name: Smith Full Squat
+human_readable_ids:
+- SmithFullSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1059'
+slug: standing-quadriceps-stretch
+name: Standing Quadriceps Stretch
+human_readable_ids:
+- StandingQuadricepsStretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

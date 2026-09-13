@@ -1,0 +1,15 @@
+id: '8891'
+slug: weighted-bag-good-morning
+name: Weighted Bag Good Morning
+human_readable_ids:
+- WeightedBagGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

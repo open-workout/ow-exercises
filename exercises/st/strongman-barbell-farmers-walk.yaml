@@ -1,0 +1,15 @@
+id: '2734'
+slug: strongman-barbell-farmers-walk
+name: StrongMan Barbell Farmers Walk
+human_readable_ids:
+- StrongManBarbellFarmersWalk
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

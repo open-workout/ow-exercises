@@ -1,0 +1,15 @@
+id: '0636'
+slug: olympic-barbell-hammer-curl
+name: Olympic Barbell Hammer Curl
+human_readable_ids:
+- OlympicBarbellHammerCurl
+primary_muscles:
+- forearms
+equipment:
+- olympic-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

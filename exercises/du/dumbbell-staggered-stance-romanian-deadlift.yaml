@@ -1,0 +1,15 @@
+id: '4757'
+slug: dumbbell-staggered-stance-romanian-deadlift
+name: Dumbbell Staggered Stance Romanian Deadlift
+human_readable_ids:
+- DumbbellStaggeredStanceRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

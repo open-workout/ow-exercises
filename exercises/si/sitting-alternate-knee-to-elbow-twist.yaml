@@ -1,0 +1,15 @@
+id: '7693'
+slug: sitting-alternate-knee-to-elbow-twist
+name: Sitting Alternate Knee to Elbow Twist
+human_readable_ids:
+- SittingAlternateKneetoElbowTwist
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

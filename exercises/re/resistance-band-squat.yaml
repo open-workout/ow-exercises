@@ -1,0 +1,15 @@
+id: '4398'
+slug: resistance-band-squat
+name: Resistance Band Squat
+human_readable_ids:
+- ResistanceBandSquat
+primary_muscles:
+- quads
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

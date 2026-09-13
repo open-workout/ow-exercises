@@ -1,0 +1,15 @@
+id: '8479'
+slug: bosu-ball-balance-counterbalanced-skater-squat
+name: Bosu Ball Balance Counterbalanced Skater Squat
+human_readable_ids:
+- BosuBallBalanceCounterbalancedSkaterSquat
+primary_muscles:
+- quads
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

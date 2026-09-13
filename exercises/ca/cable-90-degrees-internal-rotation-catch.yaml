@@ -1,0 +1,15 @@
+id: '10597'
+slug: cable-90-degrees-internal-rotation-catch
+name: Cable 90 degrees Internal Rotation Catch
+human_readable_ids:
+- Cable90degreesInternalRotationCatch
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

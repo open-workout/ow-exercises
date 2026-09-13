@@ -1,0 +1,15 @@
+id: '5478'
+slug: high-knee-lunge-on-bosu-ball
+name: High Knee Lunge on Bosu Ball
+human_readable_ids:
+- HighKneeLungeonBosuBall
+primary_muscles:
+- plyometrics
+equipment:
+- bosu-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1141'
+slug: suspension-squat-arms-overhead
+name: Suspension Squat (Arms Overhead)
+human_readable_ids:
+- SuspensionSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

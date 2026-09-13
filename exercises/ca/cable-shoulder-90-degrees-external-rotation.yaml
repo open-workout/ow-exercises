@@ -1,0 +1,15 @@
+id: '5087'
+slug: cable-shoulder-90-degrees-external-rotation
+name: Cable Shoulder 90 degrees External Rotation
+human_readable_ids:
+- CableShoulder90degreesExternalRotation
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '9181'
+slug: stick-standing-shoulder-mobilization-in-external-rotation
+name: Stick Standing Shoulder Mobilization In External Rotation
+human_readable_ids:
+- StickStandingShoulderMobilizationInExternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

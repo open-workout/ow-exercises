@@ -1,0 +1,15 @@
+id: '8622'
+slug: seated-incline-chest-press-on-a-chair
+name: Seated Incline Chest Press on a Chair
+human_readable_ids:
+- SeatedInclineChestPressonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

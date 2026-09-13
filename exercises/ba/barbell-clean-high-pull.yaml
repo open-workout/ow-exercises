@@ -1,0 +1,15 @@
+id: '5705'
+slug: barbell-clean-high-pull
+name: Barbell Clean High Pull
+human_readable_ids:
+- BarbellCleanHighPull
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

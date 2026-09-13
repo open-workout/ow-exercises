@@ -1,0 +1,15 @@
+id: '5202'
+slug: resistance-band-kneeling-ab-crunch
+name: Resistance Band Kneeling Ab Crunch
+human_readable_ids:
+- ResistanceBandKneelingAbCrunch
+primary_muscles:
+- abs
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

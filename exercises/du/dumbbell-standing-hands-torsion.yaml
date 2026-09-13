@@ -1,0 +1,15 @@
+id: '7054'
+slug: dumbbell-standing-hands-torsion
+name: Dumbbell Standing Hands Torsion
+human_readable_ids:
+- DumbbellStandingHandsTorsion
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1750'
+slug: medicine-ball-supine-chest-throw
+name: Medicine Ball Supine Chest Throw
+human_readable_ids:
+- MedicineBallSupineChestThrow
+primary_muscles:
+- biceps
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

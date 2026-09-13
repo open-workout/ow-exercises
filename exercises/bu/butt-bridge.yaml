@@ -1,0 +1,15 @@
+id: '0145'
+slug: butt-bridge
+name: Butt Bridge
+human_readable_ids:
+- ButtBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

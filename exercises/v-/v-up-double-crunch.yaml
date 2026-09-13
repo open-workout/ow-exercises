@@ -1,0 +1,15 @@
+id: '4002'
+slug: v-up-double-crunch
+name: V-up Double Crunch
+human_readable_ids:
+- VupDoubleCrunch
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

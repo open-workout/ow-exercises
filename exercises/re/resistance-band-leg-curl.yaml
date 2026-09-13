@@ -1,0 +1,15 @@
+id: '2422'
+slug: resistance-band-leg-curl
+name: Resistance Band Leg Curl
+human_readable_ids:
+- ResistanceBandLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '0544'
+slug: kettlebell-pistol-squat
+name: Kettlebell Pistol Squat
+human_readable_ids:
+- KettlebellPistolSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

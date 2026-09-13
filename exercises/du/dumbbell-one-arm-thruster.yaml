@@ -1,0 +1,17 @@
+id: '4540'
+slug: dumbbell-one-arm-thruster
+name: Dumbbell One Arm Thruster
+human_readable_ids:
+- DumbbellOneArmThruster
+primary_muscles:
+- glutes
+- shoulders
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '10933'
+slug: side-lying-external-rotation
+name: Side Lying External Rotation
+human_readable_ids:
+- SideLyingExternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

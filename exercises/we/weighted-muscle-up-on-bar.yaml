@@ -1,0 +1,16 @@
+id: '3312'
+slug: weighted-muscle-up-on-bar
+name: Weighted Muscle up (on bar)
+human_readable_ids:
+- WeightedMuscleup
+primary_muscles:
+- back
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

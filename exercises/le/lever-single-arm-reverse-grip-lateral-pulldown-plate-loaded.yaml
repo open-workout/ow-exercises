@@ -1,0 +1,15 @@
+id: '11308'
+slug: lever-single-arm-reverse-grip-lateral-pulldown-plate-loaded
+name: Lever Single Arm Reverse grip Lateral Pulldown (plate loaded)
+human_readable_ids:
+- LeverSingleArmReversegripLateralPulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

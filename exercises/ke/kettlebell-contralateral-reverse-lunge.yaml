@@ -1,0 +1,15 @@
+id: '7581'
+slug: kettlebell-contralateral-reverse-lunge
+name: Kettlebell Contralateral Reverse Lunge
+human_readable_ids:
+- KettlebellContralateralReverseLunge
+primary_muscles:
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

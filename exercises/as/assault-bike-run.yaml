@@ -1,0 +1,16 @@
+id: '3893'
+slug: assault-bike-run
+name: Assault Bike Run
+human_readable_ids:
+- AssaultBikeRun
+primary_muscles:
+- cardio
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+- distance
+load:
+  required: true
+  direction: added

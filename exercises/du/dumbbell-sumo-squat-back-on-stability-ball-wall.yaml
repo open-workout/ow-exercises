@@ -1,0 +1,16 @@
+id: '0435'
+slug: dumbbell-sumo-squat-back-on-stability-ball-wall
+name: Dumbbell Sumo Squat (back on stability ball wall)
+human_readable_ids:
+- DumbbellSumoSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

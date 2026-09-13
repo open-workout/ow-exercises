@@ -1,0 +1,15 @@
+id: '0674'
+slug: reverse-grip-pull-up
+name: Reverse grip Pull-up
+human_readable_ids:
+- ReversegripPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

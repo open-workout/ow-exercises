@@ -1,0 +1,15 @@
+id: '5107'
+slug: captains-chair-leg-raise
+name: Captains Chair Leg Raise
+human_readable_ids:
+- CaptainsChairLegRaise
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

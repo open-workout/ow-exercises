@@ -1,0 +1,15 @@
+id: '3438'
+slug: decline-leg-hip-raise
+name: Decline Leg Hip Raise
+human_readable_ids:
+- DeclineLegHipRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

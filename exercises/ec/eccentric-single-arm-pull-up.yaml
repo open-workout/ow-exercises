@@ -1,0 +1,15 @@
+id: '10902'
+slug: eccentric-single-arm-pull-up
+name: Eccentric Single Arm Pull-up
+human_readable_ids:
+- EccentricSingleArmPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

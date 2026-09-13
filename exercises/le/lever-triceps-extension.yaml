@@ -1,0 +1,15 @@
+id: '0607'
+slug: lever-triceps-extension
+name: Lever Triceps Extension
+human_readable_ids:
+- LeverTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

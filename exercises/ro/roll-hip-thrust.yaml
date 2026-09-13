@@ -1,0 +1,15 @@
+id: '2200'
+slug: roll-hip-thrust
+name: Roll Hip Thrust
+human_readable_ids:
+- RollHipThrust
+primary_muscles:
+- glutes
+- hamstrings
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

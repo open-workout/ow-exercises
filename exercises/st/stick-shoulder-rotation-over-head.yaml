@@ -1,0 +1,15 @@
+id: '10936'
+slug: stick-shoulder-rotation-over-head
+name: Stick Shoulder Rotation Over Head
+human_readable_ids:
+- StickShoulderRotationOverHead
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

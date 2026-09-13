@@ -1,0 +1,15 @@
+id: 0921
+slug: band-standing-external-shoulder-rotation
+name: Band standing external shoulder rotation
+human_readable_ids:
+- Bandstandingexternalshoulderrotation
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

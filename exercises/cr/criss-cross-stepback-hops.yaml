@@ -1,0 +1,15 @@
+id: '7194'
+slug: criss-cross-stepback-hops
+name: Criss Cross Stepback Hops
+human_readable_ids:
+- CrissCrossStepbackHops
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

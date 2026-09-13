@@ -1,0 +1,15 @@
+id: '0216'
+slug: cable-seated-shoulder-internal-rotation
+name: Cable Seated Shoulder Internal Rotation
+human_readable_ids:
+- CableSeatedShoulderInternalRotation
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

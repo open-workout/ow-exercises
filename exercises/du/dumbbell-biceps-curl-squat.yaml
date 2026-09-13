@@ -1,0 +1,15 @@
+id: '1655'
+slug: dumbbell-biceps-curl-squat
+name: Dumbbell Biceps Curl Squat
+human_readable_ids:
+- DumbbellBicepsCurlSquat
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4957'
+slug: lying-lat-pulldown
+name: Lying Lat Pulldown
+human_readable_ids:
+- LyingLatPulldown
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

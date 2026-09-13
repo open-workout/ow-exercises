@@ -1,0 +1,15 @@
+id: '0135'
+slug: bird-dog
+name: Bird Dog
+human_readable_ids:
+- BirdDog
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

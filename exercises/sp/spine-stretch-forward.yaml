@@ -1,0 +1,15 @@
+id: '2873'
+slug: spine-stretch-forward
+name: Spine Stretch Forward
+human_readable_ids:
+- SpineStretchForward
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3508'
+slug: resistance-band-seated-single-leg-curl
+name: Resistance Band Seated Single Leg Curl
+human_readable_ids:
+- ResistanceBandSeatedSingleLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

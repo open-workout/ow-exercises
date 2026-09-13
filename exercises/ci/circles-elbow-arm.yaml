@@ -1,0 +1,15 @@
+id: '0256'
+slug: circles-elbow-arm
+name: Circles Elbow Arm
+human_readable_ids:
+- CirclesElbowArm
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

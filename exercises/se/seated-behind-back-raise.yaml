@@ -1,0 +1,15 @@
+id: '5133'
+slug: seated-behind-back-raise
+name: Seated Behind Back Raise
+human_readable_ids:
+- SeatedBehindBackRaise
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

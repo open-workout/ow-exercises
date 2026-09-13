@@ -1,0 +1,15 @@
+id: '10385'
+slug: weighted-sandbag-shouldering
+name: Weighted Sandbag Shouldering
+human_readable_ids:
+- WeightedSandbagShouldering
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

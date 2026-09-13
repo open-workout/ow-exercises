@@ -1,0 +1,15 @@
+id: '9927'
+slug: cable-lying-incline-side-leg-raise
+name: Cable Lying Incline Side Leg Raise
+human_readable_ids:
+- CableLyingInclineSideLegRaise
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

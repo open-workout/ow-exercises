@@ -1,0 +1,15 @@
+id: '0463'
+slug: front-plank
+name: Front Plank
+human_readable_ids:
+- FrontPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

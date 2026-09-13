@@ -1,0 +1,15 @@
+id: '2434'
+slug: cable-seated-twist-on-floor
+name: Cable Seated Twist on Floor
+human_readable_ids:
+- CableSeatedTwistonFloor
+primary_muscles:
+- abs
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

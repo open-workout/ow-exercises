@@ -1,0 +1,17 @@
+id: '3577'
+slug: kettlebell-lunge-clean-and-press
+name: Kettlebell Lunge Clean and Press
+human_readable_ids:
+- KettlebellLungeCleanandPress
+primary_muscles:
+- shoulders
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

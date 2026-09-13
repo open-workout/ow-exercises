@@ -1,0 +1,15 @@
+id: '6424'
+slug: dumbbell-good-morning
+name: Dumbbell Good Morning
+human_readable_ids:
+- DumbbellGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0179
+slug: cable-low-fly
+name: Cable Low Fly
+human_readable_ids:
+- CableLowFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '9677'
+slug: plank-side-jump
+name: Plank Side Jump
+human_readable_ids:
+- PlankSideJump
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

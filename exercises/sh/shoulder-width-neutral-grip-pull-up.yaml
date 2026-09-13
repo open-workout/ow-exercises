@@ -1,0 +1,15 @@
+id: '5473'
+slug: shoulder-width-neutral-grip-pull-up
+name: Shoulder Width Neutral Grip Pull-up
+human_readable_ids:
+- ShoulderWidthNeutralGripPullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

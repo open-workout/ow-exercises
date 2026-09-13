@@ -1,0 +1,14 @@
+id: '6767'
+slug: roll-ball-side-lying-scalene-muscles-activation
+name: Roll Ball Side Lying Scalene Muscles Activation
+human_readable_ids:
+- RollBallSideLyingScaleneMusclesActivation
+primary_muscles:
+- neck
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1089'
+slug: suspension-rear-delt-row
+name: Suspension Rear Delt Row
+human_readable_ids:
+- SuspensionRearDeltRow
+primary_muscles:
+- shoulders
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

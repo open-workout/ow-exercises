@@ -1,0 +1,15 @@
+id: '1155'
+slug: suspension-single-leg-deadlift
+name: Suspension Single Leg Deadlift
+human_readable_ids:
+- SuspensionSingleLegDeadlift
+primary_muscles:
+- glutes
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

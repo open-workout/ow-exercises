@@ -1,0 +1,15 @@
+id: '1292'
+slug: dumbbell-one-leg-fly-on-exercise-ball
+name: Dumbbell One Leg Fly on Exercise Ball
+human_readable_ids:
+- DumbbellOneLegFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

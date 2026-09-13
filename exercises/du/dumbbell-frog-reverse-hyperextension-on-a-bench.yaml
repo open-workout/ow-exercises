@@ -1,0 +1,15 @@
+id: '11078'
+slug: dumbbell-frog-reverse-hyperextension-on-a-bench
+name: Dumbbell Frog Reverse Hyperextension (on a bench)
+human_readable_ids:
+- DumbbellFrogReverseHyperextension
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

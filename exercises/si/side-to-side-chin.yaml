@@ -1,0 +1,15 @@
+id: '0720'
+slug: side-to-side-chin
+name: Side-To-Side Chin
+human_readable_ids:
+- SideToSideChin
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

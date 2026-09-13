@@ -1,0 +1,14 @@
+id: '6300'
+slug: half-boat-pose-ardha-navasana
+name: Half Boat Pose Ardha Navasana
+human_readable_ids:
+- HalfBoatPoseArdhaNavasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

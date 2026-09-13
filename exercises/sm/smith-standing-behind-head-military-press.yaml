@@ -1,0 +1,15 @@
+id: '0772'
+slug: smith-standing-behind-head-military-press
+name: Smith Standing Behind Head Military Press
+human_readable_ids:
+- SmithStandingBehindHeadMilitaryPress
+primary_muscles:
+- shoulders
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

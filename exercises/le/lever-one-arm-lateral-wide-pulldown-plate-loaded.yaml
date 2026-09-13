@@ -1,0 +1,15 @@
+id: '1347'
+slug: lever-one-arm-lateral-wide-pulldown-plate-loaded
+name: Lever One Arm Lateral Wide Pulldown (plate loaded)
+human_readable_ids:
+- LeverOneArmLateralWidePulldown
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

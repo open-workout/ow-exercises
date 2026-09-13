@@ -1,0 +1,15 @@
+id: '4894'
+slug: staggered-leg-side-bridge
+name: Staggered Leg Side Bridge
+human_readable_ids:
+- StaggeredLegSideBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

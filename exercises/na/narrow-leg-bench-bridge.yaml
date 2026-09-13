@@ -1,0 +1,15 @@
+id: '0632'
+slug: narrow-leg-bench-bridge
+name: Narrow Leg Bench Bridge
+human_readable_ids:
+- NarrowLegBenchBridge
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

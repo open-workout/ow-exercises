@@ -1,0 +1,15 @@
+id: '2744'
+slug: cable-standing-hip-thrust
+name: Cable Standing Hip Thrust
+human_readable_ids:
+- CableStandingHipThrust
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

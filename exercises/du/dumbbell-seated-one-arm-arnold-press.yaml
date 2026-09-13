@@ -1,0 +1,15 @@
+id: '4120'
+slug: dumbbell-seated-one-arm-arnold-press
+name: Dumbbell Seated One Arm Arnold Press
+human_readable_ids:
+- DumbbellSeatedOneArmArnoldPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

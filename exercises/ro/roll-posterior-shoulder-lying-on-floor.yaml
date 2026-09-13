@@ -1,0 +1,14 @@
+id: '5379'
+slug: roll-posterior-shoulder-lying-on-floor
+name: Roll Posterior Shoulder Lying on Floor
+human_readable_ids:
+- RollPosteriorShoulderLyingonFloor
+primary_muscles:
+- shoulders
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0398
+slug: dumbbell-seated-one-arm-kickback
+name: Dumbbell Seated One Arm Kickback
+human_readable_ids:
+- DumbbellSeatedOneArmKickback
+primary_muscles:
+- triceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

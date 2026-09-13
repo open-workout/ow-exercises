@@ -1,0 +1,15 @@
+id: '0525'
+slug: kettlebell-bottoms-up-clean-from-the-hang-position
+name: Kettlebell Bottoms Up Clean From The Hang Position
+human_readable_ids:
+- KettlebellBottomsUpCleanFromTheHangPosition
+primary_muscles:
+- forearms
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

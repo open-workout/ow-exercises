@@ -1,0 +1,15 @@
+id: '3401'
+slug: pike-push-up-between-benches
+name: Pike Push-up (between Benches)
+human_readable_ids:
+- PikePushup
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

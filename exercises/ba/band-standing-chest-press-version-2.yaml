@@ -1,0 +1,15 @@
+id: '5608'
+slug: band-standing-chest-press-version-2
+name: Band Standing Chest Press (VERSION 2)
+human_readable_ids:
+- BandStandingChestPress
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

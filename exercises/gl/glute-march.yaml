@@ -1,0 +1,16 @@
+id: '3394'
+slug: glute-march
+name: Glute March
+human_readable_ids:
+- GluteMarch
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

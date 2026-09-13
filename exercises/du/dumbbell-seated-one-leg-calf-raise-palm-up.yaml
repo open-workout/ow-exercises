@@ -1,0 +1,15 @@
+id: '1381'
+slug: dumbbell-seated-one-leg-calf-raise-palm-up
+name: Dumbbell Seated One Leg Calf Raise - Palm up
+human_readable_ids:
+- DumbbellSeatedOneLegCalfRaisePalmup
+primary_muscles:
+- calves
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

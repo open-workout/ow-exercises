@@ -1,0 +1,15 @@
+id: '3739'
+slug: kettlebell-bottom-up-one-arm-bench-press
+name: Kettlebell Bottom Up One Arm Bench Press
+human_readable_ids:
+- KettlebellBottomUpOneArmBenchPress
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0812
+slug: triceps-dip-bench-leg
+name: Triceps Dip (bench leg)
+human_readable_ids:
+- TricepsDip
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

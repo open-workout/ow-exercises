@@ -1,0 +1,15 @@
+id: '11282'
+slug: glute-ham-developer-straight-arms-sit-up
+name: Glute Ham Developer Straight Arms Sit up
+human_readable_ids:
+- GluteHamDeveloperStraightArmsSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

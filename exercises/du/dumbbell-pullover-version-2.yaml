@@ -1,0 +1,15 @@
+id: '5330'
+slug: dumbbell-pullover-version-2
+name: Dumbbell Pullover (VERSION 2)
+human_readable_ids:
+- DumbbellPullover
+primary_muscles:
+- back
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

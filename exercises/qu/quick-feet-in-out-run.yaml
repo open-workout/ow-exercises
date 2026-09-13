@@ -1,0 +1,16 @@
+id: '10747'
+slug: quick-feet-in-out-run
+name: Quick Feet In Out Run
+human_readable_ids:
+- QuickFeetInOutRun
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

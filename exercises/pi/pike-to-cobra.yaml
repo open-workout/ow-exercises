@@ -1,0 +1,14 @@
+id: '3960'
+slug: pike-to-cobra
+name: Pike to Cobra
+human_readable_ids:
+- PiketoCobra
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '6807'
+slug: sitting-side-step-tuck-on-a-padded-stool
+name: Sitting Side Step Tuck on a padded stool
+human_readable_ids:
+- SittingSideStepTuckonapaddedstool
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

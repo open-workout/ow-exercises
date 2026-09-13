@@ -1,0 +1,15 @@
+id: '9697'
+slug: kettlebell-bottoms-up-single-arm-overhead-carry
+name: Kettlebell Bottoms-up Single Arm Overhead Carry
+human_readable_ids:
+- KettlebellBottomsupSingleArmOverheadCarry
+primary_muscles:
+- weightlifting
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

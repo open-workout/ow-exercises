@@ -1,0 +1,15 @@
+id: 0759
+slug: smith-incline-shoulder-raises
+name: Smith Incline Shoulder Raises
+human_readable_ids:
+- SmithInclineShoulderRaises
+primary_muscles:
+- chest
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

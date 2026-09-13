@@ -1,0 +1,15 @@
+id: '3852'
+slug: plank-lateral-raise
+name: Plank Lateral Raise
+human_readable_ids:
+- PlankLateralRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '8798'
+slug: barbell-lying-seal-row-on-rack
+name: Barbell Lying Seal Row on Rack
+human_readable_ids:
+- BarbellLyingSealRowonRack
+primary_muscles:
+- back
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1869'
+slug: lever-seated-hip-abduction-version-2
+name: Lever Seated Hip Abduction (VERSION 2)
+human_readable_ids:
+- LeverSeatedHipAbduction
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

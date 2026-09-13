@@ -1,0 +1,15 @@
+id: '10915'
+slug: bodyweight-single-leg-deadlift-hold
+name: Bodyweight Single Leg Deadlift Hold
+human_readable_ids:
+- BodyweightSingleLegDeadliftHold
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

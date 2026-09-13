@@ -1,0 +1,15 @@
+id: '7648'
+slug: dumbbell-ipsilateral-single-leg-stiff-leg-deadlift
+name: Dumbbell Ipsilateral Single Leg Stiff Leg Deadlift
+human_readable_ids:
+- DumbbellIpsilateralSingleLegStiffLegDeadlift
+primary_muscles:
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

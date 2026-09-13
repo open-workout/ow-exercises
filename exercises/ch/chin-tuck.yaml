@@ -1,0 +1,15 @@
+id: '3149'
+slug: chin-tuck
+name: Chin Tuck
+human_readable_ids:
+- ChinTuck
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

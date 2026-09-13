@@ -1,0 +1,15 @@
+id: '1291'
+slug: dumbbell-one-arm-pullover-on-exercise-ball
+name: Dumbbell One Arm Pullover on Exercise Ball
+human_readable_ids:
+- DumbbellOneArmPulloveronExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

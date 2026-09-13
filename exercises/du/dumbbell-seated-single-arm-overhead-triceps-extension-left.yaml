@@ -1,0 +1,15 @@
+id: '6159'
+slug: dumbbell-seated-single-arm-overhead-triceps-extension-left
+name: Dumbbell Seated Single Arm Overhead Triceps Extension (left)
+human_readable_ids:
+- DumbbellSeatedSingleArmOverheadTricepsExtension
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0388
+slug: dumbbell-seated-alternate-press
+name: Dumbbell Seated Alternate Press
+human_readable_ids:
+- DumbbellSeatedAlternatePress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '8225'
+slug: dumbbell-renegade-row-walk
+name: Dumbbell Renegade Row Walk
+human_readable_ids:
+- DumbbellRenegadeRowWalk
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

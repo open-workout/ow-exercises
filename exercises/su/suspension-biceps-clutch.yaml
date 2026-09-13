@@ -1,0 +1,15 @@
+id: '1109'
+slug: suspension-biceps-clutch
+name: Suspension Biceps Clutch
+human_readable_ids:
+- SuspensionBicepsClutch
+primary_muscles:
+- biceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '3415'
+slug: assisted-inverse-leg-curl
+name: Assisted Inverse Leg Curl
+human_readable_ids:
+- AssistedInverseLegCurl
+primary_muscles:
+- hamstrings
+equipment:
+- assisted
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: assisted

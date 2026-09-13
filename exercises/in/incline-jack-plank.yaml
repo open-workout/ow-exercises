@@ -1,0 +1,15 @@
+id: '10593'
+slug: incline-jack-plank
+name: Incline Jack Plank
+human_readable_ids:
+- InclineJackPlank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

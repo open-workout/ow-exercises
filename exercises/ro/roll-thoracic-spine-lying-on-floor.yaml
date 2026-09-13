@@ -1,0 +1,14 @@
+id: '5384'
+slug: roll-thoracic-spine-lying-on-floor
+name: Roll Thoracic Spine Lying on Floor
+human_readable_ids:
+- RollThoracicSpineLyingonFloor
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

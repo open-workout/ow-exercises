@@ -1,0 +1,15 @@
+id: '10345'
+slug: superman-pulse
+name: Superman Pulse
+human_readable_ids:
+- SupermanPulse
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '0237'
+slug: cable-straight-arm-pulldown-with-rope
+name: Cable Straight Arm Pulldown (with rope)
+human_readable_ids:
+- CableStraightArmPulldown
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

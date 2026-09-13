@@ -1,0 +1,14 @@
+id: '1818'
+slug: supination-bar-suspension-stretch
+name: Supination Bar Suspension Stretch
+human_readable_ids:
+- SupinationBarSuspensionStretch
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

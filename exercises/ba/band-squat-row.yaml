@@ -1,0 +1,15 @@
+id: '1003'
+slug: band-squat-row
+name: Band squat row
+human_readable_ids:
+- Bandsquatrow
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

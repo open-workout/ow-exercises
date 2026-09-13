@@ -1,0 +1,15 @@
+id: '5287'
+slug: barbell-full-clean
+name: Barbell Full Clean
+human_readable_ids:
+- BarbellFullClean
+primary_muscles:
+- weightlifting
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '3259'
+slug: standing-alternate-arms-circling-shoulders
+name: Standing Alternate Arms Circling _Shoulders
+human_readable_ids:
+- StandingAlternateArmsCirclingShoulders
+primary_muscles:
+- chest
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

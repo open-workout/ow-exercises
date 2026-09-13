@@ -1,0 +1,14 @@
+id: '1601'
+slug: standing-straight-leg-hamstring-contract-relax-on-exercise-ball
+name: Standing Straight Leg Hamstring Contract Relax on Exercise Ball
+human_readable_ids:
+- StandingStraightLegHamstringContractRelaxonExerciseBall
+primary_muscles:
+- quads
+equipment:
+- stability-ball
+modalities:
+- time
+load:
+  required: false
+  direction: added

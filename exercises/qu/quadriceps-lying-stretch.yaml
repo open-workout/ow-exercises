@@ -1,0 +1,14 @@
+id: 0939
+slug: quadriceps-lying-stretch
+name: Quadriceps lying stretch
+human_readable_ids:
+- Quadricepslyingstretch
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

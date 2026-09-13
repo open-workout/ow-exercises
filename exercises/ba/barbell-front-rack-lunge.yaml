@@ -1,0 +1,16 @@
+id: '3399'
+slug: barbell-front-rack-lunge
+name: Barbell Front Rack Lunge
+human_readable_ids:
+- BarbellFrontRackLunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

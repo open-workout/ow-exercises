@@ -1,0 +1,14 @@
+id: '1366'
+slug: upward-facing-dog
+name: Upward Facing Dog
+human_readable_ids:
+- UpwardFacingDog
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

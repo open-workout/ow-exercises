@@ -1,0 +1,15 @@
+id: '3700'
+slug: tuck-jump-version-2
+name: Tuck Jump (VERSION 2)
+human_readable_ids:
+- TuckJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

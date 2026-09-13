@@ -1,0 +1,15 @@
+id: 0158
+slug: cable-decline-fly
+name: Cable Decline Fly
+human_readable_ids:
+- CableDeclineFly
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

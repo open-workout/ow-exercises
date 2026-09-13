@@ -1,0 +1,15 @@
+id: '4111'
+slug: cable-seated-horizontal-shrug
+name: Cable Seated Horizontal Shrug
+human_readable_ids:
+- CableSeatedHorizontalShrug
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

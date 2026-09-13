@@ -1,0 +1,15 @@
+id: 0859
+slug: wrist-roller
+name: Wrist Roller
+human_readable_ids:
+- WristRoller
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

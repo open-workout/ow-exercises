@@ -1,0 +1,15 @@
+id: '4787'
+slug: side-crunch-with-hands-on-chest
+name: Side Crunch with Hands on Chest
+human_readable_ids:
+- SideCrunchwithHandsonChest
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

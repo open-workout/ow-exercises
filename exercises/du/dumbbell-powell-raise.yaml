@@ -1,0 +1,15 @@
+id: '10330'
+slug: dumbbell-powell-raise
+name: Dumbbell Powell Raise
+human_readable_ids:
+- DumbbellPowellRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

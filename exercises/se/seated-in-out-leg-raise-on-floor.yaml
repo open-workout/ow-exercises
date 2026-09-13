@@ -1,0 +1,16 @@
+id: '3509'
+slug: seated-in-out-leg-raise-on-floor
+name: Seated In Out Leg Raise on Floor
+human_readable_ids:
+- SeatedInOutLegRaiseonFloor
+primary_muscles:
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

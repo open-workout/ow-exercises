@@ -1,0 +1,15 @@
+id: 0885
+slug: smith-lying-lift-on-hip
+name: Smith lying lift (on hip)
+human_readable_ids:
+- Smithlyinglift
+primary_muscles:
+- glutes
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

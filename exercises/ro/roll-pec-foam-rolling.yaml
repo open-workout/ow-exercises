@@ -1,0 +1,14 @@
+id: '2948'
+slug: roll-pec-foam-rolling
+name: Roll Pec Foam Rolling
+human_readable_ids:
+- RollPecFoamRolling
+primary_muscles:
+- chest
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

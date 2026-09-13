@@ -1,0 +1,14 @@
+id: '5895'
+slug: mindful-breathing-meditation
+name: Mindful Breathing Meditation
+human_readable_ids:
+- MindfulBreathingMeditation
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

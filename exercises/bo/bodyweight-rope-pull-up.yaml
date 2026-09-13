@@ -1,0 +1,15 @@
+id: '11714'
+slug: bodyweight-rope-pull-up
+name: Bodyweight Rope Pull-up
+human_readable_ids:
+- BodyweightRopePullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

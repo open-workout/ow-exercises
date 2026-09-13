@@ -1,0 +1,14 @@
+id: '0441'
+slug: dynamic-chest-stretch
+name: Dynamic Chest Stretch
+human_readable_ids:
+- DynamicChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

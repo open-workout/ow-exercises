@@ -1,0 +1,15 @@
+id: '1199'
+slug: sumo-deadlift-high-pull
+name: Sumo Deadlift High Pull
+human_readable_ids:
+- SumoDeadliftHighPull
+primary_muscles:
+- shoulders
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

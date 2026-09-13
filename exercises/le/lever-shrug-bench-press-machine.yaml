@@ -1,0 +1,15 @@
+id: '1221'
+slug: lever-shrug-bench-press-machine
+name: Lever Shrug (bench press machine)
+human_readable_ids:
+- LeverShrug
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

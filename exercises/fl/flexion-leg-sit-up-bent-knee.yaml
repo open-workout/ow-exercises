@@ -1,0 +1,15 @@
+id: '0456'
+slug: flexion-leg-sit-up-bent-knee
+name: Flexion Leg Sit up (bent knee)
+human_readable_ids:
+- FlexionLegSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

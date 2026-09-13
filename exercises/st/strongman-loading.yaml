@@ -1,0 +1,17 @@
+id: '2721'
+slug: strongman-loading
+name: StrongMan Loading
+human_readable_ids:
+- StrongManLoading
+primary_muscles:
+- back
+- glutes
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: 0494
+slug: incline-reverse-grip-push-up
+name: Incline Reverse Grip Push-Up
+human_readable_ids:
+- InclineReverseGripPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

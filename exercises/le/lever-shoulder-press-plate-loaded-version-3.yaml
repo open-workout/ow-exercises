@@ -1,0 +1,15 @@
+id: '2318'
+slug: lever-shoulder-press-plate-loaded-version-3
+name: Lever Shoulder Press (plate loaded) (version 3)
+human_readable_ids:
+- LeverShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

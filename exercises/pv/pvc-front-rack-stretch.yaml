@@ -1,0 +1,14 @@
+id: '4603'
+slug: pvc-front-rack-stretch
+name: PVC Front Rack Stretch
+human_readable_ids:
+- PVCFrontRackStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

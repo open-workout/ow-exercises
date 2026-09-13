@@ -1,0 +1,15 @@
+id: '1598'
+slug: smith-zercher-squat
+name: Smith Zercher Squat
+human_readable_ids:
+- SmithZercherSquat
+primary_muscles:
+- quads
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

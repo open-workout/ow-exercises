@@ -1,0 +1,15 @@
+id: '5369'
+slug: cable-kneeling-one-arm-row
+name: Cable Kneeling One Arm Row
+human_readable_ids:
+- CableKneelingOneArmRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

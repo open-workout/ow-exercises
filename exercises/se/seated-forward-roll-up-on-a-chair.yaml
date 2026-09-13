@@ -1,0 +1,14 @@
+id: '8434'
+slug: seated-forward-roll-up-on-a-chair
+name: Seated Forward Roll-up on a Chair
+human_readable_ids:
+- SeatedForwardRolluponaChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

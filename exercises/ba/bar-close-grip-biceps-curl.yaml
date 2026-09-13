@@ -1,0 +1,15 @@
+id: '4981'
+slug: bar-close-grip-biceps-curl
+name: Bar Close Grip Biceps Curl
+human_readable_ids:
+- BarCloseGripBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

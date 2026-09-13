@@ -1,0 +1,15 @@
+id: '4185'
+slug: weighted-overhead-press-step-up
+name: Weighted Overhead Press Step Up
+human_readable_ids:
+- WeightedOverheadPressStepUp
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

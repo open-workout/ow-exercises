@@ -1,0 +1,14 @@
+id: '6787'
+slug: hip-external-rotation-test
+name: Hip External Rotation Test
+human_readable_ids:
+- HipExternalRotationTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

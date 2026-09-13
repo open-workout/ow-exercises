@@ -1,0 +1,15 @@
+id: '1856'
+slug: lever-lying-leg-raise-bent-knee
+name: Lever Lying Leg Raise Bent Knee
+human_readable_ids:
+- LeverLyingLegRaiseBentKnee
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

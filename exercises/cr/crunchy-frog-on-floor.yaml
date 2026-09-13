@@ -1,0 +1,17 @@
+id: '3510'
+slug: crunchy-frog-on-floor
+name: Crunchy Frog on Floor
+human_readable_ids:
+- CrunchyFrogonFloor
+primary_muscles:
+- chest
+- abs
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

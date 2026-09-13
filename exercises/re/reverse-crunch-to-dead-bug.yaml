@@ -1,0 +1,15 @@
+id: '4097'
+slug: reverse-crunch-to-dead-bug
+name: Reverse Crunch to Dead Bug
+human_readable_ids:
+- ReverseCrunchtoDeadBug
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

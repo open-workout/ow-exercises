@@ -1,0 +1,14 @@
+id: '1835'
+slug: sitting-neck-flexion-stretch
+name: Sitting Neck Flexion Stretch
+human_readable_ids:
+- SittingNeckFlexionStretch
+primary_muscles:
+- neck
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

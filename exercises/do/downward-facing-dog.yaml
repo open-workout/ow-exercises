@@ -1,0 +1,19 @@
+id: '3469'
+slug: downward-facing-dog
+name: Downward Facing Dog
+human_readable_ids:
+- DownwardFacingDog
+primary_muscles:
+- back
+- chest
+- glutes
+- shoulders
+- quads
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

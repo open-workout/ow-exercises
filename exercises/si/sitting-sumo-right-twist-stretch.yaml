@@ -1,0 +1,16 @@
+id: '3632'
+slug: sitting-sumo-right-twist-stretch
+name: Sitting Sumo Right Twist Stretch
+human_readable_ids:
+- SittingSumoRightTwistStretch
+primary_muscles:
+- back
+- quads
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

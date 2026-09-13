@@ -1,0 +1,16 @@
+id: 0881
+slug: dumbbell-curtsey-lunge
+name: Dumbbell Curtsey lunge
+human_readable_ids:
+- DumbbellCurtseylunge
+primary_muscles:
+- glutes
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

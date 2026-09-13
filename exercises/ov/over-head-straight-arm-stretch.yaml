@@ -1,0 +1,14 @@
+id: '1788'
+slug: over-head-straight-arm-stretch
+name: Over Head Straight Arm Stretch
+human_readable_ids:
+- OverHeadStraightArmStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

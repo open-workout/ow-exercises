@@ -1,0 +1,15 @@
+id: '10675'
+slug: landmine-squat-jump
+name: Landmine Squat Jump
+human_readable_ids:
+- LandmineSquatJump
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

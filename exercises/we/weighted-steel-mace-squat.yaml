@@ -1,0 +1,15 @@
+id: '10410'
+slug: weighted-steel-mace-squat
+name: Weighted Steel Mace Squat
+human_readable_ids:
+- WeightedSteelMaceSquat
+primary_muscles:
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

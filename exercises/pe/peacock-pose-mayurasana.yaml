@@ -1,0 +1,14 @@
+id: '6293'
+slug: peacock-pose-mayurasana
+name: Peacock Pose Mayurasana
+human_readable_ids:
+- PeacockPoseMayurasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

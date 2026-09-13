@@ -1,0 +1,15 @@
+id: '5344'
+slug: v-up-hold
+name: V-up Hold
+human_readable_ids:
+- VupHold
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

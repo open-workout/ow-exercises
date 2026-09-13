@@ -1,0 +1,14 @@
+id: '6301'
+slug: eagle-pose-garudasana
+name: Eagle Pose Garudasana
+human_readable_ids:
+- EaglePoseGarudasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

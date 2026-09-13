@@ -1,0 +1,15 @@
+id: '10055'
+slug: dumbbell-narrow-squat-lunge
+name: Dumbbell Narrow Squat Lunge
+human_readable_ids:
+- DumbbellNarrowSquatLunge
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

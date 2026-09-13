@@ -1,0 +1,15 @@
+id: '9491'
+slug: cable-side-lying-single-arm-lateral-raise
+name: Cable Side Lying Single Arm Lateral Raise
+human_readable_ids:
+- CableSideLyingSingleArmLateralRaise
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

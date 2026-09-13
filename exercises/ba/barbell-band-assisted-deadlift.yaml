@@ -1,0 +1,15 @@
+id: '4841'
+slug: barbell-band-assisted-deadlift
+name: Barbell Band Assisted Deadlift
+human_readable_ids:
+- BarbellBandAssistedDeadlift
+primary_muscles:
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: assisted

@@ -1,0 +1,15 @@
+id: '1344'
+slug: ez-bar-reverse-grip-bent-over-row
+name: EZ Bar Reverse Grip Bent Over Row
+human_readable_ids:
+- EZBarReverseGripBentOverRow
+primary_muscles:
+- back
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

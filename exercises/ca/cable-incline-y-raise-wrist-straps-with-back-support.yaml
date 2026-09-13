@@ -1,0 +1,15 @@
+id: '8663'
+slug: cable-incline-y-raise-wrist-straps-with-back-support
+name: Cable Incline Y Raise Wrist Straps with Back Support
+human_readable_ids:
+- CableInclineYRaiseWristStrapswithBackSupport
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

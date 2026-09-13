@@ -1,0 +1,18 @@
+id: '3643'
+slug: weighted-cossack-squats
+name: Weighted Cossack Squats
+human_readable_ids:
+- WeightedCossackSquats
+primary_muscles:
+- adductors
+- glutes
+- hamstrings
+- quads
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

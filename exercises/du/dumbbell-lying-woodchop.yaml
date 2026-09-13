@@ -1,0 +1,15 @@
+id: '4747'
+slug: dumbbell-lying-woodchop
+name: Dumbbell Lying Woodchop
+human_readable_ids:
+- DumbbellLyingWoodchop
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,16 @@
+id: '3564'
+slug: seated-shoulder-flexor-depresor-retractor-stretch-bent-knee
+name: Seated Shoulder Flexor Depresor Retractor Stretch Bent Knee
+human_readable_ids:
+- SeatedShoulderFlexorDepresorRetractorStretchBentKnee
+primary_muscles:
+- chest
+- shoulders
+- biceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

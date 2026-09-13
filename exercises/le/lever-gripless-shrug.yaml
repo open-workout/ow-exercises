@@ -1,0 +1,15 @@
+id: 0580
+slug: lever-gripless-shrug
+name: Lever Gripless Shrug
+human_readable_ids:
+- LeverGriplessShrug
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

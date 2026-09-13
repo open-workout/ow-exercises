@@ -1,0 +1,19 @@
+id: '3378'
+slug: battling-ropes-split-jump
+name: Battling Ropes Split Jump
+human_readable_ids:
+- BattlingRopesSplitJump
+primary_muscles:
+- back
+- chest
+- glutes
+- shoulders
+- quads
+equipment:
+- battling-rope
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

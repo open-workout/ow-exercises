@@ -1,0 +1,15 @@
+id: '4104'
+slug: trap-bar-bent-over-row
+name: Trap Bar Bent Over Row
+human_readable_ids:
+- TrapBarBentOverRow
+primary_muscles:
+- back
+equipment:
+- trap-bar
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

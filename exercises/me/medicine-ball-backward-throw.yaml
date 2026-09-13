@@ -1,0 +1,17 @@
+id: '3439'
+slug: medicine-ball-backward-throw
+name: Medicine Ball Backward Throw
+human_readable_ids:
+- MedicineBallBackwardThrow
+primary_muscles:
+- back
+- glutes
+- hamstrings
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

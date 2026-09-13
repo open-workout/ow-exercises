@@ -1,0 +1,15 @@
+id: '1104'
+slug: suspension-triceps-extension
+name: Suspension Triceps Extension
+human_readable_ids:
+- SuspensionTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

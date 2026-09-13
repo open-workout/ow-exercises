@@ -1,0 +1,15 @@
+id: '5079'
+slug: lying-floor-fly
+name: Lying Floor Fly
+human_readable_ids:
+- LyingFloorFly
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

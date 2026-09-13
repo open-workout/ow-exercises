@@ -1,0 +1,14 @@
+id: '10658'
+slug: pilates-machine-hundred
+name: Pilates Machine Hundred
+human_readable_ids:
+- PilatesMachineHundred
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

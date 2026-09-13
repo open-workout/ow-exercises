@@ -1,0 +1,15 @@
+id: '5672'
+slug: bodyweight-b-stance-good-morning
+name: Bodyweight B Stance Good Morning
+human_readable_ids:
+- BodyweightBStanceGoodMorning
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

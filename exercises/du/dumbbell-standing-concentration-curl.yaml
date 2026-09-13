@@ -1,0 +1,15 @@
+id: 0418
+slug: dumbbell-standing-concentration-curl
+name: Dumbbell Standing Concentration Curl
+human_readable_ids:
+- DumbbellStandingConcentrationCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

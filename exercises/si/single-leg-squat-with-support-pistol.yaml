@@ -1,0 +1,16 @@
+id: '1762'
+slug: single-leg-squat-with-support-pistol
+name: Single Leg Squat with Support (pistol)
+human_readable_ids:
+- SingleLegSquatwithSupport
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

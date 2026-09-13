@@ -1,0 +1,15 @@
+id: '8876'
+slug: cable-lying-hip-flexion-reverse-squat
+name: Cable Lying Hip Flexion (Reverse Squat)
+human_readable_ids:
+- CableLyingHipFlexion
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

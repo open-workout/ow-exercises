@@ -1,0 +1,15 @@
+id: '9939'
+slug: power-sled-pull
+name: Power Sled Pull
+human_readable_ids:
+- PowerSledPull
+primary_muscles:
+- back
+equipment:
+- power-sled
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

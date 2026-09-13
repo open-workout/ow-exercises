@@ -1,0 +1,15 @@
+id: '0065'
+slug: barbell-one-arm-floor-press
+name: Barbell One Arm Floor Press
+human_readable_ids:
+- BarbellOneArmFloorPress
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

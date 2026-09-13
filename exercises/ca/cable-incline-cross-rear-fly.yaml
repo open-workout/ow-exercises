@@ -1,0 +1,15 @@
+id: '4012'
+slug: cable-incline-cross-rear-fly
+name: Cable Incline Cross Rear Fly
+human_readable_ids:
+- CableInclineCrossRearFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

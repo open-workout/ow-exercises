@@ -1,0 +1,15 @@
+id: '4233'
+slug: weighted-seated-one-arm-wrist-curl
+name: Weighted Seated One Arm Wrist Curl
+human_readable_ids:
+- WeightedSeatedOneArmWristCurl
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

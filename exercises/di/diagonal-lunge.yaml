@@ -1,0 +1,15 @@
+id: '4552'
+slug: diagonal-lunge
+name: Diagonal Lunge
+human_readable_ids:
+- DiagonalLunge
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

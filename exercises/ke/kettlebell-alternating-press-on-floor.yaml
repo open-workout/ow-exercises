@@ -1,0 +1,15 @@
+id: 0519
+slug: kettlebell-alternating-press-on-floor
+name: Kettlebell Alternating Press on Floor
+human_readable_ids:
+- KettlebellAlternatingPressonFloor
+primary_muscles:
+- chest
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

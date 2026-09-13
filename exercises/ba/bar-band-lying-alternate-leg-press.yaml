@@ -1,0 +1,16 @@
+id: '4681'
+slug: bar-band-lying-alternate-leg-press
+name: Bar Band Lying Alternate Leg Press
+human_readable_ids:
+- BarBandLyingAlternateLegPress
+primary_muscles:
+- glutes
+- quads
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

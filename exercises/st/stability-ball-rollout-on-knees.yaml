@@ -1,0 +1,15 @@
+id: '2295'
+slug: stability-ball-rollout-on-knees
+name: Stability Ball Rollout on Knees
+human_readable_ids:
+- StabilityBallRolloutonKnees
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

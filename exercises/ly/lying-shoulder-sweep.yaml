@@ -1,0 +1,15 @@
+id: '3413'
+slug: lying-shoulder-sweep
+name: Lying Shoulder Sweep
+human_readable_ids:
+- LyingShoulderSweep
+primary_muscles:
+- chest
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

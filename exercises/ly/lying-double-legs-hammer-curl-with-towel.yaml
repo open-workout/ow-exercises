@@ -1,0 +1,15 @@
+id: '3830'
+slug: lying-double-legs-hammer-curl-with-towel
+name: Lying Double Legs Hammer Curl with Towel
+human_readable_ids:
+- LyingDoubleLegsHammerCurlwithTowel
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

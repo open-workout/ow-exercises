@@ -1,0 +1,15 @@
+id: '4195'
+slug: resistance-band-half-kneeling-face-pull
+name: Resistance Band Half Kneeling Face Pull
+human_readable_ids:
+- ResistanceBandHalfKneelingFacePull
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

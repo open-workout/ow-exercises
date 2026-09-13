@@ -1,0 +1,15 @@
+id: '2774'
+slug: knee-flexion-articulations
+name: Knee - Flexion - Articulations
+human_readable_ids:
+- KneeFlexionArticulations
+primary_muscles:
+- calves
+- hamstrings
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

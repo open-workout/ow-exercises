@@ -1,0 +1,15 @@
+id: '9932'
+slug: barbell-banded-weighted-plate-bench-press
+name: Barbell Banded Weighted Plate Bench Press
+human_readable_ids:
+- BarbellBandedWeightedPlateBenchPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '1786'
+slug: assisted-trunk-flex-chest-stretch
+name: Assisted Trunk Flex Chest Stretch
+human_readable_ids:
+- AssistedTrunkFlexChestStretch
+primary_muscles:
+- chest
+equipment:
+- assisted
+modalities:
+- time
+load:
+  required: false
+  direction: assisted

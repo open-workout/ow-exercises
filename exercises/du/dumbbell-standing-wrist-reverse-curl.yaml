@@ -1,0 +1,15 @@
+id: '6362'
+slug: dumbbell-standing-wrist-reverse-curl
+name: Dumbbell Standing Wrist Reverse Curl
+human_readable_ids:
+- DumbbellStandingWristReverseCurl
+primary_muscles:
+- forearms
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

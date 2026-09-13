@@ -1,0 +1,15 @@
+id: '0777'
+slug: spell-caster
+name: Spell Caster
+human_readable_ids:
+- SpellCaster
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

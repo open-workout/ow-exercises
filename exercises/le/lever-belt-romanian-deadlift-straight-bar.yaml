@@ -1,0 +1,15 @@
+id: '9876'
+slug: lever-belt-romanian-deadlift-straight-bar
+name: Lever Belt Romanian Deadlift (straight bar)
+human_readable_ids:
+- LeverBeltRomanianDeadlift
+primary_muscles:
+- glutes
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

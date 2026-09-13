@@ -1,0 +1,15 @@
+id: '6632'
+slug: diagonal-reach-on-chair
+name: Diagonal Reach on Chair
+human_readable_ids:
+- DiagonalReachonChair
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

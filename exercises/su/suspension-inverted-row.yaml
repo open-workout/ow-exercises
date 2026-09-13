@@ -1,0 +1,15 @@
+id: '1080'
+slug: suspension-inverted-row
+name: Suspension Inverted Row
+human_readable_ids:
+- SuspensionInvertedRow
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

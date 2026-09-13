@@ -1,0 +1,15 @@
+id: '10189'
+slug: weighted-plate-deadlift-rear-lunge-with-overhead-press
+name: Weighted Plate Deadlift Rear Lunge with Overhead Press
+human_readable_ids:
+- WeightedPlateDeadliftRearLungewithOverheadPress
+primary_muscles:
+- glutes
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1211'
+slug: cable-twisting-standing-one-arm-chest-press
+name: Cable twisting standing one arm chest press
+human_readable_ids:
+- Cabletwistingstandingonearmchestpress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '11762'
+slug: smith-bent-over-row-chest-supported
+name: Smith Bent Over Row (chest supported)
+human_readable_ids:
+- SmithBentOverRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

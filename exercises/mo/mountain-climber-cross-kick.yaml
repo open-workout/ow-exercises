@@ -1,0 +1,15 @@
+id: '9048'
+slug: mountain-climber-cross-kick
+name: Mountain Climber Cross Kick
+human_readable_ids:
+- MountainClimberCrossKick
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4945'
+slug: chest-out-hands-behind-hold
+name: Chest Out Hands Behind (Hold)
+human_readable_ids:
+- ChestOutHandsBehind
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

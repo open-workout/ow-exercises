@@ -1,0 +1,15 @@
+id: '6055'
+slug: bottle-weighted-russian-twist
+name: Bottle Weighted Russian Twist
+human_readable_ids:
+- BottleWeightedRussianTwist
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

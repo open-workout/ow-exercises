@@ -1,0 +1,14 @@
+id: '5978'
+slug: toy-soldier-dynamic-stretch
+name: Toy Soldier Dynamic Stretch
+human_readable_ids:
+- ToySoldierDynamicStretch
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

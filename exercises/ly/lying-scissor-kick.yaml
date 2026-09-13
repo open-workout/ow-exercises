@@ -1,0 +1,15 @@
+id: '0622'
+slug: lying-scissor-kick
+name: Lying Scissor Kick
+human_readable_ids:
+- LyingScissorKick
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

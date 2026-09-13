@@ -1,0 +1,15 @@
+id: '10755'
+slug: single-leg-calf-jump-stepbox-supported
+name: Single Leg Calf Jump StepBox Supported
+human_readable_ids:
+- SingleLegCalfJumpStepBoxSupported
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

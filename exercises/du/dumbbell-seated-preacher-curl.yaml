@@ -1,0 +1,15 @@
+id: '0402'
+slug: dumbbell-seated-preacher-curl
+name: Dumbbell Seated Preacher Curl
+human_readable_ids:
+- DumbbellSeatedPreacherCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

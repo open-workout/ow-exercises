@@ -1,0 +1,15 @@
+id: '1697'
+slug: medicine-ball-reverse-wood-chop-squat
+name: Medicine Ball Reverse Wood Chop Squat
+human_readable_ids:
+- MedicineBallReverseWoodChopSquat
+primary_muscles:
+- abs
+equipment:
+- medicine-ball
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

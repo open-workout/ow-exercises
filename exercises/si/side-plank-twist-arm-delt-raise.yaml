@@ -1,0 +1,15 @@
+id: '7854'
+slug: side-plank-twist-arm-delt-raise
+name: Side Plank Twist Arm Delt Raise
+human_readable_ids:
+- SidePlankTwistArmDeltRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

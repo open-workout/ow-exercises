@@ -1,0 +1,15 @@
+id: '8374'
+slug: step-out-from-squat
+name: Step Out from Squat
+human_readable_ids:
+- StepOutfromSquat
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

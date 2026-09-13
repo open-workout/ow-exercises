@@ -1,0 +1,16 @@
+id: '1695'
+slug: stability-ball-single-leg-squat
+name: Stability Ball Single Leg Squat
+human_readable_ids:
+- StabilityBallSingleLegSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

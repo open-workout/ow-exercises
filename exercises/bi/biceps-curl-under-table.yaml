@@ -1,0 +1,15 @@
+id: '8274'
+slug: biceps-curl-under-table
+name: Biceps Curl under Table
+human_readable_ids:
+- BicepsCurlunderTable
+primary_muscles:
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

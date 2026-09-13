@@ -1,0 +1,15 @@
+id: '0652'
+slug: pull-up
+name: Pull-up
+human_readable_ids:
+- Pullup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

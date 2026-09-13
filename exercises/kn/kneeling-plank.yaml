@@ -1,0 +1,15 @@
+id: '3238'
+slug: kneeling-plank
+name: Kneeling plank
+human_readable_ids:
+- Kneelingplank
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

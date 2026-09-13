@@ -1,0 +1,16 @@
+id: '0506'
+slug: jack-step
+name: Jack Step
+human_readable_ids:
+- JackStep
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

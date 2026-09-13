@@ -1,0 +1,18 @@
+id: '3579'
+slug: kettlebell-deck-squat
+name: Kettlebell Deck Squat
+human_readable_ids:
+- KettlebellDeckSquat
+primary_muscles:
+- back
+- glutes
+- quads
+- abs
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

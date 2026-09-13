@@ -1,0 +1,15 @@
+id: '1265'
+slug: cable-one-arm-incline-press
+name: Cable One Arm Incline Press
+human_readable_ids:
+- CableOneArmInclinePress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

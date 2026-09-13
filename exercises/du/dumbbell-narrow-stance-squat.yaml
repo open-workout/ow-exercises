@@ -1,0 +1,15 @@
+id: '5634'
+slug: dumbbell-narrow-stance-squat
+name: Dumbbell Narrow Stance Squat
+human_readable_ids:
+- DumbbellNarrowStanceSquat
+primary_muscles:
+- quads
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

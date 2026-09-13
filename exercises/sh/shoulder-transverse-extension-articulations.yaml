@@ -1,0 +1,14 @@
+id: '2783'
+slug: shoulder-transverse-extension-articulations
+name: Shoulder - Transverse Extension - Articulations
+human_readable_ids:
+- ShoulderTransverseExtensionArticulations
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '1277'
+slug: dumbbell-fly-on-exercise-ball
+name: Dumbbell Fly on Exercise Ball
+human_readable_ids:
+- DumbbellFlyonExerciseBall
+primary_muscles:
+- chest
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

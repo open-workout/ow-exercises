@@ -1,0 +1,15 @@
+id: '4292'
+slug: dumbbell-lying-hamstring-curl
+name: Dumbbell Lying Hamstring Curl
+human_readable_ids:
+- DumbbellLyingHamstringCurl
+primary_muscles:
+- hamstrings
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5090'
+slug: cable-standing-row
+name: Cable Standing Row
+human_readable_ids:
+- CableStandingRow
+primary_muscles:
+- back
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

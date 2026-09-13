@@ -1,0 +1,15 @@
+id: 0926
+slug: band-standing-leg-extension
+name: Band standing leg extension
+human_readable_ids:
+- Bandstandinglegextension
+primary_muscles:
+- quads
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

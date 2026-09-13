@@ -1,0 +1,15 @@
+id: '10092'
+slug: barbell-core-squat
+name: Barbell Core Squat
+human_readable_ids:
+- BarbellCoreSquat
+primary_muscles:
+- quads
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

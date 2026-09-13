@@ -1,0 +1,15 @@
+id: '4408'
+slug: kettlebell-upright-row
+name: Kettlebell Upright Row
+human_readable_ids:
+- KettlebellUprightRow
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

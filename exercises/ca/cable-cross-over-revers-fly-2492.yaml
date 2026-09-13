@@ -1,0 +1,15 @@
+id: '2492'
+slug: cable-cross-over-revers-fly-2492
+name: Cable Cross over Revers Fly
+human_readable_ids:
+- CableCrossoverReversFly
+primary_muscles:
+- shoulders
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

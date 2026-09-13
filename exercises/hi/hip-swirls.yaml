@@ -1,0 +1,17 @@
+id: '4615'
+slug: hip-swirls
+name: Hip Swirls
+human_readable_ids:
+- HipSwirls
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

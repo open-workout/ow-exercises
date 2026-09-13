@@ -1,0 +1,15 @@
+id: '4682'
+slug: bar-band-bent-over-rear-delt-fly
+name: Bar Band Bent Over Rear Delt Fly
+human_readable_ids:
+- BarBandBentOverRearDeltFly
+primary_muscles:
+- shoulders
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

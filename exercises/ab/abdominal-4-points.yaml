@@ -1,0 +1,15 @@
+id: '4348'
+slug: abdominal-4-points
+name: Abdominal 4 points
+human_readable_ids:
+- Abdominal4points
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

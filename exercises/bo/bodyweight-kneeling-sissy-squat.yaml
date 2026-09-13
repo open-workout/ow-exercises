@@ -1,0 +1,15 @@
+id: '4722'
+slug: bodyweight-kneeling-sissy-squat
+name: Bodyweight Kneeling Sissy Squat
+human_readable_ids:
+- BodyweightKneelingSissySquat
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

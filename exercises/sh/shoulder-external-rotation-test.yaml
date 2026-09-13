@@ -1,0 +1,14 @@
+id: '6790'
+slug: shoulder-external-rotation-test
+name: Shoulder External Rotation Test
+human_readable_ids:
+- ShoulderExternalRotationTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

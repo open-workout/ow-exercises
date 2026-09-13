@@ -1,0 +1,16 @@
+id: '1117'
+slug: suspension-jump-squat
+name: Suspension Jump Squat
+human_readable_ids:
+- SuspensionJumpSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

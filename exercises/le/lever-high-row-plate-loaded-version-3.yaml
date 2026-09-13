@@ -1,0 +1,15 @@
+id: '2663'
+slug: lever-high-row-plate-loaded-version-3
+name: Lever High Row (plate loaded) (VERSION 3)
+human_readable_ids:
+- LeverHighRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

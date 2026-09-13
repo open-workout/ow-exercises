@@ -1,0 +1,15 @@
+id: 0924
+slug: band-standing-internal-shoulder-rotation
+name: Band standing internal shoulder rotation
+human_readable_ids:
+- Bandstandinginternalshoulderrotation
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

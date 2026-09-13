@@ -1,0 +1,15 @@
+id: '1743'
+slug: dumbbell-twisting-bench-press
+name: Dumbbell Twisting Bench Press
+human_readable_ids:
+- DumbbellTwistingBenchPress
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

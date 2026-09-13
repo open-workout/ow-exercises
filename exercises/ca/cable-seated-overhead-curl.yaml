@@ -1,0 +1,15 @@
+id: '1643'
+slug: cable-seated-overhead-curl
+name: Cable Seated Overhead Curl
+human_readable_ids:
+- CableSeatedOverheadCurl
+primary_muscles:
+- biceps
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

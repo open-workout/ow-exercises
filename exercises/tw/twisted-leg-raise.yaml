@@ -1,0 +1,15 @@
+id: '2801'
+slug: twisted-leg-raise
+name: Twisted Leg Raise
+human_readable_ids:
+- TwistedLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

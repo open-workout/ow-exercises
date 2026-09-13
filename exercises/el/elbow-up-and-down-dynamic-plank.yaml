@@ -1,0 +1,16 @@
+id: '2978'
+slug: elbow-up-and-down-dynamic-plank
+name: Elbow Up and Down Dynamic Plank
+human_readable_ids:
+- ElbowUpandDownDynamicPlank
+primary_muscles:
+- chest
+- biceps
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

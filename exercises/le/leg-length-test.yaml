@@ -1,0 +1,14 @@
+id: '6789'
+slug: leg-length-test
+name: Leg Length Test
+human_readable_ids:
+- LegLengthTest
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

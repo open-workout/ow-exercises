@@ -1,0 +1,15 @@
+id: '7327'
+slug: lever-leg-extension-inward-toes
+name: Lever Leg Extension (Inward Toes)
+human_readable_ids:
+- LeverLegExtension
+primary_muscles:
+- quads
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

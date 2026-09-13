@@ -1,0 +1,15 @@
+id: '1096'
+slug: suspension-shoulder-external-rotation
+name: Suspension Shoulder External Rotation
+human_readable_ids:
+- SuspensionShoulderExternalRotation
+primary_muscles:
+- back
+equipment:
+- suspension
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

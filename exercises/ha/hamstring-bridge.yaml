@@ -1,0 +1,15 @@
+id: '8358'
+slug: hamstring-bridge
+name: Hamstring Bridge
+human_readable_ids:
+- HamstringBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

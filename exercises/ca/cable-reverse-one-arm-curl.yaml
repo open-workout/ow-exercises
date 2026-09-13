@@ -1,0 +1,15 @@
+id: '1413'
+slug: cable-reverse-one-arm-curl
+name: Cable Reverse One Arm Curl
+human_readable_ids:
+- CableReverseOneArmCurl
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

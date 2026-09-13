@@ -1,0 +1,15 @@
+id: '3882'
+slug: lever-seated-left-side-crunch
+name: Lever Seated Left Side Crunch
+human_readable_ids:
+- LeverSeatedLeftSideCrunch
+primary_muscles:
+- abs
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1066'
+slug: cable-standing-chest-press
+name: Cable Standing Chest Press
+human_readable_ids:
+- CableStandingChestPress
+primary_muscles:
+- chest
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

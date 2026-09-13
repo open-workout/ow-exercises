@@ -1,0 +1,15 @@
+id: '1010'
+slug: band-straight-leg-deadlift
+name: Band straight leg deadlift
+human_readable_ids:
+- Bandstraightlegdeadlift
+primary_muscles:
+- back
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

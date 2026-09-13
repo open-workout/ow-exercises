@@ -1,0 +1,15 @@
+id: '10048'
+slug: cable-step-up
+name: Cable Step-up
+human_readable_ids:
+- CableStepup
+primary_muscles:
+- glutes
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '6271'
+slug: barbell-close-grip-larsen-press
+name: Barbell Close Grip Larsen Press
+human_readable_ids:
+- BarbellCloseGripLarsenPress
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

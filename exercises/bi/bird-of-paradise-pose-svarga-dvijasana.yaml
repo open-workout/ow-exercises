@@ -1,0 +1,14 @@
+id: '6296'
+slug: bird-of-paradise-pose-svarga-dvijasana
+name: Bird of Paradise Pose Svarga Dvijasana
+human_readable_ids:
+- BirdofParadisePoseSvargaDvijasana
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

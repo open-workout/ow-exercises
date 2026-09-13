@@ -1,0 +1,15 @@
+id: '3840'
+slug: band-decline-sit-up-3840
+name: Band Decline Sit up
+human_readable_ids:
+- BandDeclineSitup
+primary_muscles:
+- abs
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

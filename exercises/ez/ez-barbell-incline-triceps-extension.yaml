@@ -1,0 +1,15 @@
+id: 0449
+slug: ez-barbell-incline-triceps-extension
+name: EZ Barbell Incline Triceps Extension
+human_readable_ids:
+- EZBarbellInclineTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- ez-barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

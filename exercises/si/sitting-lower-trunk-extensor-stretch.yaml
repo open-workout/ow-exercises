@@ -1,0 +1,14 @@
+id: '1803'
+slug: sitting-lower-trunk-extensor-stretch
+name: Sitting Lower Trunk Extensor Stretch
+human_readable_ids:
+- SittingLowerTrunkExtensorStretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

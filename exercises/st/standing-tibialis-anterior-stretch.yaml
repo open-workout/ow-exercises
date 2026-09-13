@@ -1,0 +1,14 @@
+id: '6773'
+slug: standing-tibialis-anterior-stretch
+name: Standing Tibialis Anterior Stretch
+human_readable_ids:
+- StandingTibialisAnteriorStretch
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

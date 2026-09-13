@@ -1,0 +1,14 @@
+id: 0957
+slug: revolved-side-angle-pose-parivrtta-parsvakonasana
+name: Revolved Side Angle Pose Parivrtta Parsvakonasana
+human_readable_ids:
+- RevolvedSideAnglePoseParivrttaParsvakonasana
+primary_muscles:
+- yoga
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

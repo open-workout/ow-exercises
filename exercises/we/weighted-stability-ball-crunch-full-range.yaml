@@ -1,0 +1,15 @@
+id: '3332'
+slug: weighted-stability-ball-crunch-full-range
+name: Weighted Stability Ball Crunch (Full range)
+human_readable_ids:
+- WeightedStabilityBallCrunch
+primary_muscles:
+- abs
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

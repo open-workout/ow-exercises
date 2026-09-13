@@ -1,0 +1,15 @@
+id: '4231'
+slug: weighted-seated-supination
+name: Weighted Seated Supination
+human_readable_ids:
+- WeightedSeatedSupination
+primary_muscles:
+- forearms
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

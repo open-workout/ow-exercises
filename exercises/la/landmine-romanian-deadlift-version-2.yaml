@@ -1,0 +1,16 @@
+id: '4247'
+slug: landmine-romanian-deadlift-version-2
+name: Landmine Romanian Deadlift (VERSION 2)
+human_readable_ids:
+- LandmineRomanianDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

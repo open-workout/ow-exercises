@@ -1,0 +1,14 @@
+id: '10733'
+slug: balance-board-single-leg-balance
+name: Balance Board Single Leg Balance
+human_readable_ids:
+- BalanceBoardSingleLegBalance
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

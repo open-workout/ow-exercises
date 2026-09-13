@@ -1,0 +1,15 @@
+id: '0520'
+slug: kettlebell-alternating-press
+name: Kettlebell Alternating Press
+human_readable_ids:
+- KettlebellAlternatingPress
+primary_muscles:
+- shoulders
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

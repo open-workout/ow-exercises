@@ -1,0 +1,14 @@
+id: '1056'
+slug: lying-glute-stretch
+name: Lying Glute Stretch
+human_readable_ids:
+- LyingGluteStretch
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

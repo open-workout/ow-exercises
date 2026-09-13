@@ -1,0 +1,15 @@
+id: '8613'
+slug: dumbbell-preacher-swing-curl
+name: Dumbbell Preacher Swing Curl
+human_readable_ids:
+- DumbbellPreacherSwingCurl
+primary_muscles:
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '5261'
+slug: dumbbell-incline-shoulders-press
+name: Dumbbell Incline Shoulders Press
+human_readable_ids:
+- DumbbellInclineShouldersPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '1706'
+slug: stability-ball-front-plank
+name: Stability Ball Front Plank
+human_readable_ids:
+- StabilityBallFrontPlank
+primary_muscles:
+- abs
+equipment:
+- stability-ball
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '3187'
+slug: kettlebell-goblet-squat-jump
+name: Kettlebell Goblet Squat Jump
+human_readable_ids:
+- KettlebellGobletSquatJump
+primary_muscles:
+- glutes
+- quads
+equipment:
+- kettlebell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

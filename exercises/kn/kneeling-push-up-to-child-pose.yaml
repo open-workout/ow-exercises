@@ -1,0 +1,15 @@
+id: '3265'
+slug: kneeling-push-up-to-child-pose
+name: Kneeling Push up to Child Pose
+human_readable_ids:
+- KneelingPushuptoChildPose
+primary_muscles:
+- back
+- abs
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

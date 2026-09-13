@@ -1,0 +1,15 @@
+id: '5316'
+slug: smith-bent-over-narrow-pronated-grip-row
+name: Smith Bent Over Narrow Pronated Grip Row
+human_readable_ids:
+- SmithBentOverNarrowPronatedGripRow
+primary_muscles:
+- back
+equipment:
+- smith-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

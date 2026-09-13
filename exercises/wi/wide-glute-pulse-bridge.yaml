@@ -1,0 +1,15 @@
+id: '5805'
+slug: wide-glute-pulse-bridge
+name: Wide Glute Pulse Bridge
+human_readable_ids:
+- WideGlutePulseBridge
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

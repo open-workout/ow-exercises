@@ -1,0 +1,15 @@
+id: '6140'
+slug: dumbbell-seated-external-rotation
+name: Dumbbell Seated External Rotation
+human_readable_ids:
+- DumbbellSeatedExternalRotation
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

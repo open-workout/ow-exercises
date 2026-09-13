@@ -1,0 +1,15 @@
+id: '3381'
+slug: inverted-row-under-table
+name: Inverted Row under Table
+human_readable_ids:
+- InvertedRowunderTable
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

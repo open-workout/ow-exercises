@@ -1,0 +1,15 @@
+id: 0281
+slug: decline-sit-up-arms-straight
+name: Decline Sit-up (arms straight)
+human_readable_ids:
+- DeclineSitup
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0844
+slug: weighted-round-arm
+name: Weighted Round Arm
+human_readable_ids:
+- WeightedRoundArm
+primary_muscles:
+- shoulders
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

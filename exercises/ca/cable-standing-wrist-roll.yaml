@@ -1,0 +1,15 @@
+id: '6269'
+slug: cable-standing-wrist-roll
+name: Cable Standing Wrist Roll
+human_readable_ids:
+- CableStandingWristRoll
+primary_muscles:
+- forearms
+equipment:
+- cable
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

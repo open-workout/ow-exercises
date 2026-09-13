@@ -1,0 +1,15 @@
+id: '2737'
+slug: standing-hip-extension-straight-leg
+name: Standing Hip Extension (straight leg)
+human_readable_ids:
+- StandingHipExtension
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

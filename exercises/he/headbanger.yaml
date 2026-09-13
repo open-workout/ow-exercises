@@ -1,0 +1,15 @@
+id: '10736'
+slug: headbanger
+name: Headbanger
+human_readable_ids:
+- Headbanger
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

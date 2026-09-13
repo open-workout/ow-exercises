@@ -1,0 +1,16 @@
+id: '4293'
+slug: dumbbell-straight-legs-deadlift
+name: Dumbbell Straight Legs Deadlift
+human_readable_ids:
+- DumbbellStraightLegsDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

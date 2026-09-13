@@ -1,0 +1,15 @@
+id: '4088'
+slug: band-cross-chest-biceps-curl
+name: Band Cross Chest Biceps Curl
+human_readable_ids:
+- BandCrossChestBicepsCurl
+primary_muscles:
+- biceps
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

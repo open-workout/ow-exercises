@@ -1,0 +1,15 @@
+id: '4891'
+slug: hanging-half-windmill
+name: Hanging Half Windmill
+human_readable_ids:
+- HangingHalfWindmill
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

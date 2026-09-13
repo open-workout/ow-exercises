@@ -1,0 +1,15 @@
+id: '0061'
+slug: barbell-lying-triceps-extension
+name: Barbell Lying Triceps Extension
+human_readable_ids:
+- BarbellLyingTricepsExtension
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,15 @@
+id: '4249'
+slug: dumbbell-straight-leg-russian-twist
+name: Dumbbell Straight Leg Russian Twist
+human_readable_ids:
+- DumbbellStraightLegRussianTwist
+primary_muscles:
+- abs
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

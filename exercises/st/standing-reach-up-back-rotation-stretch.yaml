@@ -1,0 +1,14 @@
+id: '1796'
+slug: standing-reach-up-back-rotation-stretch
+name: Standing reach up back rotation stretch
+human_readable_ids:
+- Standingreachupbackrotationstretch
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,16 @@
+id: '1757'
+slug: dumbbell-single-leg-deadlift
+name: Dumbbell Single Leg Deadlift
+human_readable_ids:
+- DumbbellSingleLegDeadlift
+primary_muscles:
+- back
+- glutes
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

@@ -1,0 +1,14 @@
+id: '4479'
+slug: roll-ball-rectus-abdominis
+name: Roll Ball Rectus Abdominis
+human_readable_ids:
+- RollBallRectusAbdominis
+primary_muscles:
+- abs
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

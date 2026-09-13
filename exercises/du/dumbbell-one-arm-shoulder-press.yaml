@@ -1,0 +1,15 @@
+id: '0361'
+slug: dumbbell-one-arm-shoulder-press
+name: Dumbbell One Arm Shoulder Press
+human_readable_ids:
+- DumbbellOneArmShoulderPress
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

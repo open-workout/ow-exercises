@@ -1,0 +1,14 @@
+id: '8289'
+slug: side-lying-chest-stretch
+name: Side Lying Chest Stretch
+human_readable_ids:
+- SideLyingChestStretch
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

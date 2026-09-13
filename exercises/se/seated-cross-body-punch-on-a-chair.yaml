@@ -1,0 +1,15 @@
+id: '8424'
+slug: seated-cross-body-punch-on-a-chair
+name: Seated Cross Body Punch on a Chair
+human_readable_ids:
+- SeatedCrossBodyPunchonaChair
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

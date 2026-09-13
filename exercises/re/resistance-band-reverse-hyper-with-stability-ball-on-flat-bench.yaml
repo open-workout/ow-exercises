@@ -1,0 +1,15 @@
+id: '6738'
+slug: resistance-band-reverse-hyper-with-stability-ball-on-flat-bench
+name: Resistance Band Reverse Hyper with Stability Ball on Flat Bench
+human_readable_ids:
+- ResistanceBandReverseHyperwithStabilityBallonFlatBench
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,14 @@
+id: '4466'
+slug: roll-ball-popliteal
+name: Roll Ball Popliteal
+human_readable_ids:
+- RollBallPopliteal
+primary_muscles:
+- quads
+equipment:
+- rollball
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: '4871'
+slug: dumbbell-6-ways-raise
+name: Dumbbell 6 Ways Raise
+human_readable_ids:
+- Dumbbell6WaysRaise
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

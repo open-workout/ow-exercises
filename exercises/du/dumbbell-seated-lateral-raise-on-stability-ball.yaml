@@ -1,0 +1,15 @@
+id: '4055'
+slug: dumbbell-seated-lateral-raise-on-stability-ball
+name: Dumbbell Seated Lateral Raise on Stability Ball
+human_readable_ids:
+- DumbbellSeatedLateralRaiseonStabilityBall
+primary_muscles:
+- shoulders
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

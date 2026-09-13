@@ -1,0 +1,15 @@
+id: '2435'
+slug: 45-degrees-side-bend
+name: 45 degrees Side Bend
+human_readable_ids:
+- 45degreesSideBend
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

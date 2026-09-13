@@ -1,0 +1,15 @@
+id: '4213'
+slug: lever-banded-chest-press
+name: Lever Banded Chest Press
+human_readable_ids:
+- LeverBandedChestPress
+primary_muscles:
+- chest
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

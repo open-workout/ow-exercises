@@ -1,0 +1,15 @@
+id: '2347'
+slug: front-plank-butt-wrong-right
+name: Front Plank - Butt (WRONG-RIGHT)
+human_readable_ids:
+- FrontPlankButt
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

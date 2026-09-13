@@ -1,0 +1,16 @@
+id: 0801
+slug: step-up
+name: Step-up
+human_readable_ids:
+- Stepup
+primary_muscles:
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

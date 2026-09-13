@@ -1,0 +1,15 @@
+id: '1275'
+slug: drop-push-up
+name: Drop Push Up
+human_readable_ids:
+- DropPushUp
+primary_muscles:
+- chest
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

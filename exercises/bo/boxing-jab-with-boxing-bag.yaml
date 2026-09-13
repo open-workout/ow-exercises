@@ -1,0 +1,15 @@
+id: '4582'
+slug: boxing-jab-with-boxing-bag
+name: Boxing Jab (with boxing bag)
+human_readable_ids:
+- BoxingJab
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

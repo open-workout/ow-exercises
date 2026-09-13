@@ -1,0 +1,15 @@
+id: '5151'
+slug: kipping-handstand-push-up
+name: Kipping Handstand Push-up
+human_readable_ids:
+- KippingHandstandPushup
+primary_muscles:
+- shoulders
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

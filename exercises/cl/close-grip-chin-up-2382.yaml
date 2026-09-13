@@ -1,0 +1,15 @@
+id: '2382'
+slug: close-grip-chin-up-2382
+name: Close-Grip Chin-Up
+human_readable_ids:
+- CloseGripChinUp
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

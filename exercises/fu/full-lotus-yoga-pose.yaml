@@ -1,0 +1,14 @@
+id: '1483'
+slug: full-lotus-yoga-pose
+name: Full Lotus Yoga Pose
+human_readable_ids:
+- FullLotusYogaPose
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

@@ -1,0 +1,15 @@
+id: 0923
+slug: band-standing-incline-chest-press
+name: Band standing incline chest press
+human_readable_ids:
+- Bandstandinginclinechestpress
+primary_muscles:
+- chest
+equipment:
+- band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

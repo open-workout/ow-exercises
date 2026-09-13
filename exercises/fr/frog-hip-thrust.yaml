@@ -1,0 +1,15 @@
+id: '2757'
+slug: frog-hip-thrust
+name: Frog Hip Thrust
+human_readable_ids:
+- FrogHipThrust
+primary_muscles:
+- glutes
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

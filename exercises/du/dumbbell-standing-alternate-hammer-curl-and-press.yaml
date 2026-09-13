@@ -1,0 +1,16 @@
+id: '3560'
+slug: dumbbell-standing-alternate-hammer-curl-and-press
+name: Dumbbell Standing Alternate Hammer Curl and Press
+human_readable_ids:
+- DumbbellStandingAlternateHammerCurlandPress
+primary_muscles:
+- shoulders
+- biceps
+equipment:
+- dumbbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

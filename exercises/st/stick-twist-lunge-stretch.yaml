@@ -1,0 +1,16 @@
+id: '5408'
+slug: stick-twist-lunge-stretch
+name: Stick Twist Lunge Stretch
+human_readable_ids:
+- StickTwistLungeStretch
+primary_muscles:
+- glutes
+- abs
+- quads
+equipment:
+- stick
+modalities:
+- time
+load:
+  required: false
+  direction: added

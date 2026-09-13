@@ -1,0 +1,15 @@
+id: '0472'
+slug: hanging-leg-raise
+name: Hanging Leg Raise
+human_readable_ids:
+- HangingLegRaise
+primary_muscles:
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

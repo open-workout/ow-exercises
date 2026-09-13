@@ -1,0 +1,15 @@
+id: '5194'
+slug: bodyweight-muscle-up-version-2
+name: Bodyweight Muscle-up (VERSION 2)
+human_readable_ids:
+- BodyweightMuscleup
+primary_muscles:
+- back
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

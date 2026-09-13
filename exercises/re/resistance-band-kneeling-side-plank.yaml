@@ -1,0 +1,15 @@
+id: '2155'
+slug: resistance-band-kneeling-side-plank
+name: Resistance Band Kneeling Side Plank
+human_readable_ids:
+- ResistanceBandKneelingSidePlank
+primary_muscles:
+- glutes
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

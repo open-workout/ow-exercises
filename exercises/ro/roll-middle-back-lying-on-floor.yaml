@@ -1,0 +1,14 @@
+id: '5382'
+slug: roll-middle-back-lying-on-floor
+name: Roll Middle Back Lying on Floor
+human_readable_ids:
+- RollMiddleBackLyingonFloor
+primary_muscles:
+- back
+equipment:
+- roll
+modalities:
+- time
+load:
+  required: false
+  direction: added

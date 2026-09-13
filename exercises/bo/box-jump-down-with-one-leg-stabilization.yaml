@@ -1,0 +1,15 @@
+id: '1374'
+slug: box-jump-down-with-one-leg-stabilization
+name: Box Jump Down with One Leg Stabilization
+human_readable_ids:
+- BoxJumpDownwithOneLegStabilization
+primary_muscles:
+- calves
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

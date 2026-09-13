@@ -1,0 +1,16 @@
+id: 0685
+slug: run
+name: Run
+human_readable_ids:
+- Run
+primary_muscles:
+- cardio
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

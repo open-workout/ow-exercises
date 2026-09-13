@@ -1,0 +1,15 @@
+id: '0040'
+slug: barbell-front-raise-and-pullover
+name: Barbell Front Raise and Pullover
+human_readable_ids:
+- BarbellFrontRaiseandPullover
+primary_muscles:
+- chest
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

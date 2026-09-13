@@ -1,0 +1,15 @@
+id: '3558'
+slug: lying-biceps-curl-with-towel
+name: Lying Biceps Curl with Towel
+human_readable_ids:
+- LyingBicepsCurlwithTowel
+primary_muscles:
+- biceps
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

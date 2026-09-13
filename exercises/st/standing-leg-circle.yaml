@@ -1,0 +1,17 @@
+id: '4933'
+slug: standing-leg-circle
+name: Standing Leg Circle
+human_readable_ids:
+- StandingLegCircle
+primary_muscles:
+- adductors
+- glutes
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

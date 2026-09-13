@@ -1,0 +1,16 @@
+id: '0511'
+slug: jump-rope
+name: Jump Rope
+human_readable_ids:
+- JumpRope
+primary_muscles:
+- cardio
+equipment:
+- rope
+modalities:
+- reps
+- time
+- distance
+load:
+  required: false
+  direction: added

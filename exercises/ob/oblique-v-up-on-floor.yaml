@@ -1,0 +1,16 @@
+id: '3515'
+slug: oblique-v-up-on-floor
+name: Oblique V-up on Floor
+human_readable_ids:
+- ObliqueVuponFloor
+primary_muscles:
+- glutes
+- abs
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

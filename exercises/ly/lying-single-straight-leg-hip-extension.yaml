@@ -1,0 +1,15 @@
+id: '1776'
+slug: lying-single-straight-leg-hip-extension
+name: Lying Single Straight Leg Hip Extension
+human_readable_ids:
+- LyingSingleStraightLegHipExtension
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

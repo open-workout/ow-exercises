@@ -1,0 +1,14 @@
+id: '0643'
+slug: overhead-triceps-stretch
+name: Overhead Triceps Stretch
+human_readable_ids:
+- OverheadTricepsStretch
+primary_muscles:
+- triceps
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

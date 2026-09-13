@@ -1,0 +1,15 @@
+id: '1235'
+slug: lever-one-arm-seated-row-seated-row-machine
+name: Lever One Arm Seated Row (Seated row machine)
+human_readable_ids:
+- LeverOneArmSeatedRow
+primary_muscles:
+- back
+equipment:
+- leverage-machine
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

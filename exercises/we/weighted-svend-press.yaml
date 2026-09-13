@@ -1,0 +1,15 @@
+id: 0856
+slug: weighted-svend-press
+name: Weighted Svend Press
+human_readable_ids:
+- WeightedSvendPress
+primary_muscles:
+- chest
+equipment:
+- weighted
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

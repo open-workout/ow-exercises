@@ -1,0 +1,15 @@
+id: '0060'
+slug: barbell-lying-triceps-extension-skull-crusher
+name: Barbell Lying Triceps Extension Skull Crusher
+human_readable_ids:
+- BarbellLyingTricepsExtensionSkullCrusher
+primary_muscles:
+- triceps
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added

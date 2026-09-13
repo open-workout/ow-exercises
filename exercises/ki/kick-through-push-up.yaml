@@ -1,0 +1,15 @@
+id: '4159'
+slug: kick-through-push-up
+name: Kick Through Push-up
+human_readable_ids:
+- KickThroughPushup
+primary_muscles:
+- plyometrics
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

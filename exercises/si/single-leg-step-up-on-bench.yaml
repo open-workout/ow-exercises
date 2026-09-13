@@ -1,0 +1,15 @@
+id: '4795'
+slug: single-leg-step-up-on-bench
+name: Single Leg Step-up on Bench
+human_readable_ids:
+- SingleLegStepuponBench
+primary_muscles:
+- quads
+equipment:
+- body-weight
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

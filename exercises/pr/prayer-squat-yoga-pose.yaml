@@ -1,0 +1,14 @@
+id: '4387'
+slug: prayer-squat-yoga-pose
+name: Prayer Squat Yoga Pose
+human_readable_ids:
+- PrayerSquatYogaPose
+primary_muscles:
+- stretching
+equipment:
+- body-weight
+modalities:
+- time
+load:
+  required: false
+  direction: added

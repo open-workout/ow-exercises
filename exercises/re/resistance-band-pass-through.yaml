@@ -1,0 +1,15 @@
+id: '8365'
+slug: resistance-band-pass-through
+name: Resistance Band Pass Through
+human_readable_ids:
+- ResistanceBandPassThrough
+primary_muscles:
+- shoulders
+equipment:
+- resistance-band
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

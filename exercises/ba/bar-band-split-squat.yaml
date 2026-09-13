@@ -1,0 +1,16 @@
+id: '4679'
+slug: bar-band-split-squat
+name: Bar Band Split Squat
+human_readable_ids:
+- BarBandSplitSquat
+primary_muscles:
+- glutes
+- quads
+equipment:
+- stick
+modalities:
+- reps
+- time
+load:
+  required: false
+  direction: added

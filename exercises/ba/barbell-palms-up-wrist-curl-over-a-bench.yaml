@@ -1,0 +1,15 @@
+id: '1412'
+slug: barbell-palms-up-wrist-curl-over-a-bench
+name: Barbell Palms Up Wrist Curl Over A Bench
+human_readable_ids:
+- BarbellPalmsUpWristCurlOverABench
+primary_muscles:
+- forearms
+equipment:
+- barbell
+modalities:
+- reps
+- time
+load:
+  required: true
+  direction: added
