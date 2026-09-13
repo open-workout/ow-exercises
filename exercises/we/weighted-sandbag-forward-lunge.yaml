@@ -1,6 +1,8 @@
 id: '9940'
 slug: weighted-sandbag-forward-lunge
 name: Weighted Sandbag Forward Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSandbagForwardLunge
 primary_muscles:

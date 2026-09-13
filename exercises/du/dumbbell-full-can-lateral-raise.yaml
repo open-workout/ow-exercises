@@ -1,6 +1,8 @@
 id: '0311'
 slug: dumbbell-full-can-lateral-raise
 name: Dumbbell Full Can Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellFullCanLateralRaise
 primary_muscles:

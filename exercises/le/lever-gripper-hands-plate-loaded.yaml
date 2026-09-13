@@ -1,6 +1,8 @@
 id: '2288'
 slug: lever-gripper-hands-plate-loaded
 name: Lever Gripper Hands (plate loaded)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverGripperHands
 primary_muscles:

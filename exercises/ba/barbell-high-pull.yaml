@@ -1,6 +1,8 @@
 id: '10106'
 slug: barbell-high-pull
 name: Barbell High Pull
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellHighPull
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2144'
 slug: cable-seated-chest-press
 name: Cable Seated Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - CableSeatedChestPress
 primary_muscles:

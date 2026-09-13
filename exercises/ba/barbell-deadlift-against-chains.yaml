@@ -1,6 +1,8 @@
 id: '4199'
 slug: barbell-deadlift-against-chains
 name: Barbell Deadlift against Chains
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellDeadliftagainstChains
 primary_muscles:

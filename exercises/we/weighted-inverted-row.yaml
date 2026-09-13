@@ -1,6 +1,8 @@
 id: '1184'
 slug: weighted-inverted-row
 name: Weighted Inverted Row
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedInvertedRow
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4395'
 slug: shoulder-circle
 name: Shoulder Circle
+alt_names:
+  en: []
 human_readable_ids:
 - ShoulderCircle
 primary_muscles:

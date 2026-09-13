@@ -1,6 +1,8 @@
 id: '4748'
 slug: dumbbell-overhead-sit-up
 name: Dumbbell Overhead Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOverheadSitup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '6051'
 slug: bottle-weighted-kneeling-squat
 name: Bottle Weighted Kneeling Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BottleWeightedKneelingSquat
 primary_muscles:

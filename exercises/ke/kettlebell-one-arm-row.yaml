@@ -1,6 +1,8 @@
 id: '0541'
 slug: kettlebell-one-arm-row
 name: Kettlebell One Arm Row
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellOneArmRow
 primary_muscles:

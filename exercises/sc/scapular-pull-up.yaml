@@ -1,6 +1,8 @@
 id: 0688
 slug: scapular-pull-up
 name: Scapular Pull-Up
+alt_names:
+  en: []
 human_readable_ids:
 - ScapularPullUp
 primary_muscles:

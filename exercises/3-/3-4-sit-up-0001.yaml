@@ -1,6 +1,8 @@
 id: '0001'
 slug: 3-4-sit-up-0001
 name: 3-4 Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - 34Situp
 primary_muscles:

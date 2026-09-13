@@ -1,6 +1,8 @@
 id: '4799'
 slug: suspender-rollout-version-2
 name: Suspender Rollout (VERSION 2)
+alt_names:
+  en: []
 human_readable_ids:
 - SuspenderRollout
 primary_muscles:

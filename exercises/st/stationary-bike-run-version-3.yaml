@@ -1,6 +1,8 @@
 id: '2138'
 slug: stationary-bike-run-version-3
 name: Stationary Bike Run (version 3)
+alt_names:
+  en: []
 human_readable_ids:
 - StationaryBikeRun
 primary_muscles:

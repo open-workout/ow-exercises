@@ -1,6 +1,8 @@
 id: 0091
 slug: barbell-seated-overhead-press
 name: Barbell Seated Overhead Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSeatedOverheadPress
 primary_muscles:

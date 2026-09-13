@@ -1,6 +1,8 @@
 id: 0549
 slug: kettlebell-swing
 name: Kettlebell Swing
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellSwing
 primary_muscles:

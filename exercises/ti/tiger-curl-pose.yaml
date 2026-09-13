@@ -1,6 +1,8 @@
 id: '5905'
 slug: tiger-curl-pose
 name: Tiger Curl Pose
+alt_names:
+  en: []
 human_readable_ids:
 - TigerCurlPose
 primary_muscles:

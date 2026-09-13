@@ -1,6 +1,8 @@
 id: '0215'
 slug: cable-seated-rear-lateral-raise
 name: Cable Seated Rear Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - CableSeatedRearLateralRaise
 primary_muscles:

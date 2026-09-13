@@ -1,6 +1,8 @@
 id: '4631'
 slug: scorpion-stretch
 name: Scorpion Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - ScorpionStretch
 primary_muscles:

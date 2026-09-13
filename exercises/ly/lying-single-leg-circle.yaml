@@ -1,6 +1,8 @@
 id: '2854'
 slug: lying-single-leg-circle
 name: Lying Single Leg Circle
+alt_names:
+  en: []
 human_readable_ids:
 - LyingSingleLegCircle
 primary_muscles:

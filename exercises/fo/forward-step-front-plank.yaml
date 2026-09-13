@@ -1,6 +1,8 @@
 id: '3959'
 slug: forward-step-front-plank
 name: Forward Step Front Plank
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardStepFrontPlank
 primary_muscles:

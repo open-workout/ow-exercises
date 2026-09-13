@@ -1,6 +1,8 @@
 id: '2142'
 slug: ski-ergometer
 name: Ski Ergometer
+alt_names:
+  en: []
 human_readable_ids:
 - SkiErgometer
 primary_muscles:

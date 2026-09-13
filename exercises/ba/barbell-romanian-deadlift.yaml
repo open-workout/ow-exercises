@@ -1,6 +1,8 @@
 id: 0085
 slug: barbell-romanian-deadlift
 name: Barbell Romanian Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellRomanianDeadlift
 primary_muscles:

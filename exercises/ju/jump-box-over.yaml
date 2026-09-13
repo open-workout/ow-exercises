@@ -1,6 +1,8 @@
 id: '3887'
 slug: jump-box-over
 name: Jump Box Over
+alt_names:
+  en: []
 human_readable_ids:
 - JumpBoxOver
 primary_muscles:

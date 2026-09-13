@@ -1,6 +1,8 @@
 id: '9999'
 slug: plank-knee-tap
 name: Plank Knee Tap
+alt_names:
+  en: []
 human_readable_ids:
 - PlankKneeTap
 primary_muscles:

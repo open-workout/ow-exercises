@@ -1,6 +1,8 @@
 id: '6123'
 slug: dumbbell-unilateral-scapula-raise
 name: Dumbbell Unilateral Scapula Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellUnilateralScapulaRaise
 primary_muscles:

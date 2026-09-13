@@ -1,6 +1,8 @@
 id: '9320'
 slug: isometric-hold-close-grip-chin-up
 name: Isometric Hold Close Grip Chin-up
+alt_names:
+  en: []
 human_readable_ids:
 - IsometricHoldCloseGripChinup
 primary_muscles:

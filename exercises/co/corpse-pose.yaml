@@ -1,6 +1,8 @@
 id: '5889'
 slug: corpse-pose
 name: Corpse Pose
+alt_names:
+  en: []
 human_readable_ids:
 - CorpsePose
 primary_muscles:

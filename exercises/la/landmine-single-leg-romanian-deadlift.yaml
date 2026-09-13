@@ -1,6 +1,8 @@
 id: '6553'
 slug: landmine-single-leg-romanian-deadlift
 name: Landmine Single Leg Romanian Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - LandmineSingleLegRomanianDeadlift
 primary_muscles:

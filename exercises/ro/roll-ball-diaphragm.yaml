@@ -1,6 +1,8 @@
 id: '4482'
 slug: roll-ball-diaphragm
 name: Roll Ball Diaphragm
+alt_names:
+  en: []
 human_readable_ids:
 - RollBallDiaphragm
 primary_muscles:

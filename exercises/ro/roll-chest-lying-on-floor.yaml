@@ -1,6 +1,8 @@
 id: '5377'
 slug: roll-chest-lying-on-floor
 name: Roll Chest Lying on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - RollChestLyingonFloor
 primary_muscles:

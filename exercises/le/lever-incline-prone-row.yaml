@@ -1,6 +1,8 @@
 id: '10646'
 slug: lever-incline-prone-row
 name: Lever Incline Prone Row
+alt_names:
+  en: []
 human_readable_ids:
 - LeverInclineProneRow
 primary_muscles:

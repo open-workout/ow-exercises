@@ -1,6 +1,8 @@
 id: '0777'
 slug: spell-caster
 name: Spell Caster
+alt_names:
+  en: []
 human_readable_ids:
 - SpellCaster
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '8704'
 slug: burpee-jump-box
 name: Burpee Jump Box
+alt_names:
+  en: []
 human_readable_ids:
 - BurpeeJumpBox
 primary_muscles:

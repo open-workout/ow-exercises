@@ -1,6 +1,8 @@
 id: 0816
 slug: triceps-press
 name: Triceps Press
+alt_names:
+  en: []
 human_readable_ids:
 - TricepsPress
 primary_muscles:

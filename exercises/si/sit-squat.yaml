@@ -1,6 +1,8 @@
 id: '1593'
 slug: sit-squat
 name: Sit Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SitSquat
 primary_muscles:

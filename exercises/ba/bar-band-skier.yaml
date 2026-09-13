@@ -1,6 +1,8 @@
 id: '4697'
 slug: bar-band-skier
 name: Bar Band Skier
+alt_names:
+  en: []
 human_readable_ids:
 - BarBandSkier
 primary_muscles:

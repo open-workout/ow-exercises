@@ -1,6 +1,8 @@
 id: '1540'
 slug: barbell-squat-to-shoulder-press
 name: Barbell Squat to Shoulder Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSquattoShoulderPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1433'
 slug: smith-front-squat-clean-grip
 name: Smith Front Squat (Clean Grip)
+alt_names:
+  en: []
 human_readable_ids:
 - SmithFrontSquat
 primary_muscles:

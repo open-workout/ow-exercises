@@ -1,6 +1,8 @@
 id: '1403'
 slug: neck-side-stretch
 name: Neck Side Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - NeckSideStretch
 primary_muscles:

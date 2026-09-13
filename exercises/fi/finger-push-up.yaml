@@ -1,6 +1,8 @@
 id: '3981'
 slug: finger-push-up
 name: Finger Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - FingerPushup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1677'
 slug: dumbbell-seated-bicep-curl
 name: Dumbbell Seated Bicep Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedBicepCurl
 primary_muscles:

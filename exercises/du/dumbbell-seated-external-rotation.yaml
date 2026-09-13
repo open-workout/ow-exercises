@@ -1,6 +1,8 @@
 id: '6140'
 slug: dumbbell-seated-external-rotation
 name: Dumbbell Seated External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedExternalRotation
 primary_muscles:

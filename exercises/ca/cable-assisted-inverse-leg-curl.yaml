@@ -1,6 +1,8 @@
 id: '3235'
 slug: cable-assisted-inverse-leg-curl
 name: Cable Assisted Inverse Leg Curl
+alt_names:
+  en: []
 human_readable_ids:
 - CableAssistedInverseLegCurl
 primary_muscles:

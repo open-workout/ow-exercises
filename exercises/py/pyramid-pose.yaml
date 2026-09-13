@@ -1,6 +1,8 @@
 id: '5898'
 slug: pyramid-pose
 name: Pyramid Pose
+alt_names:
+  en: []
 human_readable_ids:
 - PyramidPose
 primary_muscles:

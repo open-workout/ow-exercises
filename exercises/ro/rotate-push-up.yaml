@@ -1,6 +1,8 @@
 id: 0682
 slug: rotate-push-up
 name: Rotate Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - RotatePushup2
 primary_muscles:

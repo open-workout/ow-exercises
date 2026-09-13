@@ -1,6 +1,8 @@
 id: '2511'
 slug: dumbbell-reverse-grip-incline-row
 name: Dumbbell Reverse Grip Incline Row
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellReverseGripInclineRow
 primary_muscles:

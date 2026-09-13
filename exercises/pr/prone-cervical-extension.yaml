@@ -1,6 +1,8 @@
 id: '5060'
 slug: prone-cervical-extension
 name: Prone Cervical Extension
+alt_names:
+  en: []
 human_readable_ids:
 - ProneCervicalExtension
 primary_muscles:

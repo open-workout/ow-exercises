@@ -1,6 +1,8 @@
 id: '1255'
 slug: barbell-decline-pullover
 name: Barbell Decline Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellDeclinePullover
 primary_muscles:

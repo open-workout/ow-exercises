@@ -1,6 +1,8 @@
 id: '3470'
 slug: forward-lunge
 name: Forward Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardLunge
 primary_muscles:

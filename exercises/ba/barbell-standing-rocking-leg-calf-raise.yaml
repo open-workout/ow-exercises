@@ -1,6 +1,8 @@
 id: '0111'
 slug: barbell-standing-rocking-leg-calf-raise
 name: Barbell Standing Rocking Leg Calf Raise
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingRockingLegCalfRaise
 primary_muscles:

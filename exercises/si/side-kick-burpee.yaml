@@ -1,6 +1,8 @@
 id: '3153'
 slug: side-kick-burpee
 name: Side Kick Burpee
+alt_names:
+  en: []
 human_readable_ids:
 - SideKickBurpee
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0201'
 slug: cable-pushdown
 name: Cable Pushdown
+alt_names:
+  en: []
 human_readable_ids:
 - CablePushdown3
 primary_muscles:

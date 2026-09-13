@@ -1,6 +1,8 @@
 id: '3535'
 slug: bodyweight-pulse-squat
 name: Bodyweight Pulse Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightPulseSquat
 primary_muscles:

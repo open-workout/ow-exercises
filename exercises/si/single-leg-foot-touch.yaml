@@ -1,6 +1,8 @@
 id: '1702'
 slug: single-leg-foot-touch
 name: Single Leg Foot Touch
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegFootTouch
 primary_muscles:

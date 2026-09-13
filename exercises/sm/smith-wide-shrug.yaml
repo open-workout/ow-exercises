@@ -1,6 +1,8 @@
 id: '5223'
 slug: smith-wide-shrug
 name: Smith Wide Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - SmithWideShrug
 primary_muscles:

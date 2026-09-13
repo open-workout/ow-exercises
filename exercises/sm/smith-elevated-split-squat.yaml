@@ -1,6 +1,8 @@
 id: '9042'
 slug: smith-elevated-split-squat
 name: Smith Elevated Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SmithElevatedSplitSquat
 primary_muscles:

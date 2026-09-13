@@ -1,6 +1,8 @@
 id: '3001'
 slug: squats-knee-position
 name: Squats - Knee Position
+alt_names:
+  en: []
 human_readable_ids:
 - SquatsKneePosition
 primary_muscles:

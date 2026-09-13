@@ -1,6 +1,8 @@
 id: '3204'
 slug: arms-overhead-full-sit-up
 name: Arms Overhead Full Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - ArmsOverheadFullSitup
 primary_muscles:

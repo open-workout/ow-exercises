@@ -1,6 +1,8 @@
 id: '1557'
 slug: dumbbell-walking-lunges
 name: Dumbbell Walking Lunges
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellWalkingLunges
 primary_muscles:

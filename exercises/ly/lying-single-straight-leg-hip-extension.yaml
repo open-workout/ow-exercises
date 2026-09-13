@@ -1,6 +1,8 @@
 id: '1776'
 slug: lying-single-straight-leg-hip-extension
 name: Lying Single Straight Leg Hip Extension
+alt_names:
+  en: []
 human_readable_ids:
 - LyingSingleStraightLegHipExtension
 primary_muscles:

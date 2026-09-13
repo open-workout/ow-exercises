@@ -1,6 +1,8 @@
 id: '10549'
 slug: elevated-single-leg-bridge
 name: Elevated Single Leg Bridge
+alt_names:
+  en: []
 human_readable_ids:
 - ElevatedSingleLegBridge
 primary_muscles:

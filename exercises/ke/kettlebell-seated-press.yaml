@@ -1,6 +1,8 @@
 id: '0546'
 slug: kettlebell-seated-press
 name: Kettlebell Seated Press
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellSeatedPress
 primary_muscles:

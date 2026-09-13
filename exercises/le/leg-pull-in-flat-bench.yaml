@@ -1,6 +1,8 @@
 id: '0570'
 slug: leg-pull-in-flat-bench
 name: Leg Pull In Flat Bench
+alt_names:
+  en: []
 human_readable_ids:
 - LegPullInFlatBench
 primary_muscles:

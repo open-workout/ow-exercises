@@ -1,6 +1,8 @@
 id: '1004'
 slug: band-squat
 name: Band squat
+alt_names:
+  en: []
 human_readable_ids:
 - Bandsquat
 primary_muscles:

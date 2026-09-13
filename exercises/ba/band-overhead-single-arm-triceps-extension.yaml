@@ -1,6 +1,8 @@
 id: '4140'
 slug: band-overhead-single-arm-triceps-extension
 name: Band Overhead Single Arm Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - BandOverheadSingleArmTricepsExtension
 primary_muscles:

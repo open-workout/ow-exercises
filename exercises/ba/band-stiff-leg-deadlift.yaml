@@ -1,6 +1,8 @@
 id: '1009'
 slug: band-stiff-leg-deadlift
 name: Band stiff leg deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - Bandstifflegdeadlift
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '2843'
 slug: double-leg-stretch
 name: Double Leg Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - DoubleLegStretch
 primary_muscles:

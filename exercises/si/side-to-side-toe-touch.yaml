@@ -1,6 +1,8 @@
 id: '3213'
 slug: side-to-side-toe-touch
 name: Side-to-Side Toe Touch
+alt_names:
+  en: []
 human_readable_ids:
 - SidetoSideToeTouch
 primary_muscles:

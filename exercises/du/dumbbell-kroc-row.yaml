@@ -1,6 +1,8 @@
 id: '10329'
 slug: dumbbell-kroc-row
 name: Dumbbell Kroc Row
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellKrocRow
 primary_muscles:

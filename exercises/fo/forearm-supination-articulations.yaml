@@ -1,6 +1,8 @@
 id: '2766'
 slug: forearm-supination-articulations
 name: Forearm - Supination - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - ForearmSupinationArticulations
 primary_muscles:

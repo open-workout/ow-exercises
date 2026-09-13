@@ -1,6 +1,8 @@
 id: '10759'
 slug: high-knee-walk
 name: High Knee Walk
+alt_names:
+  en: []
 human_readable_ids:
 - HighKneeWalk
 primary_muscles:

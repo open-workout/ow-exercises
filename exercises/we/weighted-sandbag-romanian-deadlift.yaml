@@ -1,6 +1,8 @@
 id: '10730'
 slug: weighted-sandbag-romanian-deadlift
 name: Weighted Sandbag Romanian Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSandbagRomanianDeadlift
 primary_muscles:

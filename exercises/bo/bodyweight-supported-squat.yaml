@@ -1,6 +1,8 @@
 id: '6600'
 slug: bodyweight-supported-squat
 name: Bodyweight Supported Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightSupportedSquat
 primary_muscles:

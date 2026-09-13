@@ -1,6 +1,8 @@
 id: '1625'
 slug: smith-machine-decline-close-grip-bench-press
 name: Smith Machine Decline Close Grip Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - SmithMachineDeclineCloseGripBenchPress
 primary_muscles:

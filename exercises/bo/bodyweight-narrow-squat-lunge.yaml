@@ -1,6 +1,8 @@
 id: '10051'
 slug: bodyweight-narrow-squat-lunge
 name: Bodyweight Narrow Squat Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightNarrowSquatLunge
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0495
 slug: incline-twisting-sit-up
 name: Incline Twisting Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - InclineTwistingSitup
 primary_muscles:

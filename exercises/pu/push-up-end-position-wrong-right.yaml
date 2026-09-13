@@ -1,6 +1,8 @@
 id: '2351'
 slug: push-up-end-position-wrong-right
 name: Push-up - End position (WRONG-RIGHT)
+alt_names:
+  en: []
 human_readable_ids:
 - PushupEndposition
 primary_muscles:

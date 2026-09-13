@@ -1,6 +1,8 @@
 id: '7287'
 slug: trap-bar-overhead-press
 name: Trap Bar Overhead Press
+alt_names:
+  en: []
 human_readable_ids:
 - TrapBarOverheadPress
 primary_muscles:

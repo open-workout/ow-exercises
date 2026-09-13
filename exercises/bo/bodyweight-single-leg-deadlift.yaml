@@ -1,6 +1,8 @@
 id: '3928'
 slug: bodyweight-single-leg-deadlift
 name: Bodyweight Single Leg Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightSingleLegDeadlift
 primary_muscles:

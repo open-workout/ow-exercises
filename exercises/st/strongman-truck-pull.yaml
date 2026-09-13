@@ -1,6 +1,8 @@
 id: '2710'
 slug: strongman-truck-pull
 name: StrongMan Truck Pull
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManTruckPull
 primary_muscles:

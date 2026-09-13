@@ -1,6 +1,8 @@
 id: '1050'
 slug: smith-calf-raise-with-block
 name: Smith Calf Raise (with block)
+alt_names:
+  en: []
 human_readable_ids:
 - SmithCalfRaise
 primary_muscles:

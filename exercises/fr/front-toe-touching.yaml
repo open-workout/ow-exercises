@@ -1,6 +1,8 @@
 id: '3248'
 slug: front-toe-touching
 name: Front Toe Touching
+alt_names:
+  en: []
 human_readable_ids:
 - FrontToeTouching
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0629
 slug: mountain-climber-lunge
 name: Mountain Climber Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - MountainClimberLunge
 primary_muscles:

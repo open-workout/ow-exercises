@@ -1,6 +1,8 @@
 id: '4082'
 slug: band-overhead-side-bend
 name: Band Overhead Side Bend
+alt_names:
+  en: []
 human_readable_ids:
 - BandOverheadSideBend
 primary_muscles:

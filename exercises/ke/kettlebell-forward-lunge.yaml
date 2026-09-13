@@ -1,6 +1,8 @@
 id: '3574'
 slug: kettlebell-forward-lunge
 name: Kettlebell Forward Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellForwardLunge
 primary_muscles:

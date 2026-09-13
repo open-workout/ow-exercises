@@ -1,6 +1,8 @@
 id: 0028
 slug: barbell-clean-and-press
 name: Barbell Clean and Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellCleanandPress
 primary_muscles:

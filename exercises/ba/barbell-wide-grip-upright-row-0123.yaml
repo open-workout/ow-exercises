@@ -1,6 +1,8 @@
 id: '0123'
 slug: barbell-wide-grip-upright-row-0123
 name: Barbell Wide-grip Upright Row
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWidegripUprightRow
 primary_muscles:

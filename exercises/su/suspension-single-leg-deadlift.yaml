@@ -1,6 +1,8 @@
 id: '1155'
 slug: suspension-single-leg-deadlift
 name: Suspension Single Leg Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionSingleLegDeadlift
 primary_muscles:

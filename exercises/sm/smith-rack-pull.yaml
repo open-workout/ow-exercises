@@ -1,6 +1,8 @@
 id: '4171'
 slug: smith-rack-pull
 name: Smith Rack Pull
+alt_names:
+  en: []
 human_readable_ids:
 - SmithRackPull
 primary_muscles:

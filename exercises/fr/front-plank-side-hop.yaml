@@ -1,6 +1,8 @@
 id: '3750'
 slug: front-plank-side-hop
 name: Front Plank Side Hop
+alt_names:
+  en: []
 human_readable_ids:
 - FrontPlankSideHop
 primary_muscles:

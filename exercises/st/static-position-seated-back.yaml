@@ -1,6 +1,8 @@
 id: '3140'
 slug: static-position-seated-back
 name: Static Position Seated Back
+alt_names:
+  en: []
 human_readable_ids:
 - StaticPositionSeatedBack
 primary_muscles: []

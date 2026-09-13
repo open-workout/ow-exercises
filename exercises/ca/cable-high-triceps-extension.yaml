@@ -1,6 +1,8 @@
 id: '4960'
 slug: cable-high-triceps-extension
 name: Cable High Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - CableHighTricepsExtension
 primary_muscles:

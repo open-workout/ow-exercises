@@ -1,6 +1,8 @@
 id: '0751'
 slug: smith-close-grip-bench-press
 name: Smith Close-Grip Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - SmithCloseGripBenchPress
 primary_muscles:

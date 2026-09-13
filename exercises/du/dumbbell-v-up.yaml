@@ -1,6 +1,8 @@
 id: '3336'
 slug: dumbbell-v-up
 name: Dumbbell V-up
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellVup
 primary_muscles:

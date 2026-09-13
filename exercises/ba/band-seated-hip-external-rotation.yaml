@@ -1,6 +1,8 @@
 id: 0995
 slug: band-seated-hip-external-rotation
 name: Band Seated Hip External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - BandSeatedHipExternalRotation
 primary_muscles:

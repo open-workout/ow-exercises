@@ -1,6 +1,8 @@
 id: '5106'
 slug: alternate-toe-tap-leg-lift
 name: Alternate Toe Tap Leg Lift
+alt_names:
+  en: []
 human_readable_ids:
 - AlternateToeTapLegLift
 primary_muscles:

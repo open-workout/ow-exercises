@@ -1,6 +1,8 @@
 id: 0935
 slug: band-upright-shoulder-external-rotation
 name: Band Upright Shoulder External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - BandUprightShoulderExternalRotation
 primary_muscles:

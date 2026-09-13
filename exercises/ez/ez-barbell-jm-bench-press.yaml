@@ -1,6 +1,8 @@
 id: '0450'
 slug: ez-barbell-jm-bench-press
 name: EZ Barbell JM Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - EZBarbellJMBenchPress
 primary_muscles:

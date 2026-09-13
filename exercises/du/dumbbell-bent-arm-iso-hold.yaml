@@ -1,6 +1,8 @@
 id: '4910'
 slug: dumbbell-bent-arm-iso-hold
 name: Dumbbell Bent Arm Iso Hold
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBentArmIsoHold
 primary_muscles:

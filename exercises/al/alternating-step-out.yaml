@@ -1,6 +1,8 @@
 id: '4436'
 slug: alternating-step-out
 name: Alternating Step Out
+alt_names:
+  en: []
 human_readable_ids:
 - AlternatingStepOut
 primary_muscles:

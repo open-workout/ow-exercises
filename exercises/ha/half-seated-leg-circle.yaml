@@ -1,6 +1,8 @@
 id: '6443'
 slug: half-seated-leg-circle
 name: Half Seated Leg Circle
+alt_names:
+  en: []
 human_readable_ids:
 - HalfSeatedLegCircle
 primary_muscles:

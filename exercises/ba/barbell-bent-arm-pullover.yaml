@@ -1,6 +1,8 @@
 id: '1316'
 slug: barbell-bent-arm-pullover
 name: Barbell Bent Arm Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBentArmPullover
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '9487'
 slug: siting-floor-leg-raise
 name: Siting Floor Leg Raise
+alt_names:
+  en: []
 human_readable_ids:
 - SitingFloorLegRaise
 primary_muscles:

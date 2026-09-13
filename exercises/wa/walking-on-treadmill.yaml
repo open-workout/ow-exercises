@@ -1,6 +1,8 @@
 id: '2259'
 slug: walking-on-treadmill
 name: Walking on Treadmill
+alt_names:
+  en: []
 human_readable_ids:
 - WalkingonTreadmill
 primary_muscles:

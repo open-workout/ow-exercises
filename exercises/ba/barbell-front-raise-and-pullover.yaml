@@ -1,6 +1,8 @@
 id: '0040'
 slug: barbell-front-raise-and-pullover
 name: Barbell Front Raise and Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFrontRaiseandPullover
 primary_muscles:

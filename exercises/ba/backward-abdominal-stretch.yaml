@@ -1,6 +1,8 @@
 id: '4006'
 slug: backward-abdominal-stretch
 name: Backward Abdominal Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - BackwardAbdominalStretch
 primary_muscles:

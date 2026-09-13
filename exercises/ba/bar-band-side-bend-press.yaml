@@ -1,6 +1,8 @@
 id: '4700'
 slug: bar-band-side-bend-press
 name: Bar Band Side Bend Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarBandSideBendPress
 primary_muscles:

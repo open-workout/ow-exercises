@@ -1,6 +1,8 @@
 id: '5911'
 slug: safety-bar-good-morning
 name: Safety Bar Good Morning
+alt_names:
+  en: []
 human_readable_ids:
 - SafetyBarGoodMorning
 primary_muscles:

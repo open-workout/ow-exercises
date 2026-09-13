@@ -1,6 +1,8 @@
 id: '1987'
 slug: arm-down-rotator-stretch
 name: Arm Down Rotator Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - ArmDownRotatorStretch
 primary_muscles:

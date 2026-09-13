@@ -1,6 +1,8 @@
 id: '8374'
 slug: step-out-from-squat
 name: Step Out from Squat
+alt_names:
+  en: []
 human_readable_ids:
 - StepOutfromSquat
 primary_muscles:

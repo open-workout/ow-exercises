@@ -1,6 +1,8 @@
 id: '0024'
 slug: barbell-bench-front-squat
 name: Barbell Bench Front Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBenchFrontSquat
 primary_muscles:

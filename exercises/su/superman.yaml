@@ -1,6 +1,8 @@
 id: 0804
 slug: superman
 name: Superman
+alt_names:
+  en: []
 human_readable_ids:
 - Superman
 primary_muscles:

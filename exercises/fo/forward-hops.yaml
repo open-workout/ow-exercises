@@ -1,6 +1,8 @@
 id: '1698'
 slug: forward-hops
 name: Forward Hops
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardHops
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1096'
 slug: suspension-shoulder-external-rotation
 name: Suspension Shoulder External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionShoulderExternalRotation
 primary_muscles:

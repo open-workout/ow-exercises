@@ -1,6 +1,8 @@
 id: '0035'
 slug: barbell-decline-close-grip-to-skull-press
 name: Barbell Decline Close Grip To Skull Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellDeclineCloseGripToSkullPress
 primary_muscles:

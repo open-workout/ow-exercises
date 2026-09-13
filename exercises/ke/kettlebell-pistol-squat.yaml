@@ -1,6 +1,8 @@
 id: '0544'
 slug: kettlebell-pistol-squat
 name: Kettlebell Pistol Squat
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellPistolSquat
 primary_muscles:

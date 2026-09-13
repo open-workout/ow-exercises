@@ -1,6 +1,8 @@
 id: '10915'
 slug: bodyweight-single-leg-deadlift-hold
 name: Bodyweight Single Leg Deadlift Hold
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightSingleLegDeadliftHold
 primary_muscles:

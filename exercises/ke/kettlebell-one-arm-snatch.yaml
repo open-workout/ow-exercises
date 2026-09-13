@@ -1,6 +1,8 @@
 id: '0542'
 slug: kettlebell-one-arm-snatch
 name: Kettlebell One Arm Snatch
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellOneArmSnatch
 primary_muscles:

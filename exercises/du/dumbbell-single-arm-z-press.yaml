@@ -1,6 +1,8 @@
 id: '10043'
 slug: dumbbell-single-arm-z-press
 name: Dumbbell Single Arm Z Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleArmZPress
 primary_muscles:

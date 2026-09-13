@@ -1,6 +1,8 @@
 id: '4918'
 slug: alternate-high-hop
 name: Alternate High Hop
+alt_names:
+  en: []
 human_readable_ids:
 - AlternateHighHop
 primary_muscles:

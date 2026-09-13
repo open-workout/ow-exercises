@@ -1,6 +1,8 @@
 id: '2911'
 slug: dumbbell-high-low-carry
 name: Dumbbell High Low Carry
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellHighLowCarry
 primary_muscles:

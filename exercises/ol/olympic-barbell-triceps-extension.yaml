@@ -1,6 +1,8 @@
 id: '0637'
 slug: olympic-barbell-triceps-extension
 name: Olympic Barbell Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - OlympicBarbellTricepsExtension
 primary_muscles:

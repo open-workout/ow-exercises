@@ -1,6 +1,8 @@
 id: '0054'
 slug: barbell-lunge
 name: Barbell Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellLunge
 primary_muscles:

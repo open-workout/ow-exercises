@@ -1,6 +1,8 @@
 id: '10040'
 slug: dumbbell-standing-alternating-cross-raise
 name: Dumbbell Standing Alternating Cross Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingAlternatingCrossRaise
 primary_muscles:

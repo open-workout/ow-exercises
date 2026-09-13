@@ -1,6 +1,8 @@
 id: '4361'
 slug: bodyweight-shrug
 name: Bodyweight Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightShrug
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1751'
 slug: barbell-pin-presses
 name: Barbell Pin Presses
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPinPresses
 primary_muscles:

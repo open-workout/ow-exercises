@@ -1,6 +1,8 @@
 id: '3207'
 slug: swimmer-kicks
 name: Swimmer Kicks
+alt_names:
+  en: []
 human_readable_ids:
 - SwimmerKicks
 primary_muscles:

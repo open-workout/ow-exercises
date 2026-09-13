@@ -1,6 +1,8 @@
 id: '8627'
 slug: push-up-plank-jack-burpee
 name: Push-up Plank Jack Burpee
+alt_names:
+  en: []
 human_readable_ids:
 - PushupPlankJackBurpee
 primary_muscles:

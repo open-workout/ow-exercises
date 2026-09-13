@@ -1,6 +1,8 @@
 id: '1968'
 slug: standing-toe-flexor-stretch
 name: Standing Toe Flexor Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StandingToeFlexorStretch
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4241'
 slug: resistance-band-shuttle
 name: Resistance Band Shuttle
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandShuttle
 primary_muscles:

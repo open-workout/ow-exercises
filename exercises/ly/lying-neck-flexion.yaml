@@ -1,6 +1,8 @@
 id: '10780'
 slug: lying-neck-flexion
 name: Lying Neck Flexion
+alt_names:
+  en: []
 human_readable_ids:
 - LyingNeckFlexion
 primary_muscles:

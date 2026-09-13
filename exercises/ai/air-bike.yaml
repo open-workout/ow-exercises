@@ -1,6 +1,8 @@
 id: '0003'
 slug: air-bike
 name: Air bike
+alt_names:
+  en: []
 human_readable_ids:
 - Airbike
 primary_muscles:

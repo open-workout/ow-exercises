@@ -1,6 +1,8 @@
 id: '2863'
 slug: shoulder-bridge
 name: Shoulder Bridge
+alt_names:
+  en: []
 human_readable_ids:
 - ShoulderBridge
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5910'
 slug: weighted-chain-sumo-deadlift
 name: Weighted Chain Sumo Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedChainSumoDeadlift
 primary_muscles:

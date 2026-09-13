@@ -1,6 +1,8 @@
 id: '10868'
 slug: bosu-ball-squat
 name: Bosu Ball Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BosuBallSquat
 primary_muscles:

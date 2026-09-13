@@ -1,6 +1,8 @@
 id: '3202'
 slug: half-sit-up
 name: Half Sit-up
+alt_names:
+  en: []
 human_readable_ids:
 - HalfSitup
 primary_muscles:

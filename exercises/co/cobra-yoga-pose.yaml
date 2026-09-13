@@ -1,6 +1,8 @@
 id: '1482'
 slug: cobra-yoga-pose
 name: Cobra Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - CobraYogaPose
 primary_muscles:

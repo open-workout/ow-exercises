@@ -1,6 +1,8 @@
 id: '2072'
 slug: hip-thrusts
 name: Hip Thrusts
+alt_names:
+  en: []
 human_readable_ids:
 - HipThrusts
 primary_muscles:

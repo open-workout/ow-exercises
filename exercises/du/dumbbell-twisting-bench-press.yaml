@@ -1,6 +1,8 @@
 id: '1743'
 slug: dumbbell-twisting-bench-press
 name: Dumbbell Twisting Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellTwistingBenchPress
 primary_muscles:

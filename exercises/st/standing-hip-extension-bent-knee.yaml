@@ -1,6 +1,8 @@
 id: 0792
 slug: standing-hip-extension-bent-knee
 name: Standing Hip Extension (bent knee)
+alt_names:
+  en: []
 human_readable_ids:
 - StandingHipExtension
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1038'
 slug: lever-chair-squat
 name: Lever Chair Squat
+alt_names:
+  en: []
 human_readable_ids:
 - LeverChairSquat
 primary_muscles:

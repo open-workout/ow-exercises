@@ -1,6 +1,8 @@
 id: '1591'
 slug: single-leg-push-off
 name: Single Leg Push Off
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegPushOff
 primary_muscles:

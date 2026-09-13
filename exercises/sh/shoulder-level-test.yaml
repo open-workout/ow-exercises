@@ -1,6 +1,8 @@
 id: '6792'
 slug: shoulder-level-test
 name: Shoulder Level Test
+alt_names:
+  en: []
 human_readable_ids:
 - ShoulderLevelTest
 primary_muscles:

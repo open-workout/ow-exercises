@@ -1,6 +1,8 @@
 id: '2941'
 slug: forearm-wall-slide
 name: Forearm Wall Slide
+alt_names:
+  en: []
 human_readable_ids:
 - ForearmWallSlide
 primary_muscles:

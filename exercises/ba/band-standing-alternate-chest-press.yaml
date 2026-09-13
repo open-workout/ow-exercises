@@ -1,6 +1,8 @@
 id: '4079'
 slug: band-standing-alternate-chest-press
 name: Band Standing Alternate Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - BandStandingAlternateChestPress
 primary_muscles:

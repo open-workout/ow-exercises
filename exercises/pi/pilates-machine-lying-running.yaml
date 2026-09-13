@@ -1,6 +1,8 @@
 id: '10848'
 slug: pilates-machine-lying-running
 name: Pilates Machine Lying Running
+alt_names:
+  en: []
 human_readable_ids:
 - PilatesMachineLyingRunning
 primary_muscles:

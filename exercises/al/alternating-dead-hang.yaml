@@ -1,6 +1,8 @@
 id: '10438'
 slug: alternating-dead-hang
 name: Alternating Dead Hang
+alt_names:
+  en: []
 human_readable_ids:
 - AlternatingDeadHang
 primary_muscles:

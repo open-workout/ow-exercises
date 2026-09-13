@@ -1,6 +1,8 @@
 id: '2763'
 slug: elbow-extension-articulations
 name: Elbow - Extension - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - ElbowExtensionArticulations
 primary_muscles:

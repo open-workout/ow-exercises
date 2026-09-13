@@ -1,6 +1,8 @@
 id: '6552'
 slug: cable-romanian-deadlift
 name: Cable Romanian Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - CableRomanianDeadlift
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3002'
 slug: single-arm-push-up-on-knees
 name: Single Arm Push-up (on knees)
+alt_names:
+  en: []
 human_readable_ids:
 - SingleArmPushup2
 primary_muscles:

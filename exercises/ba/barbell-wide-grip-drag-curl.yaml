@@ -1,6 +1,8 @@
 id: '2413'
 slug: barbell-wide-grip-drag-curl
 name: Barbell Wide-grip Drag Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWidegripDragCurl
 primary_muscles:

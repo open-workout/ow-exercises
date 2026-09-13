@@ -1,6 +1,8 @@
 id: '10854'
 slug: pilates-machine-arm-circle
 name: Pilates Machine Arm Circle
+alt_names:
+  en: []
 human_readable_ids:
 - PilatesMachineArmCircle
 primary_muscles:

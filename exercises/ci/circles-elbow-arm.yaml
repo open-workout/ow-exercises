@@ -1,6 +1,8 @@
 id: '0256'
 slug: circles-elbow-arm
 name: Circles Elbow Arm
+alt_names:
+  en: []
 human_readable_ids:
 - CirclesElbowArm
 primary_muscles:

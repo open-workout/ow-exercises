@@ -1,6 +1,8 @@
 id: '0636'
 slug: olympic-barbell-hammer-curl
 name: Olympic Barbell Hammer Curl
+alt_names:
+  en: []
 human_readable_ids:
 - OlympicBarbellHammerCurl
 primary_muscles:

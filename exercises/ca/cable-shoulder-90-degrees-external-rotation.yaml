@@ -1,6 +1,8 @@
 id: '5087'
 slug: cable-shoulder-90-degrees-external-rotation
 name: Cable Shoulder 90 degrees External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - CableShoulder90degreesExternalRotation
 primary_muscles:

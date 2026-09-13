@@ -1,6 +1,8 @@
 id: 0258
 slug: clock-push-up
 name: Clock Push-Up
+alt_names:
+  en: []
 human_readable_ids:
 - ClockPushUp
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '8141'
 slug: cable-standing-crossover
 name: Cable Standing Crossover
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingCrossover
 primary_muscles:

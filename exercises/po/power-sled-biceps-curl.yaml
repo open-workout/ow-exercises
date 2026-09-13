@@ -1,6 +1,8 @@
 id: '2901'
 slug: power-sled-biceps-curl
 name: Power Sled Biceps Curl
+alt_names:
+  en: []
 human_readable_ids:
 - PowerSledBicepsCurl
 primary_muscles:

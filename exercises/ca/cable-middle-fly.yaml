@@ -1,6 +1,8 @@
 id: 0188
 slug: cable-middle-fly
 name: Cable Middle Fly
+alt_names:
+  en: []
 human_readable_ids:
 - CableMiddleFly
 primary_muscles:

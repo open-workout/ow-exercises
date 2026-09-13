@@ -1,6 +1,8 @@
 id: '0370'
 slug: dumbbell-peacher-hammer-curl
 name: Dumbbell Peacher Hammer Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellPeacherHammerCurl
 primary_muscles:

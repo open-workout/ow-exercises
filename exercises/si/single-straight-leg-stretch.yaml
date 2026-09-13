@@ -1,6 +1,8 @@
 id: '2867'
 slug: single-straight-leg-stretch
 name: Single Straight Leg Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - SingleStraightLegStretch
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4205'
 slug: band-assisted-dip
 name: Band Assisted Dip
+alt_names:
+  en: []
 human_readable_ids:
 - BandAssistedDip
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4603'
 slug: pvc-front-rack-stretch
 name: PVC Front Rack Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - PVCFrontRackStretch
 primary_muscles:

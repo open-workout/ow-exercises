@@ -1,6 +1,8 @@
 id: '2829'
 slug: power-sled-rear-lunge
 name: Power Sled Rear Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - PowerSledRearLunge
 primary_muscles:

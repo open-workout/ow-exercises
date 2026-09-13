@@ -1,6 +1,8 @@
 id: '0645'
 slug: plyo-jacks
 name: Plyo Jacks
+alt_names:
+  en: []
 human_readable_ids:
 - PlyoJacks
 primary_muscles:

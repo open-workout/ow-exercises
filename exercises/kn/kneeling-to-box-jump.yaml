@@ -1,6 +1,8 @@
 id: '10743'
 slug: kneeling-to-box-jump
 name: Kneeling to Box Jump
+alt_names:
+  en: []
 human_readable_ids:
 - KneelingtoBoxJump
 primary_muscles:

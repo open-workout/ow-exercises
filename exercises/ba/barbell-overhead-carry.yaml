@@ -1,6 +1,8 @@
 id: '2914'
 slug: barbell-overhead-carry
 name: Barbell Overhead Carry
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellOverheadCarry
 primary_muscles:

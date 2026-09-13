@@ -1,6 +1,8 @@
 id: '1143'
 slug: suspension-squat
 name: Suspension Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionSquat2
 primary_muscles:

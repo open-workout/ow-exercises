@@ -1,6 +1,8 @@
 id: '3439'
 slug: medicine-ball-backward-throw
 name: Medicine Ball Backward Throw
+alt_names:
+  en: []
 human_readable_ids:
 - MedicineBallBackwardThrow
 primary_muscles:

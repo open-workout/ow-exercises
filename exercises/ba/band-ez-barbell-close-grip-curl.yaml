@@ -1,6 +1,8 @@
 id: '1506'
 slug: band-ez-barbell-close-grip-curl
 name: Band EZ Barbell Close-grip Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BandEZBarbellClosegripCurl
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1317'
 slug: barbell-reverse-grip-incline-bench-row
 name: Barbell Reverse Grip Incline Bench Row
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellReverseGripInclineBenchRow
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0584
 slug: lever-lateral-raise
 name: Lever Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - LeverLateralRaise
 primary_muscles:

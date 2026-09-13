@@ -1,6 +1,8 @@
 id: '6013'
 slug: front-leg-kick
 name: Front Leg Kick
+alt_names:
+  en: []
 human_readable_ids:
 - FrontLegKick
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1834'
 slug: neck-protraction-stretch
 name: Neck Protraction Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - NeckProtractionStretch
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '9408'
 slug: repeated-small-jumps
 name: Repeated Small Jumps
+alt_names:
+  en: []
 human_readable_ids:
 - RepeatedSmallJumps
 primary_muscles:

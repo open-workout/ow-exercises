@@ -1,6 +1,8 @@
 id: '4349'
 slug: barbell-single-leg-squat
 name: Barbell Single Leg Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSingleLegSquat
 primary_muscles:

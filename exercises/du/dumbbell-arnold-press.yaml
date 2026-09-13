@@ -1,6 +1,8 @@
 id: '2137'
 slug: dumbbell-arnold-press
 name: Dumbbell Arnold Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellArnoldPress2
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4234'
 slug: weighted-seated-one-arm-reverse-wrist-curl
 name: Weighted Seated One Arm Reverse Wrist Curl
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSeatedOneArmReverseWristCurl
 primary_muscles:

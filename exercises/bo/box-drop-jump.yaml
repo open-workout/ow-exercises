@@ -1,6 +1,8 @@
 id: '9606'
 slug: box-drop-jump
 name: Box Drop Jump
+alt_names:
+  en: []
 human_readable_ids:
 - BoxDropJump
 primary_muscles:

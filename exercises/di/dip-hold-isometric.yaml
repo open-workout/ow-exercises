@@ -1,6 +1,8 @@
 id: '1442'
 slug: dip-hold-isometric
 name: Dip Hold Isometric
+alt_names:
+  en: []
 human_readable_ids:
 - DipHoldIsometric
 primary_muscles:

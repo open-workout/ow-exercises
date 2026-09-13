@@ -1,6 +1,8 @@
 id: '9603'
 slug: bodyweight-poliquin-step
 name: Bodyweight Poliquin Step
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightPoliquinStep
 primary_muscles:

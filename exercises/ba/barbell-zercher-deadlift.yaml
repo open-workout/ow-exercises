@@ -1,6 +1,8 @@
 id: '5670'
 slug: barbell-zercher-deadlift
 name: Barbell Zercher Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellZercherDeadlift
 primary_muscles:

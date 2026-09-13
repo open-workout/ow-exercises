@@ -1,6 +1,8 @@
 id: '4731'
 slug: dumbbell-bridge-bench-press
 name: Dumbbell Bridge Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBridgeBenchPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5310'
 slug: elevated-side-lunge
 name: Elevated Side Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - ElevatedSideLunge
 primary_muscles:

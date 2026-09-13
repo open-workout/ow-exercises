@@ -1,6 +1,8 @@
 id: '9385'
 slug: smith-jm-bench-press
 name: Smith JM Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - SmithJMBenchPress
 primary_muscles:

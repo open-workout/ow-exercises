@@ -1,6 +1,8 @@
 id: '1036'
 slug: lever-standing-leg-raise
 name: Lever Standing Leg Raise
+alt_names:
+  en: []
 human_readable_ids:
 - LeverStandingLegRaise
 primary_muscles:

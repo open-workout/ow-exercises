@@ -1,6 +1,8 @@
 id: 0782
 slug: square-hop
 name: Square Hop
+alt_names:
+  en: []
 human_readable_ids:
 - SquareHop
 primary_muscles:

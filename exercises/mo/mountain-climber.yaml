@@ -1,6 +1,8 @@
 id: '0630'
 slug: mountain-climber
 name: Mountain Climber
+alt_names:
+  en: []
 human_readable_ids:
 - MountainClimber
 primary_muscles:

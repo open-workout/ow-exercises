@@ -1,6 +1,8 @@
 id: '9066'
 slug: 4-way-single-leg-hop
 name: 4 Way Single Leg Hop
+alt_names:
+  en: []
 human_readable_ids:
 - 4WaySingleLegHop
 primary_muscles:

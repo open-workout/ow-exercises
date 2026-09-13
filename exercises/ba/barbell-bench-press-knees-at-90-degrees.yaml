@@ -1,6 +1,8 @@
 id: '3174'
 slug: barbell-bench-press-knees-at-90-degrees
 name: Barbell Bench Press (knees at 90 degrees)
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBenchPress2
 primary_muscles:

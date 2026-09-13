@@ -1,6 +1,8 @@
 id: '10995'
 slug: forward-and-backward-crab-walk
 name: Forward and Backward Crab Walk
+alt_names:
+  en: []
 human_readable_ids:
 - ForwardandBackwardCrabWalk
 primary_muscles:

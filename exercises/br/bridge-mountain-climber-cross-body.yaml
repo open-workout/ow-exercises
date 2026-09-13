@@ -1,6 +1,8 @@
 id: '0141'
 slug: bridge-mountain-climber-cross-body
 name: Bridge - Mountain Climber (Cross Body)
+alt_names:
+  en: []
 human_readable_ids:
 - BridgeMountainClimber
 primary_muscles:

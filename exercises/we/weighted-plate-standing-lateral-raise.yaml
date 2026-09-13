@@ -1,6 +1,8 @@
 id: '6485'
 slug: weighted-plate-standing-lateral-raise
 name: Weighted Plate Standing Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedPlateStandingLateralRaise
 primary_muscles:

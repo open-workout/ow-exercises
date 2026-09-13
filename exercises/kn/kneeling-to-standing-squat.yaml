@@ -1,6 +1,8 @@
 id: '8533'
 slug: kneeling-to-standing-squat
 name: Kneeling to Standing Squat
+alt_names:
+  en: []
 human_readable_ids:
 - KneelingtoStandingSquat
 primary_muscles:

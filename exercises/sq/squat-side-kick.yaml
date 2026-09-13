@@ -1,6 +1,8 @@
 id: '1400'
 slug: squat-side-kick
 name: Squat side kick
+alt_names:
+  en: []
 human_readable_ids:
 - Squatsidekick
 primary_muscles:

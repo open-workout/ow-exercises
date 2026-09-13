@@ -1,6 +1,8 @@
 id: 0349
 slug: dumbbell-lying-supination
 name: Dumbbell Lying Supination
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellLyingSupination
 primary_muscles:

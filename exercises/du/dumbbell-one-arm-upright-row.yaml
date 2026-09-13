@@ -1,6 +1,8 @@
 id: '0363'
 slug: dumbbell-one-arm-upright-row
 name: Dumbbell One Arm Upright Row
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOneArmUprightRow
 primary_muscles:

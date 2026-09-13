@@ -1,6 +1,8 @@
 id: '5706'
 slug: barbell-jefferson-deadlift
 name: Barbell Jefferson Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellJeffersonDeadlift
 primary_muscles:

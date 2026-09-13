@@ -1,6 +1,8 @@
 id: '3111'
 slug: smith-split-squat
 name: Smith Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SmithSplitSquat
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '7213'
 slug: side-lying-internal-rotation
 name: Side Lying Internal Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - SideLyingInternalRotation
 primary_muscles:

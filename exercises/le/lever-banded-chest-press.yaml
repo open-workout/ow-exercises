@@ -1,6 +1,8 @@
 id: '4213'
 slug: lever-banded-chest-press
 name: Lever Banded Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverBandedChestPress
 primary_muscles:

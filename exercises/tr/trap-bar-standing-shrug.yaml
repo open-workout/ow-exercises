@@ -1,6 +1,8 @@
 id: '4103'
 slug: trap-bar-standing-shrug
 name: Trap Bar Standing Shrug
+alt_names:
+  en: []
 human_readable_ids:
 - TrapBarStandingShrug
 primary_muscles:

@@ -1,6 +1,8 @@
 id: 0895
 slug: band-deadlift
 name: Band deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - Banddeadlift
 primary_muscles:

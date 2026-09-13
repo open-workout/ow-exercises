@@ -1,6 +1,8 @@
 id: '1003'
 slug: band-squat-row
 name: Band squat row
+alt_names:
+  en: []
 human_readable_ids:
 - Bandsquatrow
 primary_muscles:

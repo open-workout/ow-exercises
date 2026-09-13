@@ -1,6 +1,8 @@
 id: '4611'
 slug: roll-ball-deltoid-posterior
 name: Roll Ball Deltoid Posterior
+alt_names:
+  en: []
 human_readable_ids:
 - RollBallDeltoidPosterior
 primary_muscles:

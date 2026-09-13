@@ -1,6 +1,8 @@
 id: '9939'
 slug: power-sled-pull
 name: Power Sled Pull
+alt_names:
+  en: []
 human_readable_ids:
 - PowerSledPull
 primary_muscles:

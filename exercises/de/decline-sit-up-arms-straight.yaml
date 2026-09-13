@@ -1,6 +1,8 @@
 id: 0281
 slug: decline-sit-up-arms-straight
 name: Decline Sit-up (arms straight)
+alt_names:
+  en: []
 human_readable_ids:
 - DeclineSitup
 primary_muscles:

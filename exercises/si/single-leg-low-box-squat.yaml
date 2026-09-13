@@ -1,6 +1,8 @@
 id: '3493'
 slug: single-leg-low-box-squat
 name: Single Leg Low Box Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegLowBoxSquat
 primary_muscles:

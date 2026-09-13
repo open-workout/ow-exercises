@@ -1,6 +1,8 @@
 id: '0601'
 slug: lever-seated-reverse-fly-parallel-grip
 name: Lever Seated Reverse Fly (parallel grip)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverSeatedReverseFly
 primary_muscles:

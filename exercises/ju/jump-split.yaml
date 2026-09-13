@@ -1,6 +1,8 @@
 id: '0512'
 slug: jump-split
 name: Jump Split
+alt_names:
+  en: []
 human_readable_ids:
 - JumpSplit
 primary_muscles:

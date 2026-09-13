@@ -1,6 +1,8 @@
 id: '1158'
 slug: suspension-side-stretch
 name: Suspension Side Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionSideStretch
 primary_muscles:

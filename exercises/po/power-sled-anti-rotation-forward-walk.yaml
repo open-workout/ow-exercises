@@ -1,6 +1,8 @@
 id: '2908'
 slug: power-sled-anti-rotation-forward-walk
 name: Power Sled Anti-Rotation Forward Walk
+alt_names:
+  en: []
 human_readable_ids:
 - PowerSledAntiRotationForwardWalk
 primary_muscles:

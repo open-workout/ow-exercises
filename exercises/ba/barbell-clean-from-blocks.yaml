@@ -1,6 +1,8 @@
 id: '1516'
 slug: barbell-clean-from-blocks
 name: Barbell Clean From Blocks
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellCleanFromBlocks
 primary_muscles:

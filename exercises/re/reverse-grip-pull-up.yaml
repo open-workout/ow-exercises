@@ -1,6 +1,8 @@
 id: '0674'
 slug: reverse-grip-pull-up
 name: Reverse grip Pull-up
+alt_names:
+  en: []
 human_readable_ids:
 - ReversegripPullup
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '9070'
 slug: pogo-jump-2-foot
 name: Pogo Jump 2 Foot
+alt_names:
+  en: []
 human_readable_ids:
 - PogoJump2Foot
 primary_muscles:

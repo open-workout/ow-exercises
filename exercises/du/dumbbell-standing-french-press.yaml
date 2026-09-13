@@ -1,6 +1,8 @@
 id: '6221'
 slug: dumbbell-standing-french-press
 name: Dumbbell Standing French Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingFrenchPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1757'
 slug: dumbbell-single-leg-deadlift
 name: Dumbbell Single Leg Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleLegDeadlift
 primary_muscles:

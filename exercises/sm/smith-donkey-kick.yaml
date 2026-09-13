@@ -1,6 +1,8 @@
 id: '6038'
 slug: smith-donkey-kick
 name: Smith Donkey Kick
+alt_names:
+  en: []
 human_readable_ids:
 - SmithDonkeyKick
 primary_muscles:

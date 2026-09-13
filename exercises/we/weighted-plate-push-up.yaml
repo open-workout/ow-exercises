@@ -1,6 +1,8 @@
 id: '8076'
 slug: weighted-plate-push-up
 name: Weighted Plate Push-up
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedPlatePushup
 primary_muscles:

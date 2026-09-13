@@ -1,6 +1,8 @@
 id: '3317'
 slug: strongman-car-flip
 name: StrongMan Car Flip
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManCarFlip
 primary_muscles:

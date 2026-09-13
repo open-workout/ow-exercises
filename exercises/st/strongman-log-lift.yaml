@@ -1,6 +1,8 @@
 id: '2707'
 slug: strongman-log-lift
 name: StrongMan Log Lift
+alt_names:
+  en: []
 human_readable_ids:
 - StrongManLogLift
 primary_muscles:

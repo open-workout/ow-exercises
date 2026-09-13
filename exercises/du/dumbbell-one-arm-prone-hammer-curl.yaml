@@ -1,6 +1,8 @@
 id: '1666'
 slug: dumbbell-one-arm-prone-hammer-curl
 name: Dumbbell One Arm Prone Hammer Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOneArmProneHammerCurl
 primary_muscles:

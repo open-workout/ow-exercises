@@ -1,6 +1,8 @@
 id: '0720'
 slug: side-to-side-chin
 name: Side-To-Side Chin
+alt_names:
+  en: []
 human_readable_ids:
 - SideToSideChin
 primary_muscles:

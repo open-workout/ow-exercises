@@ -1,6 +1,8 @@
 id: '1670'
 slug: dumbbell-one-arm-standing-curl
 name: Dumbbell One Arm Standing Curl
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellOneArmStandingCurl
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4078'
 slug: band-alternate-low-chest-fly
 name: Band Alternate Low Chest Fly
+alt_names:
+  en: []
 human_readable_ids:
 - BandAlternateLowChestFly
 primary_muscles:

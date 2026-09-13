@@ -1,6 +1,8 @@
 id: '2805'
 slug: dumbbell-single-leg-deadlift-with-stepbox-support
 name: Dumbbell Single Leg Deadlift with Stepbox Support
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleLegDeadliftwithStepboxSupport
 primary_muscles:

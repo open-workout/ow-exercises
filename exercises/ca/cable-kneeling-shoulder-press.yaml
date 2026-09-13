@@ -1,6 +1,8 @@
 id: '4010'
 slug: cable-kneeling-shoulder-press
 name: Cable Kneeling Shoulder Press
+alt_names:
+  en: []
 human_readable_ids:
 - CableKneelingShoulderPress
 primary_muscles:

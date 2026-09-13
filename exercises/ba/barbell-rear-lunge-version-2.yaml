@@ -1,6 +1,8 @@
 id: '0077'
 slug: barbell-rear-lunge-version-2
 name: Barbell Rear Lunge (version 2)
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellRearLunge
 primary_muscles:

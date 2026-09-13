@@ -1,6 +1,8 @@
 id: '4524'
 slug: kettlebell-side-squat-step
 name: Kettlebell Side Squat Step
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellSideSquatStep
 primary_muscles:

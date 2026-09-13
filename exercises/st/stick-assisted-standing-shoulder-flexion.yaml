@@ -1,6 +1,8 @@
 id: '9980'
 slug: stick-assisted-standing-shoulder-flexion
 name: Stick Assisted Standing Shoulder Flexion
+alt_names:
+  en: []
 human_readable_ids:
 - StickAssistedStandingShoulderFlexion
 primary_muscles:

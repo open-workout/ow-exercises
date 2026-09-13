@@ -1,6 +1,8 @@
 id: '0130'
 slug: bench-hip-extension
 name: Bench Hip Extension
+alt_names:
+  en: []
 human_readable_ids:
 - BenchHipExtension
 primary_muscles:

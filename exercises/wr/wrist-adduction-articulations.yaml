@@ -1,6 +1,8 @@
 id: '2789'
 slug: wrist-adduction-articulations
 name: Wrist - Adduction - Articulations
+alt_names:
+  en: []
 human_readable_ids:
 - WristAdductionArticulations
 primary_muscles:

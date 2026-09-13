@@ -1,6 +1,8 @@
 id: '4848'
 slug: barbell-pin-front-squat
 name: Barbell Pin Front Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPinFrontSquat
 primary_muscles:

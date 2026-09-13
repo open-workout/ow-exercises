@@ -1,6 +1,8 @@
 id: 0794
 slug: standing-lateral-stretch
 name: Standing Lateral Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StandingLateralStretch
 primary_muscles:

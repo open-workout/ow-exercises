@@ -1,6 +1,8 @@
 id: 0851
 slug: weighted-sissy-squat
 name: Weighted Sissy Squat
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedSissySquat
 primary_muscles:

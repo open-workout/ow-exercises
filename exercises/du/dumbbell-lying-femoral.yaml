@@ -1,6 +1,8 @@
 id: 0339
 slug: dumbbell-lying-femoral
 name: Dumbbell Lying Femoral
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellLyingFemoral
 primary_muscles:

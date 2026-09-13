@@ -1,6 +1,8 @@
 id: '3985'
 slug: push-up-hand-by-hand
 name: Push-up Hand by Hand
+alt_names:
+  en: []
 human_readable_ids:
 - PushupHandbyHand
 primary_muscles:

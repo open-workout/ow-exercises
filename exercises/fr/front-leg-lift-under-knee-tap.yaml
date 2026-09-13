@@ -1,6 +1,8 @@
 id: '5602'
 slug: front-leg-lift-under-knee-tap
 name: Front Leg Lift Under Knee Tap
+alt_names:
+  en: []
 human_readable_ids:
 - FrontLegLiftUnderKneeTap
 primary_muscles:

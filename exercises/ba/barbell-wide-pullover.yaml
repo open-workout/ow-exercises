@@ -1,6 +1,8 @@
 id: '4340'
 slug: barbell-wide-pullover
 name: Barbell Wide Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWidePullover
 primary_muscles:

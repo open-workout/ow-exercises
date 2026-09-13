@@ -1,6 +1,8 @@
 id: '0104'
 slug: barbell-standing-back-wrist-curl
 name: Barbell Standing Back Wrist Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingBackWristCurl
 primary_muscles:

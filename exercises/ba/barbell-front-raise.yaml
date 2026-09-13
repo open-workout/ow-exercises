@@ -1,6 +1,8 @@
 id: '0041'
 slug: barbell-front-raise
 name: Barbell Front Raise
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFrontRaise
 primary_muscles:

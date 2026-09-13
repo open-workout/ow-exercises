@@ -1,6 +1,8 @@
 id: '2744'
 slug: cable-standing-hip-thrust
 name: Cable Standing Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingHipThrust
 primary_muscles:

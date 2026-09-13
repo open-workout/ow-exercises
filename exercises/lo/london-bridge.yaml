@@ -1,6 +1,8 @@
 id: 0609
 slug: london-bridge
 name: London Bridge
+alt_names:
+  en: []
 human_readable_ids:
 - LondonBridge
 primary_muscles:

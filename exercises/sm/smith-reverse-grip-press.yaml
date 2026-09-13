@@ -1,6 +1,8 @@
 id: '0764'
 slug: smith-reverse-grip-press
 name: Smith Reverse-grip Press
+alt_names:
+  en: []
 human_readable_ids:
 - SmithReversegripPress
 primary_muscles:

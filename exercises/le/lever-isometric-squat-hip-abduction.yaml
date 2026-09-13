@@ -1,6 +1,8 @@
 id: '10113'
 slug: lever-isometric-squat-hip-abduction
 name: Lever Isometric Squat Hip Abduction
+alt_names:
+  en: []
 human_readable_ids:
 - LeverIsometricSquatHipAbduction
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3408'
 slug: standing-upper-body-rotation
 name: Standing Upper Body Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - StandingUpperBodyRotation
 primary_muscles:

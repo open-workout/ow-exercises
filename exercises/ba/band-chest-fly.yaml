@@ -1,6 +1,8 @@
 id: '4075'
 slug: band-chest-fly
 name: Band Chest Fly
+alt_names:
+  en: []
 human_readable_ids:
 - BandChestFly
 primary_muscles:

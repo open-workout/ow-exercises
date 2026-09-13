@@ -1,6 +1,8 @@
 id: '2312'
 slug: lying-elbow-to-knee
 name: Lying Elbow to Knee
+alt_names:
+  en: []
 human_readable_ids:
 - LyingElbowtoKnee
 primary_muscles:

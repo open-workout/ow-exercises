@@ -1,6 +1,8 @@
 id: '0075'
 slug: barbell-rear-delt-raise
 name: Barbell Rear Delt Raise
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellRearDeltRaise
 primary_muscles:

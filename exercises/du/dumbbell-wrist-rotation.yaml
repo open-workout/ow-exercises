@@ -1,6 +1,8 @@
 id: '10817'
 slug: dumbbell-wrist-rotation
 name: Dumbbell Wrist Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellWristRotation
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5029'
 slug: kneeling-back-rotation
 name: Kneeling Back Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - KneelingBackRotation
 primary_muscles:

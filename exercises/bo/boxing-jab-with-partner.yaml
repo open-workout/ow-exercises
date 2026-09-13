@@ -1,6 +1,8 @@
 id: '4589'
 slug: boxing-jab-with-partner
 name: Boxing Jab (with partner)
+alt_names:
+  en: []
 human_readable_ids:
 - BoxingJab2
 primary_muscles:

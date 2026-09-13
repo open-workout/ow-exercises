@@ -1,6 +1,8 @@
 id: '10014'
 slug: ball-assisted-lying-supine-hip-adduction
 name: Ball Assisted Lying Supine Hip Adduction
+alt_names:
+  en: []
 human_readable_ids:
 - BallAssistedLyingSupineHipAdduction
 primary_muscles:

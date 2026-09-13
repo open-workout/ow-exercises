@@ -1,6 +1,8 @@
 id: '10330'
 slug: dumbbell-powell-raise
 name: Dumbbell Powell Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellPowellRaise
 primary_muscles:

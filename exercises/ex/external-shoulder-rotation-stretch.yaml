@@ -1,6 +1,8 @@
 id: '1990'
 slug: external-shoulder-rotation-stretch
 name: External Shoulder Rotation Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - ExternalShoulderRotationStretch
 primary_muscles:

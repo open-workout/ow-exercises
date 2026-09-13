@@ -1,6 +1,8 @@
 id: '1910'
 slug: standing-leg-up-hamstring-stretch
 name: Standing Leg Up Hamstring Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StandingLegUpHamstringStretch
 primary_muscles:

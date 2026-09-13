@@ -1,6 +1,8 @@
 id: '4214'
 slug: lever-low-row-plate-loaded
 name: Lever Low Row (plate loaded)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverLowRow
 primary_muscles:

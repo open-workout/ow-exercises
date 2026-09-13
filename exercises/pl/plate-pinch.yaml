@@ -1,6 +1,8 @@
 id: '1044'
 slug: plate-pinch
 name: Plate Pinch
+alt_names:
+  en: []
 human_readable_ids:
 - PlatePinch
 primary_muscles:

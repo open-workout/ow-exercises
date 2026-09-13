@@ -1,6 +1,8 @@
 id: '1176'
 slug: dumbbell-incline-front-raise
 name: Dumbbell Incline Front Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellInclineFrontRaise
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0770'
 slug: smith-squat
 name: Smith Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SmithSquat
 primary_muscles:

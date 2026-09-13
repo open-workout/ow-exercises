@@ -1,6 +1,8 @@
 id: 0219
 slug: cable-shoulder-press
 name: Cable Shoulder Press
+alt_names:
+  en: []
 human_readable_ids:
 - CableShoulderPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4852'
 slug: dumbbell-alternate-lateral-raise
 name: Dumbbell Alternate Lateral Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellAlternateLateralRaise
 primary_muscles:

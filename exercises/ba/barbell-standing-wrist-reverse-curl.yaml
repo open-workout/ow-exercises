@@ -1,6 +1,8 @@
 id: '6263'
 slug: barbell-standing-wrist-reverse-curl
 name: Barbell Standing Wrist Reverse Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingWristReverseCurl
 primary_muscles:

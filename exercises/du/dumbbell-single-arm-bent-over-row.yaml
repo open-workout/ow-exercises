@@ -1,6 +1,8 @@
 id: '4837'
 slug: dumbbell-single-arm-bent-over-row
 name: Dumbbell Single Arm Bent Over Row
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSingleArmBentOverRow
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4326'
 slug: dumbbell-bent-arm-pullover
 name: Dumbbell Bent Arm Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBentArmPullover
 primary_muscles:

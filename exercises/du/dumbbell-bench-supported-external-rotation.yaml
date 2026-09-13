@@ -1,6 +1,8 @@
 id: '3693'
 slug: dumbbell-bench-supported-external-rotation
 name: Dumbbell Bench Supported External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellBenchSupportedExternalRotation
 primary_muscles:

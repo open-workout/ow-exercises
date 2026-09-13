@@ -1,6 +1,8 @@
 id: 0781
 slug: split-squat
 name: Split Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SplitSquat
 primary_muscles:

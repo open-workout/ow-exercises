@@ -1,6 +1,8 @@
 id: '11092'
 slug: landmine-kneeling-180s
 name: Landmine Kneeling 180s
+alt_names:
+  en: []
 human_readable_ids:
 - LandmineKneeling180s
 primary_muscles:

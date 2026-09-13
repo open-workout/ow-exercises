@@ -1,6 +1,8 @@
 id: '1888'
 slug: standing-achilles-stretch
 name: Standing Achilles Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - StandingAchillesStretch
 primary_muscles:

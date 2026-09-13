@@ -1,6 +1,8 @@
 id: '1118'
 slug: suspension-lat-stretch
 name: Suspension Lat Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionLatStretch
 primary_muscles:

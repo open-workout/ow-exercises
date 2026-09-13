@@ -1,6 +1,8 @@
 id: '4898'
 slug: kick-side-jump
 name: Kick Side Jump
+alt_names:
+  en: []
 human_readable_ids:
 - KickSideJump
 primary_muscles:

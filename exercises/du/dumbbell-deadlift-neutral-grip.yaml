@@ -1,6 +1,8 @@
 id: '4914'
 slug: dumbbell-deadlift-neutral-grip
 name: Dumbbell Deadlift (neutral grip)
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellDeadlift2
 primary_muscles:

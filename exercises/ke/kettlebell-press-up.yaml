@@ -1,6 +1,8 @@
 id: '4521'
 slug: kettlebell-press-up
 name: Kettlebell Press-Up
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellPressUp
 primary_muscles:

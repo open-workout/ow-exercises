@@ -1,6 +1,8 @@
 id: '3368'
 slug: dumbbell-swing
 name: Dumbbell Swing
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSwing
 primary_muscles:

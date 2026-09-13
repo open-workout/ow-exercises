@@ -1,6 +1,8 @@
 id: '2337'
 slug: chest-fly-arms-wrong-right
 name: Chest Fly - Arms (WRONG-RIGHT)
+alt_names:
+  en: []
 human_readable_ids:
 - ChestFlyArms
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1045'
 slug: barbell-seated-military-press-inside-squat-cage
 name: Barbell Seated Military Press (inside squat cage)
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSeatedMilitaryPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '4385'
 slug: hip-roll-plank
 name: Hip Roll Plank
+alt_names:
+  en: []
 human_readable_ids:
 - HipRollPlank
 primary_muscles:

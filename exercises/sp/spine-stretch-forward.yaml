@@ -1,6 +1,8 @@
 id: '2873'
 slug: spine-stretch-forward
 name: Spine Stretch Forward
+alt_names:
+  en: []
 human_readable_ids:
 - SpineStretchForward
 primary_muscles:

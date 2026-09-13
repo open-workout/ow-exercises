@@ -1,6 +1,8 @@
 id: '6318'
 slug: single-curtsy-lunge
 name: Single Curtsy Lunge
+alt_names:
+  en: []
 human_readable_ids:
 - SingleCurtsyLunge
 primary_muscles:

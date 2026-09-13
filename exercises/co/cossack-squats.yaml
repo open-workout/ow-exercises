@@ -1,6 +1,8 @@
 id: '2569'
 slug: cossack-squats
 name: Cossack Squats
+alt_names:
+  en: []
 human_readable_ids:
 - CossackSquats
 primary_muscles:

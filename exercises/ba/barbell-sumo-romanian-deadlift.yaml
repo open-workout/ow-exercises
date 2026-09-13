@@ -1,6 +1,8 @@
 id: '3731'
 slug: barbell-sumo-romanian-deadlift
 name: Barbell Sumo Romanian Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSumoRomanianDeadlift
 primary_muscles:

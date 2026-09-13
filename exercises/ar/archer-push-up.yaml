@@ -1,6 +1,8 @@
 id: '3294'
 slug: archer-push-up
 name: Archer Push up
+alt_names:
+  en: []
 human_readable_ids:
 - ArcherPushup
 primary_muscles:

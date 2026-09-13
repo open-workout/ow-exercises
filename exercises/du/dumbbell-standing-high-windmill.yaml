@@ -1,6 +1,8 @@
 id: '4888'
 slug: dumbbell-standing-high-windmill
 name: Dumbbell Standing High Windmill
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellStandingHighWindmill
 primary_muscles:

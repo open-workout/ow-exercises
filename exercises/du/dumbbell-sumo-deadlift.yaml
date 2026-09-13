@@ -1,6 +1,8 @@
 id: '4759'
 slug: dumbbell-sumo-deadlift
 name: Dumbbell Sumo Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSumoDeadlift
 primary_muscles:

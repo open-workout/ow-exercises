@@ -1,6 +1,8 @@
 id: '3219'
 slug: scissor-jumps
 name: Scissor Jumps
+alt_names:
+  en: []
 human_readable_ids:
 - ScissorJumps
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3721'
 slug: barbell-bent-over-wide-grip-row
 name: Barbell Bent Over Wide Grip Row
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellBentOverWideGripRow
 primary_muscles:

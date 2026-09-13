@@ -1,6 +1,8 @@
 id: '3511'
 slug: resistance-band-bird-dog
 name: Resistance Band Bird Dog
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandBirdDog
 primary_muscles:

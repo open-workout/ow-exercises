@@ -1,6 +1,8 @@
 id: '9703'
 slug: kettlebell-z-press
 name: Kettlebell Z Press
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellZPress
 primary_muscles:

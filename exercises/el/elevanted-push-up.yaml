@@ -1,6 +1,8 @@
 id: '3812'
 slug: elevanted-push-up
 name: Elevanted Push-Up
+alt_names:
+  en: []
 human_readable_ids:
 - ElevantedPushUp
 primary_muscles:

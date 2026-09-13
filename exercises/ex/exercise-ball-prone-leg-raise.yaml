@@ -1,6 +1,8 @@
 id: '1343'
 slug: exercise-ball-prone-leg-raise
 name: Exercise Ball Prone Leg Raise
+alt_names:
+  en: []
 human_readable_ids:
 - ExerciseBallProneLegRaise
 primary_muscles:

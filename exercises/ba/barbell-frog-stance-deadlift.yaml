@@ -1,6 +1,8 @@
 id: '9696'
 slug: barbell-frog-stance-deadlift
 name: Barbell Frog Stance Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFrogStanceDeadlift
 primary_muscles:

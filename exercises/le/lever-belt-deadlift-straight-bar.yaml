@@ -1,6 +1,8 @@
 id: '9866'
 slug: lever-belt-deadlift-straight-bar
 name: Lever Belt Deadlift (straight bar)
+alt_names:
+  en: []
 human_readable_ids:
 - LeverBeltDeadlift2
 primary_muscles:

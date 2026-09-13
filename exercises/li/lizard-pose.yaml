@@ -1,6 +1,8 @@
 id: '5892'
 slug: lizard-pose
 name: Lizard Pose
+alt_names:
+  en: []
 human_readable_ids:
 - LizardPose
 primary_muscles:

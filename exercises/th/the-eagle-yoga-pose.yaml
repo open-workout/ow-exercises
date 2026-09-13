@@ -1,6 +1,8 @@
 id: '4405'
 slug: the-eagle-yoga-pose
 name: The Eagle Yoga Pose
+alt_names:
+  en: []
 human_readable_ids:
 - TheEagleYogaPose
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '6027'
 slug: punch-step-forward
 name: Punch Step Forward
+alt_names:
+  en: []
 human_readable_ids:
 - PunchStepForward
 primary_muscles:

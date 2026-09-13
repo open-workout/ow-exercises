@@ -1,6 +1,8 @@
 id: '2357'
 slug: deadlift-hips-wrong-right
 name: Deadlift - Hips (WRONG-RIGHT)
+alt_names:
+  en: []
 human_readable_ids:
 - DeadliftHips
 primary_muscles:

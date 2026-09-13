@@ -1,6 +1,8 @@
 id: '3494'
 slug: single-leg-heel-touch-squat
 name: Single Leg Heel Touch Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SingleLegHeelTouchSquat
 primary_muscles:

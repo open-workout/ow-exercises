@@ -1,6 +1,8 @@
 id: '1200'
 slug: push-press
 name: Push Press
+alt_names:
+  en: []
 human_readable_ids:
 - PushPress
 primary_muscles:

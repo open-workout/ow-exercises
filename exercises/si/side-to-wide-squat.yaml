@@ -1,6 +1,8 @@
 id: '4909'
 slug: side-to-wide-squat
 name: Side to Wide Squat
+alt_names:
+  en: []
 human_readable_ids:
 - SidetoWideSquat
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5912'
 slug: barbell-weighted-chains-sumo-deadlift
 name: Barbell Weighted Chains Sumo Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellWeightedChainsSumoDeadlift
 primary_muscles:

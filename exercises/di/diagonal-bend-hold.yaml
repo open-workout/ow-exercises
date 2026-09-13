@@ -1,6 +1,8 @@
 id: '6762'
 slug: diagonal-bend-hold
 name: Diagonal Bend Hold
+alt_names:
+  en: []
 human_readable_ids:
 - DiagonalBendHold
 primary_muscles:

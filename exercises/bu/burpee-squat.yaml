@@ -1,6 +1,8 @@
 id: '4548'
 slug: burpee-squat
 name: Burpee Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BurpeeSquat
 primary_muscles:

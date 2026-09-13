@@ -1,6 +1,8 @@
 id: '2122'
 slug: assisted-side-bent
 name: Assisted Side Bent
+alt_names:
+  en: []
 human_readable_ids:
 - AssistedSideBent
 primary_muscles:

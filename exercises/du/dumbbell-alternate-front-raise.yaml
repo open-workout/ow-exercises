@@ -1,6 +1,8 @@
 id: '4341'
 slug: dumbbell-alternate-front-raise
 name: Dumbbell Alternate Front Raise
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellAlternateFrontRaise
 primary_muscles:

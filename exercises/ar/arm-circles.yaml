@@ -1,6 +1,8 @@
 id: '3905'
 slug: arm-circles
 name: Arm Circles
+alt_names:
+  en: []
 human_readable_ids:
 - ArmCircles
 primary_muscles:

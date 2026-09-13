@@ -1,6 +1,8 @@
 id: '5900'
 slug: revolved-side-angle-pose
 name: Revolved Side Angle Pose
+alt_names:
+  en: []
 human_readable_ids:
 - RevolvedSideAnglePose
 primary_muscles:

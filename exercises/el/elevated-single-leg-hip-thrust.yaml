@@ -1,6 +1,8 @@
 id: '4902'
 slug: elevated-single-leg-hip-thrust
 name: Elevated Single Leg Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - ElevatedSingleLegHipThrust
 primary_muscles:

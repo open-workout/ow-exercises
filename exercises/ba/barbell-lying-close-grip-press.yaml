@@ -1,6 +1,8 @@
 id: '0055'
 slug: barbell-lying-close-grip-press
 name: Barbell Lying Close-grip Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellLyingClosegripPress
 primary_muscles:

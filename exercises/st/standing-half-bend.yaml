@@ -1,6 +1,8 @@
 id: '5903'
 slug: standing-half-bend
 name: Standing Half Bend
+alt_names:
+  en: []
 human_readable_ids:
 - StandingHalfBend
 primary_muscles:

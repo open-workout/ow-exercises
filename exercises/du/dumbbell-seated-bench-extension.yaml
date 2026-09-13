@@ -1,6 +1,8 @@
 id: 0389
 slug: dumbbell-seated-bench-extension
 name: Dumbbell Seated Bench Extension
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellSeatedBenchExtension
 primary_muscles:

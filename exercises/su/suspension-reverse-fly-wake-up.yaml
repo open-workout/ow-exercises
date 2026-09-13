@@ -1,6 +1,8 @@
 id: '1130'
 slug: suspension-reverse-fly-wake-up
 name: Suspension Reverse Fly Wake-up
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionReverseFlyWakeup
 primary_muscles:

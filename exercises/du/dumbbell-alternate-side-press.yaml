@@ -1,6 +1,8 @@
 id: 0286
 slug: dumbbell-alternate-side-press
 name: Dumbbell Alternate Side Press
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellAlternateSidePress
 primary_muscles:

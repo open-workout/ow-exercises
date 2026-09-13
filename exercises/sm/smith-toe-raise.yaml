@@ -1,6 +1,8 @@
 id: '1396'
 slug: smith-toe-raise
 name: Smith Toe Raise
+alt_names:
+  en: []
 human_readable_ids:
 - SmithToeRaise
 primary_muscles:

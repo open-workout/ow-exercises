@@ -1,6 +1,8 @@
 id: '3724'
 slug: barbell-floor-chest-press
 name: Barbell Floor Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellFloorChestPress
 primary_muscles:

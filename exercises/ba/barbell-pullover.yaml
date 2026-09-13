@@ -1,6 +1,8 @@
 id: '0073'
 slug: barbell-pullover
 name: Barbell Pullover
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPullover
 primary_muscles:

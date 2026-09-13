@@ -1,6 +1,8 @@
 id: '2926'
 slug: x-band-side-walk
 name: X Band Side Walk
+alt_names:
+  en: []
 human_readable_ids:
 - XBandSideWalk
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '6100'
 slug: bodyweight-skipping
 name: Bodyweight Skipping
+alt_names:
+  en: []
 human_readable_ids:
 - BodyweightSkipping
 primary_muscles:

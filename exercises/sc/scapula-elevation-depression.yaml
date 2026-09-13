@@ -1,6 +1,8 @@
 id: '3130'
 slug: scapula-elevation-depression
 name: Scapula Elevation Depression
+alt_names:
+  en: []
 human_readable_ids:
 - ScapulaElevationDepression
 primary_muscles:

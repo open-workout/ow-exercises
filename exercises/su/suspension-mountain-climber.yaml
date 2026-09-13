@@ -1,6 +1,8 @@
 id: '1084'
 slug: suspension-mountain-climber
 name: Suspension Mountain Climber
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionMountainClimber
 primary_muscles:

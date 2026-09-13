@@ -1,6 +1,8 @@
 id: '3139'
 slug: static-position-lying-front
 name: Static Position Lying Front
+alt_names:
+  en: []
 human_readable_ids:
 - StaticPositionLyingFront
 primary_muscles: []

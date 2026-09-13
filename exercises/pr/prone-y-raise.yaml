@@ -1,6 +1,8 @@
 id: '5822'
 slug: prone-y-raise
 name: Prone Y Raise
+alt_names:
+  en: []
 human_readable_ids:
 - ProneYRaise
 primary_muscles:

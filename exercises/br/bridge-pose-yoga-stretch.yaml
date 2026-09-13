@@ -1,6 +1,8 @@
 id: '3565'
 slug: bridge-pose-yoga-stretch
 name: Bridge Pose Yoga Stretch
+alt_names:
+  en: []
 human_readable_ids:
 - BridgePoseYogaStretch
 primary_muscles:

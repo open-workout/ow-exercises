@@ -1,6 +1,8 @@
 id: '1299'
 slug: lever-incline-chest-press
 name: Lever Incline Chest Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverInclineChestPress
 primary_muscles:

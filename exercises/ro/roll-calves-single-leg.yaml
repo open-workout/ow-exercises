@@ -1,6 +1,8 @@
 id: '2209'
 slug: roll-calves-single-leg
 name: Roll Calves (Single Leg)
+alt_names:
+  en: []
 human_readable_ids:
 - RollCalves2
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3420'
 slug: v-sit-on-floor
 name: V-Sit on Floor
+alt_names:
+  en: []
 human_readable_ids:
 - VSitonFloor
 primary_muscles:

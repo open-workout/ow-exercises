@@ -1,6 +1,8 @@
 id: '4416'
 slug: sliding-leg-bird-dog
 name: Sliding Leg Bird Dog
+alt_names:
+  en: []
 human_readable_ids:
 - SlidingLegBirdDog
 primary_muscles:

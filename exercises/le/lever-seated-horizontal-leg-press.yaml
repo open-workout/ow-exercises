@@ -1,6 +1,8 @@
 id: '3768'
 slug: lever-seated-horizontal-leg-press
 name: Lever Seated Horizontal Leg Press
+alt_names:
+  en: []
 human_readable_ids:
 - LeverSeatedHorizontalLegPress
 primary_muscles:

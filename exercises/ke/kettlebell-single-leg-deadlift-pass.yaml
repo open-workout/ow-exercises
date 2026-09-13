@@ -1,6 +1,8 @@
 id: '10561'
 slug: kettlebell-single-leg-deadlift-pass
 name: Kettlebell Single Leg Deadlift Pass
+alt_names:
+  en: []
 human_readable_ids:
 - KettlebellSingleLegDeadliftPass
 primary_muscles:

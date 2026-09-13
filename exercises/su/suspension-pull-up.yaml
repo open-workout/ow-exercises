@@ -1,6 +1,8 @@
 id: '1088'
 slug: suspension-pull-up
 name: Suspension Pull-up
+alt_names:
+  en: []
 human_readable_ids:
 - SuspensionPullup
 primary_muscles:

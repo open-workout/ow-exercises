@@ -1,6 +1,8 @@
 id: '5079'
 slug: lying-floor-fly
 name: Lying Floor Fly
+alt_names:
+  en: []
 human_readable_ids:
 - LyingFloorFly
 primary_muscles:

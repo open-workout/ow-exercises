@@ -1,6 +1,8 @@
 id: '3954'
 slug: front-to-side-plank
 name: Front to Side Plank
+alt_names:
+  en: []
 human_readable_ids:
 - FronttoSidePlank
 primary_muscles:

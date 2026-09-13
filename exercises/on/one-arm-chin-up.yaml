@@ -1,6 +1,8 @@
 id: 0638
 slug: one-arm-chin-up
 name: One Arm Chin-Up
+alt_names:
+  en: []
 human_readable_ids:
 - OneArmChinUp
 primary_muscles:

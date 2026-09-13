@@ -1,6 +1,8 @@
 id: '5328'
 slug: barbell-standing-shoulders-press
 name: Barbell Standing Shoulders Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellStandingShouldersPress
 primary_muscles:

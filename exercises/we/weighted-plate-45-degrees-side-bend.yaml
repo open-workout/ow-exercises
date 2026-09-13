@@ -1,6 +1,8 @@
 id: '10875'
 slug: weighted-plate-45-degrees-side-bend
 name: Weighted Plate 45 degrees Side Bend
+alt_names:
+  en: []
 human_readable_ids:
 - WeightedPlate45degreesSideBend
 primary_muscles:

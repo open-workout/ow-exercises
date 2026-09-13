@@ -1,6 +1,8 @@
 id: '2880'
 slug: swimming-all-fours
 name: Swimming All Fours
+alt_names:
+  en: []
 human_readable_ids:
 - SwimmingAllFours
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '5609'
 slug: cable-standing-face-pull
 name: Cable Standing Face Pull
+alt_names:
+  en: []
 human_readable_ids:
 - CableStandingFacePull
 primary_muscles:

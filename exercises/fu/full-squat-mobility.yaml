@@ -1,6 +1,8 @@
 id: '3500'
 slug: full-squat-mobility
 name: Full Squat Mobility
+alt_names:
+  en: []
 human_readable_ids:
 - FullSquatMobility
 primary_muscles:

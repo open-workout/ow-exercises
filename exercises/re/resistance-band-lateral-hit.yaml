@@ -1,6 +1,8 @@
 id: '10594'
 slug: resistance-band-lateral-hit
 name: Resistance Band Lateral Hit
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandLateralHit
 primary_muscles:

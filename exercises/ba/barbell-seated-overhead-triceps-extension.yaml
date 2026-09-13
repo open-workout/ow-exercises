@@ -1,6 +1,8 @@
 id: 0092
 slug: barbell-seated-overhead-triceps-extension
 name: Barbell Seated Overhead Triceps Extension
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellSeatedOverheadTricepsExtension
 primary_muscles:

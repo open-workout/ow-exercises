@@ -1,6 +1,8 @@
 id: '1597'
 slug: smith-stiff-legged-deadlift
 name: Smith Stiff Legged Deadlift
+alt_names:
+  en: []
 human_readable_ids:
 - SmithStiffLeggedDeadlift
 primary_muscles:

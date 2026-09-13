@@ -1,6 +1,8 @@
 id: '2526'
 slug: vibrate-plate-plank
 name: Vibrate Plate Plank
+alt_names:
+  en: []
 human_readable_ids:
 - VibratePlatePlank
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '0022'
 slug: barbell-pullover-to-press
 name: Barbell Pullover To Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPulloverToPress
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '3411'
 slug: standing-hip-circle
 name: Standing Hip Circle
+alt_names:
+  en: []
 human_readable_ids:
 - StandingHipCircle
 primary_muscles:

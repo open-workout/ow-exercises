@@ -1,6 +1,8 @@
 id: '8585'
 slug: mid-back-elbow-squeeze
 name: Mid Back Elbow Squeeze
+alt_names:
+  en: []
 human_readable_ids:
 - MidBackElbowSqueeze
 primary_muscles:

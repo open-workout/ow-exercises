@@ -1,6 +1,8 @@
 id: '0706'
 slug: side-bridge
 name: Side Bridge
+alt_names:
+  en: []
 human_readable_ids:
 - SideBridge4
 primary_muscles:

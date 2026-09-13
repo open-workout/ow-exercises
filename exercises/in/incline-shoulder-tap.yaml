@@ -1,6 +1,8 @@
 id: '3348'
 slug: incline-shoulder-tap
 name: Incline Shoulder Tap
+alt_names:
+  en: []
 human_readable_ids:
 - InclineShoulderTap
 primary_muscles:

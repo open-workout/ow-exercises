@@ -1,6 +1,8 @@
 id: '1770'
 slug: biceps-leg-concentration-curl
 name: Biceps Leg Concentration Curl
+alt_names:
+  en: []
 human_readable_ids:
 - BicepsLegConcentrationCurl
 primary_muscles:

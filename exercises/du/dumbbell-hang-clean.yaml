@@ -1,6 +1,8 @@
 id: '4449'
 slug: dumbbell-hang-clean
 name: Dumbbell Hang Clean
+alt_names:
+  en: []
 human_readable_ids:
 - DumbbellHangClean
 primary_muscles:

@@ -1,6 +1,8 @@
 id: '1473'
 slug: backward-jump
 name: Backward Jump
+alt_names:
+  en: []
 human_readable_ids:
 - BackwardJump
 primary_muscles:

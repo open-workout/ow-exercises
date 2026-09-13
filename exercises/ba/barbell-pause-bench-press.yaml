@@ -1,6 +1,8 @@
 id: '5013'
 slug: barbell-pause-bench-press
 name: Barbell Pause Bench Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellPauseBenchPress
 primary_muscles:

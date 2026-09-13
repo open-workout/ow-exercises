@@ -1,6 +1,8 @@
 id: '1527'
 slug: barbell-olympic-squat
 name: Barbell Olympic Squat
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellOlympicSquat
 primary_muscles:

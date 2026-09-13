@@ -1,6 +1,8 @@
 id: '2151'
 slug: resistance-band-external-rotation
 name: Resistance Band External Rotation
+alt_names:
+  en: []
 human_readable_ids:
 - ResistanceBandExternalRotation
 primary_muscles:

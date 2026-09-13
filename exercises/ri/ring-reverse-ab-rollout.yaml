@@ -1,6 +1,8 @@
 id: '4820'
 slug: ring-reverse-ab-rollout
 name: Ring Reverse Ab Rollout
+alt_names:
+  en: []
 human_readable_ids:
 - RingReverseAbRollout
 primary_muscles:

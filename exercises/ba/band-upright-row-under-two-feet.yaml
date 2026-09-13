@@ -1,6 +1,8 @@
 id: '1500'
 slug: band-upright-row-under-two-feet
 name: Band Upright Row (Under two feet)
+alt_names:
+  en: []
 human_readable_ids:
 - BandUprightRow
 primary_muscles:

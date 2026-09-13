@@ -1,6 +1,8 @@
 id: '0036'
 slug: barbell-decline-wide-grip-press
 name: Barbell Decline Wide-grip Press
+alt_names:
+  en: []
 human_readable_ids:
 - BarbellDeclineWidegripPress
 primary_muscles:

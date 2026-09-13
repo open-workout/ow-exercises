@@ -1,6 +1,8 @@
 id: '2870'
 slug: swimming
 name: Swimming
+alt_names:
+  en: []
 human_readable_ids:
 - Swimming
 primary_muscles:

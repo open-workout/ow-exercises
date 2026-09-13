@@ -1,6 +1,8 @@
 id: '4669'
 slug: kneeling-hip-thrust
 name: Kneeling Hip Thrust
+alt_names:
+  en: []
 human_readable_ids:
 - KneelingHipThrust
 primary_muscles:
