@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
@@ -18,5 +20,7 @@ jobs:
         run: pip install pyyaml
       - name: Check unique human_readable_ids
         run: python3 scripts/check_unique_human_readable_ids.py
+      - name: Check human_readable_ids were not removed or moved
+        run: python3 scripts/check_human_readable_id_stability.py
       - name: Validate exercise schema
         run: python3 scripts/validate_exercises.py
