@@ -22,6 +22,7 @@ def to_entry(record):
         "csvId": record["id"],
         "name": record["name"],
         "alt_names": record.get("alt_names", {}),
+        "human_readable_ids": record["human_readable_ids"],
         "primary_muscles": record["primary_muscles"],
         "equipment": record["equipment"],
         "canBeDoneInReps": "reps" in modalities,
