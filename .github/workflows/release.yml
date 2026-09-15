@@ -25,6 +25,8 @@ jobs:
           python3 scripts/validate_exercises.py
       - name: Build export bundle
         run: python3 scripts/export_bundle.py dist/exercises-bundle.json
+      - name: Build exercises JSON export
+        run: python3 scripts/export_exercises_json.py dist/exercises.json
       - name: Compute tag name
         id: tag
         run: echo "name=v$(date +'%Y.%m').0" >> "$GITHUB_OUTPUT"
@@ -33,5 +35,7 @@ jobs:
         with:
           tag_name: ${{ steps.tag.outputs.name }}
           name: ${{ steps.tag.outputs.name }}
-          files: dist/exercises-bundle.json
+          files: |
+            dist/exercises-bundle.json
+            dist/exercises.json
           generate_release_notes: true
