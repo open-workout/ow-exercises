@@ -13,5 +13,5 @@ modalities:
 - reps
 - time
 load:
-  required: false
+  required: true
   direction: added
