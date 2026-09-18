@@ -54,6 +54,14 @@ def slugify(name):
     return s
 
 
+def normalize_human_readable_id(hrid):
+    """Human-readable ids must not start with a digit (invalid as a bare
+    identifier in most consumers), so prefix those with an underscore."""
+    if hrid and hrid[0].isdigit():
+        return f"_{hrid}"
+    return hrid
+
+
 def build_modalities(entry):
     modalities = []
     if entry["canBeDoneInReps"]:
@@ -118,7 +126,7 @@ def main():
             "slug": slug,
             "name": entry["name"],
             **extras,
-            "human_readable_ids": [entry["humanReadableId"]],
+            "human_readable_ids": [normalize_human_readable_id(entry["humanReadableId"])],
             "primary_muscles": entry["primaryMuscles"],
             "equipment": entry["equipment"],
             "modalities": build_modalities(entry),

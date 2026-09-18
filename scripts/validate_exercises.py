@@ -56,6 +56,10 @@ def check_record(path, record, valid_muscles, valid_equipment, seen_ids, seen_sl
 
     if not isinstance(record["human_readable_ids"], list) or not record["human_readable_ids"]:
         errors.append(f"{path}: human_readable_ids must be a non-empty list")
+    else:
+        for hrid in record["human_readable_ids"]:
+            if isinstance(hrid, str) and hrid[:1].isdigit():
+                errors.append(f"{path}: human_readable_id {hrid!r} must not begin with a digit")
 
     if not isinstance(record["primary_muscles"], list):
         errors.append(f"{path}: primary_muscles must be a list")
